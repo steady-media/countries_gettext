@@ -1,0 +1,2 @@
+defmodule CountriesGettext do
+end
