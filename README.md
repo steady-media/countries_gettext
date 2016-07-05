@@ -22,3 +22,8 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
     end
     ```
 
+
+## To update the source data:
+  `rm -rf priv/iso-codes`
+  `git clone https://anonscm.debian.org/git/pkg-isocodes/iso-codes.git priv/iso-codes`
+  `rm -rf priv/iso-codes/.git`
