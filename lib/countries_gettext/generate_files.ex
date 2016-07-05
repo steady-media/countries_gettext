@@ -51,7 +51,7 @@ defmodule CountriesGettext.GenerateFiles do
 
 
   defp po_path(output_dir, locale) do
-    Path.join([output_dir, locale, "LC_MESSAGES", "countries.pot"])
+    Path.join([output_dir, locale, "LC_MESSAGES", "countries.po"])
   end
 
   def po_input_json_path(locale) do
