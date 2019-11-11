@@ -1,27 +1,30 @@
-# Translation of ISO-3166 (country names) to Bosnian
-#
+# Translation of ISO 3166-1 to Bosnian
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Free Software Foundation, Inc., 2001,2003
-#   Vedran Ljubovic <vljubovic@smartnet.ba>, 2001
-#   (translations from drakfw).
-#   Alastair McKinstry <mckinstry@computer.org>, 2001.
-#   Safir Šećerović <sapphire@linux.org.ba>, 2004,2006.
-#
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
+# Vedran Ljubovic <vljubovic@smartnet.ba>, 2001.
+# Safir Šećerović <sapphire@linux.org.ba>, 2004, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2011-06-18 21:41+0100\n"
-"Last-Translator: Armin Besirovic <armin@linux.org.ba>\n"
-"Language-Team: Bosnian <lokal@linux.org.ba>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2017-12-28 21:49+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Bosnian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/bs/>\n"
 "Language: bs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -399,6 +402,10 @@ msgid "Republic of Cyprus"
 msgstr "Republika Kipar"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Češka Republika"
 
@@ -427,6 +434,7 @@ msgid "Commonwealth of Dominica"
 msgstr "Komonvelt Dominike"
 
 #. Name for DNK
+#, fuzzy
 msgid "Denmark"
 msgstr "Njemačka"
 
@@ -593,9 +601,9 @@ msgstr "Gambija"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Republika Gambija"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Republika Zambija"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -986,12 +994,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republika Maršalska Ostrva"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Republika Makedonija"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Nova Kaledonija"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Bivša Jugoslovenska Republika Makedonija"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Republika Litvanija"
 
 #. Name for MLI
 msgid "Mali"
@@ -1394,9 +1406,8 @@ msgid "Republic of Serbia"
 msgstr "Republika Srbija"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "Republika Sudan"
+msgstr "Južni Sudan"
 
 #. Official name for SSD
 #, fuzzy
@@ -1444,12 +1455,14 @@ msgid "Kingdom of Sweden"
 msgstr "Kraljevina Švedska"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Svazilend"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Kraljevina Svazilend"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Kraljevina Španija"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1573,7 +1586,7 @@ msgstr "Ujedinjena Republika Tanzanija"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzanija"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1658,6 +1671,12 @@ msgstr "Vijetnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Socijalistička Republika Vijetnam"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "Vijetnam"
 
 #. Name for VUT
 msgid "Vanuatu"

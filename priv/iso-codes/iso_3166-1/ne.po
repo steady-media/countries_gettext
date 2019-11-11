@@ -1,17 +1,18 @@
-# Translation of ISO-3166 (country names) to Nepali
-#
+# Translation of ISO 3166-1 to Nepali
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#
-#   Shyam Krishna Bal <shyamkrishna_bal@yahoo.com>, 2006.
+# .
+# Copyright ©
+# Shyam Krishna Bal <shyamkrishna_bal@yahoo.com>, 2006.
 # Shiva Prasad Pokharel <pokharelshiva@hotmail.com>, 2006, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: ne_merge\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2011-02-22 16:39-0600\n"
 "Last-Translator: Shiva Prasad Pokharel <pokharelshiva@hotmail.com>\n"
 "Language-Team: Nepali <info@mpp.org.np>\n"
@@ -56,7 +57,7 @@ msgstr "अल्बानिया"
 
 #. Official name for ALB
 msgid "Republic of Albania"
-msgstr "अल्बानिया गणराज्य "
+msgstr "अल्बानिया गणराज्य"
 
 #. Name for AND
 msgid "Andorra"
@@ -144,7 +145,7 @@ msgstr "बेनिन"
 
 #. Official name for BEN
 msgid "Republic of Benin"
-msgstr "बेनिन गणराज्य "
+msgstr "बेनिन गणराज्य"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
@@ -395,6 +396,10 @@ msgid "Republic of Cyprus"
 msgstr "साइप्रसको गणराज्य"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Czech गणराज्य"
 
@@ -590,9 +595,9 @@ msgstr "गाम्बीया"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "गाम्बीयाको गणराज्य"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "जाम्बियाको गणराज्य"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -808,7 +813,7 @@ msgstr "क्याम्बोडिया"
 
 #. Official name for KHM
 msgid "Kingdom of Cambodia"
-msgstr "क्याम्बोडियाको अधिराज्य "
+msgstr "क्याम्बोडियाको अधिराज्य"
 
 #. Name for KIR
 msgid "Kiribati"
@@ -983,12 +988,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "मार्सल टापुको गणराज्य"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "मसेडोनियाको गणराज्य"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "नयाँ क्यालेदोनिया"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "मसेडोनियाको अघिल्लो युगोस्लाभ गणराज्य"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "लिथुआनियाको गणराज्य"
 
 #. Name for MLI
 msgid "Mali"
@@ -1441,12 +1450,14 @@ msgid "Kingdom of Sweden"
 msgstr "स्विडेनको अधिराज्य"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "स्वजिल्याण्ड"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "स्वजिल्याण्डको अधिराज्य"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "स्पेनको अधिराज्य"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1622,7 +1633,7 @@ msgstr "सेन्ट भिन्सेन्ट र ग्रेनडिन
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
-msgstr "गणराज्य, वेनेजुएला बोलिभेरियन "
+msgstr "गणराज्य, वेनेजुएला बोलिभेरियन"
 
 #. Official name for VEN
 msgid "Bolivarian Republic of Venezuela"
@@ -1655,6 +1666,12 @@ msgstr "भिएतनाम"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "भिएतनामको समाजवादी गणराज्य"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "भिएतनाम"
 
 #. Name for VUT
 msgid "Vanuatu"

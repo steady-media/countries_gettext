@@ -1,19 +1,17 @@
-# Translation of ISO 15924 (script names) to Slovenian
-#
+# Translation of ISO 15924 to Slovenian
+# Codes for the representation of names of scripts
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Tobias Toedter <t.toedter@gmx.net>, 2007.
-#     Translations taken from ICU SVN on 2007-09-09
-#   Primož Peterlin <primozz.peterlin@gmail.com>, 2007, 2008, 2009.
-#
-# $Id: iso_15924-3.9.sl.po 1.2 2009/05/09 22:01:44 Primoz Exp $
+# .
+# Copyright ©
+# Dr. Tobias Quathamer <toddy@debian.org>, 2007.
+# Primož Peterlin <primozz.peterlin@gmail.com>, 2007-2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2009-05-10 00:01+0200\n"
 "Last-Translator: Primož Peterlin <primozz.peterlin@gmail.com>\n"
 "Language-Team: Slovenian <translation-team-sl@lists.sourceforge.net>\n"

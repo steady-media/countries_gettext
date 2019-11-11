@@ -1,36 +1,40 @@
-# Danish translation of the iso_639 package.
-# Copyright (C) 2013 Free Software Foundation, Inc.
+# Translation of ISO 639-2 to Danish
+# Codes for the representation of names of languages
+# Part 2: Alpha-3 code
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
+# Notes:
 # Many of these iso--639 translations were adopted from the state library department:
 # http://www.kat-format.dk/danMARC2/Danmarc2.a8.htm
-#
+# .
 # Sprognavne er på dansk med lille begyndelsesbogstav
-#
-#  Free Software Foundation, 2000, 2004, 2005.
-#  Kenneth Christiansen <kenneth@gnu.org>, 2000.
-#  Keld Simonsen <keld@dkuug.dk>, 2000, 2001, 2008.
-#  Ole Laursen <olau@hardworking.dk>, 2001.
-#  Alastair McKinstry <mckinstry@computer.org>, 2001.
-#  Claus Hindsgaul <claus_h@image.dk>, 2004, 2005, 2006.
-#  Frederik 'Freso' S. Olesen <freso.dk@gmail.com>, 2008.
-#  Keld Simonsen <keld@keldix.com>, 2010.
-#  Joe Hansen <joedalton2@yahoo.dk>, 2013.
+# .
+# Copyright ©
+# Kenneth Christiansen <kenneth@gnu.org>, 2000.
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
+# Ole Laursen <olau@hardworking.dk>, 2001.
+# Claus Hindsgaul <claus_h@image.dk>, 2004-2006.
+# Frederik 'Freso' S. Olesen <freso.dk@gmail.com>, 2008.
+# Keld Simonsen <keld@keldix.com>, 2000-2001, 2008, 2010.
+# Joe Hansen <joedalton2@yahoo.dk>, 2013.
+# scootergrisen <scootergrisen@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2013-07-07 15:58+0200\n"
-"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>\n"
-"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-03-06 12:57+0000\n"
+"Last-Translator: scootergrisen <scootergrisen@gmail.com>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
-"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.5\n"
 
 #. Name for aar
 msgid "Afar"
@@ -147,7 +151,7 @@ msgstr "assamesisk"
 # http://en.wikipedia.org/wiki/Asturleonese_language
 #. Name for ast
 msgid "Asturian; Bable; Leonese; Asturleonese"
-msgstr "asturiansk; llionsk; "
+msgstr "asturiansk; llionsk"
 
 #. Name for ath
 msgid "Athapascan languages"
@@ -259,7 +263,7 @@ msgstr "siksika"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "bantu (andet)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -417,7 +421,7 @@ msgstr "cree"
 
 #. Name for crh
 msgid "Crimean Tatar; Crimean Turkish"
-msgstr "Krim-tatarisk; Krim-tyrkisk"
+msgstr "krim-tatarisk; krim-tyrkisk"
 
 #. Name for crp
 msgid "Creoles and pidgins"
@@ -650,11 +654,11 @@ msgstr "gilbertansk"
 
 #. Name for gla
 msgid "Gaelic; Scottish Gaelic"
-msgstr "gælisk; Skotsk gælisk; Gælisk (skotsk)"
+msgstr "gælisk; skotsk gælisk; gælisk (skotsk)"
 
 #. Name for gle
 msgid "Irish"
-msgstr "irsk; Gælisk (irsk)"
+msgstr "irsk; gælisk (irsk)"
 
 #. Name for glg
 msgid "Galician"
@@ -816,7 +820,7 @@ msgstr "interlingua"
 
 #. Name for inc
 msgid "Indic languages"
-msgstr "Indiske sprog"
+msgstr "indiske sprog"
 
 #. Name for ind
 msgid "Indonesian"
@@ -824,7 +828,7 @@ msgstr "indonesisk"
 
 #. Name for ine
 msgid "Indo-European languages"
-msgstr "Indoeuropæiske sprog"
+msgstr "indoeuropæiske sprog"
 
 #. Name for inh
 msgid "Ingush"
@@ -836,7 +840,7 @@ msgstr "inupiaq"
 
 #. Name for ira
 msgid "Iranian languages"
-msgstr "Iranske sprog"
+msgstr "iranske sprog"
 
 #. Name for iro
 msgid "Iroquoian languages"
@@ -935,8 +939,6 @@ msgid "Central Khmer"
 msgstr "central khmer"
 
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
 msgstr "khotanesisk; sakan"
 
@@ -1285,7 +1287,7 @@ msgstr "nepalesisk"
 
 #. Name for new
 msgid "Nepal Bhasa; Newari"
-msgstr "Nepalesisk bhasa; "
+msgstr "nepalesisk bhasa"
 
 #. Name for nia
 msgid "Nias"
@@ -1361,10 +1363,8 @@ msgid "Nzima"
 msgstr "nzima"
 
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "occitansk (efter 1500)"
+msgstr "occitansk (efter 1500); provencalsk"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1396,7 +1396,7 @@ msgstr "otomi sprog"
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr "Papuanske sprog"
+msgstr "papuanske sprog"
 
 #. Name for pag
 msgid "Pangasinan"
@@ -1428,7 +1428,7 @@ msgstr "oldpersisk (ca. 600-400 f.Kr.)"
 
 #. Name for phi
 msgid "Philippine languages"
-msgstr "Filippinske sprog"
+msgstr "filippinske sprog"
 
 #. Name for phn
 msgid "Phoenician"
@@ -1455,10 +1455,8 @@ msgid "Prakrit languages"
 msgstr "prakrit sprog"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "provençalsk, gammelt (indtil 1500); occitansk, gammelt (indtil 1500)"
+msgstr "provençalsk, gammelt (indtil 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1487,7 +1485,7 @@ msgstr "rarotongask; Cook Islands maori"
 # http://da.wikipedia.org/wiki/Romanske_sprog
 #. Name for roa
 msgid "Romance languages"
-msgstr "Romanske sprog"
+msgstr "romanske sprog"
 
 #. Name for roh
 msgid "Romansh"
@@ -1498,10 +1496,8 @@ msgid "Romany"
 msgstr "romani"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "moldavisk"
+msgstr "rumænsk; moldavisk; moldovisk"
 
 #. Name for run
 msgid "Rundi"
@@ -1529,10 +1525,8 @@ msgid "Yakut"
 msgstr "yakut"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "sydamerikanske indianske sprog"
+msgstr "sydamerikanske indianske (andet)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1588,13 +1582,13 @@ msgstr "sidamo"
 
 # ... foreslår "sinhala (tidligere sinala); singalesisk (tidligere sinhalesisk)" (bemærk to rettelsesforslag)
 # Vedr. "sinala":
-# Her giver Google-søgning på »site:dk "sinala"« returnerer 9 resultater (401 inkl. udeladte resultater). 
+# Her giver Google-søgning på »site:dk "sinala"« returnerer 9 resultater (401 inkl. udeladte resultater).
 # Jeg finder ikke officielle kilder som anvender sinhala, men ser det hyppigt anvendt i praksis.
 # Vedr." singalesisk":
 # I Biblioteksstyrelsens sprogkoder* (http://www.kat-format.dk/danMARC2/Danmarc2.a8.htm) anvendes der
-# singalesisk. 
+# singalesisk.
 # Gyldendals Den Store Danske bruger "singalesisk" i artikel om sprog:
-# http://www.denstoredanske.dk/Sprog,_religion_og_filosofi/Sprog/Alle_lande_-_sprogoversigt/Sri_Lanka_(Sprog)?highlight=singalesisk 
+# http://www.denstoredanske.dk/Sprog,_religion_og_filosofi/Sprog/Alle_lande_-_sprogoversigt/Sri_Lanka_(Sprog)?highlight=singalesisk
 # ... og "sinhalesisk-buddhistiske" i anden sammenhæng.
 #. Name for sin
 msgid "Sinhala; Sinhalese"
@@ -1856,11 +1850,11 @@ msgstr "tyrkisk"
 # (omfatter tyrkisk, mongolsk, tungusisk)
 #. Name for tut
 msgid "Altaic languages"
-msgstr "Altaiske sprog"
+msgstr "altaiske sprog"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "tuvaluansk"
+msgstr "Tuvalu"
 
 #. Name for twi
 msgid "Twi"
@@ -1928,7 +1922,7 @@ msgstr "wakashan sprog"
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "walamo"
 
 #. Name for war
 msgid "Waray"
@@ -1990,7 +1984,7 @@ msgstr "blissymboler; bliss"
 msgid "Zenaga"
 msgstr "zenaga"
 
-# Standard Moroccan Tamazight is the national standardized register of Berber established 
+# Standard Moroccan Tamazight is the national standardized register of Berber established
 # in accordance with Article 5 of the 2011 amendments to the Moroccan Constitution.
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
@@ -2018,7 +2012,7 @@ msgstr "zuni"
 
 #. Name for zxx
 msgid "No linguistic content; Not applicable"
-msgstr "Intet sprogligt indhold, Ikke anvendeligt"
+msgstr "intet sprogligt indhold, ikke anvendeligt"
 
 #. Name for zza
 msgid "Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki"

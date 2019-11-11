@@ -1,24 +1,28 @@
-# Translation of ISO-3166 (country names) to Albanian
-#
+# Translation of ISO 3166-1 to Albanian
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Alastair McKinstry <mckinstry@debian.org>, 2004
-#   Elian Myftiu <elian.myftiu@gmail.com>, 2004,2006.
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+# Elian Myftiu <elian.myftiu@gmail.com>, 2004, 2006.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2008-05-05 20:13+0200\n"
-"Last-Translator: Elian Myftiu <elian.myftiu@gmail.com>\n"
-"Language-Team: Debian L10n Albanian <debian-l10n-albanian@lists.debian.org>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2017-12-25 21:47+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Albanian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/sq/>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n>1;\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -393,6 +397,10 @@ msgid "Republic of Cyprus"
 msgstr "Republika e Qipros"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Republika Çeke"
 
@@ -461,9 +469,8 @@ msgid "Eritrea"
 msgstr "Eritrea"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "Shtetet e Bashkuara të Amerikës"
+msgstr ""
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -508,7 +515,7 @@ msgstr "Fixhi"
 #. Official name for FJI
 #, fuzzy
 msgid "Republic of Fiji"
-msgstr "Republika e Haitit"
+msgstr "Republika e Fixhi"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -588,9 +595,9 @@ msgstr "Gambia"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Republika e Gambias"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Republika e Zambias"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -853,9 +860,8 @@ msgid "Republic of Liberia"
 msgstr "Republika e Liberisë"
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "Liberia"
+msgstr "Libia"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -940,7 +946,7 @@ msgstr "Principati i Monakos"
 #. Name for MDA
 #, fuzzy
 msgid "Moldova, Republic of"
-msgstr "Maqedonisë, Republika"
+msgstr "Moldavia, Republika"
 
 #. Official name for MDA
 msgid "Republic of Moldova"
@@ -983,12 +989,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republika e Ishujve Marshall"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Maqedonisë, Republika"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Kaledonia e Re"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Ish Republika Jugosllave e Maqedonisë"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Republika e Lituanisë"
 
 #. Name for MLI
 msgid "Mali"
@@ -1013,7 +1023,7 @@ msgstr "Birmania"
 #. Official name for MMR
 #, fuzzy
 msgid "Republic of Myanmar"
-msgstr "Republika e Guajanës"
+msgstr "Republika e Birmania"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1146,7 +1156,7 @@ msgstr "Nepali"
 #. Official name for NPL
 #, fuzzy
 msgid "Federal Democratic Republic of Nepal"
-msgstr "Republika Federal Demokratike e Etiopisë"
+msgstr "Republika Federal Demokratike e Nepali"
 
 #. Name for NRU
 msgid "Nauru"
@@ -1219,7 +1229,7 @@ msgstr "Guinea e Re Papua"
 #. Official name for PNG
 #, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Shteti i Pavarur i Samoas"
+msgstr "Shteti i Pavarur i Papua Guinea e Re"
 
 #. Name for POL
 msgid "Poland"
@@ -1264,7 +1274,7 @@ msgstr ""
 #. Official name for PSE
 #, fuzzy
 msgid "the State of Palestine"
-msgstr "Shtetet e Bashkuara të Amerikës"
+msgstr "Shtetet e Palestina"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1377,7 +1387,7 @@ msgstr "Somalia"
 #. Official name for SOM
 #, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Republika Federale Gjermane"
+msgstr "Republika Federale e Somalia"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1399,7 +1409,7 @@ msgstr "Republika e Sudanit"
 #. Official name for SSD
 #, fuzzy
 msgid "Republic of South Sudan"
-msgstr "Republika e Sudanit"
+msgstr "Republika e Sudani i Jugut"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1442,12 +1452,14 @@ msgid "Kingdom of Sweden"
 msgstr "Mbretëria e Suedisë"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Svaziland"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Mbretëria e Svazilandit"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Mbretëria e Spanjës"
 
 #. Name for SXM, Official name for SXM
 #, fuzzy
@@ -1658,6 +1670,12 @@ msgstr "Vjet Nam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Republika Socialiste e Vietnamit"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "Vjet Nam"
 
 #. Name for VUT
 msgid "Vanuatu"

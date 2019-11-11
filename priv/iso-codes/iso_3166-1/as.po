@@ -1,15 +1,17 @@
-# Translation of ISO 3166 (country names) to Assamese
-#
+# Translation of ISO 3166-1 to Assamese
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Amitakhya Phukan <aphukan@fedoraproject.org>, 2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2010-04-05 17:41+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -58,11 +60,11 @@ msgstr "আলবেনিয়াৰ প্ৰজাতন্ত্ৰ"
 
 #. Name for AND
 msgid "Andorra"
-msgstr "এণ্ডোৰা   "
+msgstr "এণ্ডোৰা"
 
 #. Official name for AND
 msgid "Principality of Andorra"
-msgstr "প্ৰিঞ্চিপালিটি অফ এণ্ডোৰা   "
+msgstr "প্ৰিঞ্চিপালিটি অফ এণ্ডোৰা"
 
 #. Name for ARE
 msgid "United Arab Emirates"
@@ -234,7 +236,7 @@ msgstr "প্ৰজাতন্ত্ৰী যুক্তৰাষ্ট্�
 
 #. Name for BRB
 msgid "Barbados"
-msgstr "বাৰ্বাডোছ "
+msgstr "বাৰ্বাডোছ"
 
 #. Name for BRN
 msgid "Brunei Darussalam"
@@ -274,7 +276,7 @@ msgstr "কোকোচ (কিলিং) দ্বীপ"
 
 #. Name for CHE
 msgid "Switzerland"
-msgstr "ছুইজাৰলেণ্ড "
+msgstr "ছুইজাৰলেণ্ড"
 
 #. Official name for CHE
 msgid "Swiss Confederation"
@@ -306,7 +308,7 @@ msgstr "আইভৰি কোস্ট প্ৰজাতন্ত্ৰ"
 
 #. Name for CMR
 msgid "Cameroon"
-msgstr "কেমেৰুণ "
+msgstr "কেমেৰুণ"
 
 #. Official name for CMR
 msgid "Republic of Cameroon"
@@ -393,6 +395,10 @@ msgid "Republic of Cyprus"
 msgstr "ছাইপ্ৰাছ প্ৰজাতন্ত্ৰ"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "চেক প্ৰজাতন্ত্ৰৰ"
 
@@ -434,7 +440,7 @@ msgstr "ডোমিনিকান প্ৰজান্ত্ৰ্ৰ"
 
 #. Name for DZA
 msgid "Algeria"
-msgstr "আলজেৰিযা "
+msgstr "আলজেৰিযা"
 
 #. Official name for DZA
 msgid "People's Democratic Republic of Algeria"
@@ -516,7 +522,7 @@ msgstr "ফাকলেণ্ড দ্বীপ (মাল্‌ভিনাছ
 
 #. Name for FRA
 msgid "France"
-msgstr "ফ্ইচ্‌লামিকান্স "
+msgstr "ফ্ইচ্‌লামিকান্স"
 
 #. Official name for FRA
 msgid "French Republic"
@@ -588,9 +594,9 @@ msgstr "গাম্বিয়া"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "গাম্বিয়া প্ৰজাতন্ত্ৰ"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "জাম্বিয়া প্ৰজাতন্ত্ৰ"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -981,12 +987,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "মাৰ্শ্বেল দ্বীপপুঞ্জ প্ৰজাতন্ত্ৰ"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "মেচিডোনিয়া প্ৰজাতন্ত্ৰ"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "নিউ কেলেডনিয়া"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "পূৰ্ববৰ্তী যুগোস্লাভ প্ৰজাতন্ত্ৰ মেচিডোনিয়া"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "লিথুৱানিয়া প্ৰজাতন্ত্ৰ"
 
 #. Name for MLI
 msgid "Mali"
@@ -1439,12 +1449,14 @@ msgid "Kingdom of Sweden"
 msgstr "ছুইডেন ৰাজ্য"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "স্বাজিলেণ্ড"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "স্বাজিলেণ্ড ৰাজ্য"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "স্পেইন ৰাজ্য"
 
 #. Name for SXM, Official name for SXM
 #, fuzzy
@@ -1654,6 +1666,12 @@ msgstr "ভিয়েতনাম"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "সমাজতান্ত্ৰিক প্ৰজাতন্ত্ৰ ভিয়েতনাম"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "ভিয়েতনাম"
 
 #. Name for VUT
 msgid "Vanuatu"

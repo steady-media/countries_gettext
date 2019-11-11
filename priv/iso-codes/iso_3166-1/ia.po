@@ -1,24 +1,28 @@
-# Translation of ISO 3166 (country names) to Interlingua
-#
+# Translation of ISO 3166-1 to Interlingua (International Auxiliary Language Association)
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Nik Kalach <nik.kalach@inbox.ru>, 2013.
-#
+# Giovanni Sora <g.sora@tiscali.it>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2013-08-04 21:05+0400\n"
-"Last-Translator: Nik Kalach <nik.kalach@inbox.ru>\n"
-"Language-Team: Interlingua <translation-team-ia@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-06-20 21:01+0000\n"
+"Last-Translator: Giovanni Sora <g.sora@tiscali.it>\n"
+"Language-Team: Interlingua <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/ia/>\n"
 "Language: ia\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.7\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -345,14 +349,10 @@ msgid "Union of the Comoros"
 msgstr "Union del Comores"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Capo Verde"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Republica de Capo Verde"
 
@@ -393,6 +393,10 @@ msgid "Republic of Cyprus"
 msgstr "Republica de Cypro"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "Cechia"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Republica Chec"
 
@@ -585,10 +589,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Republica del Gambia"
+msgid "Republic of the Gambia"
+msgstr "Republica de Gambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -979,12 +981,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republica del Insulas Marshall"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Macedonia, Republica de"
+msgid "North Macedonia"
+msgstr "Macedonia del Nord"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Ex-Republica Yugoslave de Macedonia"
+msgid "Republic of North Macedonia"
+msgstr "Republica de Macedonia del Nord"
 
 #. Name for MLI
 msgid "Mali"
@@ -1431,12 +1433,12 @@ msgid "Kingdom of Sweden"
 msgstr "Regno de Svedia"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swaziland"
+msgid "Eswatini"
+msgstr "Eswatini"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Regno de Swaziland"
+msgid "Kingdom of Eswatini"
+msgstr "Regno de Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1560,7 +1562,7 @@ msgstr "Republica Unite de Tanzania"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzania"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1645,6 +1647,10 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Republica Socialista de Vietnam"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

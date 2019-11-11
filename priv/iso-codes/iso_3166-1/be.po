@@ -1,23 +1,31 @@
-# Translation of ISO-3166 (country names) to Belarusian
+# Translation of ISO 3166-1 to Belarusian
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2007, 2010-2013.
 # Viktar Siarheichyk <vics@fsfe.org>, 2015.
+# Viktar Vauchkevich <victorenator@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2015-06-19 15:59+0300\n"
-"Last-Translator: Viktar Siarheichyk <vics@fsfe.org>\n"
-"Language-Team: Debian l10n team for Belarusian <debian-l10n-belarusian@lists."
-"debian.org>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-04-03 21:04+0000\n"
+"Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
+"Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/be/>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Virtaal 0.7.1\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -45,7 +53,7 @@ msgstr "Ангілья"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr "Астравы Аланд"
+msgstr "Аландскія астравы"
 
 #. Name for ALB
 msgid "Albania"
@@ -233,7 +241,7 @@ msgstr "Федэратыўная Рэспубліка Бразілія"
 
 #. Name for BRB
 msgid "Barbados"
-msgstr "Барбадос"
+msgstr "Барбадас"
 
 #. Name for BRN
 msgid "Brunei Darussalam"
@@ -249,7 +257,7 @@ msgstr "Каралеўства Бутан"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr "Востраў Буве"
+msgstr "Востраў Бувэ"
 
 #. Name for BWA
 msgid "Botswana"
@@ -344,14 +352,10 @@ msgid "Union of the Comoros"
 msgstr "Саюз Каморскіх Астравоў"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Каба-Вердэ"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Рэспубліка Каба-Вердэ"
 
@@ -381,7 +385,7 @@ msgstr "Востраў Раства"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "Кайманскія астравы"
+msgstr "Кайманавы астравы"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -392,6 +396,10 @@ msgid "Republic of Cyprus"
 msgstr "Рэспубліка Кіпр"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "Чэхія"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Чэшская Рэспубліка"
 
@@ -584,9 +592,7 @@ msgid "Gambia"
 msgstr "Гамбія"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "Рэспубліка Гамбія"
 
 #. Name for GNB
@@ -763,7 +769,7 @@ msgstr "Джэрсі"
 
 #. Name for JOR
 msgid "Jordan"
-msgstr "Іярданія"
+msgstr "Іарданія"
 
 #. Official name for JOR
 msgid "Hashemite Kingdom of Jordan"
@@ -799,7 +805,7 @@ msgstr "Кыргызская Рэспубліка"
 
 #. Name for KHM
 msgid "Cambodia"
-msgstr "Камбоджыя"
+msgstr "Камбоджа"
 
 #. Official name for KHM
 msgid "Kingdom of Cambodia"
@@ -978,12 +984,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Рэспубліка Маршалавы Астравы"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Македонія, Рэспубліка"
+msgid "North Macedonia"
+msgstr "Паўночная Македонія"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Былая Югаслаўская Рэспубліка Македонія"
+msgid "Republic of North Macedonia"
+msgstr "Рэспубліка Паўночная Македонія"
 
 #. Name for MLI
 msgid "Mali"
@@ -1143,7 +1149,7 @@ msgstr "Федэратыўная Дэмакратычная Рэспубліка
 
 #. Name for NRU
 msgid "Nauru"
-msgstr "Науру"
+msgstr "науру"
 
 #. Official name for NRU
 msgid "Republic of Nauru"
@@ -1339,7 +1345,7 @@ msgstr "Саламонавы Астравы"
 
 #. Name for SLE
 msgid "Sierra Leone"
-msgstr "Сьера-Леоне"
+msgstr "Сьера-Леонэ"
 
 #. Official name for SLE
 msgid "Republic of Sierra Leone"
@@ -1355,7 +1361,7 @@ msgstr "Рэспубліка Эль-Сальвадор"
 
 #. Name for SMR
 msgid "San Marino"
-msgstr "Сам-Марына"
+msgstr "Сан-Марына"
 
 #. Official name for SMR
 msgid "Republic of San Marino"
@@ -1430,12 +1436,12 @@ msgid "Kingdom of Sweden"
 msgstr "Каралеўства Швецыя"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Свазіленд"
+msgid "Eswatini"
+msgstr "Эсваціні"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Каралеўства Свазіленд"
+msgid "Kingdom of Eswatini"
+msgstr "Каралеўства Эсваціні"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1491,7 +1497,7 @@ msgstr "Рэспубліка Таджыкістан"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "Такелау"
+msgstr "такелау"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1539,7 +1545,7 @@ msgstr "Рэспубліка Турцыя"
 
 #. Name for TUV
 msgid "Tuvalu"
-msgstr "Тувалу"
+msgstr "тувалу"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
@@ -1627,7 +1633,7 @@ msgstr "Віргінскія астравы Вялікабрытаніі"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "Віргінскія астравы Вялікабрытаніі"
+msgstr "Брытанскія Віргінскія астравы"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
@@ -1644,6 +1650,10 @@ msgstr "В'етнам"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Сацыялістычная Рэспубліка В'етнам"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "В'етнам"
 
 #. Name for VUT
 msgid "Vanuatu"
@@ -1691,7 +1701,7 @@ msgstr "Рэспубліка Замбія"
 
 #. Name for ZWE
 msgid "Zimbabwe"
-msgstr "Зімбабве"
+msgstr "Зімбабвэ"
 
 #. Official name for ZWE
 msgid "Republic of Zimbabwe"

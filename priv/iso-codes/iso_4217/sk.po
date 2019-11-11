@@ -1,23 +1,26 @@
-# Translation of ISO 4217 (currency names) to Slovak
-# Copyright © various authors, see list below.
+# Translation of ISO 4217 to Slovak
+# Codes for the representation of currencies
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
+# Notes:
 # Source:
 # Číselník krajín, peňažných mien a fondov (FC)
 # valid since: 01.07.2007
 # URL: http://www.nbs.sk/BANKY/AP0001/ISO.XLS
 # their source as given: ISO 3166-1: 1997 (E/F), 5th edition, ISO 4217: 2001
-#
-# Bobo Rajec, 1999.
-# Stanislav Visnovsky, 2000, 2001, 2004.
-# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# .
+# Copyright ©
+# Bobo Rajec <bobo@bobo.bspc.sk>, 1999.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Stanislav Visnovsky <visnovsky@kde.org>, 2000-2001, 2004.
 # Ivan Masár <helix84@centrum.sk>, 2007.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2007-08-07 03:33+0100\n"
 "Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
 "Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
@@ -126,7 +129,7 @@ msgstr "ngultrum"
 msgid "Pula"
 msgstr ""
 
-#. Name for BYR
+#. Name for BYN
 #, fuzzy
 msgid "Belarusian Ruble"
 msgstr "bieloruský rubeľ"

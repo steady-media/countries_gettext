@@ -1,23 +1,24 @@
-# translation of iso-codes_iso_3166_hi.po to Hindi
-# Translation of ISO-3166 (country names) to Hindi
-#
+# Translation of ISO 3166-1 to Hindi
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
+# .
+# Notes:
 #   Data taken from ICU-2.8; originally from:
 #   - Shehnaz Nagpurwala and Anwar Nagpurwala [first version]
 #   - IBM NLTC:  http://w3.torolab.ibm.com/gcoc/documents/india/hi-nlsgg.htm
 #   - Arundhati Bhowmick [IBM Cupertino]
-#
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Kumar Appaiah <a.kumar@alumni.iitm.ac.in>, 2008.
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Kumar Appaiah <kumar.appaiah@gmail.com>, 2008, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2013-02-12 08:02-0600\n"
 "Last-Translator: Kumar Appaiah\n"
 "Language-Team: American English <kde-i18n-doc@kde.org>\n"
@@ -224,7 +225,7 @@ msgstr "बर्मूडा"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr "बोलिविया, प्लॊरिनेशनल स्टेट ऑफ़ "
+msgstr "बोलिविया, प्लॊरिनेशनल स्टेट ऑफ़"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
@@ -404,6 +405,10 @@ msgid "Republic of Cyprus"
 msgstr "रिपब्लिक ऑफ साइप्रस"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "चेक रिपब्लिक"
 
@@ -598,9 +603,9 @@ msgstr "गाम्बिया"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "रिपब्लिक ऑफ द गाम्बिया"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "रिपब्लिक ऑफ ज़ाम्बिया"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -992,12 +997,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "रिपब्लिक ऑफ द मार्शल आइलैंड्स"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "मैकेडोनिया, रिपब्लिक ऑफ"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "न्यू कैलेडोनिया"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "द फॉर्मर युगोस्लाव रिपब्लिक ऑफ मैकेडोनिया"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "रिपब्लिक ऑफ लिथुआनिया"
 
 #. Name for MLI
 msgid "Mali"
@@ -1446,12 +1455,14 @@ msgid "Kingdom of Sweden"
 msgstr "किंगडम ऑफ स्वीडन"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "स्वाज़ीलैंड"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "किंगडम ऑफ स्वाज़ीलैन्ड"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "किंगडम ऑफ स्पेन"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1660,6 +1671,12 @@ msgstr "वियतनाम"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "सोशलिस्ट रिपब्लिक ऑफ वियतनाम"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "वियतनाम"
 
 #. Name for VUT
 msgid "Vanuatu"

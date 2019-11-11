@@ -1,30 +1,32 @@
-# Translation of ISO-3166 (country names) to Simplified Chinese
-#
+# Translation of ISO 3166-1 to Simplified Chinese
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Free Software Foundation, Inc., 2002, 2003, 2007, 2008.
-#   Alastair McKinstry <mckinstry@computer.org>, 2002.
-#   Translations taken from KDE:
-#   - Wang Jian <lark@linux.net.cn>, 2000.
-#   - Carlos Z.F. Liu <carlosliu@users.sourceforge.net>, 2004 - 2006.
-#   LI Daobing <lidaobing@gmail.com>, 2007, 2008, 2009, 2010, 2011, 2013.
+# .
+# Copyright ©
+# Wang Jian <lark@linux.net.cn>, 2000.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Carlos Z.F. Liu <carlosliu@users.sourceforge.net>, 2004-2006.
 # YunQiang Su <wzssyqa@gmail.com>, 2011.
-#
+# LI Daobing <lidaobing@gmail.com>, 2007-2011, 2013, 2019.
+# Boyuan Yang <073plan@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2013-09-28 16:17+0800\n"
-"Last-Translator: LI Daobing <lidaobing@gmail.com>\n"
-"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-03-21 16:03+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.6-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -351,14 +353,10 @@ msgid "Union of the Comoros"
 msgstr "科摩罗联邦"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "佛得角"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "佛得角共和国"
 
@@ -399,6 +397,10 @@ msgid "Republic of Cyprus"
 msgstr "塞浦路斯共和国"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "捷克"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "捷克"
 
@@ -591,9 +593,7 @@ msgid "Gambia"
 msgstr "冈比亚"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "冈比亚共和国"
 
 #. Name for GNB
@@ -985,12 +985,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "马绍尔群岛共和国"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "马其顿"
+msgid "North Macedonia"
+msgstr "北马其顿"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "前南斯拉夫的马其顿共和国"
+msgid "Republic of North Macedonia"
+msgstr "北马其顿共和国"
 
 #. Name for MLI
 msgid "Mali"
@@ -1437,11 +1437,11 @@ msgid "Kingdom of Sweden"
 msgstr "瑞典王国"
 
 #. Name for SWZ
-msgid "Swaziland"
+msgid "Eswatini"
 msgstr "斯威士兰"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
+msgid "Kingdom of Eswatini"
 msgstr "斯威士兰王国"
 
 #. Name for SXM, Official name for SXM
@@ -1566,7 +1566,7 @@ msgstr "坦桑尼亚联合共和国"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "坦桑尼亚"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1651,6 +1651,10 @@ msgstr "越南"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "越南社会主义共和国"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "越南"
 
 #. Name for VUT
 msgid "Vanuatu"

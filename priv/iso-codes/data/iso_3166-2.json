@@ -3759,174 +3759,174 @@
       "type": "Province"
     },
     {
-      "code": "CN-11",
-      "name": "Beijing",
+      "code": "CN-AH",
+      "name": "Anhui Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-BJ",
+      "name": "Beijing Shi",
       "type": "Municipality"
     },
     {
-      "code": "CN-12",
-      "name": "Tianjin",
+      "code": "CN-CQ",
+      "name": "Chongqing Shi",
       "type": "Municipality"
     },
     {
-      "code": "CN-13",
-      "name": "Hebei",
+      "code": "CN-FJ",
+      "name": "Fujian Sheng",
       "type": "Province"
     },
     {
-      "code": "CN-14",
-      "name": "Shanxi",
+      "code": "CN-GD",
+      "name": "Guangdong Sheng",
       "type": "Province"
     },
     {
-      "code": "CN-15",
-      "name": "Nei Mongol",
+      "code": "CN-GS",
+      "name": "Gansu Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-GX",
+      "name": "Guangxi Zhuangzu Zizhiqu",
       "type": "Autonomous region"
     },
     {
-      "code": "CN-21",
-      "name": "Liaoning",
+      "code": "CN-GZ",
+      "name": "Guizhou Sheng",
       "type": "Province"
     },
     {
-      "code": "CN-22",
-      "name": "Jilin",
+      "code": "CN-HA",
+      "name": "Henan Sheng",
       "type": "Province"
     },
     {
-      "code": "CN-23",
-      "name": "Heilongjiang",
+      "code": "CN-HB",
+      "name": "Hubei Sheng",
       "type": "Province"
     },
     {
-      "code": "CN-31",
-      "name": "Shanghai",
-      "type": "Municipality"
-    },
-    {
-      "code": "CN-32",
-      "name": "Jiangsu",
+      "code": "CN-HE",
+      "name": "Hebei Sheng",
       "type": "Province"
     },
     {
-      "code": "CN-33",
-      "name": "Zhejiang",
+      "code": "CN-HI",
+      "name": "Hainan Sheng",
       "type": "Province"
     },
     {
-      "code": "CN-34",
-      "name": "Anhui",
-      "type": "Province"
-    },
-    {
-      "code": "CN-35",
-      "name": "Fujian",
-      "type": "Province"
-    },
-    {
-      "code": "CN-36",
-      "name": "Jiangxi",
-      "type": "Province"
-    },
-    {
-      "code": "CN-37",
-      "name": "Shandong",
-      "type": "Province"
-    },
-    {
-      "code": "CN-41",
-      "name": "Henan",
-      "type": "Province"
-    },
-    {
-      "code": "CN-42",
-      "name": "Hubei",
-      "type": "Province"
-    },
-    {
-      "code": "CN-43",
-      "name": "Hunan",
-      "type": "Province"
-    },
-    {
-      "code": "CN-44",
-      "name": "Guangdong",
-      "type": "Province"
-    },
-    {
-      "code": "CN-45",
-      "name": "Guangxi",
-      "type": "Autonomous region"
-    },
-    {
-      "code": "CN-46",
-      "name": "Hainan",
-      "type": "Province"
-    },
-    {
-      "code": "CN-50",
-      "name": "Chongqing",
-      "type": "Municipality"
-    },
-    {
-      "code": "CN-51",
-      "name": "Sichuan",
-      "type": "Province"
-    },
-    {
-      "code": "CN-52",
-      "name": "Guizhou",
-      "type": "Province"
-    },
-    {
-      "code": "CN-53",
-      "name": "Yunnan",
-      "type": "Province"
-    },
-    {
-      "code": "CN-54",
-      "name": "Xizang",
-      "type": "Autonomous region"
-    },
-    {
-      "code": "CN-61",
-      "name": "Shaanxi",
-      "type": "Province"
-    },
-    {
-      "code": "CN-62",
-      "name": "Gansu",
-      "type": "Province"
-    },
-    {
-      "code": "CN-63",
-      "name": "Qinghai",
-      "type": "Province"
-    },
-    {
-      "code": "CN-64",
-      "name": "Ningxia",
-      "type": "Autonomous region"
-    },
-    {
-      "code": "CN-65",
-      "name": "Xinjiang",
-      "type": "Autonomous region"
-    },
-    {
-      "code": "CN-71",
-      "name": "Taiwan",
-      "type": "Province"
-    },
-    {
-      "code": "CN-91",
-      "name": "Xianggang (Hong-Kong)",
+      "code": "CN-HK",
+      "name": "Hong Kong SAR (see also separate country code entry under HK)",
       "type": "Special administrative region"
     },
     {
-      "code": "CN-92",
-      "name": "Aomen (Macau)",
+      "code": "CN-HL",
+      "name": "Heilongjiang Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-HN",
+      "name": "Hunan Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-JL",
+      "name": "Jilin Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-JS",
+      "name": "Jiangsu Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-JX",
+      "name": "Jiangxi Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-LN",
+      "name": "Liaoning Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-MO",
+      "name": "Macao SAR (see also separate country code entry under MO)",
       "type": "Special administrative region"
+    },
+    {
+      "code": "CN-NM",
+      "name": "Nei Mongol Zizhiqu",
+      "type": "Autonomous region"
+    },
+    {
+      "code": "CN-NX",
+      "name": "Ningxia Huizi Zizhiqu",
+      "type": "Autonomous region"
+    },
+    {
+      "code": "CN-QH",
+      "name": "Qinghai Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-SC",
+      "name": "Sichuan Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-SD",
+      "name": "Shandong Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-SH",
+      "name": "Shanghai Shi",
+      "type": "Municipality"
+    },
+    {
+      "code": "CN-SN",
+      "name": "Shaanxi Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-SX",
+      "name": "Shanxi Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-TJ",
+      "name": "Tianjin Shi",
+      "type": "Municipality"
+    },
+    {
+      "code": "CN-TW",
+      "name": "Taiwan Sheng (see also separate country code entry under TW)",
+      "type": "Province"
+    },
+    {
+      "code": "CN-XJ",
+      "name": "Xinjiang Uygur Zizhiqu",
+      "type": "Autonomous region"
+    },
+    {
+      "code": "CN-XZ",
+      "name": "Xizang Zizhiqu",
+      "type": "Autonomous region"
+    },
+    {
+      "code": "CN-YN",
+      "name": "Yunnan Sheng",
+      "type": "Province"
+    },
+    {
+      "code": "CN-ZJ",
+      "name": "Zhejiang Sheng",
+      "type": "Province"
     },
     {
       "code": "CO-AMA",
@@ -4376,620 +4376,662 @@
       "type": "District"
     },
     {
+      "code": "CZ-10",
+      "name": "Praha, Hlavní mešto",
+      "type": "capital city"
+    },
+    {
       "code": "CZ-101",
       "name": "Praha 1",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
       "code": "CZ-102",
       "name": "Praha 2",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
       "code": "CZ-103",
       "name": "Praha 3",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
       "code": "CZ-104",
       "name": "Praha 4",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
       "code": "CZ-105",
       "name": "Praha 5",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
       "code": "CZ-106",
       "name": "Praha 6",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
       "code": "CZ-107",
       "name": "Praha 7",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
       "code": "CZ-108",
       "name": "Praha 8",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
       "code": "CZ-109",
       "name": "Praha 9",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
-      "code": "CZ-10A",
+      "code": "CZ-110",
       "name": "Praha 10",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
-      "code": "CZ-10B",
+      "code": "CZ-111",
       "name": "Praha 11",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
-      "code": "CZ-10C",
+      "code": "CZ-112",
       "name": "Praha 12",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
-      "code": "CZ-10D",
+      "code": "CZ-113",
       "name": "Praha 13",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
-      "code": "CZ-10E",
+      "code": "CZ-114",
       "name": "Praha 14",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
     },
     {
-      "code": "CZ-10F",
+      "code": "CZ-115",
       "name": "Praha 15",
-      "parent": "PR",
+      "parent": "10",
       "type": "district"
+    },
+    {
+      "code": "CZ-116",
+      "name": "Praha 16",
+      "parent": "10",
+      "type": "district"
+    },
+    {
+      "code": "CZ-117",
+      "name": "Praha 17",
+      "parent": "10",
+      "type": "district"
+    },
+    {
+      "code": "CZ-118",
+      "name": "Praha 18",
+      "parent": "10",
+      "type": "district"
+    },
+    {
+      "code": "CZ-119",
+      "name": "Praha 19",
+      "parent": "10",
+      "type": "district"
+    },
+    {
+      "code": "CZ-120",
+      "name": "Praha 20",
+      "parent": "10",
+      "type": "district"
+    },
+    {
+      "code": "CZ-121",
+      "name": "Praha 21",
+      "parent": "10",
+      "type": "district"
+    },
+    {
+      "code": "CZ-122",
+      "name": "Praha 22",
+      "parent": "10",
+      "type": "district"
+    },
+    {
+      "code": "CZ-20",
+      "name": "Středočeský kraj",
+      "type": "region"
     },
     {
       "code": "CZ-201",
       "name": "Benešov",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-202",
       "name": "Beroun",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-203",
       "name": "Kladno",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-204",
       "name": "Kolín",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-205",
       "name": "Kutná Hora",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-206",
       "name": "Mělník",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-207",
       "name": "Mladá Boleslav",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-208",
       "name": "Nymburk",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-209",
-      "name": "Praha východ",
-      "parent": "ST",
+      "name": "Praha-východ",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-20A",
-      "name": "Praha západ",
-      "parent": "ST",
+      "name": "Praha-západ",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-20B",
       "name": "Příbram",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
     },
     {
       "code": "CZ-20C",
       "name": "Rakovník",
-      "parent": "ST",
+      "parent": "20",
       "type": "district"
+    },
+    {
+      "code": "CZ-31",
+      "name": "Jihočeský kraj",
+      "type": "region"
     },
     {
       "code": "CZ-311",
       "name": "České Budějovice",
-      "parent": "JC",
+      "parent": "31",
       "type": "district"
     },
     {
       "code": "CZ-312",
       "name": "Český Krumlov",
-      "parent": "JC",
+      "parent": "31",
       "type": "district"
     },
     {
       "code": "CZ-313",
       "name": "Jindřichův Hradec",
-      "parent": "JC",
+      "parent": "31",
       "type": "district"
     },
     {
       "code": "CZ-314",
       "name": "Písek",
-      "parent": "JC",
+      "parent": "31",
       "type": "district"
     },
     {
       "code": "CZ-315",
       "name": "Prachatice",
-      "parent": "JC",
+      "parent": "31",
       "type": "district"
     },
     {
       "code": "CZ-316",
       "name": "Strakonice",
-      "parent": "JC",
+      "parent": "31",
       "type": "district"
     },
     {
       "code": "CZ-317",
       "name": "Tábor",
-      "parent": "JC",
+      "parent": "31",
       "type": "district"
+    },
+    {
+      "code": "CZ-32",
+      "name": "Plzeňský kraj",
+      "type": "region"
     },
     {
       "code": "CZ-321",
       "name": "Domažlice",
-      "parent": "PL",
+      "parent": "32",
       "type": "district"
     },
     {
       "code": "CZ-322",
       "name": "Klatovy",
-      "parent": "PL",
+      "parent": "32",
       "type": "district"
     },
     {
       "code": "CZ-323",
-      "name": "Plzeň město",
-      "parent": "PL",
+      "name": "Plzeň-město",
+      "parent": "32",
       "type": "district"
     },
     {
       "code": "CZ-324",
-      "name": "Plzeň jih",
-      "parent": "PL",
+      "name": "Plzeň-jih",
+      "parent": "32",
       "type": "district"
     },
     {
       "code": "CZ-325",
-      "name": "Plzeň sever",
-      "parent": "PL",
+      "name": "Plzeň-sever",
+      "parent": "32",
       "type": "district"
     },
     {
       "code": "CZ-326",
       "name": "Rokycany",
-      "parent": "PL",
+      "parent": "32",
       "type": "district"
     },
     {
       "code": "CZ-327",
       "name": "Tachov",
-      "parent": "PL",
+      "parent": "32",
       "type": "district"
+    },
+    {
+      "code": "CZ-41",
+      "name": "Karlovarský kraj",
+      "type": "region"
     },
     {
       "code": "CZ-411",
       "name": "Cheb",
-      "parent": "KA",
+      "parent": "41",
       "type": "district"
     },
     {
       "code": "CZ-412",
       "name": "Karlovy Vary",
-      "parent": "KA",
+      "parent": "41",
       "type": "district"
     },
     {
       "code": "CZ-413",
       "name": "Sokolov",
-      "parent": "KA",
+      "parent": "41",
       "type": "district"
+    },
+    {
+      "code": "CZ-42",
+      "name": "Ústecký kraj",
+      "type": "region"
     },
     {
       "code": "CZ-421",
       "name": "Děčín",
-      "parent": "US",
+      "parent": "42",
       "type": "district"
     },
     {
       "code": "CZ-422",
       "name": "Chomutov",
-      "parent": "US",
+      "parent": "42",
       "type": "district"
     },
     {
       "code": "CZ-423",
       "name": "Litoměřice",
-      "parent": "US",
+      "parent": "42",
       "type": "district"
     },
     {
       "code": "CZ-424",
       "name": "Louny",
-      "parent": "US",
+      "parent": "42",
       "type": "district"
     },
     {
       "code": "CZ-425",
       "name": "Most",
-      "parent": "US",
+      "parent": "42",
       "type": "district"
     },
     {
       "code": "CZ-426",
       "name": "Teplice",
-      "parent": "US",
+      "parent": "42",
       "type": "district"
     },
     {
       "code": "CZ-427",
       "name": "Ústí nad Labem",
-      "parent": "US",
+      "parent": "42",
       "type": "district"
+    },
+    {
+      "code": "CZ-51",
+      "name": "Liberecký kraj",
+      "type": "region"
     },
     {
       "code": "CZ-511",
       "name": "Česká Lípa",
-      "parent": "LI",
+      "parent": "51",
       "type": "district"
     },
     {
       "code": "CZ-512",
       "name": "Jablonec nad Nisou",
-      "parent": "LI",
+      "parent": "51",
       "type": "district"
     },
     {
       "code": "CZ-513",
       "name": "Liberec",
-      "parent": "LI",
+      "parent": "51",
       "type": "district"
     },
     {
       "code": "CZ-514",
       "name": "Semily",
-      "parent": "LI",
+      "parent": "51",
       "type": "district"
+    },
+    {
+      "code": "CZ-52",
+      "name": "Královéhradecký kraj",
+      "type": "region"
     },
     {
       "code": "CZ-521",
       "name": "Hradec Králové",
-      "parent": "KR",
+      "parent": "52",
       "type": "district"
     },
     {
       "code": "CZ-522",
       "name": "Jičín",
-      "parent": "KR",
+      "parent": "52",
       "type": "district"
     },
     {
       "code": "CZ-523",
       "name": "Náchod",
-      "parent": "KR",
+      "parent": "52",
       "type": "district"
     },
     {
       "code": "CZ-524",
       "name": "Rychnov nad Kněžnou",
-      "parent": "KR",
+      "parent": "52",
       "type": "district"
     },
     {
       "code": "CZ-525",
       "name": "Trutnov",
-      "parent": "KR",
+      "parent": "52",
       "type": "district"
+    },
+    {
+      "code": "CZ-53",
+      "name": "Pardubický kraj",
+      "type": "region"
     },
     {
       "code": "CZ-531",
       "name": "Chrudim",
-      "parent": "PA",
+      "parent": "53",
       "type": "district"
     },
     {
       "code": "CZ-532",
       "name": "Pardubice",
-      "parent": "PA",
+      "parent": "53",
       "type": "district"
     },
     {
       "code": "CZ-533",
       "name": "Svitavy",
-      "parent": "PA",
+      "parent": "53",
       "type": "district"
     },
     {
       "code": "CZ-534",
       "name": "Ústí nad Orlicí",
-      "parent": "PA",
+      "parent": "53",
       "type": "district"
     },
     {
-      "code": "CZ-611",
+      "code": "CZ-63",
+      "name": "Kraj Vysočina",
+      "type": "region"
+    },
+    {
+      "code": "CZ-631",
       "name": "Havlíčkův Brod",
-      "parent": "VY",
+      "parent": "63",
       "type": "district"
     },
     {
-      "code": "CZ-612",
+      "code": "CZ-632",
       "name": "Jihlava",
-      "parent": "VY",
+      "parent": "63",
       "type": "district"
     },
     {
-      "code": "CZ-613",
+      "code": "CZ-633",
       "name": "Pelhřimov",
-      "parent": "VY",
+      "parent": "63",
       "type": "district"
     },
     {
-      "code": "CZ-614",
+      "code": "CZ-634",
       "name": "Třebíč",
-      "parent": "VY",
+      "parent": "63",
       "type": "district"
     },
     {
-      "code": "CZ-615",
-      "name": "Žd’ár nad Sázavou",
-      "parent": "VY",
+      "code": "CZ-635",
+      "name": "Žďár nad Sázavou",
+      "parent": "63",
       "type": "district"
     },
     {
-      "code": "CZ-621",
+      "code": "CZ-64",
+      "name": "Jihomoravský kraj",
+      "type": "region"
+    },
+    {
+      "code": "CZ-641",
       "name": "Blansko",
-      "parent": "JM",
+      "parent": "64",
       "type": "district"
     },
     {
-      "code": "CZ-622",
+      "code": "CZ-642",
       "name": "Brno-město",
-      "parent": "JM",
+      "parent": "64",
       "type": "district"
     },
     {
-      "code": "CZ-623",
+      "code": "CZ-643",
       "name": "Brno-venkov",
-      "parent": "JM",
+      "parent": "64",
       "type": "district"
     },
     {
-      "code": "CZ-624",
+      "code": "CZ-644",
       "name": "Břeclav",
-      "parent": "JM",
+      "parent": "64",
       "type": "district"
     },
     {
-      "code": "CZ-625",
+      "code": "CZ-645",
       "name": "Hodonín",
-      "parent": "JM",
+      "parent": "64",
       "type": "district"
     },
     {
-      "code": "CZ-626",
+      "code": "CZ-646",
       "name": "Vyškov",
-      "parent": "JM",
+      "parent": "64",
       "type": "district"
     },
     {
-      "code": "CZ-627",
+      "code": "CZ-647",
       "name": "Znojmo",
-      "parent": "JM",
+      "parent": "64",
       "type": "district"
+    },
+    {
+      "code": "CZ-71",
+      "name": "Olomoucký kraj",
+      "type": "region"
     },
     {
       "code": "CZ-711",
       "name": "Jeseník",
-      "parent": "OL",
+      "parent": "71",
       "type": "district"
     },
     {
       "code": "CZ-712",
       "name": "Olomouc",
-      "parent": "OL",
+      "parent": "71",
       "type": "district"
     },
     {
       "code": "CZ-713",
-      "name": "Prostĕjov",
-      "parent": "OL",
+      "name": "Prostějov",
+      "parent": "71",
       "type": "district"
     },
     {
       "code": "CZ-714",
       "name": "Přerov",
-      "parent": "OL",
+      "parent": "71",
       "type": "district"
     },
     {
       "code": "CZ-715",
       "name": "Šumperk",
-      "parent": "OL",
+      "parent": "71",
       "type": "district"
     },
     {
+      "code": "CZ-72",
+      "name": "Zlínský kraj",
+      "type": "region"
+    },
+    {
       "code": "CZ-721",
-      "name": "Kromĕříž",
-      "parent": "ZL",
+      "name": "Kroměříž",
+      "parent": "72",
       "type": "district"
     },
     {
       "code": "CZ-722",
-      "name": "Uherské Hradištĕ",
-      "parent": "ZL",
+      "name": "Uherské Hradiště",
+      "parent": "72",
       "type": "district"
     },
     {
       "code": "CZ-723",
       "name": "Vsetín",
-      "parent": "ZL",
+      "parent": "72",
       "type": "district"
     },
     {
       "code": "CZ-724",
       "name": "Zlín",
-      "parent": "ZL",
+      "parent": "72",
       "type": "district"
+    },
+    {
+      "code": "CZ-80",
+      "name": "Moravskoslezský kraj",
+      "type": "region"
     },
     {
       "code": "CZ-801",
       "name": "Bruntál",
-      "parent": "MO",
+      "parent": "80",
       "type": "district"
     },
     {
       "code": "CZ-802",
       "name": "Frýdek Místek",
-      "parent": "MO",
+      "parent": "80",
       "type": "district"
     },
     {
       "code": "CZ-803",
       "name": "Karviná",
-      "parent": "MO",
+      "parent": "80",
       "type": "district"
     },
     {
       "code": "CZ-804",
       "name": "Nový Jičín",
-      "parent": "MO",
+      "parent": "80",
       "type": "district"
     },
     {
       "code": "CZ-805",
       "name": "Opava",
-      "parent": "MO",
+      "parent": "80",
       "type": "district"
     },
     {
       "code": "CZ-806",
-      "name": "Ostrava město",
-      "parent": "MO",
+      "name": "Ostrava-město",
+      "parent": "80",
       "type": "district"
-    },
-    {
-      "code": "CZ-JC",
-      "name": "Jihočeský kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-JM",
-      "name": "Jihomoravský kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-KA",
-      "name": "Karlovarský kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-KR",
-      "name": "Královéhradecký kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-LI",
-      "name": "Liberecký kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-MO",
-      "name": "Moravskoslezský kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-OL",
-      "name": "Olomoucký kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-PA",
-      "name": "Pardubický kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-PL",
-      "name": "Plzeňský kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-PR",
-      "name": "Praha, hlavní město",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-ST",
-      "name": "Středočeský kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-US",
-      "name": "Ústecký kraj",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-VY",
-      "name": "Vysočina",
-      "type": "Region"
-    },
-    {
-      "code": "CZ-ZL",
-      "name": "Zlínský kraj",
-      "type": "Region"
     },
     {
       "code": "DE-BB",
@@ -5984,7 +6026,7 @@
     },
     {
       "code": "ES-BI",
-      "name": "Vizcayaa / Bizkaia",
+      "name": "Bizkaia",
       "parent": "PV",
       "type": "Province"
     },
@@ -6263,7 +6305,7 @@
     },
     {
       "code": "ES-SS",
-      "name": "Guipúzcoa / Gipuzkoa",
+      "name": "Gipuzkoa",
       "parent": "PV",
       "type": "Province"
     },
@@ -6305,7 +6347,7 @@
     },
     {
       "code": "ES-VC",
-      "name": "Valenciana, Comunidad / Valenciana, Comunitat ",
+      "name": "Valenciana, Comunidad / Valenciana, Comunitat",
       "type": "Autonomous community"
     },
     {
@@ -6524,587 +6566,587 @@
     {
       "code": "FR-01",
       "name": "Ain",
-      "parent": "V",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-02",
       "name": "Aisne",
-      "parent": "S",
+      "parent": "HDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-03",
       "name": "Allier",
-      "parent": "C",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-04",
       "name": "Alpes-de-Haute-Provence",
-      "parent": "U",
+      "parent": "PAC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-05",
       "name": "Hautes-Alpes",
-      "parent": "U",
+      "parent": "PAC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-06",
       "name": "Alpes-Maritimes",
-      "parent": "U",
+      "parent": "PAC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-07",
       "name": "Ardèche",
-      "parent": "V",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-08",
       "name": "Ardennes",
-      "parent": "G",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-09",
       "name": "Ariège",
-      "parent": "N",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-10",
       "name": "Aube",
-      "parent": "G",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-11",
       "name": "Aude",
-      "parent": "K",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-12",
       "name": "Aveyron",
-      "parent": "N",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-13",
       "name": "Bouches-du-Rhône",
-      "parent": "U",
+      "parent": "PAC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-14",
       "name": "Calvados",
-      "parent": "P",
+      "parent": "NOR",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-15",
       "name": "Cantal",
-      "parent": "C",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-16",
       "name": "Charente",
-      "parent": "T",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-17",
       "name": "Charente-Maritime",
-      "parent": "T",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-18",
       "name": "Cher",
-      "parent": "F",
+      "parent": "CVL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-19",
       "name": "Corrèze",
-      "parent": "L",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-21",
       "name": "Côte-d'Or",
-      "parent": "D",
+      "parent": "BFC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-22",
       "name": "Côtes-d'Armor",
-      "parent": "E",
+      "parent": "BRE",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-23",
       "name": "Creuse",
-      "parent": "L",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-24",
       "name": "Dordogne",
-      "parent": "B",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-25",
       "name": "Doubs",
-      "parent": "I",
+      "parent": "BFC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-26",
       "name": "Drôme",
-      "parent": "V",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-27",
       "name": "Eure",
-      "parent": "Q",
+      "parent": "NOR",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-28",
       "name": "Eure-et-Loir",
-      "parent": "F",
+      "parent": "CVL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-29",
       "name": "Finistère",
-      "parent": "E",
+      "parent": "BRE",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-2A",
       "name": "Corse-du-Sud",
-      "parent": "H",
+      "parent": "COR",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-2B",
       "name": "Haute-Corse",
-      "parent": "H",
+      "parent": "COR",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-30",
       "name": "Gard",
-      "parent": "K",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-31",
       "name": "Haute-Garonne",
-      "parent": "N",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-32",
       "name": "Gers",
-      "parent": "N",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-33",
       "name": "Gironde",
-      "parent": "B",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-34",
       "name": "Hérault",
-      "parent": "K",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-35",
       "name": "Ille-et-Vilaine",
-      "parent": "E",
+      "parent": "BRE",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-36",
       "name": "Indre",
-      "parent": "F",
+      "parent": "CVL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-37",
       "name": "Indre-et-Loire",
-      "parent": "F",
+      "parent": "CVL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-38",
       "name": "Isère",
-      "parent": "V",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-39",
       "name": "Jura",
-      "parent": "I",
+      "parent": "BFC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-40",
       "name": "Landes",
-      "parent": "B",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-41",
       "name": "Loir-et-Cher",
-      "parent": "F",
+      "parent": "CVL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-42",
       "name": "Loire",
-      "parent": "V",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-43",
       "name": "Haute-Loire",
-      "parent": "C",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-44",
       "name": "Loire-Atlantique",
-      "parent": "R",
+      "parent": "PDL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-45",
       "name": "Loiret",
-      "parent": "F",
+      "parent": "CVL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-46",
       "name": "Lot",
-      "parent": "N",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-47",
       "name": "Lot-et-Garonne",
-      "parent": "B",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-48",
       "name": "Lozère",
-      "parent": "K",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-49",
       "name": "Maine-et-Loire",
-      "parent": "R",
+      "parent": "PDL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-50",
       "name": "Manche",
-      "parent": "P",
+      "parent": "NOR",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-51",
       "name": "Marne",
-      "parent": "G",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-52",
       "name": "Haute-Marne",
-      "parent": "G",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-53",
       "name": "Mayenne",
-      "parent": "R",
+      "parent": "PDL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-54",
       "name": "Meurthe-et-Moselle",
-      "parent": "M",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-55",
       "name": "Meuse",
-      "parent": "M",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-56",
       "name": "Morbihan",
-      "parent": "E",
+      "parent": "BRE",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-57",
       "name": "Moselle",
-      "parent": "M",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-58",
       "name": "Nièvre",
-      "parent": "D",
+      "parent": "BFC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-59",
       "name": "Nord",
-      "parent": "O",
+      "parent": "HDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-60",
       "name": "Oise",
-      "parent": "S",
+      "parent": "HDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-61",
       "name": "Orne",
-      "parent": "P",
+      "parent": "NOR",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-62",
       "name": "Pas-de-Calais",
-      "parent": "O",
+      "parent": "HDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-63",
       "name": "Puy-de-Dôme",
-      "parent": "C",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-64",
       "name": "Pyrénées-Atlantiques",
-      "parent": "B",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-65",
       "name": "Hautes-Pyrénées",
-      "parent": "N",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-66",
       "name": "Pyrénées-Orientales",
-      "parent": "K",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-67",
       "name": "Bas-Rhin",
-      "parent": "A",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-68",
       "name": "Haut-Rhin",
-      "parent": "A",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-69",
       "name": "Rhône",
-      "parent": "V",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-70",
       "name": "Haute-Saône",
-      "parent": "I",
+      "parent": "BFC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-71",
       "name": "Saône-et-Loire",
-      "parent": "D",
+      "parent": "BFC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-72",
       "name": "Sarthe",
-      "parent": "R",
+      "parent": "PDL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-73",
       "name": "Savoie",
-      "parent": "V",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-74",
       "name": "Haute-Savoie",
-      "parent": "V",
+      "parent": "ARA",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-75",
       "name": "Paris",
-      "parent": "J",
+      "parent": "IDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-76",
       "name": "Seine-Maritime",
-      "parent": "Q",
+      "parent": "NOR",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-77",
       "name": "Seine-et-Marne",
-      "parent": "J",
+      "parent": "IDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-78",
       "name": "Yvelines",
-      "parent": "J",
+      "parent": "IDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-79",
       "name": "Deux-Sèvres",
-      "parent": "T",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-80",
       "name": "Somme",
-      "parent": "S",
+      "parent": "HDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-81",
       "name": "Tarn",
-      "parent": "N",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-82",
       "name": "Tarn-et-Garonne",
-      "parent": "N",
+      "parent": "OCC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-83",
       "name": "Var",
-      "parent": "U",
+      "parent": "PAC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-84",
       "name": "Vaucluse",
-      "parent": "U",
+      "parent": "PAC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-85",
       "name": "Vendée",
-      "parent": "R",
+      "parent": "PDL",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-86",
       "name": "Vienne",
-      "parent": "T",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-87",
       "name": "Haute-Vienne",
-      "parent": "L",
+      "parent": "NAQ",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-88",
       "name": "Vosges",
-      "parent": "M",
+      "parent": "GES",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-89",
       "name": "Yonne",
-      "parent": "D",
+      "parent": "BFC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-90",
       "name": "Territoire de Belfort",
-      "parent": "I",
+      "parent": "BFC",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-91",
       "name": "Essonne",
-      "parent": "J",
+      "parent": "IDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-92",
       "name": "Hauts-de-Seine",
-      "parent": "J",
+      "parent": "IDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-93",
       "name": "Seine-Saint-Denis",
-      "parent": "J",
+      "parent": "IDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-94",
       "name": "Val-de-Marne",
-      "parent": "J",
+      "parent": "IDF",
       "type": "Metropolitan department"
     },
     {
       "code": "FR-95",
-      "name": "Val d'Oise",
-      "parent": "J",
+      "name": "Val-d'Oise",
+      "parent": "IDF",
       "type": "Metropolitan department"
     },
     {
-      "code": "FR-A",
-      "name": "Alsace",
+      "code": "FR-ARA",
+      "name": "Auvergne-Rhône-Alpes",
       "type": "Metropolitan region"
     },
     {
-      "code": "FR-B",
-      "name": "Aquitaine",
+      "code": "FR-BFC",
+      "name": "Bourgogne-Franche-Comté",
       "type": "Metropolitan region"
     },
     {
@@ -7113,8 +7155,13 @@
       "type": "Overseas territorial collectivity"
     },
     {
-      "code": "FR-C",
-      "name": "Auvergne",
+      "code": "FR-BRE",
+      "name": "Bretagne",
+      "type": "Metropolitan region"
+    },
+    {
+      "code": "FR-COR",
+      "name": "Corse",
       "type": "Metropolitan region"
     },
     {
@@ -7123,64 +7170,50 @@
       "type": "Dependency"
     },
     {
-      "code": "FR-D",
-      "name": "Bourgogne",
+      "code": "FR-CVL",
+      "name": "Centre-Val de Loire",
       "type": "Metropolitan region"
     },
     {
-      "code": "FR-E",
-      "name": "Bretagne",
-      "type": "Metropolitan region"
-    },
-    {
-      "code": "FR-F",
-      "name": "Centre",
-      "type": "Metropolitan region"
-    },
-    {
-      "code": "FR-G",
-      "name": "Champagne-Ardenne",
+      "code": "FR-GES",
+      "name": "Grand-Est",
       "type": "Metropolitan region"
     },
     {
       "code": "FR-GF",
-      "name": "Guyane",
-      "type": "Overseas region/department"
+      "name": "Guyane (française)",
+      "type": "Overseas territorial collectivity"
     },
     {
       "code": "FR-GP",
       "name": "Guadeloupe",
-      "type": "Overseas region/department"
+      "parent": "GUA",
+      "type": "Overseas department"
     },
     {
-      "code": "FR-H",
-      "name": "Corse",
+      "code": "FR-GUA",
+      "name": "Guadeloupe",
+      "type": "Overseas region"
+    },
+    {
+      "code": "FR-HDF",
+      "name": "Hauts-de-France",
       "type": "Metropolitan region"
     },
     {
-      "code": "FR-I",
-      "name": "Franche-Comté",
-      "type": "Metropolitan region"
-    },
-    {
-      "code": "FR-J",
+      "code": "FR-IDF",
       "name": "Île-de-France",
       "type": "Metropolitan region"
     },
     {
-      "code": "FR-K",
-      "name": "Languedoc-Roussillon",
-      "type": "Metropolitan region"
+      "code": "FR-LRE",
+      "name": "La Réunion",
+      "type": "Overseas region"
     },
     {
-      "code": "FR-L",
-      "name": "Limousin",
-      "type": "Metropolitan region"
-    },
-    {
-      "code": "FR-M",
-      "name": "Lorraine",
-      "type": "Metropolitan region"
+      "code": "FR-MAY",
+      "name": "Mayotte",
+      "type": "Overseas region"
     },
     {
       "code": "FR-MF",
@@ -7190,11 +7223,11 @@
     {
       "code": "FR-MQ",
       "name": "Martinique",
-      "type": "Overseas region/department"
+      "type": "Overseas territorial collectivity"
     },
     {
-      "code": "FR-N",
-      "name": "Midi-Pyrénées",
+      "code": "FR-NAQ",
+      "name": "Nouvelle-Aquitaine",
       "type": "Metropolitan region"
     },
     {
@@ -7203,13 +7236,23 @@
       "type": "Overseas territorial collectivity"
     },
     {
-      "code": "FR-O",
-      "name": "Nord - Pas-de-Calais",
+      "code": "FR-NOR",
+      "name": "Normandie",
       "type": "Metropolitan region"
     },
     {
-      "code": "FR-P",
-      "name": "Basse-Normandie",
+      "code": "FR-OCC",
+      "name": "Occitanie",
+      "type": "Metropolitan region"
+    },
+    {
+      "code": "FR-PAC",
+      "name": "Provence-Alpes-Côte-d’Azur",
+      "type": "Metropolitan region"
+    },
+    {
+      "code": "FR-PDL",
+      "name": "Pays-de-la-Loire",
       "type": "Metropolitan region"
     },
     {
@@ -7223,44 +7266,15 @@
       "type": "Overseas territorial collectivity"
     },
     {
-      "code": "FR-Q",
-      "name": "Haute-Normandie",
-      "type": "Metropolitan region"
-    },
-    {
-      "code": "FR-R",
-      "name": "Pays de la Loire",
-      "type": "Metropolitan region"
-    },
-    {
       "code": "FR-RE",
-      "name": "Réunion",
-      "type": "Overseas region/department"
-    },
-    {
-      "code": "FR-S",
-      "name": "Picardie",
-      "type": "Metropolitan region"
-    },
-    {
-      "code": "FR-T",
-      "name": "Poitou-Charentes",
-      "type": "Metropolitan region"
+      "name": "La Réunion",
+      "parent": "LRE",
+      "type": "Overseas department"
     },
     {
       "code": "FR-TF",
       "name": "Terres australes françaises",
       "type": "Overseas territorial collectivity"
-    },
-    {
-      "code": "FR-U",
-      "name": "Provence-Alpes-Côte d'Azur",
-      "type": "Metropolitan region"
-    },
-    {
-      "code": "FR-V",
-      "name": "Rhône-Alpes",
-      "type": "Metropolitan region"
     },
     {
       "code": "FR-WF",
@@ -7270,7 +7284,8 @@
     {
       "code": "FR-YT",
       "name": "Mayotte",
-      "type": "Overseas region/department"
+      "parent": "MAY",
+      "type": "Overseas department"
     },
     {
       "code": "GA-1",
@@ -7318,383 +7333,404 @@
       "type": "Province"
     },
     {
+      "code": "GB-ABC",
+      "name": "Armagh, Banbridge and Craigavon",
+      "parent": "NIR",
+      "type": "District"
+    },
+    {
       "code": "GB-ABD",
       "name": "Aberdeenshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-ABE",
       "name": "Aberdeen City",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-AGB",
       "name": "Argyll and Bute",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-AGY",
-      "name": "Isle of Anglesey;Sir Ynys Môn",
-      "type": "Unitary authority (Wales)"
+      "name": "Isle of Anglesey; Sir Ynys Môn",
+      "parent": "WLS",
+      "type": "Unitary authority"
+    },
+    {
+      "code": "GB-AND",
+      "name": "Ards and North Down",
+      "parent": "NIR",
+      "type": "District"
+    },
+    {
+      "code": "GB-ANN",
+      "name": "Antrim and Newtownabbey",
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-ANS",
       "name": "Angus",
+      "parent": "SCT",
       "type": "Council area"
-    },
-    {
-      "code": "GB-ANT",
-      "name": "Antrim",
-      "type": "District council area"
-    },
-    {
-      "code": "GB-ARD",
-      "name": "Ards",
-      "type": "District council area"
-    },
-    {
-      "code": "GB-ARM",
-      "name": "Armagh",
-      "type": "District council area"
     },
     {
       "code": "GB-BAS",
       "name": "Bath and North East Somerset",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BBD",
       "name": "Blackburn with Darwen",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BDF",
       "name": "Bedford",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BDG",
       "name": "Barking and Dagenham",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-BEN",
       "name": "Brent",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-BEX",
       "name": "Bexley",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-BFS",
       "name": "Belfast",
-      "type": "District council area"
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-BGE",
-      "name": "Bridgend;Pen-y-bont ar Ogwr",
-      "type": "Unitary authority (Wales)"
+      "name": "Bridgend; Pen-y-bont ar Ogwr",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BGW",
       "name": "Blaenau Gwent",
-      "type": "Unitary authority (Wales)"
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BIR",
       "name": "Birmingham",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-BKM",
       "name": "Buckinghamshire",
+      "parent": "ENG",
       "type": "Two-tier county"
-    },
-    {
-      "code": "GB-BLA",
-      "name": "Ballymena",
-      "type": "District council area"
-    },
-    {
-      "code": "GB-BLY",
-      "name": "Ballymoney",
-      "type": "District council area"
     },
     {
       "code": "GB-BMH",
       "name": "Bournemouth",
-      "type": "Unitary authority (England)"
-    },
-    {
-      "code": "GB-BNB",
-      "name": "Banbridge",
-      "type": "District council area"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BNE",
       "name": "Barnet",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-BNH",
       "name": "Brighton and Hove",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BNS",
       "name": "Barnsley",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-BOL",
       "name": "Bolton",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-BPL",
       "name": "Blackpool",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BRC",
       "name": "Bracknell Forest",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BRD",
       "name": "Bradford",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-BRY",
       "name": "Bromley",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-BST",
       "name": "Bristol, City of",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-BUR",
       "name": "Bury",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-CAM",
       "name": "Cambridgeshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-CAY",
-      "name": "Caerphilly;Caerffili",
-      "type": "Unitary authority (Wales)"
+      "name": "Caerphilly; Caerffili",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-CBF",
       "name": "Central Bedfordshire",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
+    },
+    {
+      "code": "GB-CCG",
+      "name": "Causeway Coast and Glens",
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-CGN",
-      "name": "Ceredigion;Sir Ceredigion",
-      "type": "Unitary authority (Wales)"
-    },
-    {
-      "code": "GB-CGV",
-      "name": "Craigavon",
-      "type": "District council area"
+      "name": "Ceredigion; Sir Ceredigion",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-CHE",
       "name": "Cheshire East",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-CHW",
       "name": "Cheshire West and Chester",
-      "type": "Unitary authority (England)"
-    },
-    {
-      "code": "GB-CKF",
-      "name": "Carrickfergus",
-      "type": "District council area"
-    },
-    {
-      "code": "GB-CKT",
-      "name": "Cookstown",
-      "type": "District council area"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-CLD",
       "name": "Calderdale",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-CLK",
       "name": "Clackmannanshire",
+      "parent": "SCT",
       "type": "Council area"
-    },
-    {
-      "code": "GB-CLR",
-      "name": "Coleraine",
-      "type": "District council area"
     },
     {
       "code": "GB-CMA",
       "name": "Cumbria",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-CMD",
       "name": "Camden",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-CMN",
-      "name": "Carmarthenshire;Sir Gaerfyrddin",
-      "type": "Unitary authority (Wales)"
+      "name": "Carmarthenshire; Sir Gaerfyrddin",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-CON",
       "name": "Cornwall",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-COV",
       "name": "Coventry",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-CRF",
-      "name": "Cardiff;Caerdydd",
-      "type": "Unitary authority (Wales)"
+      "name": "Cardiff; Caerdydd",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-CRY",
       "name": "Croydon",
+      "parent": "ENG",
       "type": "London borough"
-    },
-    {
-      "code": "GB-CSR",
-      "name": "Castlereagh",
-      "type": "District council area"
     },
     {
       "code": "GB-CWY",
       "name": "Conwy",
-      "type": "Unitary authority (Wales)"
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-DAL",
       "name": "Darlington",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-DBY",
       "name": "Derbyshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-DEN",
-      "name": "Denbighshire;Sir Ddinbych",
-      "type": "Unitary authority (Wales)"
+      "name": "Denbighshire; Sir Ddinbych",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-DER",
       "name": "Derby",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-DEV",
       "name": "Devon",
+      "parent": "ENG",
       "type": "Two-tier county"
-    },
-    {
-      "code": "GB-DGN",
-      "name": "Dungannon and South Tyrone",
-      "type": "District council area"
     },
     {
       "code": "GB-DGY",
       "name": "Dumfries and Galloway",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-DNC",
       "name": "Doncaster",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-DND",
       "name": "Dundee City",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-DOR",
       "name": "Dorset",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
-      "code": "GB-DOW",
-      "name": "Down",
-      "type": "District council area"
-    },
-    {
-      "code": "GB-DRY",
-      "name": "Derry",
-      "type": "District council area"
+      "code": "GB-DRS",
+      "name": "Derry and Strabane",
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-DUD",
       "name": "Dudley",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-DUR",
-      "name": "Durham, County",
-      "type": "Unitary authority (England)"
+      "name": "Durham County",
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-EAL",
       "name": "Ealing",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-EAW",
       "name": "England and Wales",
-      "type": "Included for completeness"
+      "type": "Nation"
     },
     {
       "code": "GB-EAY",
       "name": "East Ayrshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-EDH",
       "name": "Edinburgh, City of",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-EDU",
       "name": "East Dunbartonshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-ELN",
       "name": "East Lothian",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-ELS",
       "name": "Eilean Siar",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-ENF",
       "name": "Enfield",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
@@ -7705,337 +7741,391 @@
     {
       "code": "GB-ERW",
       "name": "East Renfrewshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-ERY",
       "name": "East Riding of Yorkshire",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-ESS",
       "name": "Essex",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-ESX",
       "name": "East Sussex",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-FAL",
       "name": "Falkirk",
+      "parent": "SCT",
       "type": "Council area"
-    },
-    {
-      "code": "GB-FER",
-      "name": "Fermanagh",
-      "type": "District council area"
     },
     {
       "code": "GB-FIF",
       "name": "Fife",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-FLN",
-      "name": "Flintshire;Sir y Fflint",
-      "type": "Unitary authority (Wales)"
+      "name": "Flintshire; Sir y Fflint",
+      "parent": "WLS",
+      "type": "Unitary authority"
+    },
+    {
+      "code": "GB-FMO",
+      "name": "Fermanagh and Omagh",
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-GAT",
       "name": "Gateshead",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-GBN",
       "name": "Great Britain",
-      "type": "Included for completeness"
+      "type": "Nation"
     },
     {
       "code": "GB-GLG",
       "name": "Glasgow City",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-GLS",
       "name": "Gloucestershire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-GRE",
       "name": "Greenwich",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-GWN",
       "name": "Gwynedd",
-      "type": "Unitary authority (Wales)"
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-HAL",
       "name": "Halton",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-HAM",
       "name": "Hampshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-HAV",
       "name": "Havering",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-HCK",
       "name": "Hackney",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-HEF",
       "name": "Herefordshire",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-HIL",
       "name": "Hillingdon",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-HLD",
       "name": "Highland",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-HMF",
       "name": "Hammersmith and Fulham",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-HNS",
       "name": "Hounslow",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-HPL",
       "name": "Hartlepool",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-HRT",
       "name": "Hertfordshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-HRW",
       "name": "Harrow",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-HRY",
       "name": "Haringey",
+      "parent": "ENG",
       "type": "London borough"
+    },
+    {
+      "code": "GB-IOS",
+      "name": "Isles of Scilly",
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-IOW",
       "name": "Isle of Wight",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-ISL",
       "name": "Islington",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-IVC",
       "name": "Inverclyde",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-KEC",
       "name": "Kensington and Chelsea",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-KEN",
       "name": "Kent",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-KHL",
       "name": "Kingston upon Hull",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-KIR",
       "name": "Kirklees",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-KTT",
       "name": "Kingston upon Thames",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-KWL",
       "name": "Knowsley",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-LAN",
       "name": "Lancashire",
+      "parent": "ENG",
       "type": "Two-tier county"
+    },
+    {
+      "code": "GB-LBC",
+      "name": "Lisburn and Castlereagh",
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-LBH",
       "name": "Lambeth",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-LCE",
       "name": "Leicester",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-LDS",
       "name": "Leeds",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-LEC",
       "name": "Leicestershire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-LEW",
       "name": "Lewisham",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-LIN",
       "name": "Lincolnshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-LIV",
       "name": "Liverpool",
+      "parent": "ENG",
       "type": "Metropolitan district"
-    },
-    {
-      "code": "GB-LMV",
-      "name": "Limavady",
-      "type": "District council area"
     },
     {
       "code": "GB-LND",
       "name": "London, City of",
+      "parent": "ENG",
       "type": "City corporation"
-    },
-    {
-      "code": "GB-LRN",
-      "name": "Larne",
-      "type": "District council area"
-    },
-    {
-      "code": "GB-LSB",
-      "name": "Lisburn",
-      "type": "District council area"
     },
     {
       "code": "GB-LUT",
       "name": "Luton",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-MAN",
       "name": "Manchester",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-MDB",
       "name": "Middlesbrough",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-MDW",
       "name": "Medway",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
-      "code": "GB-MFT",
-      "name": "Magherafelt",
-      "type": "District council area"
+      "code": "GB-MEA",
+      "name": "Mid and East Antrim",
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-MIK",
       "name": "Milton Keynes",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-MLN",
       "name": "Midlothian",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-MON",
-      "name": "Monmouthshire;Sir Fynwy",
-      "type": "Unitary authority (Wales)"
+      "name": "Monmouthshire; Sir Fynwy",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-MRT",
       "name": "Merton",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-MRY",
       "name": "Moray",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-MTY",
-      "name": "Merthyr Tydfil;Merthyr Tudful",
-      "type": "Unitary authority (Wales)"
+      "name": "Merthyr Tydfil; Merthyr Tudful",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
-      "code": "GB-MYL",
-      "name": "Moyle",
-      "type": "District council area"
+      "code": "GB-MUL",
+      "name": "Mid Ulster",
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-NAY",
       "name": "North Ayrshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-NBL",
       "name": "Northumberland",
-      "type": "Unitary authority (England)"
-    },
-    {
-      "code": "GB-NDN",
-      "name": "North Down",
-      "type": "District council area"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-NEL",
       "name": "North East Lincolnshire",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-NET",
       "name": "Newcastle upon Tyne",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-NFK",
       "name": "Norfolk",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-NGM",
       "name": "Nottingham",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-NIR",
@@ -8045,176 +8135,199 @@
     {
       "code": "GB-NLK",
       "name": "North Lanarkshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-NLN",
       "name": "North Lincolnshire",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
+    },
+    {
+      "code": "GB-NMD",
+      "name": "Newry, Mourne and Down",
+      "parent": "NIR",
+      "type": "District"
     },
     {
       "code": "GB-NSM",
       "name": "North Somerset",
-      "type": "Unitary authority (England)"
-    },
-    {
-      "code": "GB-NTA",
-      "name": "Newtownabbey",
-      "type": "District council area"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-NTH",
       "name": "Northamptonshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-NTL",
-      "name": "Neath Port Talbot;Castell-nedd Port Talbot",
-      "type": "Unitary authority (Wales)"
+      "name": "Neath Port Talbot; Castell-nedd Port Talbot",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-NTT",
       "name": "Nottinghamshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-NTY",
       "name": "North Tyneside",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-NWM",
       "name": "Newham",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-NWP",
-      "name": "Newport;Casnewydd",
-      "type": "Unitary authority (Wales)"
+      "name": "Newport; Casnewydd",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-NYK",
       "name": "North Yorkshire",
+      "parent": "ENG",
       "type": "Two-tier county"
-    },
-    {
-      "code": "GB-NYM",
-      "name": "Newry and Mourne",
-      "type": "District council area"
     },
     {
       "code": "GB-OLD",
       "name": "Oldham",
+      "parent": "ENG",
       "type": "Metropolitan district"
-    },
-    {
-      "code": "GB-OMH",
-      "name": "Omagh",
-      "type": "District council area"
     },
     {
       "code": "GB-ORK",
       "name": "Orkney Islands",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-OXF",
       "name": "Oxfordshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-PEM",
-      "name": "Pembrokeshire;Sir Benfro",
-      "type": "Unitary authority (Wales)"
+      "name": "Pembrokeshire; Sir Benfro",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-PKN",
       "name": "Perth and Kinross",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-PLY",
       "name": "Plymouth",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-POL",
       "name": "Poole",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-POR",
       "name": "Portsmouth",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-POW",
       "name": "Powys",
-      "type": "Unitary authority (Wales)"
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-PTE",
       "name": "Peterborough",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-RCC",
       "name": "Redcar and Cleveland",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-RCH",
       "name": "Rochdale",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-RCT",
-      "name": "Rhondda, Cynon, Taff;Rhondda, Cynon,Taf",
-      "type": "Unitary authority (Wales)"
+      "name": "Rhondda, Cynon, Taff; Rhondda, Cynon, Taf",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-RDB",
       "name": "Redbridge",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-RDG",
       "name": "Reading",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-RFW",
       "name": "Renfrewshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-RIC",
       "name": "Richmond upon Thames",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-ROT",
       "name": "Rotherham",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-RUT",
       "name": "Rutland",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-SAW",
       "name": "Sandwell",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SAY",
       "name": "South Ayrshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-SCB",
       "name": "Scottish Borders, The",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
@@ -8225,281 +8338,335 @@
     {
       "code": "GB-SFK",
       "name": "Suffolk",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-SFT",
       "name": "Sefton",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SGC",
       "name": "South Gloucestershire",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-SHF",
       "name": "Sheffield",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SHN",
       "name": "St. Helens",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SHR",
       "name": "Shropshire",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-SKP",
       "name": "Stockport",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SLF",
       "name": "Salford",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SLG",
       "name": "Slough",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-SLK",
       "name": "South Lanarkshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-SND",
       "name": "Sunderland",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SOL",
       "name": "Solihull",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SOM",
       "name": "Somerset",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-SOS",
       "name": "Southend-on-Sea",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-SRY",
       "name": "Surrey",
+      "parent": "ENG",
       "type": "Two-tier county"
-    },
-    {
-      "code": "GB-STB",
-      "name": "Strabane",
-      "type": "District council area"
     },
     {
       "code": "GB-STE",
       "name": "Stoke-on-Trent",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-STG",
       "name": "Stirling",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-STH",
       "name": "Southampton",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-STN",
       "name": "Sutton",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-STS",
       "name": "Staffordshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-STT",
       "name": "Stockton-on-Tees",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-STY",
       "name": "South Tyneside",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-SWA",
-      "name": "Swansea;Abertawe",
-      "type": "Unitary authority (Wales)"
+      "name": "Swansea; Abertawe",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-SWD",
       "name": "Swindon",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-SWK",
       "name": "Southwark",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-TAM",
       "name": "Tameside",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-TFW",
       "name": "Telford and Wrekin",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-THR",
       "name": "Thurrock",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-TOB",
       "name": "Torbay",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-TOF",
-      "name": "Torfaen;Tor-faen",
-      "type": "Unitary authority (Wales)"
+      "name": "Torfaen; Tor-faen",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-TRF",
       "name": "Trafford",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-TWH",
       "name": "Tower Hamlets",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-UKM",
       "name": "United Kingdom",
-      "type": "Included for completeness"
+      "type": "Nation"
     },
     {
       "code": "GB-VGL",
-      "name": "Vale of Glamorgan, The;Bro Morgannwg",
-      "type": "Unitary authority (Wales)"
+      "name": "Vale of Glamorgan, The; Bro Morgannwg",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-WAR",
       "name": "Warwickshire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-WBK",
       "name": "West Berkshire",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-WDU",
       "name": "West Dunbartonshire",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-WFT",
       "name": "Waltham Forest",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-WGN",
       "name": "Wigan",
+      "parent": "ENG",
       "type": "Metropolitan district"
+    },
+    {
+      "code": "GB-WIL",
+      "name": "Wiltshire",
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-WKF",
       "name": "Wakefield",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-WLL",
       "name": "Walsall",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-WLN",
       "name": "West Lothian",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
       "code": "GB-WLS",
-      "name": "Wales",
+      "name": "Wales; Cymru",
       "type": "Country"
     },
     {
       "code": "GB-WLV",
       "name": "Wolverhampton",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-WND",
       "name": "Wandsworth",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-WNM",
       "name": "Windsor and Maidenhead",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-WOK",
       "name": "Wokingham",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-WOR",
       "name": "Worcestershire",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-WRL",
       "name": "Wirral",
+      "parent": "ENG",
       "type": "Metropolitan district"
     },
     {
       "code": "GB-WRT",
       "name": "Warrington",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-WRX",
-      "name": "Wrexham;Wrecsam",
-      "type": "Unitary authority (Wales)"
+      "name": "Wrexham; Wrecsam",
+      "parent": "WLS",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-WSM",
       "name": "Westminster",
+      "parent": "ENG",
       "type": "London borough"
     },
     {
       "code": "GB-WSX",
       "name": "West Sussex",
+      "parent": "ENG",
       "type": "Two-tier county"
     },
     {
       "code": "GB-YOR",
       "name": "York",
-      "type": "Unitary authority (England)"
+      "parent": "ENG",
+      "type": "Unitary authority"
     },
     {
       "code": "GB-ZET",
       "name": "Shetland Islands",
+      "parent": "SCT",
       "type": "Council area"
     },
     {
@@ -10522,7 +10689,7 @@
     },
     {
       "code": "IN-DD",
-      "name": "Damen and Diu",
+      "name": "Daman and Diu",
       "type": "Union territory"
     },
     {
@@ -10612,7 +10779,7 @@
     },
     {
       "code": "IN-OR",
-      "name": "Orissa",
+      "name": "Odisha",
       "type": "State"
     },
     {
@@ -10633,6 +10800,11 @@
     {
       "code": "IN-SK",
       "name": "Sikkim",
+      "type": "State"
+    },
+    {
+      "code": "IN-TG",
+      "name": "Telangana",
       "type": "State"
     },
     {
@@ -12071,39 +12243,239 @@
       "type": "Prefecture"
     },
     {
-      "code": "KE-110",
-      "name": "Nairobi Municipality",
-      "type": "Province"
+      "code": "KE-01",
+      "name": "Baringo",
+      "type": "County"
     },
     {
-      "code": "KE-200",
-      "name": "Central",
-      "type": "Province"
+      "code": "KE-02",
+      "name": "Bomet",
+      "type": "County"
     },
     {
-      "code": "KE-300",
-      "name": "Coast",
-      "type": "Province"
+      "code": "KE-03",
+      "name": "Bungoma",
+      "type": "County"
     },
     {
-      "code": "KE-400",
-      "name": "Eastern",
-      "type": "Province"
+      "code": "KE-04",
+      "name": "Busia",
+      "type": "County"
     },
     {
-      "code": "KE-500",
-      "name": "North-Eastern Kaskazini Mashariki",
-      "type": "Province"
+      "code": "KE-05",
+      "name": "Elgeyo/Marakwet",
+      "type": "County"
     },
     {
-      "code": "KE-700",
-      "name": "Rift Valley",
-      "type": "Province"
+      "code": "KE-06",
+      "name": "Embu",
+      "type": "County"
     },
     {
-      "code": "KE-800",
-      "name": "Western Magharibi",
-      "type": "Province"
+      "code": "KE-07",
+      "name": "Garissa",
+      "type": "County"
+    },
+    {
+      "code": "KE-08",
+      "name": "Homa Bay",
+      "type": "County"
+    },
+    {
+      "code": "KE-09",
+      "name": "Isiolo",
+      "type": "County"
+    },
+    {
+      "code": "KE-10",
+      "name": "Kajiado",
+      "type": "County"
+    },
+    {
+      "code": "KE-11",
+      "name": "Kakamega",
+      "type": "County"
+    },
+    {
+      "code": "KE-12",
+      "name": "Kericho",
+      "type": "County"
+    },
+    {
+      "code": "KE-13",
+      "name": "Kiambu",
+      "type": "County"
+    },
+    {
+      "code": "KE-14",
+      "name": "Kilifi",
+      "type": "County"
+    },
+    {
+      "code": "KE-15",
+      "name": "Kirinyaga",
+      "type": "County"
+    },
+    {
+      "code": "KE-16",
+      "name": "Kisii",
+      "type": "County"
+    },
+    {
+      "code": "KE-17",
+      "name": "Kisumu",
+      "type": "County"
+    },
+    {
+      "code": "KE-18",
+      "name": "Kitui",
+      "type": "County"
+    },
+    {
+      "code": "KE-19",
+      "name": "Kwale",
+      "type": "County"
+    },
+    {
+      "code": "KE-20",
+      "name": "Laikipia",
+      "type": "County"
+    },
+    {
+      "code": "KE-21",
+      "name": "Lamu",
+      "type": "County"
+    },
+    {
+      "code": "KE-22",
+      "name": "Machakos",
+      "type": "County"
+    },
+    {
+      "code": "KE-23",
+      "name": "Makueni",
+      "type": "County"
+    },
+    {
+      "code": "KE-24",
+      "name": "Mandera",
+      "type": "County"
+    },
+    {
+      "code": "KE-25",
+      "name": "Marsabit",
+      "type": "County"
+    },
+    {
+      "code": "KE-26",
+      "name": "Meru",
+      "type": "County"
+    },
+    {
+      "code": "KE-27",
+      "name": "Migori",
+      "type": "County"
+    },
+    {
+      "code": "KE-28",
+      "name": "Mombasa",
+      "type": "County"
+    },
+    {
+      "code": "KE-29",
+      "name": "Murang'a",
+      "type": "County"
+    },
+    {
+      "code": "KE-30",
+      "name": "Nairobi City",
+      "type": "County"
+    },
+    {
+      "code": "KE-31",
+      "name": "Nakuru",
+      "type": "County"
+    },
+    {
+      "code": "KE-32",
+      "name": "Nandi",
+      "type": "County"
+    },
+    {
+      "code": "KE-33",
+      "name": "Narok",
+      "type": "County"
+    },
+    {
+      "code": "KE-34",
+      "name": "Nyamira",
+      "type": "County"
+    },
+    {
+      "code": "KE-35",
+      "name": "Nyandarua",
+      "type": "County"
+    },
+    {
+      "code": "KE-36",
+      "name": "Nyeri",
+      "type": "County"
+    },
+    {
+      "code": "KE-37",
+      "name": "Samburu",
+      "type": "County"
+    },
+    {
+      "code": "KE-38",
+      "name": "Siaya",
+      "type": "County"
+    },
+    {
+      "code": "KE-39",
+      "name": "Taita/Taveta",
+      "type": "County"
+    },
+    {
+      "code": "KE-40",
+      "name": "Tana River",
+      "type": "County"
+    },
+    {
+      "code": "KE-41",
+      "name": "Tharaka-Nithi",
+      "type": "County"
+    },
+    {
+      "code": "KE-42",
+      "name": "Trans Nzoia",
+      "type": "County"
+    },
+    {
+      "code": "KE-43",
+      "name": "Turkana",
+      "type": "County"
+    },
+    {
+      "code": "KE-44",
+      "name": "Uasin Gishu",
+      "type": "County"
+    },
+    {
+      "code": "KE-45",
+      "name": "Vihiga",
+      "type": "County"
+    },
+    {
+      "code": "KE-46",
+      "name": "Wajir",
+      "type": "County"
+    },
+    {
+      "code": "KE-47",
+      "name": "West Pokot",
+      "type": "County"
     },
     {
       "code": "KG-B",
@@ -13906,142 +14278,128 @@
     },
     {
       "code": "MA-01",
-      "name": "Tanger-Tétouan",
-      "type": "Economic region"
+      "name": "Tanger-Tétouan-Al Hoceïma",
+      "type": "Region"
     },
     {
       "code": "MA-02",
-      "name": "Gharb-Chrarda-Beni Hssen",
-      "type": "Economic region"
+      "name": "L'Oriental",
+      "type": "Region"
     },
     {
       "code": "MA-03",
-      "name": "Taza-Al Hoceima-Taounate",
-      "type": "Economic region"
+      "name": "Fès-Meknès",
+      "type": "Region"
     },
     {
       "code": "MA-04",
-      "name": "L'Oriental",
-      "type": "Economic region"
+      "name": "Rabat-Salé-Kénitra",
+      "type": "Region"
     },
     {
       "code": "MA-05",
-      "name": "Fès-Boulemane",
-      "type": "Economic region"
+      "name": "Béni Mellal-Khénifra",
+      "type": "Region"
     },
     {
       "code": "MA-06",
-      "name": "Meknès-Tafilalet",
-      "type": "Economic region"
+      "name": "Casablanca-Settat",
+      "type": "Region"
     },
     {
       "code": "MA-07",
-      "name": "Rabat-Salé-Zemmour-Zaer",
-      "type": "Economic region"
+      "name": "Marrakech-Safi",
+      "type": "Region"
     },
     {
       "code": "MA-08",
-      "name": "Grand Casablanca",
-      "type": "Economic region"
+      "name": "Drâa-Tafilalet",
+      "type": "Region"
     },
     {
       "code": "MA-09",
-      "name": "Chaouia-Ouardigha",
-      "type": "Economic region"
+      "name": "Souss-Massa",
+      "type": "Region"
     },
     {
       "code": "MA-10",
-      "name": "Doukhala-Abda",
-      "type": "Economic region"
+      "name": "Guelmim-Oued Noun (EH-partial)",
+      "type": "Region"
     },
     {
       "code": "MA-11",
-      "name": "Marrakech-Tensift-Al Haouz",
-      "type": "Economic region"
+      "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+      "type": "Region"
     },
     {
       "code": "MA-12",
-      "name": "Tadla-Azilal",
-      "type": "Economic region"
-    },
-    {
-      "code": "MA-13",
-      "name": "Sous-Massa-Draa",
-      "type": "Economic region"
-    },
-    {
-      "code": "MA-14",
-      "name": "Guelmim-Es Smara",
-      "type": "Economic region"
-    },
-    {
-      "code": "MA-15",
-      "name": "Laâyoune-Boujdour-Sakia el Hamra",
-      "type": "Economic region"
-    },
-    {
-      "code": "MA-16",
-      "name": "Oued ed Dahab-Lagouira",
-      "type": "Economic region"
+      "name": "Dakhla-Oued Ed-Dahab (EH)",
+      "type": "Region"
     },
     {
       "code": "MA-AGD",
-      "name": "Agadir-Ida-Outanane",
-      "parent": "13",
+      "name": "Agadir-Ida-Ou-Tanane",
+      "parent": "09",
       "type": "Prefecture"
     },
     {
       "code": "MA-AOU",
-      "name": "Aousserd",
-      "parent": "16",
-      "type": "Prefecture"
+      "name": "Aousserd (EH)",
+      "parent": "12",
+      "type": "Province"
     },
     {
       "code": "MA-ASZ",
-      "name": "Assa-Zag",
-      "parent": "14",
+      "name": "Assa-Zag (EH-partial)",
+      "parent": "10",
       "type": "Province"
     },
     {
       "code": "MA-AZI",
       "name": "Azilal",
-      "parent": "12",
+      "parent": "05",
       "type": "Province"
     },
     {
       "code": "MA-BEM",
-      "name": "Beni Mellal",
-      "parent": "12",
+      "name": "Béni Mellal",
+      "parent": "05",
       "type": "Province"
     },
     {
       "code": "MA-BER",
       "name": "Berkane",
-      "parent": "04",
+      "parent": "02",
       "type": "Province"
     },
     {
       "code": "MA-BES",
-      "name": "Ben Slimane",
-      "parent": "09",
+      "name": "Benslimane",
+      "parent": "06",
       "type": "Province"
     },
     {
       "code": "MA-BOD",
       "name": "Boujdour (EH)",
-      "parent": "15",
+      "parent": "11",
       "type": "Province"
     },
     {
       "code": "MA-BOM",
       "name": "Boulemane",
-      "parent": "05",
+      "parent": "03",
+      "type": "Province"
+    },
+    {
+      "code": "MA-BRR",
+      "name": "Berrechid",
+      "parent": "06",
       "type": "Province"
     },
     {
       "code": "MA-CAS",
-      "name": "Casablanca [Dar el Beïda]",
-      "parent": "08",
+      "name": "Casablanca",
+      "parent": "06",
       "type": "Prefecture"
     },
     {
@@ -14053,133 +14411,151 @@
     {
       "code": "MA-CHI",
       "name": "Chichaoua",
-      "parent": "11",
+      "parent": "07",
       "type": "Province"
     },
     {
       "code": "MA-CHT",
       "name": "Chtouka-Ait Baha",
-      "parent": "13",
+      "parent": "06",
+      "type": "Province"
+    },
+    {
+      "code": "MA-DRI",
+      "name": "Driouch",
+      "parent": "02",
       "type": "Province"
     },
     {
       "code": "MA-ERR",
       "name": "Errachidia",
-      "parent": "06",
+      "parent": "08",
       "type": "Province"
     },
     {
       "code": "MA-ESI",
       "name": "Essaouira",
-      "parent": "11",
+      "parent": "07",
       "type": "Province"
     },
     {
       "code": "MA-ESM",
-      "name": "Es Smara (EH)",
-      "parent": "14",
+      "name": "Es-Semara (EH-partial)",
+      "parent": "11",
       "type": "Province"
     },
     {
       "code": "MA-FAH",
-      "name": "Fahs-Beni Makada",
+      "name": "Fahs-Anjra",
       "parent": "01",
-      "type": "Prefecture"
+      "type": "Province"
     },
     {
       "code": "MA-FES",
-      "name": "Fès-Dar-Dbibegh",
-      "parent": "05",
+      "name": "Fès",
+      "parent": "03",
       "type": "Prefecture"
     },
     {
       "code": "MA-FIG",
       "name": "Figuig",
-      "parent": "04",
+      "parent": "02",
+      "type": "Province"
+    },
+    {
+      "code": "MA-FQH",
+      "name": "Fquih Ben Salah",
+      "parent": "05",
       "type": "Province"
     },
     {
       "code": "MA-GUE",
       "name": "Guelmim",
-      "parent": "14",
+      "parent": "10",
+      "type": "Province"
+    },
+    {
+      "code": "MA-GUF",
+      "name": "Guercif",
+      "parent": "02",
       "type": "Province"
     },
     {
       "code": "MA-HAJ",
       "name": "El Hajeb",
-      "parent": "06",
+      "parent": "03",
       "type": "Province"
     },
     {
       "code": "MA-HAO",
       "name": "Al Haouz",
-      "parent": "11",
+      "parent": "07",
       "type": "Province"
     },
     {
       "code": "MA-HOC",
       "name": "Al Hoceïma",
-      "parent": "03",
+      "parent": "01",
       "type": "Province"
     },
     {
       "code": "MA-IFR",
       "name": "Ifrane",
-      "parent": "06",
+      "parent": "03",
       "type": "Province"
     },
     {
       "code": "MA-INE",
       "name": "Inezgane-Ait Melloul",
-      "parent": "13",
+      "parent": "09",
       "type": "Prefecture"
     },
     {
       "code": "MA-JDI",
       "name": "El Jadida",
-      "parent": "10",
+      "parent": "06",
       "type": "Province"
     },
     {
       "code": "MA-JRA",
-      "name": "Jrada",
-      "parent": "04",
+      "name": "Jerada",
+      "parent": "02",
       "type": "Province"
     },
     {
       "code": "MA-KEN",
       "name": "Kénitra",
-      "parent": "02",
+      "parent": "04",
       "type": "Province"
     },
     {
       "code": "MA-KES",
-      "name": "Kelaat es Sraghna",
-      "parent": "11",
+      "name": "El Kelâa des Sraghna",
+      "parent": "07",
       "type": "Province"
     },
     {
       "code": "MA-KHE",
-      "name": "Khemisaet",
-      "parent": "07",
+      "name": "Khemisset",
+      "parent": "04",
       "type": "Province"
     },
     {
       "code": "MA-KHN",
       "name": "Khenifra",
-      "parent": "06",
+      "parent": "05",
       "type": "Province"
     },
     {
       "code": "MA-KHO",
       "name": "Khouribga",
-      "parent": "09",
+      "parent": "05",
       "type": "Province"
     },
     {
       "code": "MA-LAA",
       "name": "Laâyoune (EH)",
-      "parent": "15",
+      "parent": "11",
       "type": "Province"
     },
     {
@@ -14189,123 +14565,159 @@
       "type": "Province"
     },
     {
+      "code": "MA-MAR",
+      "name": "Marrakech",
+      "parent": "07",
+      "type": "Prefecture"
+    },
+    {
+      "code": "MA-MDF",
+      "name": "M’diq-Fnideq",
+      "parent": "01",
+      "type": "Prefecture"
+    },
+    {
       "code": "MA-MED",
       "name": "Médiouna",
-      "parent": "08",
+      "parent": "06",
       "type": "Province"
     },
     {
       "code": "MA-MEK",
       "name": "Meknès",
-      "parent": "06",
+      "parent": "03",
       "type": "Prefecture"
     },
     {
-      "code": "MA-MMD",
-      "name": "Marrakech-Medina",
-      "parent": "11",
-      "type": "Prefecture"
-    },
-    {
-      "code": "MA-MMN",
-      "name": "Marrakech-Menara",
-      "parent": "11",
-      "type": "Prefecture"
+      "code": "MA-MID",
+      "name": "Midelt",
+      "parent": "08",
+      "type": "Province"
     },
     {
       "code": "MA-MOH",
       "name": "Mohammadia",
-      "parent": "08",
+      "parent": "06",
       "type": "Prefecture"
     },
     {
       "code": "MA-MOU",
       "name": "Moulay Yacoub",
-      "parent": "05",
+      "parent": "03",
       "type": "Province"
     },
     {
       "code": "MA-NAD",
       "name": "Nador",
-      "parent": "04",
+      "parent": "02",
       "type": "Province"
     },
     {
       "code": "MA-NOU",
       "name": "Nouaceur",
-      "parent": "08",
+      "parent": "04",
       "type": "Province"
     },
     {
       "code": "MA-OUA",
       "name": "Ouarzazate",
-      "parent": "13",
+      "parent": "08",
       "type": "Province"
     },
     {
       "code": "MA-OUD",
-      "name": "Oued ed Dahab (EH)",
-      "parent": "16",
+      "name": "Oued Ed-Dahab (EH)",
+      "parent": "12",
       "type": "Province"
     },
     {
       "code": "MA-OUJ",
       "name": "Oujda-Angad",
-      "parent": "04",
+      "parent": "02",
       "type": "Prefecture"
+    },
+    {
+      "code": "MA-OUZ",
+      "name": "Ouezzane",
+      "parent": "01",
+      "type": "Province"
     },
     {
       "code": "MA-RAB",
       "name": "Rabat",
-      "parent": "07",
+      "parent": "04",
       "type": "Prefecture"
+    },
+    {
+      "code": "MA-REH",
+      "name": "Rehamna",
+      "parent": "07",
+      "type": "Province"
     },
     {
       "code": "MA-SAF",
       "name": "Safi",
-      "parent": "10",
+      "parent": "07",
       "type": "Province"
     },
     {
       "code": "MA-SAL",
       "name": "Salé",
-      "parent": "07",
+      "parent": "04",
       "type": "Prefecture"
     },
     {
       "code": "MA-SEF",
       "name": "Sefrou",
-      "parent": "05",
+      "parent": "03",
       "type": "Province"
     },
     {
       "code": "MA-SET",
       "name": "Settat",
-      "parent": "09",
+      "parent": "06",
+      "type": "Province"
+    },
+    {
+      "code": "MA-SIB",
+      "name": "Sidi Bennour",
+      "parent": "06",
+      "type": "Province"
+    },
+    {
+      "code": "MA-SIF",
+      "name": "Sidi Ifni",
+      "parent": "10",
       "type": "Province"
     },
     {
       "code": "MA-SIK",
-      "name": "Sidl Kacem",
-      "parent": "02",
+      "name": "Sidi Kacem",
+      "parent": "04",
+      "type": "Province"
+    },
+    {
+      "code": "MA-SIL",
+      "name": "Sidi Slimane",
+      "parent": "04",
       "type": "Province"
     },
     {
       "code": "MA-SKH",
       "name": "Skhirate-Témara",
-      "parent": "07",
+      "parent": "04",
       "type": "Prefecture"
     },
     {
-      "code": "MA-SYB",
-      "name": "Sidi Youssef Ben Ali",
+      "code": "MA-TAF",
+      "name": "Tarfaya (EH-partial)",
       "parent": "11",
-      "type": "Prefecture"
+      "type": "Province"
     },
     {
       "code": "MA-TAI",
       "name": "Taourirt",
-      "parent": "04",
+      "parent": "02",
       "type": "Province"
     },
     {
@@ -14317,13 +14729,13 @@
     {
       "code": "MA-TAR",
       "name": "Taroudant",
-      "parent": "13",
+      "parent": "09",
       "type": "Province"
     },
     {
       "code": "MA-TAT",
       "name": "Tata",
-      "parent": "14",
+      "parent": "09",
       "type": "Province"
     },
     {
@@ -14336,12 +14748,18 @@
       "code": "MA-TET",
       "name": "Tétouan",
       "parent": "01",
-      "type": "Prefecture"
+      "type": "Province"
+    },
+    {
+      "code": "MA-TIN",
+      "name": "Tinghir",
+      "parent": "08",
+      "type": "Province"
     },
     {
       "code": "MA-TIZ",
       "name": "Tiznit",
-      "parent": "13",
+      "parent": "09",
       "type": "Province"
     },
     {
@@ -14352,14 +14770,20 @@
     },
     {
       "code": "MA-TNT",
-      "name": "Tan-Tan",
-      "parent": "14",
+      "name": "Tan-Tan (EH-partial)",
+      "parent": "10",
+      "type": "Province"
+    },
+    {
+      "code": "MA-YUS",
+      "name": "Youssoufia",
+      "parent": "07",
       "type": "Province"
     },
     {
       "code": "MA-ZAG",
       "name": "Zagora",
-      "parent": "13",
+      "parent": "08",
       "type": "Province"
     },
     {
@@ -16430,19 +16854,19 @@
       "type": "State"
     },
     {
+      "code": "MX-CMX",
+      "name": "Ciudad de México",
+      "type": "Federal district"
+    },
+    {
       "code": "MX-COA",
-      "name": "Coahuila",
+      "name": "Coahuila de Zaragoza",
       "type": "State"
     },
     {
       "code": "MX-COL",
       "name": "Colima",
       "type": "State"
-    },
-    {
-      "code": "MX-DIF",
-      "name": "Distrito Federal",
-      "type": "Federal district"
     },
     {
       "code": "MX-DUR",
@@ -16476,7 +16900,7 @@
     },
     {
       "code": "MX-MIC",
-      "name": "Michoacán",
+      "name": "Michoacán de Ocampo",
       "type": "State"
     },
     {
@@ -16546,7 +16970,7 @@
     },
     {
       "code": "MX-VER",
-      "name": "Veracruz",
+      "name": "Veracruz de Ignacio de la Llave",
       "type": "State"
     },
     {
@@ -17293,85 +17717,85 @@
       "code": "NP-BA",
       "name": "Bagmati",
       "parent": "1",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-BH",
       "name": "Bheri",
       "parent": "2",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-DH",
       "name": "Dhawalagiri",
       "parent": "3",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-GA",
       "name": "Gandaki",
       "parent": "3",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-JA",
       "name": "Janakpur",
       "parent": "1",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-KA",
       "name": "Karnali",
       "parent": "2",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-KO",
       "name": "Kosi",
       "parent": "4",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-LU",
       "name": "Lumbini",
       "parent": "3",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-MA",
       "name": "Mahakali",
       "parent": "5",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-ME",
       "name": "Mechi",
       "parent": "4",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-NA",
       "name": "Narayani",
       "parent": "1",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-RA",
       "name": "Rapti",
       "parent": "2",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-SA",
       "name": "Sagarmatha",
       "parent": "4",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NP-SE",
       "name": "Seti",
       "parent": "5",
-      "type": "zone"
+      "type": "Zone"
     },
     {
       "code": "NR-01",
@@ -18288,7 +18712,7 @@
     },
     {
       "code": "PH-NEC",
-      "name": "Negroe Occidental",
+      "name": "Negros Occidental",
       "parent": "06",
       "type": "Province"
     },
@@ -20024,87 +20448,87 @@
     {
       "code": "SD-DC",
       "name": "Zalingei",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-DE",
       "name": "Sharq Dārfūr",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-DN",
       "name": "Shamāl Dārfūr",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-DS",
       "name": "Janūb Dārfūr",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-DW",
       "name": "Gharb Dārfūr",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-GD",
       "name": "Al Qaḑārif",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-GZ",
       "name": "Al Jazīrah",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-KA",
       "name": "Kassalā",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-KH",
       "name": "Al Kharţūm",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-KN",
       "name": "Shamāl Kurdufān",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-KS",
       "name": "Janūb Kurdufān",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-NB",
       "name": "An Nīl al Azraq",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-NO",
       "name": "Ash Shamālīyah",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-NR",
       "name": "An Nīl",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-NW",
       "name": "An Nīl al Abyaḑ",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-RS",
       "name": "Al Baḩr al Aḩmar",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SD-SI",
       "name": "Sinnār",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SE-AB",
@@ -21618,53 +22042,53 @@
     },
     {
       "code": "SS-BN",
-      "name": "Northern Bahr el-Ghazal",
-      "type": "state"
+      "name": "Northern Bahr el Ghazal",
+      "type": "State"
     },
     {
       "code": "SS-BW",
-      "name": "Western Bahr el-Ghazal",
-      "type": "state"
+      "name": "Western Bahr el Ghazal",
+      "type": "State"
     },
     {
       "code": "SS-EC",
       "name": "Central Equatoria",
-      "type": "state"
+      "type": "State"
     },
     {
-      "code": "SS-EE8",
+      "code": "SS-EE",
       "name": "Eastern Equatoria",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SS-EW",
       "name": "Western Equatoria",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SS-JG",
       "name": "Jonglei",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SS-LK",
       "name": "Lakes",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SS-NU",
       "name": "Upper Nile",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SS-UY",
       "name": "Unity",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "SS-WR",
       "name": "Warrap",
-      "type": "state"
+      "type": "State"
     },
     {
       "code": "ST-P",
@@ -25182,7 +25606,7 @@
       "type": "Province"
     },
     {
-      "code": "ZA-GP",
+      "code": "ZA-GT",
       "name": "Gauteng",
       "type": "Province"
     },
@@ -25202,6 +25626,11 @@
       "type": "Province"
     },
     {
+      "code": "ZA-NL",
+      "name": "Kwazulu-Natal",
+      "type": "Province"
+    },
+    {
       "code": "ZA-NW",
       "name": "North-West (South Africa)",
       "type": "Province"
@@ -25209,11 +25638,6 @@
     {
       "code": "ZA-WC",
       "name": "Western Cape",
-      "type": "Province"
-    },
-    {
-      "code": "ZA-ZN",
-      "name": "Kwazulu-Natal",
       "type": "Province"
     },
     {

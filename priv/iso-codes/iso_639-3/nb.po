@@ -1,22 +1,30 @@
-# Norsk (Bøkmal) translations of ISO 639 Language names
-# Copyright (C) 2002,2004 Free Software Foundation, Inc.
-# Alastair McKinstry <mckinstry@computer.org>, 2002
-# Translations from KDE:
-#  Rune Nordvik <rune@linuxnorge.com>, 2001
-# Alastair McKinstry - translations from ICU-3.0
+# Translation of ISO 639-3 to Bokmål, Norwegian; Norwegian Bokmål
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+# .
+# This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
+# Rune Nordvik <rune@linuxnorge.com>, 2001.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Petter Reinholdtsen <pere-weblate@hungry.com>, 2018.
+# Allan Nordhøy <epost@anotheragency.no>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2002-01-05 19:40+0000\n"
-"Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
-"Language-Team: Norsk bokmål\n"
-"Language: \n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-09-19 06:30+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/iso-"
+"codes/iso-639-3/nb/>\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.2-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -27,14 +35,12 @@ msgid "Alumu-Tesu"
 msgstr ""
 
 #. Name for aac
-#, fuzzy
 msgid "Ari"
-msgstr "Arabisk"
+msgstr ""
 
 #. Name for aad
-#, fuzzy
 msgid "Amal"
-msgstr "somalisk"
+msgstr ""
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
@@ -45,14 +51,12 @@ msgid "Albanian, Arbëreshë"
 msgstr ""
 
 #. Name for aaf
-#, fuzzy
 msgid "Aranadan"
-msgstr "kannada"
+msgstr ""
 
 #. Name for aag
-#, fuzzy
 msgid "Ambrak"
-msgstr "aymara"
+msgstr ""
 
 #. Name for aah
 msgid "Abu' Arapesh"
@@ -67,14 +71,12 @@ msgid "Arifama-Miniafia"
 msgstr ""
 
 #. Name for aak
-#, fuzzy
 msgid "Ankave"
-msgstr "Aserbadjansk"
+msgstr ""
 
 #. Name for aal
-#, fuzzy
 msgid "Afade"
-msgstr "afar"
+msgstr ""
 
 #. Name for aan
 msgid "Anambé"
@@ -2768,9 +2770,8 @@ msgid "Bambara"
 msgstr "bambara"
 
 #. Name for ban
-#, fuzzy
 msgid "Balinese"
-msgstr "Kinesisk"
+msgstr "balinesisk"
 
 #. Name for bao
 msgid "Waimaha"
@@ -4050,7 +4051,7 @@ msgstr "Thai"
 
 #. Name for bku
 msgid "Buhid"
-msgstr ""
+msgstr "buhid"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -5195,9 +5196,8 @@ msgid "Bushoong"
 msgstr ""
 
 #. Name for bug
-#, fuzzy
 msgid "Buginese"
-msgstr "Kinesisk"
+msgstr "buginesisk"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -5662,9 +5662,8 @@ msgid "Binahari"
 msgstr "Thai"
 
 #. Name for bya
-#, fuzzy
 msgid "Batak"
-msgstr "Baskisk"
+msgstr "batak"
 
 #. Name for byb
 #, fuzzy
@@ -8694,9 +8693,8 @@ msgid "Domu"
 msgstr ""
 
 #. Name for doh
-#, fuzzy
 msgid "Dong"
-msgstr "Makedonsk"
+msgstr "Vietnamesiske dồng"
 
 #. Name for doi
 msgid "Dogri (macrolanguage)"
@@ -10613,9 +10611,8 @@ msgid "Dari, Zoroastrian"
 msgstr ""
 
 #. Name for gcc
-#, fuzzy
 msgid "Mali"
-msgstr "Maori"
+msgstr "Mali"
 
 #. Name for gcd
 #, fuzzy
@@ -13080,9 +13077,8 @@ msgid "Hya"
 msgstr ""
 
 #. Name for hye
-#, fuzzy
 msgid "Armenian"
-msgstr "Rumensk"
+msgstr "armensk"
 
 #. Name for iai
 #, fuzzy
@@ -19131,9 +19127,8 @@ msgid "Loarki"
 msgstr "Maori"
 
 #. Name for lrl
-#, fuzzy
 msgid "Lari"
-msgstr "Maori"
+msgstr "Georgiske lari"
 
 #. Name for lrm
 #, fuzzy
@@ -20646,8 +20641,9 @@ msgid "Mixe, Isthmus"
 msgstr ""
 
 #. Name for mis
+#, fuzzy
 msgid "Uncoded languages"
-msgstr ""
+msgstr "Koreansk"
 
 #. Name for mit
 #, fuzzy
@@ -31142,30 +31138,30 @@ msgstr "somalisk"
 #. Name for sos
 #, fuzzy
 msgid "Seeku"
-msgstr "Gresk"
+msgstr "Sembla"
 
 #. Name for sot
-#, fuzzy
 msgid "Southern Sotho"
-msgstr "nordsamisk"
+msgstr "Sørsotho"
 
 #. Inverted name for sot
 msgid "Sotho, Southern"
-msgstr "sotho (sørlig)"
+msgstr "Sotho, (sørlig)"
 
 #. Name for sou
 #, fuzzy
 msgid "Southern Thai"
-msgstr "sotho (sørlig)"
+msgstr "Sørthai"
 
 #. Inverted name for sou
 #, fuzzy
 msgid "Thai, Southern"
-msgstr "sotho (sørlig)"
+msgstr "Thai, Sørlig"
 
 #. Name for sov
+#, fuzzy
 msgid "Sonsorol"
-msgstr ""
+msgstr "Sonsorol"
 
 #. Name for sow
 #, fuzzy
@@ -32243,9 +32239,8 @@ msgid "Tamang, Eastern"
 msgstr ""
 
 #. Name for tak
-#, fuzzy
 msgid "Tala"
-msgstr "tatarisk"
+msgstr "Samoanske tala"
 
 #. Name for tal
 #, fuzzy
@@ -33290,7 +33285,7 @@ msgstr "madagassisk"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr ""
+msgstr "Tokelau"
 
 #. Name for tkm
 msgid "Takelma"
@@ -34525,9 +34520,8 @@ msgid "Ambrym, Southeast"
 msgstr ""
 
 #. Name for tvl
-#, fuzzy
 msgid "Tuvalu"
-msgstr "Julia"
+msgstr "Tuvalu"
 
 #. Name for tvm
 msgid "Tela-Masbuar"
@@ -35496,7 +35490,7 @@ msgstr ""
 
 #. Name for vai
 msgid "Vai"
-msgstr ""
+msgstr "vai"
 
 #. Name for vaj
 #, fuzzy
@@ -39958,7 +39952,7 @@ msgstr "Tysk"
 
 #. Name for zbl
 msgid "Blissymbols"
-msgstr ""
+msgstr "blissymbol"
 
 #. Name for zbt
 #, fuzzy
@@ -40925,6 +40919,5 @@ msgid "Zuojiang Zhuang"
 msgstr "sotho (sørlig)"
 
 #. Inverted name for zzj
-#, fuzzy
 msgid "Zhuang, Zuojiang"
-msgstr "sotho (sørlig)"
+msgstr ""

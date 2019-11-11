@@ -1,33 +1,32 @@
-# translation of he.po to Hebrew
-# translation of iso-codes_iso_3166_he.po to
-# Translation of ISO-3166 (country names) to Hebrew
-#
+# Translation of ISO 3166-1 to Hebrew
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Translations taken from KDE:
-#
-#   Free Software Foundation, Inc., 2002,2003.
-#   Alastair McKinstry <mckinstry@computer.org>, 2002.
-#   - Meni Livne <livne@kde.org>, 2000.
-#   Meital Bourvine <meitalbourvine@gmail.com>, 2007.
-#   Lior Kaplan <kaplan@debian.org>, 2005,2006, 2007, 2008, 2010, 2011, 2012.
-#   Lior Kaplan <kaplan@debian.org>, 2015
-#
+# .
+# Copyright ©
+# Meni Livne <livne@kde.org>, 2000.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Meital Bourvine <meitalbourvine@gmail.com>, 2007.
+# Lior Kaplan <kaplan@debian.org>, 2005-2008, 2010-2012, 2015.
+# jeremy rutman <jeremy.rutman@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: he\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2015-08-19 12:59+0300\n"
-"Last-Translator: Lior Kaplan <kaplan@debian.org>\n"
-"Language-Team: Hebrew <>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-07-01 20:01+0000\n"
+"Last-Translator: jeremy rutman <jeremy.rutman@gmail.com>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.5\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
+"n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 3.8-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -354,16 +353,12 @@ msgid "Union of the Comoros"
 msgstr "האיחוד של קומורוס"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "כף ורדה"
+msgstr "קאבו ורדה"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "הרפובליקה של כף ורדה"
+msgstr "הרפובליקה של קאבו ורדה"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -402,6 +397,10 @@ msgid "Republic of Cyprus"
 msgstr "הרפובליקה של קפריסין"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "צ'כיה"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "הרפובליקה הצ'כית"
 
@@ -594,9 +593,7 @@ msgid "Gambia"
 msgstr "גמביה"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "הרפובליקה של גמביה"
 
 #. Name for GNB
@@ -725,7 +722,7 @@ msgstr "אירלנד"
 
 #. Name for IRN
 msgid "Iran, Islamic Republic of"
-msgstr "אירן, הרפובליקה האיסלמית של "
+msgstr "אירן, הרפובליקה האיסלמית של"
 
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
@@ -829,7 +826,7 @@ msgstr "סנט קיטס ונביס"
 
 #. Name for KOR
 msgid "Korea, Republic of"
-msgstr "קוריאה, הרפובליקה של "
+msgstr "קוריאה, הרפובליקה של"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -988,12 +985,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "הרפובליקה של איי מרשל"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "הרפובליקה של מקדוניה"
+msgid "North Macedonia"
+msgstr "צפון קלדוניה"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "הרפובליקה היגוסלבית לשעבר של מקדוניה"
+msgid "Republic of North Macedonia"
+msgstr "הרפובליקה של צפון מקדוניה"
 
 #. Name for MLI
 msgid "Mali"
@@ -1237,7 +1234,7 @@ msgstr "פורטו ריקו"
 
 #. Name for PRK
 msgid "Korea, Democratic People's Republic of"
-msgstr "קוריאה, דמוקרטיית העם של "
+msgstr "קוריאה, דמוקרטיית העם של"
 
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
@@ -1440,12 +1437,12 @@ msgid "Kingdom of Sweden"
 msgstr "הממלכה של שבדיה"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "סווזילנד"
+msgid "Eswatini"
+msgstr "אסווטני"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "ממכלת סווזילנד"
+msgid "Kingdom of Eswatini"
+msgstr "ממלכת אסווטיני"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1561,7 +1558,7 @@ msgstr "טיוואן"
 
 #. Name for TZA
 msgid "Tanzania, United Republic of"
-msgstr "טנזניה, הרפובליקה המאוחדת של "
+msgstr "טנזניה, הרפובליקה המאוחדת של"
 
 #. Official name for TZA
 msgid "United Republic of Tanzania"
@@ -1654,6 +1651,10 @@ msgstr "ויטנאם"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "הרפובליקה הסוציאליסטית של ויאטנם"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "ויטנאם"
 
 #. Name for VUT
 msgid "Vanuatu"

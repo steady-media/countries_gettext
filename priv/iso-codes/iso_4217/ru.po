@@ -1,29 +1,31 @@
-# translation of iso_4217-3.16.ru.po to Russian
-# Translation of ISO 4217 (currency names) to Russian
-#
+# Translation of ISO 4217 to Russian
+# Codes for the representation of currencies
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#
+# .
+# Copyright ©
 # Pavel Maryanov <acid_jack@ukr.net>, 2009.
-# Yuri Kozlov <yuray@komyakino.ru>, 2010, 2015.
 # Dmitry Sivachenko <trtrmitya@gmail.com>, 2015.
+# Yuri Kozlov <yuray@komyakino.ru>, 2010, 2015, 2017.
+# yurayko <yuray@komyakino.ru>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2015-11-22 13:04+0300\n"
-"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
-"Language-Team: Russian <gnu@d07.ru>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-11-04 09:23+0000\n"
+"Last-Translator: yurayko <yuray@komyakino.ru>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-4217/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3-dev\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -42,8 +44,6 @@ msgid "Armenian Dram"
 msgstr "Армянский драм"
 
 #. Name for ANG
-#, fuzzy
-#| msgid "Netherlands Antillian Guilder"
 msgid "Netherlands Antillean Guilder"
 msgstr "Нидерландский антильский гульден"
 
@@ -60,18 +60,14 @@ msgid "Australian Dollar"
 msgstr "Австралийский доллар"
 
 #. Name for AWG
-#, fuzzy
-#| msgid "Aruban Guilder"
 msgid "Aruban Florin"
-msgstr "Арубанский гульден"
+msgstr "Арубанский флорин"
 
 #. Name for AZN
 msgid "Azerbaijanian Manat"
 msgstr "Азербайджанский манат"
 
 #. Name for BAM
-#, fuzzy
-#| msgid "Convertible Marks"
 msgid "Convertible Mark"
 msgstr "Конвертируемая марка"
 
@@ -123,9 +119,7 @@ msgstr "Нгултрум"
 msgid "Pula"
 msgstr "Пула"
 
-#. Name for BYR
-#, fuzzy
-#| msgid "Belarussian Ruble"
+#. Name for BYN
 msgid "Belarusian Ruble"
 msgstr "Белорусский рубль"
 
@@ -162,18 +156,14 @@ msgid "Costa Rican Colon"
 msgstr "Костариканский колон"
 
 #. Name for CUC
-#, fuzzy
-#| msgid "Convertible Marks"
 msgid "Peso Convertible"
-msgstr "Конвертируемая марка"
+msgstr "Конвертируемое песо"
 
 #. Name for CUP
 msgid "Cuban Peso"
 msgstr "Кубинское песо"
 
 #. Name for CVE
-#, fuzzy
-#| msgid "Cape Verde Escudo"
 msgid "Cabo Verde Escudo"
 msgstr "Эскудо Кабо-Верде"
 
@@ -227,7 +217,7 @@ msgstr "Фунт стерлингов"
 
 #. Name for GEL
 msgid "Lari"
-msgstr "Лари"
+msgstr "Ларистанский"
 
 #. Name for GHS
 msgid "Ghana Cedi"
@@ -263,7 +253,7 @@ msgstr "Лемпира"
 
 #. Name for HRK
 msgid "Kuna"
-msgstr ""
+msgstr "Куна"
 
 #. Name for HTG
 msgid "Gourde"
@@ -410,10 +400,8 @@ msgid "Rufiyaa"
 msgstr "Руфия"
 
 #. Name for MWK
-#, fuzzy
-#| msgid "Zambian Kwacha"
 msgid "Malawi Kwacha"
-msgstr "Замбийская квача"
+msgstr "Малавийская квача"
 
 #. Name for MXN
 msgid "Mexican Peso"
@@ -425,7 +413,7 @@ msgstr "Малайзийский ринггит"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "Мозамбикский метикал"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -460,10 +448,8 @@ msgid "Balboa"
 msgstr "Бальбоа"
 
 #. Name for PEN
-#, fuzzy
-#| msgid "Som"
 msgid "Sol"
-msgstr "Сом"
+msgstr "Соль"
 
 #. Name for PGK
 msgid "Kina"
@@ -491,7 +477,7 @@ msgstr "Катарский риал"
 
 #. Name for RON
 msgid "Romanian Leu"
-msgstr ""
+msgstr "Румынский лей"
 
 #. Name for RSD
 msgid "Serbian Dinar"
@@ -546,10 +532,8 @@ msgid "Surinam Dollar"
 msgstr "Суринамский доллар"
 
 #. Name for SSP
-#, fuzzy
-#| msgid "Sudanese Pound"
 msgid "South Sudanese Pound"
-msgstr "Суданский фунт"
+msgstr "Фунт Южного Судана"
 
 #. Name for STD
 msgid "Dobra"
@@ -577,21 +561,17 @@ msgstr "Сомони"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr ""
+msgstr "Туркменский новый манат"
 
 #. Name for TND
 msgid "Tunisian Dinar"
 msgstr "Тунисский динар"
 
 #. Name for TOP
-#, fuzzy
-#| msgid "Pa'anga"
 msgid "Pa’anga"
 msgstr "Паанга"
 
 #. Name for TRY
-#, fuzzy
-#| msgid "New Turkish Lira"
 msgid "Turkish Lira"
 msgstr "Турецкая лира"
 
@@ -629,7 +609,7 @@ msgstr "Узбекский сум"
 
 #. Name for VEF
 msgid "Bolívar"
-msgstr ""
+msgstr "Боливар"
 
 #. Name for VND
 msgid "Dong"
@@ -656,38 +636,31 @@ msgid "Gold"
 msgstr "Тройская унция золота"
 
 #. Name for XBA
-#, fuzzy
-#| msgid "European Composite Unit (EURCO)"
 msgid "Bond Markets Unit European Composite Unit (EURCO)"
-msgstr "Европейская составная единица EURCO"
+msgstr "Европейская составная единица рынка облигаций (EURCO)"
 
 #. Name for XBB
-#, fuzzy
-#| msgid "European Monetary Unit (E.M.U.-6)"
 msgid "Bond Markets Unit European Monetary Unit (E.M.U.-6)"
-msgstr "Европейская валютная единица EMU-6"
+msgstr "Европейская валютная единица рынка облигаций (E.M.U.-6)"
 
 #. Name for XBC
-#, fuzzy
-#| msgid "European Unit of Account 9 (E.U.A.-9)"
 msgid "Bond Markets Unit European Unit of Account 9 (E.U.A.-9)"
-msgstr "Расчётная единица Европейского платежного союза EUA-9"
+msgstr ""
+"Расчётная единица 9 Европейского платежного союза рынка облигаций (E.U.A.-9)"
 
 #. Name for XBD
-#, fuzzy
-#| msgid "European Unit of Account 17 (E.U.A.-17)"
 msgid "Bond Markets Unit European Unit of Account 17 (E.U.A.-17)"
-msgstr "Расчётная единица Европейского платежного союза EUA-17"
+msgstr ""
+"Расчётная единица 17 Европейского платежного союза рынка облигаций (E.U."
+"A.-17)"
 
 #. Name for XCD
 msgid "East Caribbean Dollar"
 msgstr "Восточно-карибский доллар"
 
 #. Name for XDR
-#, fuzzy
-#| msgid "Special Drawing Rights"
 msgid "SDR (Special Drawing Right)"
-msgstr "Специальные права заимствования"
+msgstr "Специальное право заимствования (SDR)"
 
 #. Name for XOF
 msgid "CFA Franc BCEAO"
@@ -707,21 +680,19 @@ msgstr "Тройская унция платины"
 
 #. Name for XSU
 msgid "Sucre"
-msgstr ""
+msgstr "Сукре"
 
 #. Name for XTS
-#, fuzzy
-#| msgid "Code for testing purposes"
 msgid "Codes specifically reserved for testing purposes"
-msgstr "Код зарезервированный для тестовых целей"
+msgstr "Коды, зарезервированные для тестовых целей"
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr ""
+msgstr "Расчётная единица ADB"
 
 #. Name for XXX
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr ""
+msgstr "Коды, назначаемые при неденежных переводах"
 
 #. Name for YER
 msgid "Yemeni Rial"

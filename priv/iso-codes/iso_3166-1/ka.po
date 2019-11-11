@@ -1,17 +1,18 @@
-# Translation of ISO-3166 (country names) to Georgian
-#
+# Translation of ISO 3166-1 to Georgian
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-#   Aiet Kolkhi <aietkolkhi@gmail.com>, 2008.
-#
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+# Aiet Kolkhi <aietkolkhi@gmail.com>, 2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2008-09-09 23:36+0400\n"
 "Last-Translator: Aiet Kolkhi <aietkolkhi@gmail.com>\n"
 "Language-Team: Georgian\n"
@@ -393,6 +394,10 @@ msgid "Republic of Cyprus"
 msgstr "კვიპროსის რესპუბლიკა"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "ჩეხეთის რესპუბლიკა"
 
@@ -588,9 +593,9 @@ msgstr "გამბია"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "გამბიის რესპუბლიკა"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "ზამბიის რესპუბლიკა"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -983,12 +988,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "მარშალის კუნძულების რესპუბლიკა"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "მაკედონიის რესპუბლიკა"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "ახალი კალედონია"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "იუგოსლავიის ყოფილი რესპუბლიკა მაკედონია"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "ლიტვის რესპუბლიკა"
 
 #. Name for MLI
 msgid "Mali"
@@ -1442,12 +1451,14 @@ msgid "Kingdom of Sweden"
 msgstr "შვედეთის სამეფო"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "სვაზილენდი"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "სვაზილენდის სამეფო"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "ესპანეთის სამეფო"
 
 #. Name for SXM, Official name for SXM
 #, fuzzy
@@ -1658,6 +1669,12 @@ msgstr "ვიეტ-ნამი"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "ვიეტ-ნამის სოციალისტური რესპუბლიკა"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "ვიეტ-ნამი"
 
 #. Name for VUT
 msgid "Vanuatu"

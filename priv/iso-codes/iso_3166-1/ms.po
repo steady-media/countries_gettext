@@ -1,24 +1,27 @@
-# Translation of ISO-3166 (country names) to Malay
-#
+# Translation of ISO 3166-1 to Malay
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-#
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2008-07-17 03:56+0200\n"
-"Last-Translator: Nicholas Ng <nbliang@gmail.com>\n"
-"Language-Team: Malay\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2018-05-03 12:39+0000\n"
+"Last-Translator: Muhammad Nur Hidayat Yasuyoshi <mnh48mail@gmail.com>\n"
+"Language-Team: Malay <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/ms/>\n"
 "Language: ms\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 1.1.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.0-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -61,9 +64,8 @@ msgid "Andorra"
 msgstr "Andorra"
 
 #. Official name for AND
-#, fuzzy
 msgid "Principality of Andorra"
-msgstr "Pemerintahan Andorra"
+msgstr "Negara Andorra"
 
 #. Name for ARE
 msgid "United Arab Emirates"
@@ -87,7 +89,7 @@ msgstr "Republik Armenia"
 
 #. Name for ASM
 msgid "American Samoa"
-msgstr "American Samoa"
+msgstr "Samoa Amerika"
 
 #. Name for ATA
 msgid "Antarctica"
@@ -134,9 +136,8 @@ msgid "Belgium"
 msgstr "Belgium"
 
 #. Official name for BEL
-#, fuzzy
 msgid "Kingdom of Belgium"
-msgstr "Kingdom of Belgium"
+msgstr "Negara Belgium"
 
 #. Name for BEN
 msgid "Benin"
@@ -148,7 +149,7 @@ msgstr "Republik Benin"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "Belanda Caribbean"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -175,9 +176,8 @@ msgid "Bahrain"
 msgstr "Bahrain"
 
 #. Official name for BHR
-#, fuzzy
 msgid "Kingdom of Bahrain"
-msgstr "Kingdom of Bahrain"
+msgstr "Negara Bahrain"
 
 #. Name for BHS
 msgid "Bahamas"
@@ -185,7 +185,7 @@ msgstr "Bahamas"
 
 #. Official name for BHS
 msgid "Commonwealth of the Bahamas"
-msgstr ""
+msgstr "Komanwel Bahamas"
 
 #. Name for BIH
 msgid "Bosnia and Herzegovina"
@@ -197,7 +197,7 @@ msgstr "Republik Bosnia dan Herzegovina"
 
 #. Name for BLM
 msgid "Saint Barthélemy"
-msgstr ""
+msgstr "Saint Barthélemy"
 
 #. Name for BLR
 msgid "Belarus"
@@ -390,7 +390,7 @@ msgstr "Kepulauan Christmas"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "Cayman Islands"
+msgstr "Kepulauan Cayman"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -401,6 +401,10 @@ msgid "Republic of Cyprus"
 msgstr "Republik Cyprus"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Republik Czech"
 
@@ -540,8 +544,9 @@ msgid "Micronesia, Federated States of"
 msgstr ""
 
 #. Official name for FSM
+#, fuzzy
 msgid "Federated States of Micronesia"
-msgstr ""
+msgstr "Mikronesia"
 
 #. Name for GAB
 msgid "Gabon"
@@ -598,7 +603,7 @@ msgstr "Gambia"
 #. Official name for GMB
 #, fuzzy
 #| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "Republik Gambia"
 
 #. Name for GNB
@@ -611,7 +616,7 @@ msgstr ""
 
 #. Name for GNQ
 msgid "Equatorial Guinea"
-msgstr "Equatorial Guinea"
+msgstr "Guinea Khatulistiwa"
 
 #. Official name for GNQ
 msgid "Republic of Equatorial Guinea"
@@ -643,7 +648,7 @@ msgstr ""
 
 #. Name for GUF
 msgid "French Guiana"
-msgstr "French Guiana"
+msgstr "Guiana Perancis"
 
 #. Name for GUM
 msgid "Guam"
@@ -667,7 +672,7 @@ msgstr ""
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Heard Island and McDonald Islands"
+msgstr "Pulau Heard dan Kepulauan McDonald"
 
 #. Name for HND
 msgid "Honduras"
@@ -720,7 +725,7 @@ msgstr ""
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "British Indian Ocean Territory"
+msgstr "Wilayah Lautan Hindi British"
 
 #. Name for IRL
 msgid "Ireland"
@@ -864,9 +869,8 @@ msgid "Republic of Liberia"
 msgstr ""
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "Liberia"
+msgstr "Libya"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -995,12 +999,15 @@ msgstr ""
 
 #. Name for MKD
 #, fuzzy
-msgid "Macedonia, Republic of"
-msgstr "Republik Dominican"
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "New Caledonia"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr ""
+#, fuzzy
+#| msgid "Republic of Estonia"
+msgid "Republic of North Macedonia"
+msgstr "Republik Estonia"
 
 #. Name for MLI
 msgid "Mali"
@@ -1028,9 +1035,8 @@ msgid "Republic of Myanmar"
 msgstr "Republik Albania"
 
 #. Name for MNE, Official name for MNE
-#, fuzzy
 msgid "Montenegro"
-msgstr "Montserrat"
+msgstr "Montenegro"
 
 #. Name for MNG
 msgid "Mongolia"
@@ -1038,7 +1044,7 @@ msgstr "Mongolia"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Northern Mariana Islands"
+msgstr "Kepulauan Mariana Utara"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1114,7 +1120,7 @@ msgstr ""
 
 #. Name for NFK
 msgid "Norfolk Island"
-msgstr "Norfolk Island"
+msgstr "Pulau Norfolk"
 
 #. Name for NGA
 msgid "Nigeria"
@@ -1280,7 +1286,7 @@ msgstr ""
 
 #. Name for PYF
 msgid "French Polynesia"
-msgstr "French Polynesia"
+msgstr "Polinesia Perancis"
 
 #. Name for QAT
 msgid "Qatar"
@@ -1344,7 +1350,7 @@ msgstr ""
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "South Georgia and the South Sandwich Islands"
+msgstr "Georgia Selatan dan Kepulauan Sandwich Selatan"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
@@ -1393,21 +1399,19 @@ msgstr "Republik Wilayah Brazil"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
-msgstr "Saint Pierre and Miquelon"
+msgstr "Saint Pierre dan Miquelon"
 
 #. Name for SRB
-#, fuzzy
 msgid "Serbia"
-msgstr "Azerbaijan"
+msgstr "Serbia"
 
 #. Official name for SRB
 msgid "Republic of Serbia"
 msgstr ""
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "Republik Botswana"
+msgstr "Sudan Selatan"
 
 #. Official name for SSD
 #, fuzzy
@@ -1455,12 +1459,14 @@ msgid "Kingdom of Sweden"
 msgstr ""
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swaziland"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr ""
+#, fuzzy
+#| msgid "Kingdom of Bahrain"
+msgid "Kingdom of Eswatini"
+msgstr "Negara Bahrain"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1480,7 +1486,7 @@ msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "Turks and Caicos Islands"
+msgstr "Kepulauan Turks dan Caicos"
 
 #. Name for TCD
 msgid "Chad"
@@ -1584,7 +1590,7 @@ msgstr ""
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzania"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1600,7 +1606,7 @@ msgstr "Ukraine"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "United States Minor Outlying Islands"
+msgstr "Kepulauan Terpencil Kecil Amerika Syarikat"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1616,7 +1622,7 @@ msgstr "Amerika Syarikat"
 
 #. Official name for USA
 msgid "United States of America"
-msgstr ""
+msgstr "Amerika Syarikat"
 
 #. Name for UZB
 msgid "Uzbekistan"
@@ -1653,7 +1659,7 @@ msgstr ""
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "British Virgin Islands"
+msgstr "Kepulauan Virgin British"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
@@ -1671,6 +1677,10 @@ msgstr ""
 msgid "Socialist Republic of Viet Nam"
 msgstr ""
 
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "Vietnam"
+
 #. Name for VUT
 msgid "Vanuatu"
 msgstr "Vanuatu"
@@ -1681,7 +1691,7 @@ msgstr ""
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr "Wallis and Futuna"
+msgstr "Wallis dan Futuna"
 
 #. Name for WSM
 msgid "Samoa"

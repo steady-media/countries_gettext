@@ -1,25 +1,31 @@
-# Qırımtatarca ISO-3166 (country names)
+# Translation of ISO 3166-1 to Crimean Tatar; Crimean Turkish
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Reşat SABIQ <tilde.birlik@gmail.com>, 2009.
+# .
+# Notes:
 # Türkçeden çabik uyarlama.
+# .
+# Copyright ©
+# Reşat SABIQ <tilde.birlik@gmail.com>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2009-03-01 14:42-0600\n"
-"Last-Translator: Reşat SABIQ <tilde.birlik@gmail.com>\n"
-"Language-Team: Crimean Tatar <tilde-birlik-tercime@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2017-12-28 21:49+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Crimean Tatar <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/crh/>\n"
 "Language: crh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.19-dev\n"
 "X-Launchpad-Export-Date: 2009-03-01 08:56+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -394,6 +400,10 @@ msgid "Republic of Cyprus"
 msgstr "Kıbrıs Cumhuriyeti"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Çek Cumhuriyeti"
 
@@ -589,9 +599,9 @@ msgstr "Gambiya"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Gambiya Cumhuriyeti"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Zambiya Cumhuriyeti"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -856,7 +866,7 @@ msgstr "Liberya Cumhuriyeti"
 #. Name for LBY, Official name for LBY
 #, fuzzy
 msgid "Libya"
-msgstr "Liberya"
+msgstr "Libiya"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -984,12 +994,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marşal Adaları Cumhuriyeti"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Makedonya, Cumhuriyeti"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Yeni Kaledonya"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Makedonya Eski Yugoslavya Cumhuriyeti"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Litvanya Cumhuriyeti"
 
 #. Name for MLI
 msgid "Mali"
@@ -1442,12 +1456,14 @@ msgid "Kingdom of Sweden"
 msgstr "İsveç Qırallığı"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Svaziland"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Svaziland Qırallığı"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "İspanya Qırallığı"
 
 #. Name for SXM, Official name for SXM
 #, fuzzy
@@ -1560,7 +1576,7 @@ msgstr "Tayvan, Çin Eyaleti"
 
 #. Common name for TWN
 msgid "Taiwan"
-msgstr "Tayland"
+msgstr ""
 
 #. Name for TZA
 msgid "Tanzania, United Republic of"
@@ -1571,8 +1587,9 @@ msgid "United Republic of Tanzania"
 msgstr "Tanzanya Birleşik Cumhuriyeti"
 
 #. Common name for TZA
+#, fuzzy
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzaniya"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1658,6 +1675,12 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Vietnam Sosyalist Cumhuriyeti"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

@@ -1,18 +1,17 @@
-# translation of iso_639_3-3.10.1.bn-IN.po to Bengali INDIA
-# Translation of ISO 639 (language names) to LANGUAGE
-#
+# Translation of ISO 639-3 to Bengali
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#
-#   FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# Runa Bhattacharjee <runabh@gmail.com>, 2009, 2010.
+# .
+# Copyright ©
+# Runa Bhattacharjee <runabh@gmail.com>, 2009-2010.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2010-04-08 13:53+0530\n"
 "Last-Translator: Runa Bhattacharjee <runabh@gmail.com>\n"
 "Language-Team: Bengali (India) <discuss@lists.ankur.org.in>\n"
@@ -32038,7 +32037,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "পারম্পরিক সিরিয়াক"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"

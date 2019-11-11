@@ -1,16 +1,19 @@
-# Vietnamese translation for iso_3166.
-# Copyright © 2009 Free Software Foundation, Inc.
+# Translation of ISO 3166-1 to Vietnamese
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
 # Nguyễn Hùng Vũ <vuhung16@bigfoot.com>
 # Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
 # Hoang Nguyen <Minhhoang1004@gmail.com>, 2012.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2013-08-19 16:27+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: Vietnamese <>\n"
@@ -394,6 +397,10 @@ msgid "Republic of Cyprus"
 msgstr "Cộng hoà Síp"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Cộng hoà Séc"
 
@@ -587,9 +594,9 @@ msgstr "Găm-bi-a"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Cộng hoà Găm-bi-a"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Nước Cộng Hoà Xam-bi-a"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -980,12 +987,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Nước Cộng Hoà Quần Đảo Ma-san"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Nước Cộng Hoà Ma-xê-đô-ni"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Niu Ca-lê-đô-ni-a"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Nước Cộng Hoà Nguyên Nam Tư Ma-xê-đô-ni"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Cộng hoà Li-tu-a-ni-a"
 
 #. Name for MLI
 msgid "Mali"
@@ -1432,12 +1443,14 @@ msgid "Kingdom of Sweden"
 msgstr "Vương quốc Thuỵ Điển"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Xouă-xi-lan"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Vương Quốc Xouă-xi-lan"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Vương Quốc Tay Ban Nha"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1646,6 +1659,12 @@ msgstr "Việt Nam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Nước Cộng Hoà Xã Hội Việt Nam"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "Việt Nam"
 
 #. Name for VUT
 msgid "Vanuatu"

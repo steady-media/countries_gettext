@@ -1,26 +1,33 @@
-# Translation of ISO-3166 (country names) to Catalan
+# Translation of ISO 3166-1 to Catalan; Valencian
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C)
-# Free Software Foundation, Inc., 2006
+# .
+# Notes:
+# He usat la nomenclatura de http://www.traduim.com/
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Softcatalà <info@softcatala.org>, 2001.
-# Alastair McKinstry <mckinstry@computer.org>, 2001.
-# Orestes Mas i Casals <orestes@tsc.upc.es>, 2004-2006. (orestes: He usat la nomenclatura de http://www.traduim.com/)
+# Orestes Mas i Casals <orestes@tsc.upc.es>, 2004-2006.
 # Toni Hermoso Pulido <toniher@softcatala.org>, 2010-2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2012-03-05 22:45+0200\n"
-"Last-Translator: Toni Hermoso Pulido <toniher@softcatala.org>\n"
-"Language-Team: Catalan <ca@dodds.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2018-02-01 11:34+0000\n"
+"Last-Translator: Joan Montané <joan@montane.cat>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -395,6 +402,10 @@ msgid "Republic of Cyprus"
 msgstr "República de Xipre"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "Txèquia"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "República Txeca"
 
@@ -463,9 +474,8 @@ msgid "Eritrea"
 msgstr "Eritrea"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "Estats Units d'Amèrica"
+msgstr ""
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -589,9 +599,9 @@ msgstr "Gàmbia"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "República de Gàmbia"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "República de Zàmbia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -982,12 +992,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "República de les Illes Marshall"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Macedònia, República de"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Nova Caledònia"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "L'Exrepública Iugoslava de Macedònia"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "República de Lituània"
 
 #. Name for MLI
 msgid "Mali"
@@ -1215,9 +1229,8 @@ msgid "Papua New Guinea"
 msgstr "Papua Nova Guinea"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Estat Independent de Samoa"
+msgstr "Estat Independent de Papua Nova Guinea"
 
 #. Name for POL
 msgid "Poland"
@@ -1374,9 +1387,8 @@ msgid "Somalia"
 msgstr "Somàlia"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "República Federal d'Alemanya"
+msgstr "República Federal de Somàlia"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1439,12 +1451,14 @@ msgid "Kingdom of Sweden"
 msgstr "Regne de Suècia"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swazilàndia"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Regne de Swazilàndia"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Regne d'Espanya"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1568,7 +1582,7 @@ msgstr "República Unida de Tanzània"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzània"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1653,6 +1667,10 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "República Socialista de Vietnam"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

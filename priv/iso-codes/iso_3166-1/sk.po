@@ -1,24 +1,28 @@
-# Translation of ISO-3166 (country names) to Slovak
+# Translation of ISO 3166-1 to Slovak
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C)
-# Free Software Foundation, Inc., 2004
-# Peter Mann <Peter.Mann@tuke.sk>, 2004, 2006.
-# Pavol Cvengros <orpheus@hq.alert.sk>, 2001.
-# (translations from drakfw)
-# Alastair McKinstry <mckinstry@computer.org>, 2001.
-# Ivan Masár <helix84@centrum.sk>, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015.
+# .
+# Notes:
 # source:
 # http://www.geodesy.gov.sk
 # http://www.fao.org/ (historic names)
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
+# Pavol Cvengros <orpheus@hq.alert.sk>, 2001.
+# Peter Mann <Peter.Mann@tuke.sk>, 2004, 2006.
+# Ivan Masár <helix84@centrum.sk>, 2007-2015, 2017.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2015-08-31 14:19+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2017-07-12 10:23+0200\n"
 "Last-Translator: Ivan Masár <helix84@centrum.sk>\n"
-"Language-Team: x\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -353,14 +357,10 @@ msgid "Union of the Comoros"
 msgstr "Komorský zväz"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Kapverdy"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Kapverdská republika"
 
@@ -401,6 +401,10 @@ msgid "Republic of Cyprus"
 msgstr "Cyperská republika"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "Česko"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Česká republika"
 
@@ -594,9 +598,9 @@ msgstr "Gambia"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Gambijská republika"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Zambijská republika"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -988,12 +992,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republika Marshallových ostrovov"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Macedónska republika"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Nová Kaledónia"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Bývalá juhoslovanská republika Macedónsko"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Litovská republika"
 
 #. Name for MLI
 msgid "Mali"
@@ -1440,12 +1448,14 @@ msgid "Kingdom of Sweden"
 msgstr "Švédske kráľovstvo"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Svazijsko"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Svazijské kráľovstvo"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Španielske kráľovstvo"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1654,6 +1664,10 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Vietnamská socialistická republika"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

@@ -1,16 +1,17 @@
-# Translation of ISO 639 (3.15) to Malayalam
-#
+# Translation of ISO 639-2 to Malayalam
+# Codes for the representation of names of languages
+# Part 2: Alpha-3 code
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Ani Peter <peter.ani@gmail.com>, 2009
-#
+# .
+# Copyright ©
+# Ani Peter <peter.ani@gmail.com>, 2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2009-08-05 15:56+0530\n"
 "Last-Translator: അനി പീറ്റര്‍ <peter.ani@gmail.com>\n"
 "Language-Team:  Malayalam <smc-discuss@googlegroups.com>\n"
@@ -1281,7 +1282,7 @@ msgstr "ഡച്ച്, ഫ്ലെമിഷ്"
 
 #. Name for nno
 msgid "Norwegian Nynorsk; Nynorsk, Norwegian"
-msgstr "നോര്‍വീജിയന്‍ നീനോഴ്സ്ക്; നീനോഴ്സ്ക്, നോര്‍വീജിയന്‍ "
+msgstr "നോര്‍വീജിയന്‍ നീനോഴ്സ്ക്; നീനോഴ്സ്ക്, നോര്‍വീജിയന്‍"
 
 #. Name for nob
 msgid "Bokmål, Norwegian; Norwegian Bokmål"

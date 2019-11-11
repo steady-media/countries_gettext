@@ -1,22 +1,17 @@
-# Translation of ISO 3166 (country names) to Malayalam
-#
+# Translation of ISO 3166-1 to Malayalam
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C) 2006-2008 Praveen A <pravi.a@gmail.com> and contributors listed below,
-# Praveen A <pravi.a@gmail.com>, 2006, 2008.
-#    Translators, if you are not familiar with the PO format, gettext
-#    documentation is worth reading, especially sections dedicated to
-#    this format, e.g. by running:
-#         info -n '(gettext)PO Files'
-#         info -n '(gettext)Header Entry'
-#
-#
+# .
+# Copyright ©
+# Praveen A <pravi.a@gmail.com>, 2006-2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2008-05-30 05:10+0530\n"
 "Last-Translator: Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
@@ -279,7 +274,7 @@ msgstr "കൊകോസ് (കീലിങ്ങ്) ദ്വീപുകള�
 
 #. Name for CHE
 msgid "Switzerland"
-msgstr "സ്വിറ്റ്സര്‍ലാന്‍ഡ് "
+msgstr "സ്വിറ്റ്സര്‍ലാന്‍ഡ്"
 
 #. Official name for CHE
 msgid "Swiss Confederation"
@@ -398,6 +393,10 @@ msgid "Republic of Cyprus"
 msgstr "സൈപ്രസ് റിപ്പബ്ലിക്"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "ചെക്ക് റിപ്പബ്ലിക്"
 
@@ -593,9 +592,9 @@ msgstr "ഗാംബിയ"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "ഗാംബിയന്‍ റിപ്പബ്ലിക്"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "സാംബിയന്‍ റിപ്പബ്ലിക്"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -719,7 +718,7 @@ msgstr "ബ്രിട്ടീഷ് ഇന്ത്യന്‍ മഹാസ�
 
 #. Name for IRL
 msgid "Ireland"
-msgstr "അയര്‍ലണ്ട്  "
+msgstr "അയര്‍ലണ്ട്"
 
 #. Name for IRN
 msgid "Iran, Islamic Republic of"
@@ -988,12 +987,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "മാര്‍ഷല്‍ ദ്വീപുകള്‍ റിപ്പബ്ലിക്"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "മാസിഡോണിയ, റിപ്പബ്ലിക് ഓഫ്"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "ന്യൂ കാലിഡോമിയ"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "ദി ഫോര്‍മര്‍ യുഗോസ്ലാവ് റിപ്പബ്ലിക് ഓഫ് മാസിഡോണിയ"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "ലിത്വാനിയന്‍ റിപ്പബ്ലിക്"
 
 #. Name for MLI
 msgid "Mali"
@@ -1447,12 +1450,14 @@ msgid "Kingdom of Sweden"
 msgstr "സ്വീഡന്‍ രാജ്യം"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "സ്വാസിലാന്‍ഡ്"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "സ്വാസിലാന്‍ഡ് രാജ്യം"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "സ്പെയിന്‍ രാജ്യം"
 
 #. Name for SXM, Official name for SXM
 #, fuzzy
@@ -1663,6 +1668,12 @@ msgstr "വിയറ്റ്നാം"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "വിയറ്റ്നാം സോഷ്യലിസ്റ്റ് റിപ്പബ്ലിക്"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "വിയറ്റ്നാം"
 
 #. Name for VUT
 msgid "Vanuatu"

@@ -1,15 +1,17 @@
-# Geez translations for iso-codes
-# Copyright (C) 2004 Alastair McKinstry <mckinstry@debian.org>
+# Translation of ISO 639-3 to Geez
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
-#  Translations taken from ICU-3.0
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2004-08-07 21:21+0100\n"
 "Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
 "Language-Team: Geez\n"
@@ -20081,8 +20083,9 @@ msgid "Mixe, Isthmus"
 msgstr ""
 
 #. Name for mis
+#, fuzzy
 msgid "Uncoded languages"
-msgstr ""
+msgstr "ኮሪያኛ"
 
 #. Name for mit
 #, fuzzy

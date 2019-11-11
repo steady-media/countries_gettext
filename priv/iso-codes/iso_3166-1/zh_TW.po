@@ -1,28 +1,33 @@
-# Translation of ISO-3166 (country names) to Traditional Chinese.
-# Copyright (C) 2001 Free Software Foundation, Inc.
+# Translation of ISO 3166-1 to Traditional Chinese
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#   Free Software Foundation, Inc., 2002, 2003.
-#   Alastair McKinstry <mckinstry@computer.org>, 2002.
-#   Translations from KDE:
-#   - AceLan <acelan@kde.linux.org.tw>, 2001.
-#   - Kenduest Lee <kenduest@i18n.linux.org.tw>, 2001.
-#   Tetralet <tetralet@gmail.com> 2004, 2007, 2008, 2009, 2010.
-#   Wei-Lun Chao <bluebat@member.fsf.org> 2010, 2012, 2013.
-#
+# .
+# Copyright ©
+# AceLan <acelan@kde.linux.org.tw>, 2001.
+# Kenduest Lee <kenduest@i18n.linux.org.tw>, 2001.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Tetralet <tetralet@gmail.com>, 2004, 2007-2010.
+# Wei-Lun Chao <bluebat@member.fsf.org>, 2010, 2012-2013.
+# Louies <louies0623@gmail.com>, 2019.
+# Walter Cheuk <wwycheuk@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2013-09-03 13:09+0800\n"
-"Last-Translator: Wei-Lun Chao <bluebat@member.fsf.org>\n"
-"Language-Team: Chinese (traditional) <zh-l10n@linux.org.tw>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-10-18 14:54+0000\n"
+"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-3166-1/zh_Hant/>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.9.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -349,14 +354,10 @@ msgid "Union of the Comoros"
 msgstr "葛摩聯邦"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "維德角"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "維德角共和國"
 
@@ -378,7 +379,7 @@ msgstr "古巴共和國"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr "庫拉索"
+msgstr "古拉索"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -397,6 +398,10 @@ msgid "Republic of Cyprus"
 msgstr "賽普勒斯共和國"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "捷克"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "捷克共和國"
 
@@ -589,9 +594,7 @@ msgid "Gambia"
 msgstr "甘比亞"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "甘比亞共和國"
 
 #. Name for GNB
@@ -983,12 +986,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "馬紹爾群島共和國"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "馬其頓共和國"
+msgid "North Macedonia"
+msgstr "北馬其頓"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "馬其頓前南斯拉夫共和國"
+msgid "Republic of North Macedonia"
+msgstr "北馬其頓共和國"
 
 #. Name for MLI
 msgid "Mali"
@@ -1435,12 +1438,12 @@ msgid "Kingdom of Sweden"
 msgstr "瑞典王國"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "史瓦濟蘭"
+msgid "Eswatini"
+msgstr "史瓦帝尼"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "史瓦濟蘭王國"
+msgid "Kingdom of Eswatini"
+msgstr "史瓦帝尼王國"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1564,7 +1567,7 @@ msgstr "坦尚尼亞聯合共和國"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "坦尚尼亞"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1649,6 +1652,10 @@ msgstr "越南"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "越南社會主義共和國"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "越南"
 
 #. Name for VUT
 msgid "Vanuatu"

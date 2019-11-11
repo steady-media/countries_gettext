@@ -25,5 +25,5 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 
 ## To update the source data:
   `rm -rf priv/iso-codes`
-  `git clone https://anonscm.debian.org/git/pkg-isocodes/iso-codes.git priv/iso-codes`
+  `git clone https://salsa.debian.org/iso-codes-team/iso-codes priv/iso-codes`
   `rm -rf priv/iso-codes/.git`

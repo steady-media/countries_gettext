@@ -1,15 +1,18 @@
-# Maori translations of ISO 639 Language names
-# Copyright (C) 2002 Free Software Foundation, Inc.
-# Alastair McKinstry <mckinstry@computer.org>, 2002
-# Translations from KDE:
-#  James Gasson <james.gasson@clear.net.nz>
-#
+# Translation of ISO 639-3 to Maori
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+# .
+# This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
+# James Gasson <james.gasson@clear.net.nz>
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2002-01-05 19:35+0000\n"
 "Last-Translator: James Gasson <james.gasson@clear.net.nz>\n"
 "Language-Team: Maori <james.gasson@clear.net.nz>\n"
@@ -20160,8 +20163,9 @@ msgid "Mixe, Isthmus"
 msgstr ""
 
 #. Name for mis
+#, fuzzy
 msgid "Uncoded languages"
-msgstr ""
+msgstr "Kaupapa"
 
 #. Name for mit
 msgid "Southern Puebla Mixtec"

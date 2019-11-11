@@ -1,27 +1,30 @@
-# Translation of ISO-3166 (country names) to Thai
-#
+# Translation of ISO 3166-1 to Thai
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Free Software Foundation, Inc., 2002,2003
-#   Alastair McKinstry <mckinstry@computer.org>, 2002, 2004
-#   Translations from KDE:
-#   - Thanomsub Noppaburana <donga@midaassets.com>
-#   Theppitak Karoonboonyanan <theppitak@gmail.com>, 2005-2016
-#
+# .
+# Copyright ©
+# Thanomsub Noppaburana <donga@midaassets.com>
+# Alastair McKinstry <mckinstry@debian.org>, 2002, 2004.
+# Theppitak Karoonboonyanan <theppitak@gmail.com>, 2005-2016.
+# kong <ph.kp111@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2016-04-14 16:16+0700\n"
-"Last-Translator: Theppitak Karoonboonyanan <theppitak@gmail.com>\n"
-"Language-Team: Thai <thai-l10n@googlegroups.com>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2018-06-30 08:43+0000\n"
+"Last-Translator: kong <ph.kp111@gmail.com>\n"
+"Language-Team: Thai <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/th/>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -392,6 +395,10 @@ msgid "Republic of Cyprus"
 msgstr "สาธารณรัฐไซปรัส"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "ประเทศเช็กเกีย"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "สาธารณรัฐเช็ก"
 
@@ -584,8 +591,10 @@ msgid "Gambia"
 msgstr "แกมเบีย"
 
 #. Official name for GMB
-msgid "Islamic Republic of the Gambia"
-msgstr "สาธารณรัฐอิสลามแกมเบีย"
+#, fuzzy
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "สาธารณรัฐแซมเบีย"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -976,12 +985,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "สาธารณรัฐหมู่เกาะมาร์แชลล์"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "มาร์ซิโดเนีย, สาธารณรัฐ"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "นิวแคลิโดเนีย"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "อดีตสาธารณรัฐยูโกสลาฟมาซิโดเนีย"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "สาธารณรัฐลิทัวเนีย"
 
 #. Name for MLI
 msgid "Mali"
@@ -1428,12 +1441,14 @@ msgid "Kingdom of Sweden"
 msgstr "ราชอาณาจักรสวีเดน"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "สวาซิแลนด์"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "ราชอาณาจักรสวาซิแลนด์"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "ราชอาณาจักรสเปน"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1642,6 +1657,12 @@ msgstr "เวียดนาม"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "สาธารณรัฐสังคมนิยมเวียดนาม"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "เวียดนาม"
 
 #. Name for VUT
 msgid "Vanuatu"

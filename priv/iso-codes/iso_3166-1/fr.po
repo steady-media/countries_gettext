@@ -1,29 +1,33 @@
-# Translation of ISO-3166 (country names) to French
-#
+# Translation of ISO 3166-1 to French
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#
-#   Free Software Foundation, Inc., 2006.
-#   Grégoire Colbert <gregus@linux-mandrake.com>, 2001.
-#   Alastair McKinstry <mckinstry@computer.org>, 2001.
-#   Christian Perrier <bubulle@debian.org>, 2004, 2006, 2007, 2009, 2010, 2011, 2012, 2013, 2015.
-#   Tobias Quathamer <toddy@debian.org>, 2008.
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
+# Grégoire Colbert <gregus@linux-mandrake.com>, 2001.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2008.
+# Christian Perrier <bubulle@debian.org>, 2004, 2006-2007, 2009-2013, 2015-2016.
+# Alban Vidal <alban.vidal@zordhak.fr>, 2017.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
+# Swann Martinet <swann.ranskassa@laposte.net>, 2019.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2015-06-10 18:58+0200\n"
-"Last-Translator: Christian Perrier <bubulle@debian.org>\n"
-"Language-Team: French <debian-l10n-french@lists.debian.org>\n"
+"Project-Id-Version: iso_3166-1\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-09-03 08:24+0000\n"
+"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -323,7 +327,7 @@ msgstr "République démocratique du Congo"
 
 #. Name for COG
 msgid "Congo"
-msgstr "Congo"
+msgstr "République du Congo"
 
 #. Official name for COG
 msgid "Republic of the Congo"
@@ -394,6 +398,10 @@ msgid "Republic of Cyprus"
 msgstr "République de Chypre"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "Tchéquie"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Tchèque, République"
 
@@ -439,7 +447,7 @@ msgstr "Algérie"
 
 #. Official name for DZA
 msgid "People's Democratic Republic of Algeria"
-msgstr "République démocratique populaire d'Algérie"
+msgstr "République algérienne démocratique et populaire"
 
 #. Name for ECU
 msgid "Ecuador"
@@ -467,7 +475,7 @@ msgstr "l'État d'Érythrée"
 
 #. Name for ESH
 msgid "Western Sahara"
-msgstr "Sahara Occidental"
+msgstr "Sahara occidental"
 
 #. Name for ESP
 msgid "Spain"
@@ -511,7 +519,7 @@ msgstr "République des Fidji"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
-msgstr "Falkland, Îles (Malvinas)"
+msgstr "Malouines, Îles (Falkland)"
 
 #. Name for FRA
 msgid "France"
@@ -586,9 +594,7 @@ msgid "Gambia"
 msgstr "Gambie"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "République de Gambie"
 
 #. Name for GNB
@@ -980,12 +986,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "République des Îles Marshall"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Macédoine, République de"
+msgid "North Macedonia"
+msgstr "Macédoine du Nord"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Ancienne république yougoslave de Macédoine"
+msgid "Republic of North Macedonia"
+msgstr "République de Macédoine du Nord"
 
 #. Name for MLI
 msgid "Mali"
@@ -1005,7 +1011,7 @@ msgstr "République de Malte"
 
 #. Name for MMR
 msgid "Myanmar"
-msgstr "Myanmar"
+msgstr "Birmanie"
 
 #. Official name for MMR
 msgid "Republic of Myanmar"
@@ -1021,7 +1027,7 @@ msgstr "Mongolie"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Mariannes du Nord, Îles"
+msgstr "Îles Mariannes du Nord"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1181,7 +1187,7 @@ msgstr "République du Panama"
 
 #. Name for PCN
 msgid "Pitcairn"
-msgstr "Pitcairn"
+msgstr "Îles Pitcairn"
 
 #. Name for PER
 msgid "Peru"
@@ -1349,7 +1355,7 @@ msgstr "République de Sierra Leone"
 
 #. Name for SLV
 msgid "El Salvador"
-msgstr "El Salvador"
+msgstr "Salvador"
 
 #. Official name for SLV
 msgid "Republic of El Salvador"
@@ -1357,7 +1363,7 @@ msgstr "République d'El Salvador"
 
 #. Name for SMR
 msgid "San Marino"
-msgstr "San Marin"
+msgstr "Saint-Marin"
 
 #. Official name for SMR
 msgid "Republic of San Marino"
@@ -1432,12 +1438,12 @@ msgid "Kingdom of Sweden"
 msgstr "Royaume de Suède"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swaziland"
+msgid "Eswatini"
+msgstr "Eswatini"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Royaume du Swaziland"
+msgid "Kingdom of Eswatini"
+msgstr "Royaume d’Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1501,7 +1507,7 @@ msgstr "Turkménistan"
 
 #. Name for TLS
 msgid "Timor-Leste"
-msgstr "Timor-Leste"
+msgstr "Timor oriental"
 
 #. Official name for TLS
 msgid "Democratic Republic of Timor-Leste"
@@ -1577,7 +1583,7 @@ msgstr "Ukraine"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Îles mineures éloignées des États-Unis d'Amérique"
+msgstr "Îles mineures éloignées des États-Unis"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1641,11 +1647,15 @@ msgstr "Îles Vierges des États-Unis d'Amérique"
 
 #. Name for VNM
 msgid "Viet Nam"
-msgstr "Viet Nam"
+msgstr "Viêt Nam"
 
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "République socialiste du Viet Nam"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "Viêt Nam"
 
 #. Name for VUT
 msgid "Vanuatu"

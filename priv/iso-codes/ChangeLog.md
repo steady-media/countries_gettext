@@ -1,3 +1,856 @@
+# iso-codes 4.4
+*Thu, 3. Oct 2019*
+
+* ISO 3166-2: Fix code for Eastern Equatoria. Fixes #12
+* ISO 3166-2: Remove MA- prefix from parent codes. Fixes #13
+* ISO 3166-2: Update codes for Kenya. Fixes #15
+* ISO 3166-1 translations
+  * Basque by Osoitz
+  * Chinese (Hong Kong) by Walter Cheuk
+  * Chinese (Traditional) by Walter Cheuk
+  * French by Swann Martinet
+  * Hungarian by Babos Gábor
+  * Indonesian by Chris Leonard
+  * Odia by Pro Neon
+  * Russian by Victor Ibragimov
+  * Tajik by Victor Ibragimov
+  * Turkish by Oguz Ersen
+* ISO 3166-2 translations
+  * Asturian by Enol P
+  * Basque by Chris Leonard, Osoitz
+  * Belarusian by Viktar Vauchkevich
+  * Catalan by Joan Montané
+  * English by Osoitz
+  * French by ButterflyOfFire
+  * Hungarian by Babos Gábor
+  * Indonesian by Andika Triwidada
+  * Polish by Jakub Bogusz
+  * Turkish by Oguz Ersen
+  * Ukrainian by Yuri Chornoivan
+* ISO 3166-3 translations
+  * Basque by Osoitz
+  * Polish by Jakub Bogusz
+  * Turkish by Oguz Ersen
+* ISO 639-2 translations
+  * Arabic by ButterflyOfFire
+  * Basque by Osoitz
+  * Chinese (Hong Kong) by Walter Cheuk
+  * Chinese (Traditional) by Walter Cheuk
+  * Croatian by gogogogi
+  * Polish by Jakub Bogusz
+  * Tajik by Victor Ibragimov
+  * Turkish by Oguz Ersen
+* ISO 639-3 translations
+  * Arabic by ButterflyOfFire
+  * Basque by Osoitz
+  * Chinese (Traditional) by Walter Cheuk
+  * Croatian by gogogogi
+  * Indonesian by Andika Triwidada
+  * Odia by Pro Neon
+  * Polish by Jakub Bogusz
+  * Turkish by Oguz Ersen
+* ISO 639-5 translations
+  * Asturian by Enol P
+  * Chinese (Traditional) by Walter Cheuk
+  * Croatian by gogogogi
+  * Polish by Jakub Bogusz
+* ISO 4217 translations
+  * Arabic by ButterflyOfFire
+  * Asturian by Enol P
+  * Croatian by gogogogi
+  * Turkish by Oguz Ersen
+* ISO 15924 translations
+  * Arabic by ButterflyOfFire
+  * Asturian by Enol P
+  * Chinese (Hong Kong) by Walter Cheuk
+  * Croatian by gogogogi
+  * Polish by Jakub Bogusz
+  * Turkish by Oguz Ersen
+
+
+# iso-codes 4.3
+*Thu, 11. Jul 2019*
+
+* ISO 3166-1
+  * Update names for GM (Gambia) and SZ (Eswatini) (Closes #10)
+  * Update names for MK (North Macedonia) (Closes #5)
+* ISO 3166-2
+  * Update names and codes for CN (China) from iso.org. Closes: #910632
+  * Update MA (Morocco) from iso.org. Closes salsa MR #9.
+* ISO 3166-1 translations
+  * Turkish by Atila KOÇ. Closes: #910350
+* ISO 3166-1 translations
+  * Afrikaans by Jacques Viviers
+  * Arabic by ButterflyOfFire
+  * Belarusian by Viktar Vauchkevich
+  * Bengali (India) by Dark Horse
+  * Chinese (Simplified) by Boyuan Yang, LI Daobing
+  * Czech by Miroslav Kure
+  * Danish by Chris Leonard, scootergrisen
+  * French by ButterflyOfFire
+  * German by Dr. Tobias Quathamer
+  * Greek by THANOS SIOURDAKIS
+  * Hebrew by jeremy rutman
+  * Icelandic by Sveinn í Felli
+  * Indonesian by Andika Triwidada
+  * Interlingua by Giovanni Sora
+  * Korean by Jun Hyung Shin
+  * Norwegian Bokmål by Allan Nordhøy
+  * Persian by Nader Jafari
+  * Polish by Jakub Bogusz
+  * Portuguese by Chris Leonard, Rui Mendes
+  * Portuguese (Brazil) by Rafael Fontenelle, Rui Mendes
+  * Punjabi by Aman ALam
+  * Sardinian by Ajeje Brazorf
+  * Spanish by Rodrigo Lledó
+  * Swedish by Anders Jonsson
+  * Ukrainian by Yuri Chornoivan
+  * Welsh by Aled Powell
+* ISO 3166-2 translations
+  * Belarusian by Viktar Vauchkevich
+  * Chinese (Simplified) by Boyuan Yang, LI Daobing
+  * Czech by Miroslav Kure
+  * Danish by scootergrisen
+  * French by ButterflyOfFire
+  * German by Dr. Tobias Quathamer
+  * Hebrew by jeremy rutman
+  * Indonesian by Andika Triwidada
+  * Norwegian Bokmål by Allan Nordhøy
+  * Polish by Jakub Bogusz
+  * Sardinian by Ajeje Brazorf
+  * Spanish by Rodrigo Lledó
+  * Swedish by Stefan Olsson
+  * Ukrainian by Yuri Chornoivan
+* ISO 3166-3 translations
+  * Arabic by ButterflyOfFire
+  * Danish by scootergrisen
+* ISO 639-2 translations
+  * Arabic by ButterflyOfFire
+  * Chinese (Simplified) by Boyuan Yang, LI Daobing
+  * Danish by scootergrisen
+  * Estonian by Mihkel Tõnnov
+  * Greek by THANOS SIOURDAKIS
+  * Hungarian by Doma Gergő
+  * Norwegian Bokmål by Allan Nordhøy
+  * Odia by Pro Neon
+  * Persian by Nader Jafari
+  * Portuguese by Rui Mendes
+  * Punjabi by Aman ALam
+  * Spanish by Luis A. Arizmendi, Rodrigo Lledó
+  * Turkish by Serdar Sağlam
+* ISO 639-3 translations
+  * Arabic by ButterflyOfFire
+  * Chinese (Simplified) by Boyuan Yang, LI Daobing
+  * Danish by scootergrisen
+  * Estonian by Mihkel Tõnnov
+  * German by Dr. Tobias Quathamer, ssantos
+  * Greek by THANOS SIOURDAKIS
+  * Hungarian by Doma Gergő
+  * Icelandic by Sveinn í Felli
+  * Indonesian by Andika Triwidada
+  * Odia by Pro Neon
+  * Persian by Nader Jafari
+  * Portuguese by Rui Mendes
+  * Punjabi by Aman ALam
+  * Spanish by Luis A. Arizmendi, Rodrigo Lledó
+  * Turkish by Serdar Sağlam
+* ISO 639-5 translations
+  * Danish by scootergrisen
+  * Estonian by Mihkel Tõnnov
+  * Greek by THANOS SIOURDAKIS
+  * Hungarian by Doma Gergő
+  * Norwegian Bokmål by Allan Nordhøy
+* ISO 4217 translations
+  * Arabic by ButterflyOfFire
+  * Chinese (Simplified) by LI Daobing
+  * Czech by Miroslav Kure
+  * Danish by scootergrisen
+  * Norwegian Bokmål by Petter Reinholdtsen
+  * Portuguese by Rui Mendes
+  * Portuguese (Brazil) by Rui Mendes
+  * Sardinian by Ajeje Brazorf
+  * Spanish by Rodrigo Lledó
+* ISO 15924 translations
+  * Arabic by ButterflyOfFire
+  * Chinese (Simplified) by Elizabeth Sherrock
+  * Czech by Lorem Ipsum
+  * Greek by THANOS SIOURDAKIS
+  * Interlingua by Giovanni Sora
+  * Persian by Nader Jafari
+  * Portuguese by Rui Mendes
+  * Portuguese (Brazil) by Rui Mendes
+  * Spanish by Rodrigo Lledó
+  * Turkish by Serdar Sağlam
+
+
+# iso-codes 4.2
+*Fri, 25. Jan 2019*
+
+* Update MX codes from ISO 3166-2.
+* ISO 3166-1 translations
+  * Arabic by ButterflyOfFire
+  * Chinese (Traditional) by Louies
+  * Persian by Mostafa Ahangarha
+  * Polish by Chris Leonard
+  * Portuguese by Ayalos
+  * Romanian by Andrei POPESCU
+  * Russian by yurayko
+* ISO 3166-2 translations
+  * Belarusian by Viktar Vauchkevich
+  * Chinese (Traditional) by Louies
+  * Dutch by Pander
+  * Greek by Vangelis Skarmoutsos
+  * Icelandic by Sveinn í Felli
+  * Polish by Jakub Bogusz
+  * Romanian by Andrei POPESCU
+  * Sardinian by Ajeje Brazorf
+  * Swedish by Anders Jonsson
+  * Ukrainian by Yuri Chornoivan
+  * German by Dr. Tobias Quathamer
+* ISO 639-2 translations
+  * Arabic by ButterflyOfFire
+  * Catalan by Joan Montané
+  * Chinese (Traditional) by Louies
+  * Dutch by Nathan Follens, Pander
+  * Greek by Vangelis Skarmoutsos
+  * Hebrew by Yaron Shahrabani
+  * Norwegian Bokmål by Allan Nordhøy
+  * Occitan by Quentí
+  * Persian by Mostafa Ahangarha
+  * Polish by Jakub Bogusz
+  * Romanian by Andrei POPESCU
+  * Sardinian by Ajeje Brazorf
+* ISO 639-3 translations
+  * Arabic by ButterflyOfFire
+  * Catalan by Joan Montané
+  * Chinese (Traditional) by Louies
+  * Dutch by Nathan Follens, Pander
+  * Greek by Vangelis Skarmoutsos
+  * Hebrew by Yaron Shahrabani
+  * Indonesian by Andika Triwidada
+  * Norwegian Bokmål by Allan Nordhøy
+  * Persian by Mostafa Ahangarha
+  * Polish by WaldiS
+  * Romanian by Andrei POPESCU
+  * Russian by yurayko
+  * Sardinian by Ajeje Brazorf
+* ISO 639-5 translations
+  * Chinese (Traditional) by Louies
+  * Polish by Jakub Bogusz
+* ISO 4217 translations
+  * Catalan by Joan Montané
+  * Chinese (Traditional) by Louies
+  * Greek by Vangelis Skarmoutsos
+  * Norwegian Bokmål by Allan Nordhøy, Petter Reinholdtsen
+  * Russian by yurayko
+* ISO 15924 translations
+  * Arabic by ButterflyOfFire
+  * Chinese (Traditional) by Louies
+  * German by ssantos
+  * Hebrew by Yaron Shahrabani
+  * Polish by WaldiS
+
+
+# iso-codes 4.1
+*Tue, 4 Sep 2018*
+
+* The XML files have been re-added, because too many
+  other programs still rely on those files.
+  ***********************************************************
+  ** If you're maintaining a program which uses XML files, **
+  ** please switch to the JSON data files.                 **
+  ***********************************************************
+* ISO 3166-2
+  * Update codes for ZA-GT (Gauteng) and ZA-NL (Kwazulu-Natal) (Closes #6)
+* ISO 3166-3 translations
+  * Italian by Sebastiano Pistore
+* ISO 15924 translations
+  * Estonian by Kristjan Räts
+
+
+# iso-codes 4.0
+*Sat, 25 Aug 2018*
+
+* The XML files have been removed after having been deprecated for
+  two and a half years. Please use the JSON data files instead.
+* ISO 3166-1 translations
+  * Arabic by ButterflyOfFire
+  * Central Khmer by ប៉ុកណូ រ៉ូយ៉ាល់
+  * Dutch by Chris Leonard, Pander
+  * German by Dr. Tobias Quathamer, ssantos
+  * Indonesian by Andika Triwidada
+  * Malay by Chris Leonard, Muhammad Nur Hidayat Yasuyoshi
+  * Sardinian by Ajeje Brazorf
+  * Spanish by Chris Leonard, Luis A. Arizmendi
+  * Swedish by Unlucky Luke
+  * Tajik by Victor Ibragimov
+  * Telugu by వీవెన్
+  * Thai by kong
+  * Ukrainian by Chris Leonard
+  * Welsh by Huw Waters
+* ISO 3166-2 translations
+  * Belarusian by Viktar Vauchkevich
+  * Dutch by Pander
+  * German by Dr. Tobias Quathamer, ssantos
+  * Icelandic by Sveinn í Felli
+  * Indonesian by Andika Triwidada, Chris Leonard
+  * Italian by Milo Casagrande
+  * Sardinian by Ajeje Brazorf
+  * Spanish by Adolfo Jayme Barrientos, Luis A. Arizmendi, advocatux
+  * Swedish by Dr. Tobias Quathamer, Sebastian Rasmussen
+  * Ukrainian by Yuri Chornoivan
+  * українська by Yuri Chornoivan
+* ISO 3166-3 translations
+  * Indonesian by Andika Triwidada
+  * Sardinian by Ajeje Brazorf
+  * Swedish by Sebastian Rasmussen
+* ISO 639-2 translations
+  * Arabic by ButterflyOfFire
+  * Catalan by ferranroig
+  * Dutch by Pander
+  * Estonian by Kristjan Räts
+  * German by ssantos
+  * Icelandic by Sveinn í Felli
+  * Indonesian by Andika Triwidada, ditokp
+  * Malay by Muhammad Nur Hidayat Yasuyoshi
+  * Norwegian Bokmål by Allan Nordhøy, Petter Reinholdtsen
+  * Portuguese (Brazil) by Rafael Fontenelle
+  * Sardinian by Ajeje Brazorf
+  * Serbian by Branko Kokanovic
+  * Spanish by Luis A. Arizmendi
+  * Swedish by Sebastian Rasmussen
+  * Welsh by Huw Waters
+* ISO 639-3 translations
+  * Arabic by ButterflyOfFire
+  * Catalan by ferranroig
+  * Dutch by Pander
+  * Estonian by Kristjan Räts
+  * German by ssantos
+  * Hungarian by Balázs Úr, Doma Gergő
+  * Icelandic by Sveinn í Felli
+  * Indonesian by Andika Triwidada
+  * Malay by Muhammad Nur Hidayat Yasuyoshi
+  * Norwegian Bokmål by Allan Nordhøy, Petter Reinholdtsen
+  * Portuguese by João Da Stronda
+  * Portuguese (Brazil) by Rafael Fontenelle
+  * Sardinian by Ajeje Brazorf
+  * Serbian by Branko Kokanovic
+  * Spanish by Luis A. Arizmendi
+  * Swedish by Sebastian Rasmussen
+  * Welsh by Huw Waters
+  * català by ferranroig
+* ISO 639-5 translations
+  * Indonesian by Andika Triwidada, ditokp
+  * Sardinian by Ajeje Brazorf
+* ISO 4217 translations
+  * German by Allan Nordhøy
+  * Indonesian by Andika Triwidada
+  * Norsk bokmål by Petter Reinholdtsen
+  * Norwegian Bokmål by Allan Nordhøy
+  * Portuguese (Brazil) by Rafael Fontenelle
+  * Sardinian by Ajeje Brazorf
+  * Swedish by Allan Nordhøy
+* ISO 15924 translations
+  * Dutch by Pander
+  * German by ssantos
+  * Icelandic by Sveinn í Felli
+  * Indonesian by Andika Triwidada
+  * Italian by Capsia Tech, Dr. Tobias Quathamer
+  * Norwegian Bokmål by Petter Reinholdtsen
+  * Portuguese (Brazil) by Rafael Fontenelle
+  * Sardinian by Ajeje Brazorf
+  * Spanish by Adolfo Jayme Barrientos
+  * Welsh by Huw Waters
+
+
+# iso-codes 3.79
+Tue, 27 Feb 2018
+
+* ISO 3166-1 translations
+  * Catalan by Joan Montané
+  * German by Dr. Tobias Quathamer
+  * Icelandic by Chris Leonard, Sveinn í Felli
+  * Korean by Changwoo Ryu
+  * Kurdish by Hüseyin Kaya
+  * Kyrgyz by Ilyas Bakirov
+  * Norwegian Bokmål by Chris Leonard
+  * Punjabi by Aman ALam
+  * Tajik by Victor Ibragimov
+* ISO 3166-2 translations
+  * Belarusian by Viktar Vauchkevich
+  * Estonian by Kristjan Räts
+  * German by Dr. Tobias Quathamer
+  * Greek by Vangelis Skarmoutsos
+  * Icelandic by Chris Leonard, Sveinn í Felli
+  * Korean by Changwoo Ryu
+  * Kyrgyz by Ilyas Bakirov
+* ISO 639-2 translations
+  * Belarusian by Viktar Vauchkevich
+  * Icelandic by Sveinn í Felli
+  * Korean by Changwoo Ryu
+  * Punjabi by Aman ALam
+* ISO 639-3 translations
+  * Estonian by Kristjan Räts
+  * Icelandic by Sveinn í Felli
+  * Korean by Changwoo Ryu
+  * Punjabi by Aman ALam
+* ISO 639-5 translations
+  * Icelandic by Sveinn í Felli
+* ISO 4217 translations
+  * Norwegian Bokmål by Petter Reinholdtsen
+* ISO 15924 translations
+  * Icelandic by Sveinn í Felli
+  * Korean by Changwoo Ryu
+  * Norwegian Bokmål by Petter Reinholdtsen
+  * Portuguese (Brazil) by Luiz Fernando Ranghetti
+
+
+# iso-codes 3.78
+Sat, 27 Jan 2018
+
+* Update all .pot and .po files with new URL for msgid bugs
+* Exclude some unneeded files from git archive tarball creation
+* Add bootstrap script to EXTRA_DIST
+* Fix copyright headers in .po files
+* Update docs for move from TP to Weblate and Alioth to Salsa
+* Remove old script with l10n status
+* Remove obsolete git documentation
+* Fix some errors in .po files, spotted by Weblate
+  * Remove trailing semicolon
+  * Use 'fuzzy' flag instead of trailing question mark
+  * Remove trailing colon
+  * Remove wrong ending space
+  * Remove wrong starting space
+* ISO 3166-1 translations
+  * Abkhazian by Chris Leonard
+  * Acehnese by Chris Leonard
+  * Acholi by Chris Leonard
+  * Afrikaans by Chris Leonard, anonymous
+  * Akan by Chris Leonard
+  * Albanian by Chris Leonard
+  * Amharic by Chris Leonard
+  * Aragonese by Chris Leonard
+  * Aymará by Chris Leonard
+  * Azerbaijani by Chris Leonard
+  * Bashkir by Chris Leonard
+  * Basque by Chris Leonard
+  * Bavarian by Chris Leonard
+  * Belarusian by Chris Leonard, Viktar Vauchkevich
+  * Bislama by Chris Leonard
+  * Bosnian by Chris Leonard
+  * Breton by Chris Leonard
+  * Burmese by Chris Leonard
+  * Catalan by Chris Leonard
+  * Chamorro by Chris Leonard
+  * Chechen by Chris Leonard
+  * Cherokee by Chris Leonard
+  * Chinese (Traditional) by ezjerry liao
+  * Chuvash by Chris Leonard
+  * Cornish by Chris Leonard
+  * Crimean Tatar by Chris Leonard
+  * Danish by Chris Leonard
+  * Dhivehi by Chris Leonard
+  * Estonian by Chris Leonard, Kristjan Räts
+  * Ewe by Chris Leonard
+  * Finnish by Chris Leonard
+  * Franco-Provençal by Chris Leonard
+  * French by Alban Vidal
+  * Frisian by Chris Leonard
+  * Friulian by Chris Leonard
+  * Fulah by Chris Leonard
+  * Galician by Chris Leonard
+  * Gikuyu by Chris Leonard
+  * Greek by Chris Leonard, Vangelis Skarmoutsos
+  * Greenlandic by Chris Leonard
+  * Guarani by Chris Leonard
+  * Haitian by Chris Leonard
+  * Hausa by Chris Leonard
+  * Hawaiian by Chris Leonard
+  * Hungarian by Balázs Úr, Chris Leonard
+  * Ido by Chris Leonard
+  * Interlingua by Chris Leonard, Giovanni Sora
+  * Inuktitut by Chris Leonard
+  * Irish by Chris Leonard
+  * Jamaican Patois by Chris Leonard
+  * Kabyle by Chris Leonard
+  * Kashubian by Chris Leonard
+  * Kinyarwanda by Chris Leonard
+  * Komi by Chris Leonard
+  * Korean by Changwoo Ryu, Chris Leonard
+  * Kyrgyz by Chris Leonard
+  * Lao by Chris Leonard
+  * Latvian by Chris Leonard
+  * Lithuanian by Chris Leonard
+  * Maithili by Chris Leonard
+  * Malay by Chris Leonard
+  * Maltese by Chris Leonard
+  * Manx by Chris Leonard
+  * Maori by Chris Leonard
+  * Meadow Mari by Chris Leonard
+  * Moldovan by Chris Leonard
+  * Mongolian by Chris Leonard
+  * Nahuatl languages by Chris Leonard
+  * Nauru by Chris Leonard
+  * Navaho by Chris Leonard
+  * Norwegian Bokmål by Allan Nordhøy
+  * Norwegian Nynorsk by Chris Leonard
+  * Occitan by Chris Leonard
+  * Pali by Chris Leonard
+  * Papiamento by Chris Leonard
+  * Portuguese by Chris Leonard
+  * Pushto by Chris Leonard
+  * Romanian by Chris Leonard
+  * Sardinian by Chris Leonard
+  * Serbian (latin) by Chris Leonard
+  * Sindhi by Chris Leonard
+  * Slovenian by Chris Leonard
+  * Somali by Chris Leonard
+  * Songhai languages by Chris Leonard
+  * Sorani by Chris Leonard
+  * Spanish by Chris Leonard
+  * Swahili by Chris Leonard
+  * Swedish by Anders Jonsson, Chris Leonard, Mick Ohrberg (TP)
+  * Tagalog by Chris Leonard
+  * Tigrinya by Chris Leonard
+  * Turkmen by Chris Leonard
+  * Ukrainian by Yuri Chornoivan
+  * Urdu by Chris Leonard, Saqib Razzaq
+  * Uzbek by Chris Leonard
+  * Venda by Chris Leonard
+  * Welsh by Chris Leonard
+  * Wolof by Chris Leonard
+  * Yoruba by Chris Leonard
+  * Zulu by Chris Leonard
+* ISO 3166-2 translations
+  * Belarusian by Chris Leonard, Viktar Vauchkevich
+  * Chinese (Traditional) by ezjerry liao
+  * Crimean Tatar by Chris Leonard
+  * Dutch by Freek de Kruijf
+  * Estonian by Kristjan Räts
+  * French by Alban Vidal
+  * Greek by Vangelis Skarmoutsos
+  * Hungarian by Balázs Úr
+  * Italian by Matteo Gheza
+  * Korean by Changwoo Ryu
+  * Occitan by Chris Leonard
+  * Romanian by Chris Leonard
+  * Spanish by Adolfo Jayme Barrientos
+  * Ukrainian by Yuri Chornoivan
+* ISO 3166-3 translations
+  * Estonian by Kristjan Räts
+  * French by Alban Vidal
+  * Greek by Vangelis Skarmoutsos
+  * Hungarian by Balázs Úr
+  * Norwegian Bokmål by Allan Nordhøy
+  * Spanish by Adolfo Jayme Barrientos
+* ISO 639-2 translations
+  * Afrikaans by Chris Leonard
+  * Amharic by Chris Leonard
+  * Basque by Mikel Olasagasti
+  * Belarusian by Viktar Vauchkevich
+  * Chinese (Traditional) by ezjerry liao
+  * Dutch by Freek de Kruijf
+  * Estonian by Kristjan Räts
+  * French by Alban Vidal
+  * German by Franz Wagner, Markus Enzenberger
+  * Greek by Vangelis Skarmoutsos
+  * Hungarian by Balázs Meskó, Balázs Úr
+  * Korean by Changwoo Ryu
+  * Spanish by Adolfo Jayme-Barrientos
+  * Swedish by Anders Jonsson (TP)
+  * Ukrainian by Yuri Chornoivan
+* ISO 639-3 translations
+  * Afrikaans by Chris Leonard
+  * Amharic by Chris Leonard
+  * Basque by Mikel Olasagasti
+  * Chinese (Traditional) by Chang-Chia Tseng, ezjerry liao
+  * Dutch by Freek de Kruijf
+  * Estonian by Kristjan Räts
+  * French by Alban Vidal
+  * Greek by Vangelis Skarmoutsos
+  * Hungarian by Balázs Úr
+  * Korean by Changwoo Ryu
+  * Maltese by Chris Leonard
+  * Norwegian Bokmål by Allan Nordhøy
+  * Pushto by Chris Leonard
+  * Spanish by Adolfo Jayme-Barrientos
+  * Tamil by Naveen Rajan
+  * Tigrinya by Chris Leonard
+  * Ukrainian by Yuri Chornoivan
+  * Zulu by Chris Leonard
+* ISO 639-5 translations
+  * Belarusian by Viktar Vauchkevich
+  * Dutch by Freek de Kruijf
+  * Estonian by Kristjan Räts
+  * French by Alban Vidal
+  * German by Markus Enzenberger
+  * Hungarian by Balázs Meskó, Balázs Úr
+  * Swedish by Anders Jonsson (TP)
+  * Ukrainian by Yuri Chornoivan
+* ISO 4217 translations
+  * Belarusian by Viktar Vauchkevich
+  * Catalan by Toni Hermoso Pulido (TP)
+  * Chinese (Traditional) by ezjerry liao
+  * Dutch by Freek de Kruijf
+  * Estonian by Kristjan Räts
+  * French by Alban Vidal
+  * Greek by Vangelis Skarmoutsos
+  * Hungarian by Balázs Meskó, Balázs Úr
+  * Korean by Changwoo Ryu
+* ISO 15924 translations
+  * Belarusian by Viktar Vauchkevich
+  * Chinese (Traditional) by ezjerry liao
+  * Dutch by Freek de Kruijf
+  * Estonian by Kristjan Räts
+  * Greek by Vangelis Skarmoutsos
+  * Hungarian by Balázs Úr
+  * Interlingua by Giovanni Sora
+  * Spanish by Adolfo Jayme-Barrientos
+
+
+iso-codes 3.77
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Wed, 22 Nov 2017
+
+  [ ISO 3166-1 translations ]
+  * Norwegian Bokmal: Fix typo for "Portugal", spotted by
+    Sigve Indregard. Thanks! Closes: alioth#315841
+  * Icelandic by Sveinn í Felli (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Dutch by Freek de Kruijf (TP)
+  * Italian by Milo Casagrande (TP)
+  * Brazilian Portuguese by Rafael Fontenelle (TP)
+  * Croatian by Božidar Putanec (TP)
+
+  [ ISO 3166-2 translations ]
+  * French: Fix typo for "Perugia", spotted by Mickael Jouanne.
+    Thanks! Closes: alioth#315845
+  * Dutch by Freek de Kruijf (TP)
+  * Italian by Milo Casagrande (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Icelandic by Sveinn í Felli (TP)
+
+  [ ISO 4217 translations ]
+  * Croatian by Božidar Putanec (TP)
+  * Icelandic by Sveinn í Felli (TP)
+
+  [ ISO 3166-3 translations ]
+  * Icelandic by Sveinn í Felli (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Dutch by Freek de Kruijf (TP)
+
+  [ ISO 639-2 translations ]
+  * Icelandic by Sveinn í Felli (TP)
+  * Dutch by Freek de Kruijf (TP)
+  * Italian by Milo Casagrande (TP)
+  * Polish by Jakub Bogusz (TP)
+
+  [ ISO 639-5 translations ]
+  * Dutch by Freek de Kruijf (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Italian by Sebastiano Pistore (TP)
+  * Icelandic by Sveinn í Felli (TP)
+
+  [ ISO 639-3 translations ]
+  * Dutch by Freek de Kruijf (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Icelandic by Sveinn í Felli (TP)
+
+  [ ISO 15924 translations ]
+  * Dutch by Freek de Kruijf (TP)
+  * Icelandic by Sveinn í Felli (TP)
+
+
+iso-codes 3.76
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Sun, 17 Sep 2017
+
+  [ ISO 3166-3 ]
+  * Add alpha_2 codes to ISO 3166-3.
+    Thanks to Adrian Mönnich for the suggestion. Closes: alioth#315741
+  * Correct numeric code for Netherlands Antilles (ANHH) from 532 to 530.
+
+  [ ISO 3166-1 translations ]
+  * French by Alban Vidal
+  * Japanese by Yasuaki Taniguchi (TP)
+  * Slovak by Ivan Masár
+
+  [ ISO 3166-2 translations ]
+  * French by Alban Vidal
+
+  [ ISO 4217 translations ]
+  * Italian by Sebastiano Pistore (TP)
+  * Japanese by Yasuaki Taniguchi (TP)
+
+  [ ISO 639-2 translations ]
+  * Slovak by Ivan Masár
+
+  [ ISO 639-3 translations ]
+  * Chinese (traditional) by Cheng-Chia Tseng (TP)
+  * Basque by Mikel Olasagasti Uranga (TP)
+
+  [ ISO 15924 translations ]
+  * Danish by Joe Hansen (TP)
+
+
+iso-codes 3.75
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Tue, 25 Apr 2017
+
+  [ ISO 3166-1 ]
+  * Add 'Vietnam' as common name
+
+  [ ISO 3166-2 ]
+  * Update French metropolitan regions. Thanks to Matthieu OLIVIER
+    for the bug report. Closes: alioth#315693
+
+  [ ISO 4217 ]
+  * Add new Belarusian Ruble, thanks to Gediminas Rastenis for
+    the bug report. Closes: alioth#315696
+
+  [ ISO 639-2 translations ]
+  * Czech by Miroslav Kure. Closes: #855148
+  * French by Alban Vidal
+
+  [ ISO 639-3 translations ]
+  * Swedish by Josef Andersson (TP)
+  * French by Alban Vidal
+
+  [ ISO 639-5 translations ]
+  * French by Alban Vidal
+
+  [ ISO 3166-1 translations ]
+  * Czech by Miroslav Kure. Closes: #855149
+  * German by Dr. Tobias Quathamer
+
+  [ ISO 3166-2 translations ]
+  * French by Alban Vidal
+  * German by Dr. Tobias Quathamer
+
+  [ ISO 4217 translations ]
+  * French by Alban Vidal
+  * Ukrainian by Yuri Chornoivan (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Greek by Vangelis Skarmoutsos (TP)
+  * Italian by Luca Ferretti (TP)
+  * Russian by Yuri Kozlov (TP)
+  * Croatian by Božidar Putanec (TP)
+  * Swedish by Anders Jonsson (TP)
+
+  [ ISO 15924 translations ]
+  * Ukrainian by Yuri Chornoivan (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Russian by Yuri Kozlov (TP)
+  * Swedish by Anders Jonsson (TP)
+
+
+iso-codes 3.74
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Mon, 16 Jan 2017
+
+  [ ISO 3166-2 ]
+  * Remove GB- prefix from parent code for Great Britain.
+    Closes: alioth#315604
+
+
+iso-codes 3.73
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Tue, 3 Jan 2017
+
+  [ ISO 3166-2 ]
+  * Remove CZ- prefix from parent code for Czechia.
+
+
+iso-codes 3.72
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Thu, 8 Dec 2016
+
+  [ ISO 3166-2 ]
+  * Update from iso.org for Great Britain. Thanks to Vitali Yakavenka
+    for the bug report. Closes: alioth#315563
+
+  [ ISO 3166-2 translations ]
+  * German by Dr. Tobias Quathamer
+
+
+iso-codes 3.71
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Tue, 15 Nov 2016
+
+  [ ISO 3166-1 ]
+  * Add short name of Czechia. Thanks to Jiri Bohac for the bug report
+    and patch. Closes: alioth#315551
+
+  [ ISO 3166-2 ]
+  * Update from iso.org for Czechia
+
+  [ ISO 3166-1 translations ]
+  * Indonesian by Andhika Padmawan (TP)
+  * Czech by Jiri Bohac
+  * German by Jiri Bohac
+  * French by Jiri Bohac
+
+  [ ISO 3166-2 translations ]
+  * German by Dr. Tobias Quathamer
+
+  [ ISO 4217 translations ]
+  * Indonesian by Andhika Padmawan (TP)
+
+
+iso-codes 3.70
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Mon, 29 Aug 2016
+
+  [ ISO 3166-2 ]
+  * Update name for ES-SS to Gipuzkoa, thanks to Albert Cervera
+    for the bug report. Closes: alioth#315433
+
+  [ ISO 3166-2 translations ]
+  * German by Dr. Tobias Quathamer
+  * Spanish by Dr. Tobias Quathamer
+  * French by Dr. Tobias Quathamer
+
+  [ ISO 639-2 translations ]
+  * Swedish by Anders Jonsson (TP)
+
+  [ ISO 3166-1 translations ]
+  * Indonesian by Andhika Padmawan (TP)
+
+
+iso-codes 3.69
+--------------
+Dr. Tobias Quathamer <toddy@debian.org>
+Tue, 2 Aug 2016
+
+  [ ISO 3166-2 ]
+  * Fix typo for PH-NEC (Negros Occidental), thanks to Anders Jonsson
+    for the bug report.
+  * Update name for ES-BI to "Bizkaia", thanks to Albert Cervera
+    for the bug report. Closes: alioth#315432
+
+  [ ISO 3166-2 translations ]
+  * Swedish by Josef Andersson (TP)
+  * French by Christian Perrier
+  * German by Dr. Tobias Quathamer
+
+  [ ISO 3166-1 translations ]
+  * French by Christian Perrier
+
+  [ ISO 15924 translations ]
+  * French by Christian Perrier
+
+  [ ISO 4217 translations ]
+  * Croatian by Božidar Putanec (TP)
+
+
 iso-codes 3.68
 --------------
 Dr. Tobias Quathamer <toddy@debian.org>
@@ -1008,6 +1861,13 @@ Tue, 1 May 2012
       Closes: alioth#313599
     - correct code for "São Lourenço dos Órgãos".
       Closes: alioth#313598
+    - ensure uniqueness of entries. Closes: #649581, alioth#313628
+      * CV-SL now uniquely identifies “Sal” the municipality;
+        CV-SO is the new code for “São Lourenço dos Órgãos” the municipality.
+      * ID-MA now uniquely identifies “Maluku” the province;
+        ID-ML is the new code for “Maluku” the geographical unit.
+      * IE-C now uniquely identifies “Connaught” the province;
+        IE-CO is the new code for “Cork” the county.
     - Thanks to Daniel Atallah for pointing this.
     - many other changes to many other countries...:-)
 

@@ -1,31 +1,37 @@
-# translation of iso_639-3.41.nl.po to Dutch
-# Dutch translation of iso_639.
-# Copyright (C) 2003, 2004, 2006, 2007, 2008, 2009, 2010 Free Software Foundation, Inc.
+# Translation of ISO 639-2 to Dutch; Flemish
+# Codes for the representation of names of languages
+# Part 2: Alpha-3 code
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
+# Copyright ©
 # Taco Witte <tcwitte@cs.uu.nl>, 2004.
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Reinout van Schouwen <reinouts@gnome.org>, 2007.
-# Freek de Kruijf <f.de.kruijf@gmail.com>, 2006, 2007, 2008, 2009, 2010, 2012, 2013.
+# Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2010, 2012-2013, 2017.
+# Pander <pander@users.sourceforge.net>, 2018.
+# Nathan Follens <nthn@unseen.is>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2013-03-10 14:28+0100\n"
-"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
-"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-01-14 17:20+0000\n"
+"Last-Translator: Nathan Follens <nthn@unseen.is>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.4-dev\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
 msgid "Afar"
-msgstr "Afar, Hamitisch"
+msgstr "Afar"
 
 #. Name for abk
 msgid "Abkhazian"
@@ -89,11 +95,11 @@ msgstr "Amhaars, Amharisch"
 
 #. Name for ang
 msgid "English, Old (ca. 450-1100)"
-msgstr "Engels, Oud (ca. 450-1100)"
+msgstr "Oudengels (ca. 450-1100)"
 
 #. Name for anp
 msgid "Angika"
-msgstr "Angikaans"
+msgstr "Angika"
 
 #. Name for apa
 msgid "Apache languages"
@@ -150,7 +156,7 @@ msgstr "Avaars, Awari"
 
 #. Name for ave
 msgid "Avestan"
-msgstr "Avestisch"
+msgstr "Avestaans"
 
 #. Name for awa
 msgid "Awadhi"
@@ -162,7 +168,7 @@ msgstr "Aymara"
 
 #. Name for aze
 msgid "Azerbaijani"
-msgstr "Azeri, Azerbeidzjaans"
+msgstr "Azerbeidzjaans"
 
 #. Name for bad
 msgid "Banda languages"
@@ -214,7 +220,7 @@ msgstr "Bengaals"
 
 #. Common name for ben
 msgid "Bangla"
-msgstr "Bengaals"
+msgstr "Bangaals"
 
 #. Name for ber
 msgid "Berber languages"
@@ -246,7 +252,7 @@ msgstr "Siksika"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "Bantu (Overige)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -290,11 +296,11 @@ msgstr "Caddo"
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr "Centraal-Amerikaans Indiaanse talen"
+msgstr "Centraal-Amerikaanse Indiaanse talen"
 
 #. Name for car
 msgid "Galibi Carib"
-msgstr "Galibi Carib"
+msgstr "Caribische talen"
 
 #. Name for cat
 msgid "Catalan; Valencian"
@@ -334,7 +340,7 @@ msgstr "Chagatai"
 
 #. Name for chk
 msgid "Chuukese"
-msgstr "Tsjoekees"
+msgstr "Chuukees"
 
 #. Name for chm
 msgid "Mari"
@@ -408,7 +414,7 @@ msgstr "Krim Tataars; Krim Turks"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr "Creools en pidgins"
+msgstr "Creools en Pidgin"
 
 #. Name for csb
 msgid "Kashubian"
@@ -436,7 +442,7 @@ msgstr "Dargwa"
 
 #. Name for day
 msgid "Land Dayak languages"
-msgstr "Land Dajak-talen"
+msgstr "Dajak-talen"
 
 #. Name for del
 msgid "Delaware"
@@ -468,7 +474,7 @@ msgstr "Dogri"
 
 #. Name for dra
 msgid "Dravidian languages"
-msgstr "Dravidiaanse talen"
+msgstr "Dravidische talen"
 
 #. Name for dsb
 msgid "Lower Sorbian"
@@ -480,7 +486,7 @@ msgstr "Duala"
 
 #. Name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "Nederlands, Middel (ca. 1050-1350)"
+msgstr "Middelnederlands (ca. 1050-1350)"
 
 #. Name for dyu
 msgid "Dyula"
@@ -504,7 +510,7 @@ msgstr "Ekajuk"
 
 #. Name for ell
 msgid "Greek, Modern (1453-)"
-msgstr "Grieks, Modern (vanaf 1453)"
+msgstr "Grieks, Modern (1453-)"
 
 #. Name for elx
 msgid "Elamite"
@@ -580,11 +586,11 @@ msgstr "Frans"
 
 #. Name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "Frans, Middel (ca. 1400-1600)"
+msgstr "Middelfrans (ca. 1400-1600)"
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "Frans, Oud (842-ca. 1400)"
+msgstr "Oudfrans (842-ca. 1400)"
 
 #. Name for frr
 msgid "Northern Frisian"
@@ -648,11 +654,11 @@ msgstr "Manx"
 
 #. Name for gmh
 msgid "German, Middle High (ca. 1050-1500)"
-msgstr "Duits, Middel Hoog (ca. 1050-1500)"
+msgstr "Middelhoogduits (ca. 1050-1500)"
 
 #. Name for goh
 msgid "German, Old High (ca. 750-1050)"
-msgstr "Duits, Oud Hoog (ca. 750-1050)"
+msgstr "Oudhoogduits (ca. 750-1050)"
 
 #. Name for gon
 msgid "Gondi"
@@ -676,7 +682,7 @@ msgstr "Grieks, Oud (tot 1453)"
 
 #. Name for grn
 msgid "Guarani"
-msgstr "Guarani"
+msgstr "Paraguaanse guarani"
 
 #. Name for gsw
 msgid "Swiss German; Alemannic; Alsatian"
@@ -744,7 +750,7 @@ msgstr "Kroatisch"
 
 #. Name for hsb
 msgid "Upper Sorbian"
-msgstr "Opper-Sorbiaans"
+msgstr "Oppersorbisch"
 
 #. Name for hun
 msgid "Hungarian"
@@ -872,7 +878,7 @@ msgstr "Kamba"
 
 #. Name for kan
 msgid "Kannada"
-msgstr "Kannada, Kanarees"
+msgstr "Kannada"
 
 #. Name for kar
 msgid "Karen languages"
@@ -908,15 +914,13 @@ msgstr "Khasi"
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr "Khoisan-talen"
+msgstr "Khoisantalen"
 
 #. Name for khm
 msgid "Central Khmer"
-msgstr "Centraal Khmer"
+msgstr "Centraal-Khmer"
 
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
 msgstr "Khotanees; Sakan"
 
@@ -1234,7 +1238,7 @@ msgstr "Napolitaans"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "Nauruaans"
+msgstr "Nauru"
 
 #. Name for nav
 msgid "Navajo; Navaho"
@@ -1337,10 +1341,8 @@ msgid "Nzima"
 msgstr "Nzima"
 
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "Occitaans (na 1500)"
+msgstr "Occitaans (na 1500); Provinciaals"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1356,7 +1358,7 @@ msgstr "Oromo"
 
 #. Name for osa
 msgid "Osage"
-msgstr "Osaags"
+msgstr "Osage"
 
 #. Name for oss
 msgid "Ossetian; Ossetic"
@@ -1372,7 +1374,7 @@ msgstr "Otomiaanse talen"
 
 #. Name for paa
 msgid "Papuan languages"
-msgstr "Papoea-talen"
+msgstr "Papoeatalen"
 
 #. Name for pag
 msgid "Pangasinan"
@@ -1400,7 +1402,7 @@ msgstr "Palauaans"
 
 #. Name for peo
 msgid "Persian, Old (ca. 600-400 B.C.)"
-msgstr "Oud Perzisch (ca. 600-400 v.Chr.)"
+msgstr "Oudperzisch (ca. 600-400 v.Chr.)"
 
 #. Name for phi
 msgid "Philippine languages"
@@ -1408,7 +1410,7 @@ msgstr "Filipijnse talen"
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "Foenisisch"
+msgstr "Fenicisch"
 
 #. Name for pli
 msgid "Pali"
@@ -1431,10 +1433,8 @@ msgid "Prakrit languages"
 msgstr "Prakrit-talen"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "Provinciaals, Oud (tot 1500) Occitaans; Occitaans, Oud (tot 1500)"
+msgstr "Provençaals, Oud (tot 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1473,10 +1473,8 @@ msgid "Romany"
 msgstr "Roma"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "Moldavisch"
+msgstr "Roemeens; Moldavisch"
 
 #. Name for run
 msgid "Rundi"
@@ -1503,10 +1501,8 @@ msgid "Yakut"
 msgstr "Jakoets"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "Zuid-Amerikaanse Indiaanse talen"
+msgstr "Zuid-Amerikaans Indiaans (overige)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1554,7 +1550,7 @@ msgstr "Gebarentalen"
 
 #. Name for shn
 msgid "Shan"
-msgstr "Sjaans"
+msgstr "Shan"
 
 #. Name for sid
 msgid "Sidamo"
@@ -1610,7 +1606,7 @@ msgstr "Samoaans"
 
 #. Name for sms
 msgid "Skolt Sami"
-msgstr "Skolt Sami"
+msgstr "Skolt-Sami"
 
 #. Name for sna
 msgid "Shona"
@@ -1638,7 +1634,7 @@ msgstr "Songhai-talen"
 
 #. Name for sot
 msgid "Sotho, Southern"
-msgstr "Zuid-Sothaans"
+msgstr "Sothaans, Zuid"
 
 #. Name for spa
 msgid "Spanish; Castilian"
@@ -1678,7 +1674,7 @@ msgstr "Sukuma"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "Soendanees, Sundanees"
+msgstr "Soendanees"
 
 #. Name for sus
 msgid "Susu"
@@ -1746,7 +1742,7 @@ msgstr "Tagalog"
 
 #. Name for tha
 msgid "Thai"
-msgstr "Thai"
+msgstr "Thais"
 
 #. Name for tig
 msgid "Tigre"
@@ -1818,7 +1814,7 @@ msgstr "Turks"
 
 #. Name for tut
 msgid "Altaic languages"
-msgstr "Altaic talen"
+msgstr "Altaïsche talen"
 
 #. Name for tvl
 msgid "Tuvalu"
@@ -1890,7 +1886,7 @@ msgstr "Wakasjaanse talen"
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "Walamo"
 
 #. Name for war
 msgid "Waray"
