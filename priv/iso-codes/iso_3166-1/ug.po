@@ -1,16 +1,17 @@
-# Translation of ISO 3166 (country names) to Uyghur
-#
+# Translation of ISO 3166-1 to Uighur; Uyghur
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Abduqadir Abliz <sahran.ug@gmail.com>, 2011.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2013-02-13 11:28+0600\n"
 "Last-Translator: Sahran <sahran.ug@gmail.com>\n"
 "Language-Team: Uyghur Computer Science Association <UKIJ@yahoogroups.com>\n"
@@ -393,6 +394,10 @@ msgid "Republic of Cyprus"
 msgstr "سىپرۇس جۇمھۇرىيىتى"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "چېخ جۇمھۇرىيىتى"
 
@@ -586,9 +591,9 @@ msgstr "گامبىيە"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "گامبىيە جۇمھۇرىيىتى"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "زامبىيە جۇمھۇرىيىتى"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -979,12 +984,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "مارشال ئاراللىرى جۇمھۇرىيىتى"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "ماكېدونىيە جۇمھۇرىيىتى"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "يېڭى كالېدونىيە"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "سابىق يۇگوسلاۋىيەنىڭ ماكېدونىيە جۇمھۇرىيىتى"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "لىتۋانىيە جۇمھۇرىيىتى"
 
 #. Name for MLI
 msgid "Mali"
@@ -1386,7 +1395,7 @@ msgstr "سېربىيە جۇمھۇرىيىتى"
 
 #. Name for SSD
 msgid "South Sudan"
-msgstr "جەنۇبىي سۇدان "
+msgstr "جەنۇبىي سۇدان"
 
 #. Official name for SSD
 msgid "Republic of South Sudan"
@@ -1433,12 +1442,14 @@ msgid "Kingdom of Sweden"
 msgstr "شىۋېتسىيە پادىشاھلىقى"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "سىۋېزىلاند"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "سىۋېزىلاند پادىشاھلىقى"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "ئىسپانىيە پادىشاھلىقى"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1647,6 +1658,12 @@ msgstr "ۋىيېتنام"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "ۋىيېتنام سوتسىيالىستىك جۇمھۇرىيىتى"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "ۋىيېتنام"
 
 #. Name for VUT
 msgid "Vanuatu"

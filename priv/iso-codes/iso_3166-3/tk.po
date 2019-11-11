@@ -1,18 +1,17 @@
-# Translation of ISO-3166 (country names) to Turkmen
-#
+# Translation of ISO 3166-3 to Turkmen
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Free Software Foundation, Inc., 2004
-#   Kakilik Project <kakilik.sourceforge.net>, 2004
-#   Kakilik Group <kakilikgroup@yahoo.com>, 2004.
-#
+# .
+# Copyright ©
+# Kakilik Group <kakilikgroup@yahoo.com>, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2004-08-20 20:10I+0330\n"
 "Last-Translator: Kakilik Group <kakilikgroup@yahoo.com>\n"
 "Language-Team: Turkmen <kakilikgroup@yahoo.com>\n"

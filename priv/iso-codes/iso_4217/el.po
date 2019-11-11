@@ -1,27 +1,30 @@
-# Translation of ISO 4217 (currency names) to Greek.
-# Copyright © various authors, see list below.
+# Translation of ISO 4217 to Greek, Modern (1453-)
+# Codes for the representation of currencies
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
+# Copyright ©
 # Spiros Papadimitriou <spapadim+@cs.cmu.edu>, 2000.
-# Alastair McKinstry <mckinstry@computer.org>, 2002.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Konstantinos Margaritis <markos@debian.org>, 2004.
-# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2015, 2016.
-#
+# Vangelis Skarmoutsos <skarmoutsosv@gmail.com>, 2015-2017, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2016-01-25 23:27+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2018-11-29 09:08+0000\n"
 "Last-Translator: Vangelis Skarmoutsos <skarmoutsosv@gmail.com>\n"
-"Language-Team: Greek <team@lists.gnome.gr>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/iso-codes/iso-4217/"
+"el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Gtranslator 2.91.7\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3-dev\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -58,10 +61,8 @@ msgid "Australian Dollar"
 msgstr "δολάριο Αυστραλίας"
 
 #. Name for AWG
-#, fuzzy
-#| msgid "Aruban Guilder"
 msgid "Aruban Florin"
-msgstr "γκίλντερ Αρούμπας"
+msgstr "φλόριν Αρούμπας"
 
 #. Name for AZN
 msgid "Azerbaijanian Manat"
@@ -121,9 +122,7 @@ msgstr "νγκουλτρουμ"
 msgid "Pula"
 msgstr "πούλα"
 
-#. Name for BYR
-#, fuzzy
-#| msgid "Belarussian Ruble"
+#. Name for BYN
 msgid "Belarusian Ruble"
 msgstr "ρούβλι Λευκορωσίας"
 
@@ -164,7 +163,7 @@ msgstr "κολόν Κόστα Ρίκας"
 #, fuzzy
 #| msgid "Convertible Marks"
 msgid "Peso Convertible"
-msgstr "κονβερτιμπίλνα μάρκα"
+msgstr "κονβερτιμπίλνα πέσο"
 
 #. Name for CUP
 msgid "Cuban Peso"
@@ -229,7 +228,7 @@ msgstr "λίρα στερλίνα"
 # λάρι Γεωργίας.
 #. Name for GEL
 msgid "Lari"
-msgstr "λάρι"
+msgstr "Λάρι"
 
 #. Name for GHS
 msgid "Ghana Cedi"
@@ -267,7 +266,7 @@ msgstr "λεμπίρα"
 
 #. Name for HRK
 msgid "Kuna"
-msgstr ""
+msgstr "κούνα"
 
 # γκουρντ Αϊτής.
 #. Name for HTG
@@ -324,7 +323,7 @@ msgstr "σελίνι Κένυας"
 # σομ Κιργιστάν (Κιργιζίας).
 #. Name for KGS
 msgid "Som"
-msgstr "σομ"
+msgstr "Σομ"
 
 #. Name for KHR
 msgid "Riel"
@@ -422,7 +421,7 @@ msgstr "ρουφίγια"
 #, fuzzy
 #| msgid "Zambian Kwacha"
 msgid "Malawi Kwacha"
-msgstr "κουάτσα Ζάμπιας"
+msgstr "κουάτσα Μαλάουι"
 
 #. Name for MXN
 msgid "Mexican Peso"
@@ -434,7 +433,7 @@ msgstr "ρινγκίτ Μαλαισίας"
 
 #. Name for MZN
 msgid "Mozambique Metical"
-msgstr ""
+msgstr "μετικάλ Μοζαμβίκης"
 
 #. Name for NAD
 msgid "Namibia Dollar"
@@ -468,12 +467,11 @@ msgstr "ριάλ Ομάν"
 msgid "Balboa"
 msgstr "μπαλμπόα"
 
-# σομ Κιργιστάν (Κιργιζίας).
 #. Name for PEN
 #, fuzzy
 #| msgid "Som"
 msgid "Sol"
-msgstr "σομ"
+msgstr "σολ"
 
 #. Name for PGK
 msgid "Kina"
@@ -493,15 +491,17 @@ msgstr "ζλότι"
 
 #. Name for PYG
 msgid "Guarani"
-msgstr "γκουαρανί"
+msgstr "Γκουαρανί"
 
 #. Name for QAR
 msgid "Qatari Rial"
 msgstr "ριάλ Κατάρ"
 
 #. Name for RON
+#, fuzzy
+#| msgid "Romanian Old Leu"
 msgid "Romanian Leu"
-msgstr ""
+msgstr "λέου Ρουμανίας"
 
 #. Name for RSD
 msgid "Serbian Dinar"
@@ -556,10 +556,8 @@ msgid "Surinam Dollar"
 msgstr "δολάριο Σουρινάμ"
 
 #. Name for SSP
-#, fuzzy
-#| msgid "Sudanese Pound"
 msgid "South Sudanese Pound"
-msgstr "λίρα Σουδάν"
+msgstr "λίρα Νότιου Σουδάν"
 
 #. Name for STD
 msgid "Dobra"
@@ -587,23 +585,19 @@ msgstr "σομόνι"
 
 #. Name for TMT
 msgid "Turkmenistan New Manat"
-msgstr ""
+msgstr "νέο μανάτ Τουρκμενιστάν"
 
 #. Name for TND
 msgid "Tunisian Dinar"
 msgstr "δηνάριο Τυνησίας"
 
 #. Name for TOP
-#, fuzzy
-#| msgid "Pa'anga"
 msgid "Pa’anga"
 msgstr "παάνγκα"
 
 #. Name for TRY
-#, fuzzy
-#| msgid "New Turkish Lira"
 msgid "Turkish Lira"
-msgstr "νέα λίρα Τουρκίας"
+msgstr "λίρα Τουρκίας"
 
 #. Name for TTD
 msgid "Trinidad and Tobago Dollar"
@@ -639,11 +633,11 @@ msgstr "σομ Ουζμπεκιστάν"
 
 #. Name for VEF
 msgid "Bolívar"
-msgstr ""
+msgstr "μπολίβαρ"
 
 #. Name for VND
 msgid "Dong"
-msgstr "ντονγκ"
+msgstr "Ντονγκ"
 
 #. Name for VUV
 msgid "Vatu"
@@ -651,7 +645,7 @@ msgstr "βάτου"
 
 #. Name for WST
 msgid "Tala"
-msgstr "τάλα"
+msgstr "Τάλα"
 
 #. Name for XAF
 msgid "CFA Franc BEAC"
@@ -715,8 +709,9 @@ msgid "Platinum"
 msgstr "λευκόχρυσος"
 
 #. Name for XSU
+#, fuzzy
 msgid "Sucre"
-msgstr ""
+msgstr "Σούκρε"
 
 #. Name for XTS
 #, fuzzy
@@ -726,11 +721,12 @@ msgstr "Κωδικός που χρησιμοποιείται σε δοκιμές
 
 #. Name for XUA
 msgid "ADB Unit of Account"
-msgstr ""
+msgstr "Λογιστική μονάδα ADB"
 
 #. Name for XXX
+#, fuzzy
 msgid "The codes assigned for transactions where no currency is involved"
-msgstr ""
+msgstr "Οι κωδικοί ανατέθηκαν για συναλλαγές όπου δεν εμπλέκονται νομίσματα"
 
 #. Name for YER
 msgid "Yemeni Rial"

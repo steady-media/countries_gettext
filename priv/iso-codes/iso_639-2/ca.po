@@ -1,48 +1,53 @@
-# Translation of ISO-639 (language names) to Catalan
+# Translation of ISO 639-2 to Catalan; Valencian
+# Codes for the representation of names of languages
+# Part 2: Alpha-3 code
+# .
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C)
-# Free Software Foundation, Inc., 2002,2004
-# Softcatalà <info@softcatala.org>, 2000-2001
-# Traductor: Jordi Ferré <jordiferre@catalonia.altranet.fr>
-# Alastair McKinstry <mckinstry@computer.org>, 2001.
-# Toni Hermoso Pulido <toniher@softcatala.cat>, 2010.
+# .
+# Copyright ©
+# Jordi Ferré <jordiferre@catalonia.altranet.fr>
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
+# Softcatalà <info@softcatala.org>, 2000-2001.
 # Toni Hermoso Pulido <toniher@softcatala.org>, 2010.
-# Jordi Mas i Hernàndez <jmas@softcatala.org>, 2015
+# Jordi Mas i Hernàndez <jmas@softcatala.org>, 2015.
+# ferranroig <forums@ferranroig.com>, 2018.
+# Joan Montané <joan@montane.cat>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2015-07-11 10:38+0200\n"
-"Last-Translator: Jordi Mas i Hernàndez <jmas@softcatala.org>\n"
-"Language-Team: Catalan <ca@dodds.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-01-24 08:04+0000\n"
+"Last-Translator: Joan Montané <joan@montane.cat>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.6.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.4\n"
 
 #. Name for aar
 msgid "Afar"
-msgstr "àfar"
+msgstr "Àfar"
 
 #. Name for abk
 msgid "Abkhazian"
-msgstr "abkhaz"
+msgstr "Abkhàzia"
 
 #. Name for ace
 msgid "Achinese"
-msgstr "axinès"
+msgstr "Atjeh"
 
 #. Name for ach
 msgid "Acoli"
-msgstr "acoli"
+msgstr "Acoli"
 
 #. Name for ada
 msgid "Adangme"
-msgstr "adangme"
+msgstr "Adangme"
 
 #. Name for ady
 msgid "Adyghe; Adygei"
@@ -246,7 +251,7 @@ msgstr "siksika; peus negres"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "bantu (altra)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -915,10 +920,8 @@ msgid "Central Khmer"
 msgstr "khmer central"
 
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
-msgstr "khotanès"
+msgstr "khotanès; sakan"
 
 #. Name for kik
 msgid "Kikuyu; Gikuyu"
@@ -1337,10 +1340,8 @@ msgid "Nzima"
 msgstr "nzema; nzima; appolo"
 
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "occità (després del 1500)"
+msgstr "occità (després del 1500); provençal"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1431,10 +1432,8 @@ msgid "Prakrit languages"
 msgstr "llengües pràcrits"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr "provençal antic (fins al 1500); occità antic (fins al 1500)"
+msgstr "provençal antic (fins al 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1473,10 +1472,8 @@ msgid "Romany"
 msgstr "romaní"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "moldau"
+msgstr "romanès; moldau"
 
 #. Name for run
 msgid "Rundi"
@@ -1503,10 +1500,8 @@ msgid "Yakut"
 msgstr "iacut"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "llengües ameríndies d'Amèrica del Sud"
+msgstr "llengua ameríndia d'Amèrica del Sud (altra)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1890,7 +1885,7 @@ msgstr "llengües wakashan"
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "walamo"
 
 #. Name for war
 msgid "Waray"

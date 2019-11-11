@@ -1,14 +1,16 @@
-# Vietnamese translation for iso_4217.
-# Copyright © 2009 Free Software Foundation, Inc.
+# Translation of ISO 4217 to Vietnamese
+# Codes for the representation of currencies
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
 # Clytie Siddall <clytie@riverland.net.au>, 2005-2009.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2013-08-18 00:06+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: The MOST project <du-an-most@lists.hanoilug.org>\n"
@@ -117,7 +119,7 @@ msgstr "Đồng N-gun-trum"
 msgid "Pula"
 msgstr "Đồng Pu-la"
 
-#. Name for BYR
+#. Name for BYN
 #, fuzzy
 #| msgid "Belarussian Ruble"
 msgid "Belarusian Ruble"

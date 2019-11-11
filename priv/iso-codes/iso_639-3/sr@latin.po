@@ -1,20 +1,30 @@
-# Serbian translation of iso_639
-# Copyright (C) 2003, 2004 Free Software Foundation, Inc.
-# Danilo Segan <dsegan@gmx.net>, 2003, 2004, 2005.
-#
+# Translation of ISO 639-3 to Serbian
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+# .
+# This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
+# Danilo Segan <dsegan@gmx.net>, 2003-2005.
+# Branko Kokanovic <branko@kokanovic.org>, 2018.
+# Branko Kovačević <ja_sam_branko@yahoo.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2005-08-30 15:49+0200\n"
-"Last-Translator: Danilo Segan <dsegan@gmx.net>\n"
-"Language-Team: Serbian <gnu@prevod.org>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-10-05 09:56+0000\n"
+"Last-Translator: Branko Kovačević <ja_sam_branko@yahoo.com>\n"
+"Language-Team: Serbian (latin) <https://hosted.weblate.org/projects/"
+"iso-codes/iso-639-3/sr_Latn/>\n"
 "Language: sr@latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -636,7 +646,6 @@ msgstr "afrihili"
 msgid "Akrukay"
 msgstr ""
 
-#
 #. Name for afk
 #, fuzzy
 msgid "Nanubae"
@@ -821,7 +830,6 @@ msgstr ""
 msgid "Ahanta"
 msgstr "santali"
 
-#
 #. Name for ahb
 #, fuzzy
 msgid "Axamb"
@@ -2370,7 +2378,7 @@ msgstr ""
 
 #. Name for ave
 msgid "Avestan"
-msgstr "avestan"
+msgstr "avestansko pismo"
 
 #. Name for avi
 #, fuzzy
@@ -2841,7 +2849,7 @@ msgstr "bambara"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "balineze"
+msgstr "balinežansko pismo"
 
 #. Name for bao
 #, fuzzy
@@ -4154,9 +4162,8 @@ msgid "Boloki"
 msgstr ""
 
 #. Name for bku
-#, fuzzy
 msgid "Buhid"
-msgstr "baluči"
+msgstr "buhidsko pismo"
 
 #. Name for bkv
 msgid "Bekwarra"
@@ -4310,7 +4317,6 @@ msgstr "njoro"
 msgid "Balantak"
 msgstr "banda"
 
-#
 #. Name for bma
 #, fuzzy
 msgid "Lame"
@@ -5326,7 +5332,7 @@ msgstr ""
 
 #. Name for bug
 msgid "Buginese"
-msgstr "bugineze"
+msgstr "bugisko pismo"
 
 #. Name for buh
 msgid "Younuo Bunu"
@@ -5806,9 +5812,8 @@ msgid "Binahari"
 msgstr "bihari"
 
 #. Name for bya
-#, fuzzy
 msgid "Batak"
-msgstr "basa"
+msgstr "batak"
 
 #. Name for byb
 #, fuzzy
@@ -6339,7 +6344,7 @@ msgstr ""
 
 #. Name for ccp
 msgid "Chakma"
-msgstr ""
+msgstr "čakma pismo"
 
 #. Name for ccr
 msgid "Cacaopera"
@@ -6581,7 +6586,7 @@ msgstr ""
 
 #. Name for chr
 msgid "Cherokee"
-msgstr "čiroki"
+msgstr "čiroki pismo"
 
 #. Name for cht
 msgid "Cholón"
@@ -8097,7 +8102,6 @@ msgstr "zulu"
 msgid "Duwai"
 msgstr "svati"
 
-#
 #. Name for dbq
 #, fuzzy
 msgid "Daba"
@@ -8759,7 +8763,6 @@ msgstr "somalski"
 msgid "Dameli"
 msgstr "pali"
 
-#
 #. Name for dmm
 #, fuzzy
 msgid "Dama"
@@ -11000,7 +11003,6 @@ msgstr "ganda"
 msgid "Dirasha"
 msgstr "danski"
 
-#
 #. Name for gdm
 #, fuzzy
 msgid "Laal"
@@ -12077,7 +12079,7 @@ msgstr ""
 
 #. Name for guj
 msgid "Gujarati"
-msgstr "gujarati"
+msgstr "guđaratsko pismo"
 
 #. Name for guk
 msgid "Gumuz"
@@ -12642,7 +12644,6 @@ msgstr "kmerski"
 msgid "Hoyahoya"
 msgstr "hausa"
 
-#
 #. Name for hia
 #, fuzzy
 msgid "Lamang"
@@ -12938,7 +12939,6 @@ msgstr "soto, južni"
 msgid "Hamtai"
 msgstr "aramajski"
 
-#
 #. Name for hmu
 #, fuzzy
 msgid "Hamap"
@@ -13901,7 +13901,7 @@ msgstr "sa ostrva Mana"
 
 #. Name for ina
 msgid "Interlingua (International Auxiliary Language Association)"
-msgstr ""
+msgstr "interjezik (međunarodno udruženje sporednih jezika"
 
 #. Name for inb
 #, fuzzy
@@ -14835,7 +14835,7 @@ msgstr ""
 
 #. Name for juc
 msgid "Jurchen"
-msgstr ""
+msgstr "jurčen pismo"
 
 #. Name for jud
 msgid "Worodougou"
@@ -15002,7 +15002,7 @@ msgstr ""
 
 #. Name for kan
 msgid "Kannada"
-msgstr "kanada"
+msgstr "kannada pismo"
 
 #. Name for kao
 msgid "Xaasongaxango"
@@ -16894,7 +16894,7 @@ msgstr "kamba"
 
 #. Name for kpe
 msgid "Kpelle"
-msgstr "kpele"
+msgstr "kpelle pismo"
 
 #. Name for kpf
 #, fuzzy
@@ -18324,9 +18324,8 @@ msgid "Subanen, Southern"
 msgstr "soto, severni"
 
 #. Name for lab
-#, fuzzy
 msgid "Linear A"
-msgstr "lingala"
+msgstr "linearno A pismo"
 
 #. Name for lac
 msgid "Lacandon"
@@ -18354,7 +18353,6 @@ msgstr "fang"
 msgid "Lahnda"
 msgstr "landa"
 
-#
 #. Name for lai
 #, fuzzy
 msgid "Lambya"
@@ -18373,7 +18371,6 @@ msgstr ""
 msgid "Lalia"
 msgstr "pali"
 
-#
 #. Name for lam
 msgid "Lamba"
 msgstr "lambda"
@@ -18385,7 +18382,7 @@ msgstr "nauru"
 
 #. Name for lao
 msgid "Lao"
-msgstr "lao"
+msgstr "laosko pismo"
 
 #. Name for lap
 msgid "Laka (Chad)"
@@ -18408,7 +18405,6 @@ msgstr ""
 msgid "Latin"
 msgstr "latinski"
 
-#
 #. Name for lau
 #, fuzzy
 msgid "Laba"
@@ -18427,7 +18423,6 @@ msgstr ""
 msgid "Tiwa"
 msgstr "cvana"
 
-#
 #. Name for lay
 #, fuzzy
 msgid "Lama Bai"
@@ -18446,7 +18441,6 @@ msgstr ""
 msgid "Lui"
 msgstr "lušaji"
 
-#
 #. Name for lbb
 #, fuzzy
 msgid "Label"
@@ -18535,7 +18529,6 @@ msgstr "znakovni jezici"
 msgid "Lachi"
 msgstr "kačin"
 
-#
 #. Name for lbu
 #, fuzzy
 msgid "Labu"
@@ -18745,7 +18738,6 @@ msgstr ""
 msgid "Lepcha"
 msgstr "kvečua"
 
-#
 #. Name for leq
 #, fuzzy
 msgid "Lembena"
@@ -18768,7 +18760,6 @@ msgstr ""
 msgid "Kara (Papua New Guinea)"
 msgstr ""
 
-#
 #. Name for lev
 #, fuzzy
 msgid "Lamma"
@@ -18946,9 +18937,8 @@ msgid "Likila"
 msgstr "siksika"
 
 #. Name for lif
-#, fuzzy
 msgid "Limbu"
-msgstr "limburžanski"
+msgstr "limbu pismo"
 
 #. Name for lig
 msgid "Ligbi"
@@ -19319,13 +19309,11 @@ msgstr "pampanja"
 msgid "Hano"
 msgstr "sango"
 
-#
 #. Name for lmn
 #, fuzzy
 msgid "Lambadi"
 msgstr "lambda"
 
-#
 #. Name for lmo
 #, fuzzy
 msgid "Lombard"
@@ -19336,7 +19324,6 @@ msgstr "lambda"
 msgid "Limbum"
 msgstr "limburžanski"
 
-#
 #. Name for lmq
 #, fuzzy
 msgid "Lamatuka"
@@ -19363,13 +19350,11 @@ msgstr ""
 msgid "Miwok, Lake"
 msgstr ""
 
-#
 #. Name for lmx
 #, fuzzy
 msgid "Laimbue"
 msgstr "lambda"
 
-#
 #. Name for lmy
 #, fuzzy
 msgid "Lamboya"
@@ -19649,7 +19634,6 @@ msgstr "lozi"
 msgid "Lari"
 msgstr "mari"
 
-#
 #. Name for lrm
 #, fuzzy
 msgid "Marama"
@@ -19675,7 +19659,6 @@ msgstr "soto, južni"
 msgid "Yamphu, Southern"
 msgstr "soto, južni"
 
-#
 #. Name for lrt
 #, fuzzy
 msgid "Larantuka Malay"
@@ -19972,7 +19955,6 @@ msgstr ""
 msgid "Lawa, Eastern"
 msgstr ""
 
-#
 #. Name for lwm
 #, fuzzy
 msgid "Laomian"
@@ -20095,7 +20077,7 @@ msgstr "makasar"
 
 #. Name for mal
 msgid "Malayalam"
-msgstr "malajamski"
+msgstr "malajalamsko pismo"
 
 #. Name for mam
 #, fuzzy
@@ -20234,7 +20216,6 @@ msgstr "malajski"
 msgid "Maxakalí"
 msgstr ""
 
-#
 #. Name for mbm
 #, fuzzy
 msgid "Ombamba"
@@ -21770,7 +21751,6 @@ msgstr "manču"
 msgid "Mondé"
 msgstr ""
 
-#
 #. Name for mne
 #, fuzzy
 msgid "Naba"
@@ -23186,7 +23166,6 @@ msgstr "malajski"
 msgid "Mayeka"
 msgstr "makasar"
 
-#
 #. Name for myd
 #, fuzzy
 msgid "Maramba"
@@ -23477,7 +23456,6 @@ msgstr "kineski"
 msgid "Chinese, Min Nan"
 msgstr "kineski"
 
-#
 #. Name for nao
 #, fuzzy
 msgid "Naaba"
@@ -23744,7 +23722,6 @@ msgstr ""
 msgid "Nahuatl, Michoacán"
 msgstr ""
 
-#
 #. Name for ncm
 #, fuzzy
 msgid "Nambo"
@@ -24813,7 +24790,6 @@ msgstr "nahuatl"
 msgid "Nalögo"
 msgstr "mandingo"
 
-#
 #. Name for nma
 #, fuzzy
 msgid "Maram Naga"
@@ -25928,7 +25904,6 @@ msgstr "sumerski"
 msgid "Ngawun"
 msgstr ""
 
-#
 #. Name for nxo
 #, fuzzy
 msgid "Ndambomo"
@@ -26876,7 +26851,7 @@ msgstr "oromo"
 
 #. Name for osa
 msgid "Osage"
-msgstr "osaž"
+msgstr "osage"
 
 #. Name for osc
 #, fuzzy
@@ -28555,7 +28530,6 @@ msgid "Old Provençal (to 1500)"
 msgstr "provansalski, stari (do 1500.)"
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
 msgstr "provansalski, stari (do 1500.)"
 
@@ -29434,7 +29408,6 @@ msgstr ""
 msgid "Logooli"
 msgstr "mongolski"
 
-#
 #. Name for rah
 #, fuzzy
 msgid "Rabha"
@@ -29770,7 +29743,6 @@ msgstr "kanuri"
 msgid "Arakwal"
 msgstr "arapski"
 
-#
 #. Name for rma
 #, fuzzy
 msgid "Rama"
@@ -30386,9 +30358,8 @@ msgstr "sasak"
 
 #. Name for saz
 msgid "Saurashtra"
-msgstr ""
+msgstr "sauraštra pismo"
 
-#
 #. Name for sba
 #, fuzzy
 msgid "Ngambay"
@@ -31204,9 +31175,8 @@ msgid "Mende (Papua New Guinea)"
 msgstr ""
 
 #. Name for sin
-#, fuzzy
 msgid "Sinhala"
-msgstr "sundanežanski"
+msgstr "sinhaleško pismo"
 
 #. Name for sip
 msgid "Sikkimese"
@@ -31695,9 +31665,8 @@ msgid "Samoan"
 msgstr "samoanski"
 
 #. Name for smp
-#, fuzzy
 msgid "Samaritan"
-msgstr "sumerski"
+msgstr "samarićansko pismo"
 
 #. Name for smq
 #, fuzzy
@@ -32612,7 +32581,7 @@ msgstr "sukuma"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "sundanežanski"
+msgstr "sundansko pismo"
 
 #. Name for suq
 #, fuzzy
@@ -32911,7 +32880,7 @@ msgstr ""
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "klasični sirijski"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -33089,7 +33058,7 @@ msgstr "tamil"
 
 #. Name for tam
 msgid "Tamil"
-msgstr "tamil"
+msgstr "tamilsko pismo"
 
 #. Name for tan
 #, fuzzy
@@ -33270,7 +33239,7 @@ msgstr ""
 
 #. Name for tbw
 msgid "Tagbanwa"
-msgstr ""
+msgstr "tagbanva pismo"
 
 #. Name for tbx
 #, fuzzy
@@ -33597,7 +33566,7 @@ msgstr ""
 
 #. Name for tel
 msgid "Telugu"
-msgstr "telugu"
+msgstr "telugu pismo"
 
 #. Name for tem
 msgid "Timne"
@@ -35608,9 +35577,8 @@ msgid "Totoli"
 msgstr ""
 
 #. Name for txg
-#, fuzzy
 msgid "Tangut"
-msgstr "fang"
+msgstr "tangut pismo"
 
 #. Name for txh
 #, fuzzy
@@ -36137,7 +36105,6 @@ msgstr "karen"
 msgid "Mundari"
 msgstr "mandarski"
 
-#
 #. Name for unu
 #, fuzzy
 msgid "Unubahe"
@@ -36409,7 +36376,7 @@ msgstr ""
 
 #. Name for vai
 msgid "Vai"
-msgstr "vai"
+msgstr "vai pismo"
 
 #. Name for vaj
 #, fuzzy
@@ -38174,9 +38141,8 @@ msgid "Chorasmian"
 msgstr "korzikanski"
 
 #. Name for xcr
-#, fuzzy
 msgid "Carian"
-msgstr "karipski"
+msgstr "karijsko pismo"
 
 #. Name for xct
 msgid "Classical Tibetan"
@@ -38564,14 +38530,12 @@ msgid "Loup B"
 msgstr ""
 
 #. Name for xlc
-#, fuzzy
 msgid "Lycian"
-msgstr "letonski"
+msgstr "likijsko pismo"
 
 #. Name for xld
-#, fuzzy
 msgid "Lydian"
-msgstr "ladino"
+msgstr "lidijsko pismo"
 
 # bug: RO -> Ro
 #. Name for xle
@@ -39624,7 +39588,6 @@ msgstr "kabardijanski"
 msgid "Nugunu (Cameroon)"
 msgstr ""
 
-#
 #. Name for yat
 #, fuzzy
 msgid "Yambeta"
@@ -39652,7 +39615,6 @@ msgstr "jakut"
 msgid "Agwagwune"
 msgstr ""
 
-#
 #. Name for yaz
 #, fuzzy
 msgid "Lokaa"
@@ -40220,7 +40182,6 @@ msgstr "pampanja"
 msgid "Yangum Mon"
 msgstr "samoanski"
 
-#
 #. Name for ymp
 #, fuzzy
 msgid "Yamap"
@@ -40992,7 +40953,7 @@ msgstr "aravak"
 
 #. Name for zbl
 msgid "Blissymbols"
-msgstr ""
+msgstr "Blisovi simboli"
 
 #. Name for zbt
 #, fuzzy
@@ -41071,7 +41032,7 @@ msgstr "soto, južni"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "standardni marokinski tamaziški"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"
@@ -41107,7 +41068,6 @@ msgstr "maori"
 msgid "Zhuang"
 msgstr "zuni"
 
-#
 #. Name for zhb
 #, fuzzy
 msgid "Zhaba"

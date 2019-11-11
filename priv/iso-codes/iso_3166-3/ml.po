@@ -1,22 +1,17 @@
-# Translation of ISO 3166 (country names) to Malayalam
-#
+# Translation of ISO 3166-3 to Malayalam
+# Codes for the representation of names of countries and their subdivisions
+# Part 3: Code for formerly used names of countries
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C) 2006-2008 Praveen A <pravi.a@gmail.com> and contributors listed below,
+# .
+# Copyright ©
 # Praveen A <pravi.a@gmail.com>, 2006, 2008.
-#    Translators, if you are not familiar with the PO format, gettext
-#    documentation is worth reading, especially sections dedicated to
-#    this format, e.g. by running:
-#         info -n '(gettext)PO Files'
-#         info -n '(gettext)Header Entry'
-#
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2008-05-30 05:10+0530\n"
 "Last-Translator: Praveen|പ്രവീണ്‍ A|എ <pravi.a@gmail.com>\n"
 "Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"

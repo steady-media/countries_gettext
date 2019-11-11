@@ -1,29 +1,32 @@
-# translation of iso_3166-3.15.ru.po to Russian
-# Translation of ISO 3166 (country names) to Russian
-#
+# Translation of ISO 3166-1 to Russian
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-#
+# .
+# Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Nikolai Prokoschenko <nikolai@prokoschenko.de>, 2004.
-# Yuri Kozlov <yuray@komyakino.ru>, 2004, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2015.
 # Pavel Maryanov <acid_jack@ukr.net>, 2009.
+# Yuri Kozlov <yuray@komyakino.ru>, 2004, 2006-2013, 2015.
+# yurayko <yuray@komyakino.ru>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2015-07-15 20:06+0300\n"
-"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
-"Language-Team: Russian <gnu@mx.ru>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-08-08 16:36+0500\n"
+"Last-Translator: yurayko <yuray@komyakino.ru>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
-"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 2.2.1\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -275,7 +278,7 @@ msgstr "Канада"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr "Кокосовые острова "
+msgstr "Кокосовые острова"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -350,14 +353,10 @@ msgid "Union of the Comoros"
 msgstr "Союз Коморских Островов"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Кабо-Верде"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Республика Кабо-Верде"
 
@@ -398,6 +397,10 @@ msgid "Republic of Cyprus"
 msgstr "Республика Кипр"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "Чехия"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Чешская Республика"
 
@@ -590,9 +593,7 @@ msgid "Gambia"
 msgstr "Гамбия"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "Республика Гамбия"
 
 #. Name for GNB
@@ -984,12 +985,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Респу́блика Маршалловы Острова"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Республика Македония"
+msgid "North Macedonia"
+msgstr "Северная Македония"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Бывшая югославская Республика Македония"
+msgid "Republic of North Macedonia"
+msgstr "Республика Северная Македония"
 
 #. Name for MLI
 msgid "Mali"
@@ -1329,7 +1330,7 @@ msgstr "Республика Сингапур"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Южная Джорджия и Южные Сандвичевы острова "
+msgstr "Южная Джорджия и Южные Сандвичевы острова"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
@@ -1436,12 +1437,12 @@ msgid "Kingdom of Sweden"
 msgstr "Королевство Швеция"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Свазиленд"
+msgid "Eswatini"
+msgstr "Эсватини"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Королевство Свазиленд"
+msgid "Kingdom of Eswatini"
+msgstr "Королевство Эсватини"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1650,6 +1651,10 @@ msgstr "Вьетнам"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Социалистическая Республика Вьетнам"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "Вьетнам"
 
 #. Name for VUT
 msgid "Vanuatu"

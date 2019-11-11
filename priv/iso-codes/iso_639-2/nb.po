@@ -1,27 +1,30 @@
-# Translation of ISO-639 (language names) to Norwegian Bokmål
-#
+# Translation of ISO 639-2 to Bokmål, Norwegian; Norwegian Bokmål
+# Codes for the representation of names of languages
+# Part 2: Alpha-3 code
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-# Free Software Foundation, Inc., 2002,2004
-# Alastair McKinstry <mckinstry@computer.org>, 2002
-# Translations from KDE:
-# Rune Nordvik <rune@linuxnorge.com>, 2001
+# .
+# Copyright ©
+# Rune Nordvik <rune@linuxnorge.com>, 2001.
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Kjartan Maraas <kmaraas@broadpark.no>, 2009.
-#
+# Allan Nordhøy <epost@anotheragency.no>, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2009-04-12 19:40+0000\n"
-"Last-Translator: Kjartan Maraas <kmaraas@broadpark.no>\n"
-"Language-Team: Norwegian Bokmaal <i18n-nb@lister.ping.uio.no>\n"
-"Language: \n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-05-17 01:48+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/iso-"
+"codes/iso-639-2/nb_NO/>\n"
+"Language: nb\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -51,7 +54,7 @@ msgstr ""
 
 #. Name for afa
 msgid "Afro-Asiatic languages"
-msgstr ""
+msgstr "Afroasiatiske språk"
 
 #. Name for afh
 msgid "Afrihili"
@@ -81,7 +84,7 @@ msgstr ""
 
 #. Name for alg
 msgid "Algonquian languages"
-msgstr ""
+msgstr "Algonkinske språk"
 
 #. Name for alt
 #, fuzzy
@@ -145,7 +148,7 @@ msgstr ""
 
 #. Name for ath
 msgid "Athapascan languages"
-msgstr ""
+msgstr "Dene-språk"
 
 #. Name for aus
 msgid "Australian languages"
@@ -194,7 +197,7 @@ msgstr "bambara"
 
 #. Name for ban
 msgid "Balinese"
-msgstr "Balinesisk"
+msgstr "balinesisk"
 
 #. Name for bas
 #, fuzzy
@@ -226,18 +229,16 @@ msgid "Bangla"
 msgstr ""
 
 #. Name for ber
-#, fuzzy
 msgid "Berber languages"
-msgstr "Koreansk"
+msgstr "Berbiske språk"
 
 #. Name for bho
 msgid "Bhojpuri"
 msgstr ""
 
 #. Name for bih
-#, fuzzy
 msgid "Bihari languages"
-msgstr "Koreansk"
+msgstr "Bihari"
 
 #. Name for bik
 msgid "Bikol"
@@ -286,9 +287,8 @@ msgid "Buriat"
 msgstr "Bulgarsk"
 
 #. Name for bug
-#, fuzzy
 msgid "Buginese"
-msgstr "Kinesisk"
+msgstr "buginesisk"
 
 #. Name for bul
 msgid "Bulgarian"
@@ -304,7 +304,7 @@ msgstr ""
 
 #. Name for cai
 msgid "Central American Indian languages"
-msgstr "Sentralamerikanske indianske språk"
+msgstr "Indianerspråk"
 
 #. Name for car
 #, fuzzy
@@ -316,9 +316,8 @@ msgid "Catalan; Valencian"
 msgstr ""
 
 #. Name for cau
-#, fuzzy
 msgid "Caucasian languages"
-msgstr "Koreansk"
+msgstr "Kaukasiske språk"
 
 #. Name for ceb
 msgid "Cebuano"
@@ -791,7 +790,7 @@ msgstr ""
 
 #. Name for hye
 msgid "Armenian"
-msgstr "Armensk"
+msgstr "armensk"
 
 #. Name for iba
 msgid "Iban"
@@ -1723,7 +1722,7 @@ msgstr ""
 
 #. Name for sot
 msgid "Sotho, Southern"
-msgstr "sotho (sørlig)"
+msgstr "Sotho, (sørlig)"
 
 #. Name for spa
 msgid "Spanish; Castilian"
@@ -1854,7 +1853,7 @@ msgstr ""
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr ""
+msgstr "Tokelau"
 
 #. Name for tlh
 msgid "Klingon; tlhIngan-Hol"
@@ -1915,9 +1914,8 @@ msgid "Altaic languages"
 msgstr "Koreansk"
 
 #. Name for tvl
-#, fuzzy
 msgid "Tuvalu"
-msgstr "Julia"
+msgstr "Tuvalu"
 
 #. Name for twi
 msgid "Twi"
@@ -1962,7 +1960,7 @@ msgstr "usbekisk"
 
 #. Name for vai
 msgid "Vai"
-msgstr ""
+msgstr "vai"
 
 #. Name for ven
 msgid "Venda"

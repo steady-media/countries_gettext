@@ -1,22 +1,27 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2004
+# Translation of ISO 3166-1 to Kinyarwanda
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
 # Viateur MUGENZI <muvia@hotmail.com>, 2004.
-#
-# #  Note: Steve Murphy is not a translator-- he is a technical coordinator
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2004-11-01 15:00+0200\n"
-"Last-Translator: Steve Murphy <murf@e-tools.com>\n"
-"Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Kinyarwanda <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/rw/>\n"
 "Language: rw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -394,6 +399,10 @@ msgid "Republic of Cyprus"
 msgstr "Repubulika ya Shipure"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Repubulika ya Ceke"
 
@@ -590,9 +599,9 @@ msgstr "Gambiya"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Repubulika ya Gambiya"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Repubulika ya Zambiya"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -700,7 +709,7 @@ msgstr "Repubulika ya Indonesiya"
 
 #. Name for IMN
 msgid "Isle of Man"
-msgstr ""
+msgstr "Ikirwa cya Man"
 
 #. Name for IND
 msgid "India"
@@ -855,9 +864,8 @@ msgid "Republic of Liberia"
 msgstr "Repubulika ya Liberiya"
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "Liberiya"
+msgstr "Libiya"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -950,7 +958,7 @@ msgstr "Repubulika ya Molidova"
 
 #. Common name for MDA
 msgid "Moldova"
-msgstr ""
+msgstr "Molidova"
 
 #. Name for MDG
 msgid "Madagascar"
@@ -985,12 +993,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Repubulika y'Ibirwa bya Marishali"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Masedoniya, Repubulika ya"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Nuveli Kalidoniya"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Repubulika ya Yugosilave ya Kera - Masedoniya"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Repubulika ya Lituwaniya"
 
 #. Name for MLI
 msgid "Mali"
@@ -1018,9 +1030,8 @@ msgid "Republic of Myanmar"
 msgstr "Repubulika ya Giyana"
 
 #. Name for MNE, Official name for MNE
-#, fuzzy
 msgid "Montenegro"
-msgstr "Seribiya  na Montenegoro"
+msgstr "Montenegoro"
 
 #. Name for MNG
 msgid "Mongolia"
@@ -1060,7 +1071,7 @@ msgstr "Maritike"
 
 #. Name for MUS
 msgid "Mauritius"
-msgstr "Ibirwa bya Morise"
+msgstr "Morise"
 
 #. Official name for MUS
 msgid "Republic of Mauritius"
@@ -1387,9 +1398,8 @@ msgid "Saint Pierre and Miquelon"
 msgstr "Mutagatifu Petero na Mikeloni"
 
 #. Name for SRB
-#, fuzzy
 msgid "Serbia"
-msgstr "Azeribayijani"
+msgstr "Seribiya"
 
 #. Official name for SRB
 #, fuzzy
@@ -1447,12 +1457,14 @@ msgid "Kingdom of Sweden"
 msgstr "Igihugu cya Suwedi"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swazilande"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Igihugu cya Swazilande"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Igihugu cya Esipagne"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1576,7 +1588,7 @@ msgstr "Repubulika Yunze Ubumwe ya Tanzaniya"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzaniya"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1662,6 +1674,12 @@ msgstr "Viyetinamu"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Repubulika Gisosiyalisite ya Viyetinamu"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "Viyetinamu"
 
 #. Name for VUT
 msgid "Vanuatu"

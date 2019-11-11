@@ -1,16 +1,17 @@
-# Translation of ISO 3166 (country names) to Bengali
-#
+# Translation of ISO 3166-1 to Bengali
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
 # Copyright ©
 # Nasir Khan <nasir.khan@bdosn.org>, 2013.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2013-12-12 16:56+0600\n"
 "Last-Translator: Nasir Khan <nasir.khan@bdosn.org>\n"
 "Language-Team: Bengali <(nothing)>\n"
@@ -393,6 +394,10 @@ msgid "Republic of Cyprus"
 msgstr "সাইপ্রাস প্রজাতন্ত্র"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "চেক প্রজাতন্ত্র"
 
@@ -586,9 +591,9 @@ msgstr "গাম্বিয়া"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "গাম্বিয়া প্রজাতন্ত্র"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "জাম্বিয়া প্রজাতন্ত্র"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -979,12 +984,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "মার্শাল দ্বীপপুঞ্জ প্রজাতন্ত্র"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "মেসিডোনিয়া প্রজাতন্ত্র"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "নিউ ক্যালেডোনিয়া"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "পূর্ববর্তী যুগোস্লাভ প্রজাতন্ত্র মেসিডোনিয়া"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "লিথুয়ানিয়া প্রজাতন্ত্র"
 
 #. Name for MLI
 msgid "Mali"
@@ -1431,12 +1440,14 @@ msgid "Kingdom of Sweden"
 msgstr "সুইডেন রাজ্য"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "সোয়াজিল্যান্ড"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "সোয়াজিল্যান্ড রাজ্য"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "স্পেন রাজ্য"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1645,6 +1656,12 @@ msgstr "ভিয়েতনাম"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "সমাজতান্ত্রিক প্রজাতন্ত্র ভিয়েতনাম"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "ভিয়েতনাম"
 
 #. Name for VUT
 msgid "Vanuatu"

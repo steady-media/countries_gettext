@@ -1,25 +1,32 @@
-# Finnish translations for iso-codes package.
-# Copyright (C) 2005-2006, 2008-2011 Free Software Foundation, Inc.
+# Translation of ISO 3166-1 to Finnish
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2005-2006, 2008-2011.
-#
+# .
+# Notes:
 # Lähteet:
 # http://europa.eu.int/comm/translation/currencies/fitable1.htm
 # http://kotoistus.fi/avoimet/kop_alueiden-nimet.html
+# .
+# Copyright ©
+# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2005-2006, 2008-2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2012-05-22 11:38+0300\n"
-"Last-Translator: Tommi Vainikainen <Tommi.Vainikainen@iki.fi>\n"
-"Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2018-01-01 15:06+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -394,6 +401,10 @@ msgid "Republic of Cyprus"
 msgstr "Kyproksen tasavalta"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Tšekin tasavalta"
 
@@ -588,9 +599,9 @@ msgstr "Gambia"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Gambian tasavalta"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Sambian tasavalta"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -983,12 +994,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marshallinsaarten tasavalta"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Makedonian tasavalta"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Uusi-Kaledonia"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "entinen Jugoslavian tasavalta Makedonia"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Liettuan tasavalta"
 
 #. Name for MLI
 msgid "Mali"
@@ -1438,12 +1453,14 @@ msgid "Kingdom of Sweden"
 msgstr "Ruotsin kuningaskunta"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swazimaa"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Swazimaan kuningaskunta"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Espanjan kuningaskunta"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1566,8 +1583,9 @@ msgid "United Republic of Tanzania"
 msgstr "Tansanian yhdistynyt tasavalta"
 
 #. Common name for TZA
+#, fuzzy
 msgid "Tanzania"
-msgstr ""
+msgstr "Tansania"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1652,6 +1670,12 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Vietnamin sosialistinen tasavalta"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

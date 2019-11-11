@@ -1,15 +1,17 @@
-# Translation of ISO 4217 (currency names) to Latvian
+# Translation of ISO 4217 to Latvian
+# Codes for the representation of currencies
+# .
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C) Free Software Foundation, Inc..
-#
+# .
+# Copyright ©
+# Rihards Priedītis <rprieditis@gmail.com>, 2011.
 # Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2011.
-# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2011-09-01 23:56+0300\n"
 "Last-Translator: Rihards Priedītis <rprieditis@gmail.com>\n"
 "Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
@@ -119,7 +121,7 @@ msgstr "Ngultrums"
 msgid "Pula"
 msgstr "Pula"
 
-#. Name for BYR
+#. Name for BYN
 #, fuzzy
 #| msgid "Belarussian Ruble"
 msgid "Belarusian Ruble"

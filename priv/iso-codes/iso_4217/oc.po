@@ -1,15 +1,16 @@
-# Translation of ISO 4217 (currency names) to Occitan
-# Copyright © various authors, see list below.
+# Translation of ISO 4217 to Occitan (post 1500); Provençal
+# Codes for the representation of currencies
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
 # Yannig Marchegay <yannig@marchegay.org>, 2008.
-#
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2008-11-10 01:11+0100\n"
 "Last-Translator: Yannig Marchegay <yannig@marchegay.org>\n"
 "Language-Team: Occitan\n"
@@ -110,7 +111,7 @@ msgstr ""
 msgid "Pula"
 msgstr ""
 
-#. Name for BYR
+#. Name for BYN
 msgid "Belarusian Ruble"
 msgstr ""
 

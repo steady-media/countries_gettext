@@ -1,28 +1,34 @@
-# Translation of ISO 15924 (script names) to Polish.
+# Translation of ISO 15924 to Polish
+# Codes for the representation of names of scripts
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Tobias Toedter <t.toedter@gmx.net>, 2007.
-#     Translations taken from ICU SVN on 2007-09-09
-#   Jakub Bogusz <qboosh@pld-linux.org>, 2009-2013
-#
+# .
+# Copyright ©
+# Dr. Tobias Quathamer <toddy@debian.org>, 2007.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2019.
+# WaldiS <admin@sto.ugu.pl>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_15924\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2013-12-05 17:13+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-09-20 18:28+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
-"Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-15924/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9-dev\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for Adlm
 msgid "Adlam"
-msgstr ""
+msgstr "adlam"
 
 #. Name for Afak
 msgid "Afaka"
@@ -34,17 +40,15 @@ msgstr "albański kaukaski"
 
 #. Name for Ahom
 msgid "Ahom, Tai Ahom"
-msgstr ""
+msgstr "ahom"
 
 #. Name for Arab
 msgid "Arabic"
 msgstr "arabski"
 
 #. Name for Aran
-#, fuzzy
-#| msgid "Syriac (Eastern variant)"
 msgid "Arabic (Nastaliq variant)"
-msgstr "syryjski (wschodni)"
+msgstr "arabski (nasta'liq)"
 
 #. Name for Armi
 msgid "Imperial Aramaic"
@@ -72,7 +76,7 @@ msgstr "bassa vah"
 
 #. Name for Batk
 msgid "Batak"
-msgstr "batak"
+msgstr "Batak"
 
 #. Name for Beng
 msgid "Bengali"
@@ -80,7 +84,7 @@ msgstr "bengalski"
 
 #. Name for Bhks
 msgid "Bhaiksuki"
-msgstr ""
+msgstr "bhaiksuki"
 
 #. Name for Blis
 msgid "Blissymbols"
@@ -212,7 +216,7 @@ msgstr "gurmukhi"
 
 #. Name for Hanb
 msgid "Han with Bopomofo (alias for Han + Bopomofo)"
-msgstr ""
+msgstr "chińskie z bopomofo (chińskie + bopomofo)"
 
 #. Name for Hang
 msgid "Hangul (Hangŭl, Hangeul)"
@@ -271,10 +275,8 @@ msgid "Old Italic (Etruscan, Oscan, etc.)"
 msgstr "starowłoski (etruski, oskijski itp.)"
 
 #. Name for Jamo
-#, fuzzy
-#| msgid "Korean (alias for Hangul + Han)"
 msgid "Jamo (alias for Jamo subset of Hangul)"
-msgstr "koreański (hangyl, hancha)"
+msgstr "jamo (podzbiór jamo alfabetu hangul)"
 
 #. Name for Java
 msgid "Javanese"
@@ -310,11 +312,11 @@ msgstr "chodżycki"
 
 #. Name for Kitl
 msgid "Khitan large script"
-msgstr ""
+msgstr "kitańskie pismo duże"
 
 #. Name for Kits
 msgid "Khitan small script"
-msgstr ""
+msgstr "kitańskie pismo małe"
 
 #. Name for Knda
 msgid "Kannada"
@@ -326,7 +328,7 @@ msgstr "koreański (hangyl, hancha)"
 
 #. Name for Kpel
 msgid "Kpelle"
-msgstr "kpele"
+msgstr "kpelle"
 
 #. Name for Kthi
 msgid "Kaithi"
@@ -354,7 +356,7 @@ msgstr "łaciński"
 
 #. Name for Leke
 msgid "Leke"
-msgstr ""
+msgstr "leke"
 
 #. Name for Lepc
 msgid "Lepcha (Róng)"
@@ -401,10 +403,8 @@ msgid "Manichaean"
 msgstr "manichejski"
 
 #. Name for Marc
-#, fuzzy
-#| msgid "Jurchen"
 msgid "Marchen"
-msgstr "dżurdżeński"
+msgstr "marchen"
 
 #. Name for Maya
 msgid "Mayan hieroglyphs"
@@ -464,7 +464,7 @@ msgstr "nabatejski"
 
 #. Name for Newa
 msgid "Newa, Newar, Newari, Nepāla lipi"
-msgstr ""
+msgstr "newarski, newari, newa"
 
 #. Name for Nkgb
 msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
@@ -496,7 +496,7 @@ msgstr "orija"
 
 #. Name for Osge
 msgid "Osage"
-msgstr ""
+msgstr "osage"
 
 #. Name for Osma
 msgid "Osmanya"
@@ -536,7 +536,7 @@ msgstr "fenicki"
 
 #. Name for Piqd
 msgid "Klingon (KLI pIqaD)"
-msgstr ""
+msgstr "klingoński (pIqaD)"
 
 #. Name for Plrd
 msgid "Miao (Pollard)"
@@ -580,7 +580,7 @@ msgstr "staro-południowo-arabski"
 
 #. Name for Saur
 msgid "Saurashtra"
-msgstr "sourasztra"
+msgstr "saurasztryjski"
 
 #. Name for Sgnw
 msgid "SignWriting"
@@ -735,10 +735,8 @@ msgid "Mathematical notation"
 msgstr "notacja matematyczna"
 
 #. Name for Zsye
-#, fuzzy
-#| msgid "Syriac (Estrangelo variant)"
 msgid "Symbols (Emoji variant)"
-msgstr "syryjski (estrangela)"
+msgstr "symbole (emoji)"
 
 #. Name for Zsym
 msgid "Symbols"

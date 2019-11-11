@@ -1,14 +1,17 @@
-# Translation of `iso_3166_1' messages to Walloon.
+# Translation of ISO 3166-1 to Walloon
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-# Copyright (C) 2004 Free Software Foundation, Inc.
-# Pablo Saratxaga <pablo@walon.org>, 2004,2012.
-#
+# .
+# Copyright ©
+# Pablo Saratxaga <pablo@walon.org>, 2004, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2012-06-05 18:57+0200\n"
 "Last-Translator: Pablo Saratxaga <pablo@walon.org>\n"
 "Language-Team: Walloon <linux-wa@walon.org>\n"
@@ -166,7 +169,6 @@ msgstr "Bulgåreye"
 msgid "Republic of Bulgaria"
 msgstr "Republike di Bulgåreye"
 
-#
 #. Name for BHR
 msgid "Bahrain"
 msgstr "Bareyn"
@@ -195,7 +197,6 @@ msgstr "Republike di Bosneye ey Herzegovine"
 msgid "Saint Barthélemy"
 msgstr "Sint Bartelemi"
 
-#
 #. Name for BLR
 msgid "Belarus"
 msgstr "Belaruss"
@@ -204,7 +205,6 @@ msgstr "Belaruss"
 msgid "Republic of Belarus"
 msgstr "Republike do Belaruss"
 
-#
 #. Name for BLZ
 msgid "Belize"
 msgstr "Belize"
@@ -394,6 +394,10 @@ msgid "Republic of Cyprus"
 msgstr "Republike di Chipe"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Tchekeye"
 
@@ -449,7 +453,6 @@ msgstr "Ecwåteur"
 msgid "Republic of Ecuador"
 msgstr "Republike d' Ecwåteur"
 
-#
 #. Name for EGY
 msgid "Egypt"
 msgstr "Edjipe"
@@ -589,9 +592,9 @@ msgstr "Gambeye"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Republike del Gambeye"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Republike di Zambeye"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -689,12 +692,10 @@ msgstr "Republike di Hayiti"
 msgid "Hungary"
 msgstr "Hongreye"
 
-#
 #. Name for IDN
 msgid "Indonesia"
 msgstr "Indonezeye"
 
-#
 #. Official name for IDN
 msgid "Republic of Indonesia"
 msgstr "Republike d' Indonezeye"
@@ -703,7 +704,6 @@ msgstr "Republike d' Indonezeye"
 msgid "Isle of Man"
 msgstr "Iye di Man"
 
-#
 #. Name for IND
 msgid "India"
 msgstr "Inde"
@@ -912,7 +912,6 @@ msgstr "Letoneye"
 msgid "Republic of Latvia"
 msgstr "Republike di Letoneye"
 
-#
 #. Name for MAC
 msgid "Macao"
 msgstr "Macao"
@@ -986,12 +985,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republike des Iyes Marshall"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Macedoneye"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Nouve Caledoneye"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Republike di Macedoneye (Ancyinne Republike Yougoslave di)"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Republike di Litwaneye"
 
 #. Name for MLI
 msgid "Mali"
@@ -1113,12 +1116,10 @@ msgstr "Nidjeria"
 msgid "Federal Republic of Nigeria"
 msgstr "Republike Federåle do Nidjeria"
 
-#
 #. Name for NIC
 msgid "Nicaragua"
 msgstr "Nicaragwa"
 
-#
 #. Official name for NIC
 msgid "Republic of Nicaragua"
 msgstr "Republike do Nicaragwa"
@@ -1191,7 +1192,6 @@ msgstr "Republike di Panama"
 msgid "Pitcairn"
 msgstr "Pitcairn"
 
-#
 #. Name for PER
 msgid "Peru"
 msgstr "Perou"
@@ -1208,7 +1208,6 @@ msgstr "Filipenes"
 msgid "Republic of the Philippines"
 msgstr "Republike des Filipenes"
 
-#
 #. Name for PLW
 msgid "Palau"
 msgstr "Palawou"
@@ -1295,7 +1294,6 @@ msgstr "Roumaneye"
 msgid "Russian Federation"
 msgstr "Rûsseye"
 
-#
 #. Name for RWA
 msgid "Rwanda"
 msgstr "Rwanda"
@@ -1312,7 +1310,6 @@ msgstr "Arabeye Sawoudite"
 msgid "Kingdom of Saudi Arabia"
 msgstr "Rweyåme d' Arabeye Sawoudite"
 
-#
 #. Name for SDN
 msgid "Sudan"
 msgstr "Soudan"
@@ -1377,7 +1374,6 @@ msgstr "Sint Marin"
 msgid "Republic of San Marino"
 msgstr "Republike di Sint Marin"
 
-#
 #. Name for SOM
 msgid "Somalia"
 msgstr "Somaleye"
@@ -1399,7 +1395,6 @@ msgstr "Serbeye"
 msgid "Republic of Serbia"
 msgstr "Republike di Serbeye"
 
-#
 #. Name for SSD
 msgid "South Sudan"
 msgstr "Soudan nonnrece"
@@ -1424,7 +1419,6 @@ msgstr "Suriname"
 msgid "Republic of Suriname"
 msgstr "Republike do Suriname"
 
-#
 #. Name for SVK
 msgid "Slovakia"
 msgstr "Eslovakeye"
@@ -1449,15 +1443,15 @@ msgstr "Suwede"
 msgid "Kingdom of Sweden"
 msgstr "Rweyåme di Suwede"
 
-#
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Suwazilande"
+msgid "Eswatini"
+msgstr ""
 
-#
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Rweyåme di Swazilande"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Rweyåme d' Espagne"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1479,7 +1473,6 @@ msgstr "Sireye"
 msgid "Turks and Caicos Islands"
 msgstr "Iyes Turks et Caicos"
 
-#
 #. Name for TCD
 msgid "Chad"
 msgstr "Tchad"
@@ -1584,7 +1577,6 @@ msgstr "Republike Uneye di Tanzaneye"
 msgid "Tanzania"
 msgstr ""
 
-#
 #. Name for UGA
 msgid "Uganda"
 msgstr "Ouganda"
@@ -1661,7 +1653,6 @@ msgstr "Iyes Viedjes etazunyinnes"
 msgid "Virgin Islands of the United States"
 msgstr "Iyes Viedjes des Estats Unis"
 
-#
 #. Name for VNM
 msgid "Viet Nam"
 msgstr "Vietnam"
@@ -1669,6 +1660,12 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Republike Socialisse do Vietnam"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

@@ -1,25 +1,27 @@
-# translation of wo.po to Wolof
-# Translation of ISO-3166 (country names) to Wolof
-#
+# Translation of ISO 3166-1 to Wolof
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#
-#   Mouhamadou Mamoune Mbacke <mouhamadoumamoune@gmail.com>, 2005, 2006, 2007, 2008.
+# .
+# Copyright ©
+# Mouhamadou Mamoune Mbacke <mouhamadoumamoune@gmail.com>, 2005-2008.
 msgid ""
 msgstr ""
 "Project-Id-Version: wo\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2008-06-04 21:14+0200\n"
-"Last-Translator: Mouhamadou Mamoune Mbacke <mouhamadoumamoune@gmail.com>\n"
-"Language-Team: Wolof\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2018-01-02 16:34+0000\n"
+"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"Language-Team: Wolof <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/wo/>\n"
 "Language: wo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -47,7 +49,7 @@ msgstr "Anguilla"
 
 #. Name for ALA
 msgid "Åland Islands"
-msgstr "Åland Islands"
+msgstr "Dunu Aland"
 
 #. Name for ALB
 msgid "Albania"
@@ -87,7 +89,7 @@ msgstr "Republik bu Armeeni"
 
 #. Name for ASM
 msgid "American Samoa"
-msgstr "American Samoa"
+msgstr "Samoa gu Aamerig"
 
 #. Name for ATA
 msgid "Antarctica"
@@ -251,7 +253,7 @@ msgstr "Ruwaayom bu Butaan"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr "Bouvet Island"
+msgstr "Dunu Buwet"
 
 #. Name for BWA
 msgid "Botswana"
@@ -394,6 +396,10 @@ msgid "Republic of Cyprus"
 msgstr "Republik bu Ciipër"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Republik bu Cek"
 
@@ -589,9 +595,9 @@ msgstr "Gaambi"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Republik bu Gaambi"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Republik bu Saambi"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -854,9 +860,8 @@ msgid "Republic of Liberia"
 msgstr "Republik bu Libeeria"
 
 #. Name for LBY, Official name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "Libeeria"
+msgstr "Libi"
 
 #. Name for LCA
 msgid "Saint Lucia"
@@ -984,12 +989,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republik bu  Marshall Islands"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Masedwaan, Republik bu"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Nuweel Kaledooni"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Republik bu Yugoslaawi bawoon di Masedwaan"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Republik bu Lituwaani"
 
 #. Name for MLI
 msgid "Mali"
@@ -1333,7 +1342,7 @@ msgstr "Republik bu Singapoor"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "South Georgia and the South Sandwich Islands"
+msgstr "Jeoorji gu Bëj-saalum ak Duni Islaand yi Bëj-saalum"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
@@ -1443,12 +1452,14 @@ msgid "Kingdom of Sweden"
 msgstr "Ruwaayom bu Suweed"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Suwaasilaand"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Ruwaayom bu Suwaasilaand"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Ruwaayom bu Ispaañ"
 
 #. Name for SXM, Official name for SXM
 #, fuzzy
@@ -1565,7 +1576,7 @@ msgstr "Taaywaan"
 
 #. Name for TZA
 msgid "Tanzania, United Republic of"
-msgstr "Taansaani, Republik bu bennoo bu "
+msgstr "Taansaani, Republik bu bennoo bu"
 
 #. Official name for TZA
 msgid "United Republic of Tanzania"
@@ -1573,7 +1584,7 @@ msgstr "Republik bu bennoo bu Taansaani"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tansani"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1642,7 +1653,7 @@ msgstr "Virgin Islands, British"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "British Virgin Islands"
+msgstr "Duni Virgin"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
@@ -1660,6 +1671,12 @@ msgstr "Wiyet Naam"
 msgid "Socialist Republic of Viet Nam"
 msgstr "Republik Sosiaalist bu Wiyet Naam"
 
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "Wiyet Naam"
+
 #. Name for VUT
 msgid "Vanuatu"
 msgstr "Vanuatu"
@@ -1670,7 +1687,7 @@ msgstr "Republik bu Vanuatu"
 
 #. Name for WLF
 msgid "Wallis and Futuna"
-msgstr "Wallis and Futuna"
+msgstr "Wallis ak Futuna"
 
 #. Name for WSM
 msgid "Samoa"

@@ -1,24 +1,28 @@
-# Translation of ISO 3166 (or.po) to Oriya
-# Copyright (C) 2010  Free Software Foundation, Inc.
+# Translation of ISO 3166-1 to Oriya
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
+# Copyright ©
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
+# Pro Neon <proneon267@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2010-04-07 12:26+0530\n"
-"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
-"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-09-07 05:25+0000\n"
+"Last-Translator: Pro Neon <proneon267@gmail.com>\n"
+"Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/or/>\n"
 "Language: or\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -146,7 +150,7 @@ msgstr "ବେନିନ୍ ଗଣତନ୍ତ୍ର"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "ବୋନେର୍, ସିଣ୍ଟ ୟୁଷ୍ଟାସିଅସ ଏବଂ ସାବା"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -345,16 +349,12 @@ msgid "Union of the Comoros"
 msgstr "ମିଳିତ କୋମୋରୋସ"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
-msgstr "କେପ୍ ଭାର୍ଡେ"
+msgstr "କାବୋ ଭଡ୍ରି"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
-msgstr "କେପ ଭର୍ଦେ ଗଣତନ୍ତ୍ର"
+msgstr "କାବୋ ଭଡ୍ରି ଗଣତନ୍ତ୍ର"
 
 #. Name for CRI
 msgid "Costa Rica"
@@ -374,7 +374,7 @@ msgstr "କ୍ଯୁବା ଗଣତନ୍ତ୍ର"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "କୁରାକୋ"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -393,6 +393,10 @@ msgid "Republic of Cyprus"
 msgstr "ସାଇପ୍ରୋସ ଗଣତନ୍ତ୍ର"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "ଚେସିଆ"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "ଚେକ ସାଧାରଣତନ୍ତ୍ର"
 
@@ -461,9 +465,8 @@ msgid "Eritrea"
 msgstr "ଇରୀଟ୍ରିୟା"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା"
+msgstr "ଏରିଟିଆ ର ରାଜ୍ୟ"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -506,9 +509,8 @@ msgid "Fiji"
 msgstr "ଫିଜୀ"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "ହୈତି ଗଣତନ୍ତ୍ର"
+msgstr "ଫିଜୀ ଗଣତନ୍ତ୍ର"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -587,10 +589,8 @@ msgid "Gambia"
 msgstr "ଗାମ୍ବିୟା"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "ଗାମ୍ବିୟା ଗଣତନ୍ତ୍ର"
+msgid "Republic of the Gambia"
+msgstr "ଜ୍ଞାମ୍ବିୟା ଗଣତନ୍ତ୍ର"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -981,12 +981,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "ମାର୍ଶାଲ ଦ୍ୱିପ ଗଣତନ୍ତ୍ର"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "ମେସିଡୋନିୟା, ଗଣତନ୍ତ୍ର"
+msgid "North Macedonia"
+msgstr "ନର୍ଥ ମ୍ୟାସିଡୋନିୟା"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "ମେସିଡୋନିୟାର ପୂର୍ବତନ ୟୁଗୋସ୍ଲାଭ ଗଣତନ୍ତ୍ର"
+msgid "Republic of North Macedonia"
+msgstr "ନର୍ଥ ମ୍ୟାସିଡୋନିୟା ଗଣତନ୍ତ୍ର"
 
 #. Name for MLI
 msgid "Mali"
@@ -1009,9 +1009,8 @@ msgid "Myanmar"
 msgstr "ବର୍ମା/ମ୍ଯାଂମାର"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "ଗୁୟାନା ଗଣତନ୍ତ୍ର"
+msgstr "ମ୍ୟାନମାର୍ ଗଣତନ୍ତ୍ର"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1214,9 +1213,8 @@ msgid "Papua New Guinea"
 msgstr "ପାପୁଆ ନ୍ଯୁ ଗିନୀ"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "ସାମୋଆ ସ୍ୱାଧିନ ରାଜ୍ୟ"
+msgstr "ପାପ୍ୟୁଆ ନୂଆ ଗିନି ସ୍ୱାଧିନ ରାଜ୍ୟ"
 
 #. Name for POL
 msgid "Poland"
@@ -1256,12 +1254,11 @@ msgstr "ପାରାଗୁଏ ଗଣତନ୍ତ୍ର"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "ପାଲେଷ୍ଟାଇନ ରାଜ୍ୟ"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "ଯୁକ୍ତ ରାଷ୍ଟ୍ର ଆମେରିକା"
+msgstr "ପ୍ୟାଲେଷ୍ଟାଇନ୍ ରାଜ୍ୟ"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1372,9 +1369,8 @@ msgid "Somalia"
 msgstr "ସୋମାଲିୟା"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "ଜର୍ମାନୀ ଫେଡେରାଲ ଗଣତନ୍ତ୍ର"
+msgstr "ଶୋମାଲି ସଂଘଶାସନ ଗଣତନ୍ତ୍ର"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
@@ -1389,14 +1385,12 @@ msgid "Republic of Serbia"
 msgstr "ସର୍ବିଆ ଗଣତନ୍ତ୍ର"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "ସୂଡାନ ଗଣତନ୍ତ୍ର"
+msgstr "ଦକ୍ଷିଣ ସୂଡାନ"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "ସୂଡାନ ଗଣତନ୍ତ୍ର"
+msgstr "ଦକ୍ଷିଣ ସୂଡାନ ଗଣତନ୍ତ୍ର"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1439,17 +1433,16 @@ msgid "Kingdom of Sweden"
 msgstr "ସ୍ବୀଡେନ ସାମ୍ରାଜ୍ୟ"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "ସ୍ବାଜୀଲ୍ଯାଣ୍ଡ"
+msgid "Eswatini"
+msgstr "ଏସୱଆଟିନି"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "ସ୍ବାଜୀଲ୍ଯାଣ୍ଡ ସାମ୍ରାଜ୍ୟ"
+msgid "Kingdom of Eswatini"
+msgstr "ଏସୱଆଟିନି ସାମ୍ରାଜ୍ୟ"
 
 #. Name for SXM, Official name for SXM
-#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "ସେଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)"
+msgstr "ସିଣ୍ଟ ମାର୍ଟିନ (ଫରାସୀ ଅଂଶ)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1569,7 +1562,7 @@ msgstr "ତାଞ୍ଜେରୀୟା ସଂଯୁକ୍ତ ଗଣତନ୍ତ�
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "ଟାନଯାନିୟା"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1654,6 +1647,10 @@ msgstr "ଭିୟେତନାମ"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "ଭିଏତନାମ ସମାଜତନ୍ତ୍ରବାଦୀ ଗଣତନ୍ତ୍ର"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "ଭିୟେତନାମ"
 
 #. Name for VUT
 msgid "Vanuatu"

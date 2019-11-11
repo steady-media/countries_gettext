@@ -1,26 +1,33 @@
-# translation of iso_3166-3.46.nl.po to Dutch
-# Dutch translation of iso_3166.
-# Copyright (C) 2004, 2006, 2007, 2008, 2009, 2010 Free Software Foundation, Inc.
+# Translation of ISO 3166-1 to Dutch; Flemish
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
+# Copyright ©
 # Elros Cyriatan <cyriatan@fastmail.fm>, 2004.
 # Luk Claes <luk.claes@ugent.be>, 2005.
-# Freek de Kruijf <f.de.kruijf@gmail.com>, 2006, 2007, 2008, 2009, 2010, 2011,2012, 2013.
+# Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2013, 2015, 2017.
+# Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
+# Pander <pander@users.sourceforge.net>, 2018.
+# powerburner-nl <peter.mulder.1981@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2013-09-15 13:42+0200\n"
-"Last-Translator: Freek de Kruijf <f.de.kruijf@gmail.com>\n"
-"Language-Team: Dutch <vertaling@vrijschrift.org>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2019-10-27 18:53+0000\n"
+"Last-Translator: powerburner-nl <peter.mulder.1981@gmail.com>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.5\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9.1-dev\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -252,7 +259,7 @@ msgstr "Koninkrijk Bhutan"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr "Bouvet eiland"
+msgstr "Bouveteiland"
 
 #. Name for BWA
 msgid "Botswana"
@@ -347,14 +354,10 @@ msgid "Union of the Comoros"
 msgstr "Unie van de Comoren"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Kaapverdië"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Republiek Kaapverdië"
 
@@ -384,7 +387,7 @@ msgstr "Christmaseiland"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "Caymaneilanden"
+msgstr "Kaaimaneilanden"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -395,6 +398,10 @@ msgid "Republic of Cyprus"
 msgstr "Republiek Cyprus"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "Tsjechië"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Tsjechië"
 
@@ -552,7 +559,7 @@ msgstr "Verenigd Koninkrijk van Groot-Brittannië en Noord-Ierland"
 
 #. Name for GEO
 msgid "Georgia"
-msgstr "Georgië"
+msgstr "Georgia"
 
 #. Name for GGY
 msgid "Guernsey"
@@ -588,9 +595,9 @@ msgstr "Gambia"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Republiek Gambia"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Republiek Zambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -710,7 +717,7 @@ msgstr "Republiek India"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "Brits Territorium in de Indische Oceaan"
+msgstr "Brits Indische Oceaanterritorium"
 
 #. Name for IRL
 msgid "Ireland"
@@ -981,12 +988,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republiek der Marshalleilanden"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Macedonië"
+msgid "North Macedonia"
+msgstr "Noord-Macedonië"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Voormalige Joegoslavische Republiek Macedonië"
+msgid "Republic of North Macedonia"
+msgstr "Republiek Noord-Macedonië"
 
 #. Name for MLI
 msgid "Mali"
@@ -1326,7 +1333,7 @@ msgstr "Republiek Singapore"
 
 #. Name for SGS
 msgid "South Georgia and the South Sandwich Islands"
-msgstr "Zuid-Georgië en de Zuidelijke Sandwicheilanden"
+msgstr "Zuid-Georgia en de Zuidelijke Sandwicheilanden"
 
 #. Name for SHN
 msgid "Saint Helena, Ascension and Tristan da Cunha"
@@ -1410,7 +1417,7 @@ msgstr "Republiek Suriname"
 
 #. Name for SVK
 msgid "Slovakia"
-msgstr "Slowakije, Slovakije"
+msgstr "Slowakije"
 
 #. Official name for SVK
 msgid "Slovak Republic"
@@ -1433,12 +1440,12 @@ msgid "Kingdom of Sweden"
 msgstr "Koninkrijk Zweden"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swaziland"
+msgid "Eswatini"
+msgstr "Eswatini"
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Koninkrijk Swaziland"
+msgid "Kingdom of Eswatini"
+msgstr "Koninkrijk Eswatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1494,7 +1501,7 @@ msgstr "Republiek Tadzjikistan"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "Tokelau-eilanden"
+msgstr "Tokelau"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1562,7 +1569,7 @@ msgstr "Verenigde Republiek Tanzania"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzania"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1578,7 +1585,7 @@ msgstr "Oekraïne"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Kleine Pacifische eilanden van de Verenigde Staten"
+msgstr "Kleine afgelegen eilanden van de Verenigde Staten"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1647,6 +1654,10 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Socialistische Republiek Vietnam"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

@@ -1,16 +1,20 @@
-# Finnish translations for iso_4217 package.
-# Copyright © 2005-2009 Free Software Foundation, Inc.
+# Translation of ISO 4217 to Finnish
+# Codes for the representation of currencies
+# .
 # This file is distributed under the same license as the iso-codes package.
-# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2005-2009.
-#
+# .
+# Notes:
 # Lähde:
 # http://kotoistus.fi/avoimet/tied_valuuttojen-nimet.htm
+# .
+# Copyright ©
+# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2005-2009.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
 "PO-Revision-Date: 2010-05-06 12:49+0300\n"
 "Last-Translator: Tommi Vainikainen <Tommi.Vainikainen@iki.fi>\n"
 "Language-Team: Finnish <translation-team-fi@lists.sourceforge.net>\n"
@@ -118,7 +122,7 @@ msgstr "ngultrum"
 msgid "Pula"
 msgstr "pula"
 
-#. Name for BYR
+#. Name for BYN
 #, fuzzy
 #| msgid "Belarussian Ruble"
 msgid "Belarusian Ruble"

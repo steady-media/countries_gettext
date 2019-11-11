@@ -1,28 +1,29 @@
-# translation of iso_639_3-3.11.pa.po to Punjabi
-# Translation of ISO 639-3 (language names) to LANGUAGE
-#
+# Translation of ISO 639-3 to Panjabi; Punjabi
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#
-#   FIRST AUTHOR <EMAIL@ADDRESS>, YEAR., 2009.
-# Jaswinder Singh <jsingh@redhat.com>, 2009.
+# .
+# Copyright ©
 # A S Alam <aalam@users.sf.net>, 2009.
+# Jaswinder Singh <jsingh@redhat.com>, 2009.
+# Aman ALam <alam.yellow@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2009-10-11 19:58+0530\n"
-"Last-Translator: A S Alam <aalam@users.sf.net>\n"
-"Language-Team: Punjabi <punjabi-l10n@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-03-11 16:03+0000\n"
+"Last-Translator: Aman ALam <alam.yellow@gmail.com>\n"
+"Language-Team: Punjabi <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-3/pa/>\n"
 "Language: pa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.0\n"
-"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.5.1\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -196,7 +197,7 @@ msgstr "ਆਕਾ-ਬੀਆ"
 
 #. Name for abk
 msgid "Abkhazian"
-msgstr "ਅਬਖਾਜ਼ੀਅਨ"
+msgstr "ਅਬਖਾਜੀਅਨ"
 
 #. Name for abl
 msgid "Lampung Nyo"
@@ -286,7 +287,7 @@ msgstr "ਗਿਕਯੋਡੇ"
 
 #. Name for ace
 msgid "Achinese"
-msgstr "ਅਚੀਨੀਸ"
+msgstr "ਅਚੀਨੀ"
 
 #. Name for acf
 msgid "Saint Lucian Creole French"
@@ -396,7 +397,7 @@ msgstr "ਅਚੀਰੋਨ"
 
 #. Name for ada
 msgid "Adangme"
-msgstr "ਅਡਾਂਗਮੀ"
+msgstr "ਅਡਾਗਮੇ"
 
 #. Name for adb
 msgid "Adabe"
@@ -596,7 +597,7 @@ msgstr "ਅਫਗਾਨ ਸਾਈਨ ਭਾਸ਼ਾ"
 
 #. Name for afh
 msgid "Afrihili"
-msgstr "ਅਫਰਿਹਲੀ"
+msgstr "ਅਫਰੀਹੀਲੀ"
 
 #. Name for afi
 msgid "Akrukay"
@@ -620,7 +621,7 @@ msgstr "ਤਪੇਈ"
 
 #. Name for afr
 msgid "Afrikaans"
-msgstr "ਅਫਰੀਕਨ"
+msgstr "ਅਫਰੀਕੀ"
 
 #. Name for afs
 #, fuzzy
@@ -1000,7 +1001,7 @@ msgstr "ਕਰਬੀ, ਅਮਰੀ"
 
 #. Name for aka
 msgid "Akan"
-msgstr "ਅਖਾਨ"
+msgstr "ਅਕਾਨ"
 
 #. Name for akb
 msgid "Batak Angkola"
@@ -1177,9 +1178,8 @@ msgid "Albanian, Tosk"
 msgstr "ਅਲਬਾਨੀਅਨ, ਟੋਸਕ"
 
 #. Name for alt
-#, fuzzy
 msgid "Southern Altai"
-msgstr "ਮਿਆਓ, ਦੱਖਣੀ ਮਾਸ਼ਾਨ"
+msgstr "ਦੱਖਣੀ ਅਲਤਾਈ"
 
 #. Inverted name for alt
 msgid "Altai, Southern"
@@ -1392,7 +1392,7 @@ msgstr "ਐਂਡੋਕੂਈ"
 
 #. Name for anp
 msgid "Angika"
-msgstr "ਐਂਜਿਕਾ"
+msgstr "ਅੰਜਿਕਾ"
 
 #. Name for anq
 msgid "Jarawa (India)"
@@ -1744,7 +1744,7 @@ msgstr "ਅਰਾਮਟਾ, ਪੱਛਮੀ"
 
 #. Name for arg
 msgid "Aragonese"
-msgstr "ਅਰਗੋਨੀ"
+msgstr "ਅਰਗੋਨੀਸ"
 
 #. Name for arh
 msgid "Arhuaco"
@@ -1810,7 +1810,7 @@ msgstr "ਅਰਬੋਰੇ"
 
 #. Name for arw
 msgid "Arawak"
-msgstr "ਅਰਾਵਕ"
+msgstr "ਅਰਾਵਾਕ"
 
 #. Name for arx
 msgid "Aruá (Rodonia State)"
@@ -3090,7 +3090,6 @@ msgid "Bengali"
 msgstr "ਬੰਗਾਲੀ"
 
 #. Common name for ben
-#, fuzzy
 msgid "Bangla"
 msgstr "ਬੰਗਲਾ"
 
@@ -24724,7 +24723,7 @@ msgstr ""
 
 #. Inverted name for otz
 msgid "Otomi, Ixtenco"
-msgstr "ਇਕਸਟੇਨਕੋਓਟੋਮੀ, "
+msgstr "ਇਕਸਟੇਨਕੋਓਟੋਮੀ,"
 
 #. Name for oua
 msgid "Tagargrent"
@@ -26098,9 +26097,8 @@ msgid "Old Provençal (to 1500)"
 msgstr "ਪਰੋਵੇਸਲ, ਪੁਰਾਣੀ (1500 ਤੱਕ)"
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "ਪਰੋਵੇਸਲ, ਪੁਰਾਣੀ (1500 ਤੱਕ)"
+msgstr "ਪਰੋਵੈਂਸਲ, ਪੁਰਾਣੀ (1500 ਨੂੰ)"
 
 #. Name for prp
 msgid "Parsi"
@@ -30063,7 +30061,7 @@ msgstr "ਸੂਬਾਨੇਨ, ਸੈਂਟਰਲ"
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "ਕਲਾਸੀਕਲ ਸਿਰਿਕ"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -32483,7 +32481,7 @@ msgstr "ਨਾਹੀਆਟਲ, ਦੱਖਣ-ਪੂਰਬੀ ਪੂਏਬਲਾ"
 
 #. Inverted name for twr
 msgid "Tarahumara, Southwestern"
-msgstr "ਟਾਰਾਹੂਮਾਰਾ, "
+msgstr "ਟਾਰਾਹੂਮਾਰਾ,"
 
 #. Name for twt
 msgid "Turiwára"
@@ -37513,7 +37511,7 @@ msgstr "ਜ਼ਹੂਆਂਗ, ਗੂਈਬੇਈ"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "ਮਿਆਰੀ ਮੋਰੋਕਾਨ ਟਾਮਾਜ਼ਾਘਟ"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

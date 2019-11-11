@@ -1,20 +1,20 @@
-# Translation of ISO-3166 (gu.po) to Gujarati
-#
+# Translation of ISO 3166-1 to Gujarati
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   - translations from ICU-3.0
-#
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-#   Kartik Mistry <kartik@debian.org>, 2006, 2007, 2008, 2012, 2013.
-#   Ankit Patel <ankit644@yahoo.com>, 2010.
-#   Sweta Kothari <swkothar@redhat.com>, 2010.
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+# Ankit Patel <ankit644@yahoo.com>, 2010.
+# Sweta Kothari <swkothar@redhat.com>, 2010.
+# Kartik Mistry <kartik@debian.org>, 2006-2008, 2012-2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2013-02-13 11:22+0530\n"
 "Last-Translator: Kartik Mistry <kartik@debian.org>\n"
 "Language-Team: Gujarati <indianoss-gujarati@lists.sourceforge.net>\n"
@@ -398,6 +398,10 @@ msgid "Republic of Cyprus"
 msgstr "રીપબ્લિક ઓફ સાયપ્રસ"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "ચેઝ રીપબ્લિક"
 
@@ -591,9 +595,9 @@ msgstr "ગામ્બિયા"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "રીપબ્લિક ઓફ ગામ્બિયા"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "રીપબ્લિક ઓફ ઝાંબિયા"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -984,12 +988,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "રીપબ્લિક ઓફ ધ માર્શલ આઇલેન્ડ્સ"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "રીપબ્લિક ઓફ મેસેડોનિયા"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "ન્યુ કેલેડોનિયા"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "ધ ફોર્મર યુગોસ્લાવ રીપબ્લિક ઓફ મેસેડોનિયા"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "રીપબ્લિક ઓફ લિથુઆનીઆ"
 
 #. Name for MLI
 msgid "Mali"
@@ -1438,12 +1446,14 @@ msgid "Kingdom of Sweden"
 msgstr "કિંગડમ ઓફ સ્વિડન"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "સ્વાઝિલેન્ડ"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "કિંગડમ ઓફ સ્વાઝિલેન્ડ"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "કિંગડમ ઓફ સ્પેન"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1652,6 +1662,12 @@ msgstr "વિયેત નામ"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "સોસ્યાલિસ્ટ રીપબ્લિક ઓફ વિયેત નામ"
+
+#. Common name for VNM
+#, fuzzy
+#| msgid "Viet Nam"
+msgid "Vietnam"
+msgstr "વિયેત નામ"
 
 #. Name for VUT
 msgid "Vanuatu"

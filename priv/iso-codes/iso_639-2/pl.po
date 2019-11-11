@@ -1,27 +1,33 @@
-# Translation of ISO-639 (language names) to Polish.
+# Translation of ISO 639-2 to Polish
+# Codes for the representation of names of languages
+# Part 2: Alpha-3 code
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-#    Copyright (C)
-#      Free Software Foundation, Inc., 2000-2013
-#      Cezary Jackiewicz <cjackiewicz@poczta.onet.pl>, 2000-2001
-#      GNOME PL Team <translators@gnome.pl>, 2001
-#      Alastair McKinstry <mckinstry@computer.org>, 2001
-#      Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>, 2007
-#      Jakub Bogusz <qboosh@pld-linux.org>, 2007-2013
-#
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2001.
+# Cezary Jackiewicz <cjackiewicz@poczta.onet.pl>, 2000-2001.
+# GNOME PL Team <translators@gnome.pl>, 2001.
+# Andrzej M. Krzysztofowicz <ankry@mif.pg.gda.pl>, 2007.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2007-2017, 2018, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2013-03-04 19:08+0100\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-09-22 13:37+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
-"Language-Team: Polish <translation-team-pl@lists.sourceforge.net>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.9-dev\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for aar
 msgid "Afar"
@@ -230,7 +236,7 @@ msgstr "języki bihari"
 
 #. Name for bik
 msgid "Bikol"
-msgstr "bikol"
+msgstr "bikolski"
 
 #. Name for bin
 msgid "Bini; Edo"
@@ -246,7 +252,7 @@ msgstr "siksika"
 
 #. Name for bnt
 msgid "Bantu (Other)"
-msgstr ""
+msgstr "bantu (inny)"
 
 #. Name for bod
 msgid "Tibetan"
@@ -266,7 +272,7 @@ msgstr "bretoński"
 
 #. Name for btk
 msgid "Batak languages"
-msgstr "języki batak"
+msgstr "języki batackie"
 
 #. Name for bua
 msgid "Buriat"
@@ -318,7 +324,7 @@ msgstr "czeski"
 
 #. Name for cha
 msgid "Chamorro"
-msgstr "czamarro"
+msgstr "czamorro"
 
 #. Name for chb
 msgid "Chibcha"
@@ -390,15 +396,15 @@ msgstr "korsykański"
 
 #. Name for cpe
 msgid "Creoles and pidgins, English based"
-msgstr "kreolskie i pidżin, oparte na angielskim"
+msgstr "kreolskie i pidżynowe, oparte na angielskim"
 
 #. Name for cpf
 msgid "Creoles and pidgins, French-based"
-msgstr "kreolskie i pidżin, oparte na francuskim"
+msgstr "kreolskie i pidżynowe, oparte na francuskim"
 
 #. Name for cpp
 msgid "Creoles and pidgins, Portuguese-based"
-msgstr "kreolskie i pidżin, oparte na portugalskim"
+msgstr "kreolskie i pidżynowe, oparte na portugalskim"
 
 #. Name for cre
 msgid "Cree"
@@ -410,7 +416,7 @@ msgstr "krymskotatarski; krymski"
 
 #. Name for crp
 msgid "Creoles and pidgins"
-msgstr "kreolskie i pidżin"
+msgstr "kreolskie i pidżynowe"
 
 #. Name for csb
 msgid "Kashubian"
@@ -598,7 +604,7 @@ msgstr "wschodnio-fryzyjski"
 
 #. Name for fry
 msgid "Western Frisian"
-msgstr "zachodnio-fryzyjski"
+msgstr "zachodniofryzyjski"
 
 #. Name for ful
 msgid "Fulah"
@@ -762,7 +768,7 @@ msgstr "ormiański"
 
 #. Name for iba
 msgid "Iban"
-msgstr "ibanag"
+msgstr "iban"
 
 #. Name for ibo
 msgid "Igbo"
@@ -778,7 +784,7 @@ msgstr "syczuański"
 
 #. Name for ijo
 msgid "Ijo languages"
-msgstr "języki ijo"
+msgstr "języki ijaw"
 
 #. Name for iku
 msgid "Inuktitut"
@@ -798,7 +804,7 @@ msgstr "interlingua (Międzynarodowe Stowarzyszenie Języka Pomocniczego)"
 
 #. Name for inc
 msgid "Indic languages"
-msgstr "języki indyjskie"
+msgstr "języki indoaryjskie"
 
 #. Name for ind
 msgid "Indonesian"
@@ -846,7 +852,7 @@ msgstr "japoński"
 
 #. Name for jpr
 msgid "Judeo-Persian"
-msgstr "judeoperski"
+msgstr "judeo-perski"
 
 #. Name for jrb
 msgid "Judeo-Arabic"
@@ -858,7 +864,7 @@ msgstr "karakałpacki"
 
 #. Name for kab
 msgid "Kabyle"
-msgstr "kabylski; kabyle"
+msgstr "kabylski"
 
 #. Name for kac
 msgid "Kachin; Jingpho"
@@ -898,7 +904,7 @@ msgstr "kawi"
 
 #. Name for kaz
 msgid "Kazakh"
-msgstr "kazaski; kazachski"
+msgstr "kazaski"
 
 #. Name for kbd
 msgid "Kabardian"
@@ -910,15 +916,13 @@ msgstr "khasi"
 
 #. Name for khi
 msgid "Khoisan languages"
-msgstr "języki kojsańskie"
+msgstr "języki khoisan; języki hotentocko-buszmeńskie"
 
 #. Name for khm
 msgid "Central Khmer"
 msgstr "khmerski środkowy"
 
 #. Name for kho
-#, fuzzy
-#| msgid "Khotanese;Sakan"
 msgid "Khotanese; Sakan"
 msgstr "chotański; sakijski"
 
@@ -928,7 +932,7 @@ msgstr "kikiju; kikuyu; gikuyu"
 
 #. Name for kin
 msgid "Kinyarwanda"
-msgstr "ruanda-rundi"
+msgstr "rwanda"
 
 #. Name for kir
 msgid "Kirghiz; Kyrgyz"
@@ -1072,7 +1076,7 @@ msgstr "luo (Kenia i Tanzania)"
 
 #. Name for lus
 msgid "Lushai"
-msgstr "mizo; lushai; lusei"
+msgstr "mizo; lushai"
 
 #. Name for mad
 msgid "Madurese"
@@ -1092,7 +1096,7 @@ msgstr "maithili"
 
 #. Name for mak
 msgid "Makasar"
-msgstr "makasar"
+msgstr "makasarski"
 
 #. Name for mal
 msgid "Malayalam"
@@ -1339,10 +1343,8 @@ msgid "Nzima"
 msgstr "nzema"
 
 #. Name for oci
-#, fuzzy
-#| msgid "Occitan (post 1500)"
 msgid "Occitan (post 1500); Provençal"
-msgstr "okcytański (po 1500)"
+msgstr "okcytański (po 1500); prowansalski"
 
 #. Name for oji
 msgid "Ojibwa"
@@ -1433,11 +1435,8 @@ msgid "Prakrit languages"
 msgstr "prakryty"
 
 #. Name for pro
-#, fuzzy
-#| msgid "Provençal, Old (to 1500); Occitan, Old (to 1500)"
 msgid "Provençal, Old (to 1500)"
-msgstr ""
-"prowansalski średniowieczny (do 1500); okcytański średniowieczny (do 1500)"
+msgstr "prowansalski średniowieczny (do 1500)"
 
 #. Name for pus
 msgid "Pushto; Pashto"
@@ -1476,10 +1475,8 @@ msgid "Romany"
 msgstr "cygański; romski"
 
 #. Name for ron
-#, fuzzy
-#| msgid "Moldavian; Moldovan"
 msgid "Romanian; Moldavian; Moldovan"
-msgstr "mołdawski"
+msgstr "rumuński; mołdawski"
 
 #. Name for run
 msgid "Rundi"
@@ -1506,10 +1503,8 @@ msgid "Yakut"
 msgstr "jakucki"
 
 #. Name for sai
-#, fuzzy
-#| msgid "South American Indian languages"
 msgid "South American Indian (Other)"
-msgstr "języki Indian południowoamerykańskich"
+msgstr "język Indian południowoamerykańskich (inny)"
 
 #. Name for sal
 msgid "Salishan languages"
@@ -1893,7 +1888,7 @@ msgstr "języki wakaskie"
 
 #. Name for wal
 msgid "Walamo"
-msgstr ""
+msgstr "walamo"
 
 #. Name for war
 msgid "Waray"

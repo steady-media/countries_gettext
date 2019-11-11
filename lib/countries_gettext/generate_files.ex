@@ -6,9 +6,9 @@ defmodule CountriesGettext.GenerateFiles do
                  |> File.read!()
                  |> Jason.decode!()
                  |> Map.get("3166-1")
-                 |> Enum.map(fn %{"name" => name, "alpha_2" => code} ->
-                   {name, String.downcase(code)}
-                 end)
+                 |> Enum.map(fn %{"alpha_2" => code, "name" => name} = map ->
+                      name = map["common_name"] || name
+                      {name, String.downcase(code)} end)
                  |> Enum.into(%{})
 
   def generate_pot(output_dir) do
@@ -41,7 +41,8 @@ defmodule CountriesGettext.GenerateFiles do
     end
   end
 
-  def pot_entry_for_country(%{"alpha_2" => code, "name" => name}) do
+  def pot_entry_for_country(%{"alpha_2" => code, "name" => name} = map) do
+    name = map["common_name"] || name
     ~s"""
     msgid "#{String.downcase(code)}"
     msgstr "#{name}"

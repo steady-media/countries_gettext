@@ -1,16 +1,17 @@
-# Translation of ISO-3166 (country names) to Tigre
-#
+# Translation of ISO 3166-1 to Tigre
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Alastair McKinstry <mckinstry@debian.org>, 2004.
-#
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2004-08-08 10:00+0100\n"
 "Last-Translator: Alastair McKinstry <mckinstry@debian.org>\n"
 "Language-Team: Tigre\n"
@@ -391,6 +392,10 @@ msgid "Republic of Cyprus"
 msgstr ""
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "ቼክ ሪፑብሊክ"
 
@@ -585,7 +590,7 @@ msgstr "ጋምቢያ"
 
 #. Official name for GMB
 #, fuzzy
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "ዶሚኒክ ሪፑብሊክ"
 
 #. Name for GNB
@@ -979,12 +984,14 @@ msgstr ""
 
 #. Name for MKD
 #, fuzzy
-msgid "Macedonia, Republic of"
-msgstr "ዶሚኒክ ሪፑብሊክ"
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "ኒው ካሌዶኒያ"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr ""
+#, fuzzy
+msgid "Republic of North Macedonia"
+msgstr "ዶሚኒክ ሪፑብሊክ"
 
 #. Name for MLI
 msgid "Mali"
@@ -1437,11 +1444,11 @@ msgid "Kingdom of Sweden"
 msgstr ""
 
 #. Name for SWZ
-msgid "Swaziland"
+msgid "Eswatini"
 msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
+msgid "Kingdom of Eswatini"
 msgstr ""
 
 #. Name for SXM, Official name for SXM
@@ -1651,6 +1658,10 @@ msgstr ""
 
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
+msgstr ""
+
+#. Common name for VNM
+msgid "Vietnam"
 msgstr ""
 
 #. Name for VUT

@@ -1,24 +1,28 @@
-# Translation of ISO 639_3 (or.po) to Oriya
-# Copyright (C) 2010  Free Software Foundation, Inc.
+# Translation of ISO 639-3 to Oriya
+# Codes for the representation of names of languages
+# Part 3: Alpha-3 code for comprehensive coverage of languages
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
+# .
+# Copyright ©
 # Manoj Kumar Giri <giri.manojkr@gmail.com>, 2010.
+# Pro Neon <proneon267@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-3\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2010-04-07 12:26+0530\n"
-"Last-Translator: Manoj Kumar Giri <giri.manojkr@gmail.com>\n"
-"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-09-07 05:25+0000\n"
+"Last-Translator: Pro Neon <proneon267@gmail.com>\n"
+"Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/iso-639-3/"
+"or/>\n"
 "Language: or\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: KBabel 1.11.4\n"
-"Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.9-dev\n"
 
 #. Name for aaa
 msgid "Ghotuo"
@@ -38,7 +42,7 @@ msgstr "ଆମାଲ"
 
 #. Name for aae
 msgid "Arbëreshë Albanian"
-msgstr ""
+msgstr "ଆରବେଶୀ ଆଲବାନିୟ"
 
 #. Inverted name for aae
 msgid "Albanian, Arbëreshë"
@@ -54,7 +58,7 @@ msgstr "ଆମବ୍ରାକ"
 
 #. Name for aah
 msgid "Abu' Arapesh"
-msgstr ""
+msgstr "ଅବୁ ଆରାପେସ"
 
 #. Inverted name for aah
 msgid "Arapesh, Abu'"
@@ -77,9 +81,8 @@ msgid "Anambé"
 msgstr "ଆନାମ୍ବେ"
 
 #. Name for aao
-#, fuzzy
 msgid "Algerian Saharan Arabic"
-msgstr "ଆରବୀ, ଆଲଜେରୀଆନ ସାହାରାନ"
+msgstr "ଆରବୀ, ଆଲଜେରୀୟ ସାହାରୀୟ"
 
 #. Inverted name for aao
 msgid "Arabic, Algerian Saharan"
@@ -87,7 +90,7 @@ msgstr "ଆରବୀ, ଆଲଜେରୀଆନ ସାହାରାନ"
 
 #. Name for aap
 msgid "Pará Arára"
-msgstr ""
+msgstr "ପାରା ଆରାରା"
 
 #. Inverted name for aap
 msgid "Arára, Pará"
@@ -95,7 +98,7 @@ msgstr "ଆରାରା, ପାରା"
 
 #. Name for aaq
 msgid "Eastern Abnaki"
-msgstr ""
+msgstr "ପୂର୍ବ ଅବନାକି"
 
 #. Inverted name for aaq
 msgid "Abnaki, Eastern"
@@ -111,7 +114,7 @@ msgstr "ଆସାକ"
 
 #. Name for aat
 msgid "Arvanitika Albanian"
-msgstr ""
+msgstr "ଅରଭନିଟିକା ଆଲବାନିୟ"
 
 #. Inverted name for aat
 msgid "Albanian, Arvanitika"
@@ -143,7 +146,7 @@ msgstr "ବାଙ୍କୋନ"
 
 #. Name for abc
 msgid "Ambala Ayta"
-msgstr ""
+msgstr "ଅମ୍ବାଲା ଅୟତ"
 
 #. Inverted name for abc
 msgid "Ayta, Ambala"
@@ -151,12 +154,11 @@ msgstr "ଆୟତା, ଆମ୍ବାଲା"
 
 #. Name for abd
 msgid "Manide"
-msgstr ""
+msgstr "ମେଁନାଏଡ଼"
 
 #. Name for abe
-#, fuzzy
 msgid "Western Abnaki"
-msgstr "ମିଆଓ, ପାଶ୍ଚାତ୍ଯ ମାସାନ"
+msgstr "ପାଶ୍ଚାତ୍ଯ ଅବାନାକି"
 
 #. Inverted name for abe
 msgid "Abnaki, Western"
@@ -171,9 +173,8 @@ msgid "Abaga"
 msgstr "ଆବାଗା"
 
 #. Name for abh
-#, fuzzy
 msgid "Tajiki Arabic"
-msgstr "ଆରବୀ"
+msgstr "ତାଜାକୀୟ  ଆରବୀ"
 
 #. Inverted name for abh
 msgid "Arabic, Tajiki"
@@ -209,11 +210,11 @@ msgstr "ଆବୋନ"
 
 #. Name for abp
 msgid "Abellen Ayta"
-msgstr ""
+msgstr "ଆବେଲେନ୍ ଅୟାତ"
 
 #. Inverted name for abp
 msgid "Ayta, Abellen"
-msgstr ""
+msgstr "ଅୟାତ, ଆବେଲେନି"
 
 #. Name for abq
 msgid "Abaza"
@@ -225,7 +226,7 @@ msgstr "ଆବରୋନ"
 
 #. Name for abs
 msgid "Ambonese Malay"
-msgstr ""
+msgstr "ଆମ୍ବୋନେସି ମଳୟ"
 
 #. Inverted name for abs
 msgid "Malay, Ambonese"
@@ -240,9 +241,8 @@ msgid "Abure"
 msgstr "ଆବୁରେ"
 
 #. Name for abv
-#, fuzzy
 msgid "Baharna Arabic"
-msgstr "ଆରବୀ"
+msgstr "ବାହାରନୀୟ   ଆରବୀ"
 
 #. Inverted name for abv
 msgid "Arabic, Baharna"
@@ -387,7 +387,7 @@ msgstr "ଆଚେରୋନ"
 
 #. Name for ada
 msgid "Adangme"
-msgstr "ଆଡ଼ାମେ"
+msgstr "ଆଡାଙ୍ଗମେ"
 
 #. Name for adb
 msgid "Adabe"
@@ -3072,9 +3072,8 @@ msgid "Bengali"
 msgstr "ବଙ୍ଗାଳୀ"
 
 #. Common name for ben
-#, fuzzy
 msgid "Bangla"
-msgstr "ବାଙ୍ଗାଲା"
+msgstr "ବାଙ୍ଗାଳ"
 
 #. Name for beo
 msgid "Beami"
@@ -22473,7 +22472,7 @@ msgstr ""
 
 #. Inverted name for nmb
 msgid "Nambas, Big"
-msgstr "ନାମ୍ବାସ, ବଡ "
+msgstr "ନାମ୍ବାସ, ବଡ"
 
 #. Name for nmc
 msgid "Ngam"
@@ -25310,7 +25309,7 @@ msgstr ""
 
 #. Name for ple
 msgid "Palu'e"
-msgstr "ପେଲୁ ଏ "
+msgstr "ପେଲୁ ଏ"
 
 #. Name for plg
 msgid "Pilagá"
@@ -25881,9 +25880,8 @@ msgid "Old Provençal (to 1500)"
 msgstr "ପ୍ରଭେଙ୍କାଲ, ପୁରୁଣା (1500 କୁ)"
 
 #. Inverted name for pro
-#, fuzzy
 msgid "Provençal, Old (to 1500)"
-msgstr "ପ୍ରଭେଙ୍କାଲ, ପୁରୁଣା (1500 କୁ)"
+msgstr "ପ୍ରୋଭେଙ୍କାଲ, ପୁରୁଣା (୧୫୦୦ ଯାଏ ); ଓଶିତାନ, ପୁରୁଣା (to ୧୫୦୦ )"
 
 #. Name for prp
 msgid "Parsi"
@@ -28724,7 +28722,7 @@ msgstr "ମୁସାସା"
 
 #. Name for smn
 msgid "Inari Sami"
-msgstr ""
+msgstr "ଇନାରୀ ସାମି"
 
 #. Inverted name for smn
 msgid "Sami, Inari"
@@ -29820,7 +29818,7 @@ msgstr "ସୁବାନେନ, ମଧ୍ଯ"
 
 #. Name for syc
 msgid "Classical Syriac"
-msgstr ""
+msgstr "ପ୍ରତିଷ୍ଠିତ ସିରିଆକ"
 
 #. Inverted name for syc
 msgid "Syriac, Classical"
@@ -37182,7 +37180,7 @@ msgstr "ଝୁଆଙ୍ଗ, ଗୁବେଇ"
 
 #. Name for zgh
 msgid "Standard Moroccan Tamazight"
-msgstr ""
+msgstr "ସାଧାରଣ ମୋରୋକାନ ଟାମାଜାଇଟ"
 
 #. Inverted name for zgh
 msgid "Tamazight, Standard Moroccan"

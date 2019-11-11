@@ -1,25 +1,32 @@
-# Translation of ISO-3166 (country names) to Romanian
+# Translation of ISO 3166-1 to Romanian; Moldavian; Moldovan
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
+# .
+# Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
-# Eddy Petrișor <eddy.petrisor@gmail.com>, 2004, 2006, 2007, 2008, 2009.
+# Eddy Petrișor <eddy.petrisor@gmail.com>, 2004, 2006-2009.
 # Andrei Popescu <andreimpopescu@gmail.com>, 2010.
 # Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
+# Andrei POPESCU <andreimpopescu@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
-"PO-Revision-Date: 2010-08-16 15:57+0300\n"
-"Last-Translator: Lucian Adrian Grijincu <lucian.grijincu@gmail.com>\n"
-"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"PO-Revision-Date: 2018-11-30 15:08+0000\n"
+"Last-Translator: Andrei POPESCU <andreimpopescu@gmail.com>\n"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2);;\n"
-"X-Generator: Virtaal 0.6.1\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 3.3\n"
 "X-Launchpad-Export-Date: 2010-08-16 11:01+0000\n"
 
 #. Name for ABW
@@ -148,7 +155,7 @@ msgstr "Republica Benin"
 
 #. Name for BES, Official name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "Bonaire, Sint Eustatius și Saba"
 
 #. Name for BFA
 msgid "Burkina Faso"
@@ -347,14 +354,10 @@ msgid "Union of the Comoros"
 msgstr "Uniunea Comoros"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Capul Verde"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Republica Capul Verde"
 
@@ -376,7 +379,7 @@ msgstr "Republica Cuba"
 
 #. Name for CUW, Official name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. Name for CXR
 msgid "Christmas Island"
@@ -395,6 +398,10 @@ msgid "Republic of Cyprus"
 msgstr "Republica Cipru"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr "Cehia"
+
+#. Official name for CZE
 msgid "Czech Republic"
 msgstr "Cehia"
 
@@ -463,9 +470,8 @@ msgid "Eritrea"
 msgstr "Eritreea"
 
 #. Official name for ERI
-#, fuzzy
 msgid "the State of Eritrea"
-msgstr "Statele Unite ale Americii"
+msgstr "Statul Eritrea"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -508,9 +514,8 @@ msgid "Fiji"
 msgstr "Fiji"
 
 #. Official name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "Republica Haiti"
+msgstr "Republica Fiji"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
@@ -546,7 +551,7 @@ msgstr "Republica Gabon"
 
 #. Name for GBR
 msgid "United Kingdom"
-msgstr "Regatul Unit al Marii Britanii"
+msgstr "Regatul Unit"
 
 #. Official name for GBR
 msgid "United Kingdom of Great Britain and Northern Ireland"
@@ -590,9 +595,9 @@ msgstr "Gambia"
 
 #. Official name for GMB
 #, fuzzy
-#| msgid "Republic of the Gambia"
-msgid "Islamic Republic of the Gambia"
-msgstr "Republica Gambia"
+#| msgid "Republic of Zambia"
+msgid "Republic of the Gambia"
+msgstr "Republica Zambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -660,7 +665,7 @@ msgstr "Regiunea Chineză cu administrare specială Hong Kong"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Insulele Heard și McDonald"
+msgstr "Insula Heard și Insulele McDonald"
 
 #. Name for HND
 msgid "Honduras"
@@ -820,7 +825,7 @@ msgstr "Republica Kiribati"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "Sfinții Kitts și Nevis"
+msgstr "Saint Kitts și Nevis"
 
 #. Name for KOR
 msgid "Korea, Republic of"
@@ -983,12 +988,16 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republica Insulele Marshall"
 
 #. Name for MKD
-msgid "Macedonia, Republic of"
-msgstr "Macedonia, Republica"
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Macedonia"
+msgstr "Noua Caledonie"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr "Fosta republică iugoslavă Macedonia"
+#, fuzzy
+#| msgid "Republic of Lithuania"
+msgid "Republic of North Macedonia"
+msgstr "Republica Lituania"
 
 #. Name for MLI
 msgid "Mali"
@@ -1011,9 +1020,8 @@ msgid "Myanmar"
 msgstr "Myanmar"
 
 #. Official name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "Republica Guyana"
+msgstr "Republica Myanmar"
 
 #. Name for MNE, Official name for MNE
 msgid "Montenegro"
@@ -1216,9 +1224,8 @@ msgid "Papua New Guinea"
 msgstr "Papua Noua Guinee"
 
 #. Official name for PNG
-#, fuzzy
 msgid "Independent State of Papua New Guinea"
-msgstr "Statul Independent Samoa"
+msgstr "Statul Independent Papua Noua Guinee"
 
 #. Name for POL
 msgid "Poland"
@@ -1258,12 +1265,11 @@ msgstr "Republica Paraguay"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr ""
+msgstr "Palestina, Statul"
 
 #. Official name for PSE
-#, fuzzy
 msgid "the State of Palestine"
-msgstr "Statele Unite ale Americii"
+msgstr "Statul Palestina"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1374,13 +1380,12 @@ msgid "Somalia"
 msgstr "Somalia"
 
 #. Official name for SOM
-#, fuzzy
 msgid "Federal Republic of Somalia"
-msgstr "Republica federală Germană"
+msgstr "Republica Federală Somalia"
 
 #. Name for SPM
 msgid "Saint Pierre and Miquelon"
-msgstr "Sfinții Pierre și Miquelon"
+msgstr "Saint Pierre și Miquelon"
 
 #. Name for SRB
 msgid "Serbia"
@@ -1391,14 +1396,12 @@ msgid "Republic of Serbia"
 msgstr "Republica Serbia"
 
 #. Name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "Republica Sudan"
+msgstr "Sudanul de Sud"
 
 #. Official name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "Republica Sudan"
+msgstr "Republica Sudanului de Sud"
 
 #. Name for STP
 msgid "Sao Tome and Principe"
@@ -1410,7 +1413,7 @@ msgstr "Republica democrată Sao Tome și Principe"
 
 #. Name for SUR
 msgid "Suriname"
-msgstr "Suriname"
+msgstr "Surinam"
 
 #. Official name for SUR
 msgid "Republic of Suriname"
@@ -1441,17 +1444,18 @@ msgid "Kingdom of Sweden"
 msgstr "Regatul Suediei"
 
 #. Name for SWZ
-msgid "Swaziland"
-msgstr "Swaziland"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
-msgid "Kingdom of Swaziland"
-msgstr "Regatul Swaziland"
+#, fuzzy
+#| msgid "Kingdom of Spain"
+msgid "Kingdom of Eswatini"
+msgstr "Regatul Spaniei"
 
 #. Name for SXM, Official name for SXM
-#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "Sfântul Martin (partea franceză)"
+msgstr "Sfântul Martin (partea olandeză)"
 
 #. Name for SYC
 msgid "Seychelles"
@@ -1571,7 +1575,7 @@ msgstr "Republica Unită Tanzania"
 
 #. Common name for TZA
 msgid "Tanzania"
-msgstr ""
+msgstr "Tanzania"
 
 #. Name for UGA
 msgid "Uganda"
@@ -1619,7 +1623,7 @@ msgstr "Vatican"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
-msgstr "Sfinții Vincent și Grenadines"
+msgstr "Saint Vincent și Grenadinele"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
@@ -1656,6 +1660,10 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr "Republica socialistă Vietnam"
+
+#. Common name for VNM
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

@@ -1,20 +1,18 @@
-# Translation of ISO-3166 (country names) to Xhosa
-#
+# Translation of ISO 3166-1 to Xhosa
+# Codes for the representation of names of countries and their subdivisions
+# Part 1: Country codes
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Free Software Foundation, Inc., 2002,2003
-#   Alastair McKinstry <mckinstry@computer.org>, 2002.
-#   Translations from KDE:
-#   - Antoinette Dekeni <antoinette@translate.org.za>, 2002
-#
-#
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2002.
+# Antoinette Dekeni <antoinette@translate.org.za>, 2002.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-04-14 09:45+0200\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2019-03-20 13:20+0100\n"
 "PO-Revision-Date: 2002-01-05 18:40+0000\n"
 "Last-Translator: Antoinette Dekeni <antoinette@translate.org.za>\n"
 "Language-Team: Xhosa <xhosa@translate.org.za>\n"
@@ -413,6 +411,10 @@ msgid "Republic of Cyprus"
 msgstr "Ulawulo lokuziphatha kwe Dominican"
 
 #. Name for CZE
+msgid "Czechia"
+msgstr ""
+
+#. Official name for CZE
 #, fuzzy
 msgid "Czech Republic"
 msgstr "Ulawulo lokuziphatha kwe Dominican"
@@ -624,7 +626,7 @@ msgstr "Jamaica"
 
 #. Official name for GMB
 #, fuzzy
-msgid "Islamic Republic of the Gambia"
+msgid "Republic of the Gambia"
 msgstr "Ulawulo lokuziphatha kwe Dominican"
 
 #. Name for GNB
@@ -1050,12 +1052,13 @@ msgstr ""
 
 #. Name for MKD
 #, fuzzy
-msgid "Macedonia, Republic of"
-msgstr "Ulawulo lokuziphatha kwe Dominican"
+msgid "North Macedonia"
+msgstr "Macedonia"
 
 #. Official name for MKD
-msgid "The Former Yugoslav Republic of Macedonia"
-msgstr ""
+#, fuzzy
+msgid "Republic of North Macedonia"
+msgstr "Lithuania"
 
 #. Name for MLI
 #, fuzzy
@@ -1539,13 +1542,12 @@ msgid "Kingdom of Sweden"
 msgstr ""
 
 #. Name for SWZ
-#, fuzzy
-msgid "Swaziland"
-msgstr "Thailand"
+msgid "Eswatini"
+msgstr ""
 
 #. Official name for SWZ
 #, fuzzy
-msgid "Kingdom of Swaziland"
+msgid "Kingdom of Eswatini"
 msgstr "Thailand"
 
 #. Name for SXM, Official name for SXM
@@ -1777,6 +1779,11 @@ msgstr "Vietnam"
 #. Official name for VNM
 msgid "Socialist Republic of Viet Nam"
 msgstr ""
+
+#. Common name for VNM
+#, fuzzy
+msgid "Vietnam"
+msgstr "Vietnam"
 
 #. Name for VUT
 msgid "Vanuatu"

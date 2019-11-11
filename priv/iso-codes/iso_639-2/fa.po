@@ -1,26 +1,30 @@
-# Translation of ISO-639 (language names) to Persian
-#
+# Translation of ISO 639-2 to Persian
+# Codes for the representation of names of languages
+# Part 2: Alpha-3 code
+# .
 # This file is distributed under the same license as the iso-codes package.
-#
-# Copyright (C)
-#   Free Software Foundation, Inc., 2004
-#   Sharif FarsiWeb, Inc., 2004
-#   Roozbeh Pournader <roozbeh@farsiweb.info>, 2004,2005.
-#   Alastair McKinstry <mckinstry@debian.org>, 2004
-#
+# .
+# Copyright ©
+# Alastair McKinstry <mckinstry@debian.org>, 2004.
+# Roozbeh Pournader <roozbeh@farsiweb.info>, 2004-2005.
+# Mostafa Ahangarha <ahangarha@gmail.com>, 2018.
+# Nader Jafari <naderpaskari@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
-"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
-"debian.org>\n"
-"POT-Creation-Date: 2016-03-05 21:58+0100\n"
-"PO-Revision-Date: 2005-08-02 17:35+0430\n"
-"Last-Translator: Roozbeh Pournader <roozbeh@farsiweb.info>\n"
-"Language-Team: Persian <translation-team-fa@lists.sourceforge.net>\n"
+"Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
+"issues\n"
+"POT-Creation-Date: 2018-01-17 22:10+0100\n"
+"PO-Revision-Date: 2019-06-13 23:45+0000\n"
+"Last-Translator: Nader Jafari <naderpaskari@gmail.com>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-639-2/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.7-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -47,9 +51,8 @@ msgid "Adyghe; Adygei"
 msgstr "آدیجیایی"
 
 #. Name for afa
-#, fuzzy
 msgid "Afro-Asiatic languages"
-msgstr "زبانهای آپاچی"
+msgstr "زبانهای آفریقایی-آسیایی"
 
 #. Name for afh
 msgid "Afrihili"
@@ -88,7 +91,6 @@ msgid "Amharic"
 msgstr "امهری"
 
 #. Name for ang
-#, fuzzy
 msgid "English, Old (ca. 450-1100)"
 msgstr "انگلیسی باستان (حدود ۴۵۰-۱۱۰۰ م.)"
 
@@ -121,9 +123,8 @@ msgid "Arapaho"
 msgstr "آراپاهویی"
 
 #. Name for art
-#, fuzzy
 msgid "Artificial languages"
-msgstr "زبانهای اتومیایی"
+msgstr "زبانهای مصنوعی"
 
 #. Name for arw
 msgid "Arawak"
@@ -138,9 +139,8 @@ msgid "Asturian; Bable; Leonese; Asturleonese"
 msgstr ""
 
 #. Name for ath
-#, fuzzy
 msgid "Athapascan languages"
-msgstr "زبان آتاپاسکایی"
+msgstr "زبانهای آتاپاسکایی"
 
 #. Name for aus
 msgid "Australian languages"
@@ -196,9 +196,8 @@ msgid "Basa"
 msgstr "باسایی"
 
 #. Name for bat
-#, fuzzy
 msgid "Baltic languages"
-msgstr "زبان‌های مایاییک"
+msgstr "زبان‌های بالتیک"
 
 #. Name for bej
 msgid "Beja; Bedawiyet"
@@ -1281,7 +1280,7 @@ msgstr "ناپلی"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "نائورویی"
+msgstr "نائورو"
 
 #. Name for nav
 #, fuzzy
@@ -1830,7 +1829,7 @@ msgstr "تیوی"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr ""
+msgstr "توکلائو"
 
 #. Name for tlh
 msgid "Klingon; tlhIngan-Hol"
@@ -1892,7 +1891,7 @@ msgstr "زبانهای آپاچی"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr ""
+msgstr "تووالو"
 
 #. Name for twi
 msgid "Twi"
