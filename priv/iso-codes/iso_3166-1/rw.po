@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-01-01 15:06+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Kinyarwanda <https://hosted.weblate.org/projects/iso-codes/"
@@ -735,6 +735,10 @@ msgstr "Iran, Repubulika ya Kisilimu"
 msgid "Islamic Republic of Iran"
 msgstr "Repubulika ya Kisilimu ya Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irake"
@@ -835,6 +839,12 @@ msgstr "Mutagatifu Kitsi na Nevisi"
 msgid "Korea, Republic of"
 msgstr "Koreya, Repubulika ya"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Afurika yepfo"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Koweti"
@@ -846,6 +856,10 @@ msgstr "Leta ya Koweti"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Repubulika Iharanira Demokorasi ya Lawosi"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1255,6 +1269,12 @@ msgstr "Koreya, Repubulika Iharanira Demokarasi ya Rubanda ya"
 msgid "Democratic People's Republic of Korea"
 msgstr "Repubulika Iharanira Demokarasi ya Rubanda ya Koreya"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Nuveli Kalidoniya"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Porutigali"
@@ -1482,6 +1502,10 @@ msgstr "Repubulika ya Seyishele"
 msgid "Syrian Arab Republic"
 msgstr "Repubulika Nyarabu ya Siriya"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Ibirwa bya Takisi na Kayikosi"
@@ -1559,11 +1583,13 @@ msgid "Republic of Tunisia"
 msgstr "Repubulika ya Tunisiya"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Turukiya"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Repubulika ya Turukiya"
 
 #. Name for TUV

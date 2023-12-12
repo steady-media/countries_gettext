@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2013-08-19 16:27+0100\n"
 "Last-Translator: Hai-Nam Nguyen <hainam@jcisio.com>\n"
 "Language-Team: Vietnamese <>\n"
@@ -730,6 +730,10 @@ msgstr "Ba Tư, Cộng hoà Hồi giáo"
 msgid "Islamic Republic of Iran"
 msgstr "Cộng hoà Hồi giáo Ba Tư"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "I-rắc"
@@ -830,6 +834,12 @@ msgstr "Xan-kít và Nê-vi"
 msgid "Korea, Republic of"
 msgstr "Cộng hoà Nam Hàn"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Nam Phi"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Cu-ouai-thợ"
@@ -841,6 +851,10 @@ msgstr "Quốc Gia Cu-ouai-thợ"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Cộng hoà Nhân dân Dân chủ Lào"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1246,6 +1260,12 @@ msgstr "Bắc Hàn, Cộng hoà Nhân dân Dân chủ"
 msgid "Democratic People's Republic of Korea"
 msgstr "Cộng hoà Nhân dân Dân chủ Bắc Hàn"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Niu Ca-lê-đô-ni-a"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Bồ Đào Nha"
@@ -1364,7 +1384,7 @@ msgstr "En-xan-va-đoa"
 
 #. Official name for SLV
 msgid "Republic of El Salvador"
-msgstr "Nước Cộng Hoà  En-xan-va-đoa"
+msgstr "Nước Cộng Hoà En-xan-va-đoa"
 
 #. Name for SMR
 msgid "San Marino"
@@ -1468,6 +1488,10 @@ msgstr "Cộng hoà Xây-sen"
 msgid "Syrian Arab Republic"
 msgstr "Cộng hoà A-rập Xi-ri-a"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Quần Đảo Tuốc và Cai-cox"
@@ -1545,11 +1569,13 @@ msgid "Republic of Tunisia"
 msgstr "Cộng hoà Tu-ni-xi-a"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Thổ Nhĩ Kỳ"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Nước Cộng Hoà Thổ Nhĩ Kỳ"
 
 #. Name for TUV

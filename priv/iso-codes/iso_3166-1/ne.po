@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: ne_merge\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2011-02-22 16:39-0600\n"
 "Last-Translator: Shiva Prasad Pokharel <pokharelshiva@hotmail.com>\n"
 "Language-Team: Nepali <info@mpp.org.np>\n"
@@ -731,6 +731,10 @@ msgstr "इरान, इस्लामिक गणराज्य"
 msgid "Islamic Republic of Iran"
 msgstr "इरानको इस्लामिक गणराज्य"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "इराक"
@@ -831,6 +835,12 @@ msgstr "सेन्ट किट्स र नेभिस"
 msgid "Korea, Republic of"
 msgstr "कोरियाको गणराज्य"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "दक्षिण अफ्रिका"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "कुवेत"
@@ -842,6 +852,10 @@ msgstr "कुवेतको राज्य"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "लाओ जनताको प्रजातन्त्रिक गणराज्य"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1249,6 +1263,12 @@ msgstr "कोरियाको प्रजातन्त्रिक जन�
 msgid "Democratic People's Republic of Korea"
 msgstr "कोरियाको प्रजातन्त्रिक जनगणराज्य"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "नयाँ क्यालेदोनिया"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "पोर्चुगल"
@@ -1475,6 +1495,10 @@ msgstr "सिचेल्लिसको गणराज्य"
 msgid "Syrian Arab Republic"
 msgstr "सिरियन अरब गणराज्य"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "टर्क्स र काइकस टापु"
@@ -1552,11 +1576,13 @@ msgid "Republic of Tunisia"
 msgstr "टुनिसियाको गणराज्य"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "टर्की"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "टर्की गणराज्य"
 
 #. Name for TUV

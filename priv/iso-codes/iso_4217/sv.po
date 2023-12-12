@@ -9,16 +9,16 @@
 # Richard Hult <rhult@codefactory.se>, 1999-2001.
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Christian Rose <menthos@menthos.com>, 2000-2001, 2006.
-# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015, 2017.
+# Anders Jonsson <anders.jonsson@norsjovallen.se>, 2015, 2017, 2022, 2023.
 # Allan Nordhøy <epost@anotheragency.no>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-06-01 18:42+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2023-02-26 15:37+0000\n"
+"Last-Translator: Anders Jonsson <anders.jonsson@norsjovallen.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/sv/>\n"
 "Language: sv\n"
@@ -26,7 +26,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0\n"
+"X-Generator: Weblate 4.16-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AED
@@ -66,7 +66,7 @@ msgid "Aruban Florin"
 msgstr "Arubanska floriner"
 
 #. Name for AZN
-msgid "Azerbaijanian Manat"
+msgid "Azerbaijan Manat"
 msgstr "Azerbajdzjanska manat"
 
 #. Name for BAM
@@ -106,6 +106,10 @@ msgstr "Bruneidollar"
 msgid "Boliviano"
 msgstr "Boliviano"
 
+#. Name for BOV
+msgid "Mvdol"
+msgstr "Mvdol"
+
 #. Name for BRL
 msgid "Brazilian Real"
 msgstr "Brasilianska real"
@@ -138,9 +142,21 @@ msgstr "Kanadensiska dollar"
 msgid "Congolese Franc"
 msgstr "Kongolesiska franc"
 
+#. Name for CHE
+msgid "WIR Euro"
+msgstr "WIR-euro"
+
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Schweizerfranc"
+
+#. Name for CHW
+msgid "WIR Franc"
+msgstr "WIR-franc"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr ""
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -153,6 +169,10 @@ msgstr "Yuan renminbi"
 #. Name for COP
 msgid "Colombian Peso"
 msgstr "Colombianska peso"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr ""
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -235,8 +255,8 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-msgid "Guinea Franc"
-msgstr "Guineanska franc"
+msgid "Guinean Franc"
+msgstr "Guinesisk franc"
 
 #. Name for GTQ
 msgid "Quetzal"
@@ -315,8 +335,8 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-msgid "Comoro Franc"
-msgstr "Komorosfranc"
+msgid "Comorian Franc"
+msgstr "Komorisk franc"
 
 #. Name for KPW
 msgid "North Korean Won"
@@ -339,8 +359,8 @@ msgid "Tenge"
 msgstr "Tenge"
 
 #. Name for LAK
-msgid "Kip"
-msgstr "Kip"
+msgid "Lao Kip"
+msgstr "Laotisk kip"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -390,7 +410,7 @@ msgstr "Tögrög"
 msgid "Pataca"
 msgstr "Pataca"
 
-#. Name for MRO
+#. Name for MRU
 msgid "Ouguiya"
 msgstr "Ouguiya"
 
@@ -409,6 +429,10 @@ msgstr "Malawiska kwacha"
 #. Name for MXN
 msgid "Mexican Peso"
 msgstr "Mexikanska peso"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr ""
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -522,7 +546,7 @@ msgstr "Singaporianska dollar"
 msgid "Saint Helena Pound"
 msgstr "St. Helena-pund"
 
-#. Name for SLL
+#. Name for SLE, Name for SLL
 msgid "Leone"
 msgstr "Leone"
 
@@ -538,7 +562,7 @@ msgstr "Surinamesiska dollar"
 msgid "South Sudanese Pound"
 msgstr "Sydsudanesiska pund"
 
-#. Name for STD
+#. Name for STN
 msgid "Dobra"
 msgstr "Dobra"
 
@@ -602,17 +626,29 @@ msgstr "Ugandiska shilling"
 msgid "US Dollar"
 msgstr "USA-dollar"
 
+#. Name for USN
+msgid "US Dollar (Next day)"
+msgstr "USA-dollar (dagen efter)"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr ""
+
 #. Name for UYU
 msgid "Peso Uruguayo"
 msgstr "Uruguayanska peso"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr ""
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Uzbekiska sum"
 
-#. Name for VEF
-msgid "Bolívar"
-msgstr "Bolívar"
+#. Name for VED, Name for VES
+msgid "Bolívar Soberano"
+msgstr "Bolívar Soberano"
 
 #. Name for VND
 msgid "Dong"

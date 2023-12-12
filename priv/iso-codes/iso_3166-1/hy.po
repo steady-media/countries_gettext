@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2013-08-02 18:29+0200\n"
 "Last-Translator: Chris Leonard <cjl@laptop.org>\n"
 "Language-Team: Armenian\n"
@@ -731,6 +731,10 @@ msgstr "Իրան, -ի Իսլամական Հանրապետություն"
 msgid "Islamic Republic of Iran"
 msgstr "Իրանի Իսլամական Հնարապետություն"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Իրաք"
@@ -831,6 +835,12 @@ msgstr "Սենտ Կիտս-Նեվիս"
 msgid "Korea, Republic of"
 msgstr "Կորեա Հանարպետություն"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Հարավային Աֆրիկա"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Քուվեյթ"
@@ -842,6 +852,10 @@ msgstr "Քուվեյթի Պետություն"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Լաոսի Ժողովրդադեմոկրատական հանրապետություն"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1248,6 +1262,12 @@ msgstr "Կորեա, Ժողովրդադեմոկրատական Հանրապետո�
 msgid "Democratic People's Republic of Korea"
 msgstr "Կորեայի Ժողովրդադեմոկրատական Հանրապետություն"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Նոր Կալեդոնիա"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Պորտուգալիա"
@@ -1471,6 +1491,10 @@ msgstr "Սեյշելներյի Հանրապետություն"
 msgid "Syrian Arab Republic"
 msgstr "Սիրիայի Արաբական Հանրապետություն"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Թյորքս և Կայկոս կղզիներ"
@@ -1548,11 +1572,13 @@ msgid "Republic of Tunisia"
 msgstr "Թունիսի Հանրապետություն"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Թուրքիա"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Թուրքիայի Հանրապետություն"
 
 #. Name for TUV

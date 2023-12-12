@@ -7,16 +7,17 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Christian Stimming <stimming@tuhh.de>, 2006.
 # Mario Blättermann <mario.blaettermann@gmail.com>, 2014.
-# Dr. Tobias Quathamer <toddy@debian.org>, 2006, 2008, 2011, 2016.
+# Dr. Tobias Quathamer <toddy@debian.org>, 2006-2023.
 # Allan Nordhøy <epost@anotheragency.no>, 2018.
+# J. Lavoie <j.lavoie@net-c.ca>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-06-01 18:37+0000\n"
-"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2023-02-24 21:01+0000\n"
+"Last-Translator: \"Dr. Tobias Quathamer\" <toddy@debian.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/de/>\n"
 "Language: de\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.0\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -63,8 +64,8 @@ msgid "Aruban Florin"
 msgstr "Arubanischer Florin"
 
 #. Name for AZN
-msgid "Azerbaijanian Manat"
-msgstr "Aserbeidschanischer Manat"
+msgid "Azerbaijan Manat"
+msgstr "Aserbaidschan-Manat"
 
 #. Name for BAM
 msgid "Convertible Mark"
@@ -102,6 +103,10 @@ msgstr "Brunei-Dollar"
 msgid "Boliviano"
 msgstr "Bolivischer Boliviano"
 
+#. Name for BOV
+msgid "Mvdol"
+msgstr "Mvdol"
+
 #. Name for BRL
 msgid "Brazilian Real"
 msgstr "Brasilianischer Real"
@@ -134,9 +139,21 @@ msgstr "Kanadischer Dollar"
 msgid "Congolese Franc"
 msgstr "Kongolesischer Franc"
 
+#. Name for CHE
+msgid "WIR Euro"
+msgstr "WIR Euro"
+
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Schweizer Franken"
+
+#. Name for CHW
+msgid "WIR Franc"
+msgstr "WIR Franken"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr "Unidad de Fomento"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -149,6 +166,10 @@ msgstr "Renminbi-Yuan"
 #. Name for COP
 msgid "Colombian Peso"
 msgstr "Kolumbianischer Peso"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr "Unidad de Valor Real"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -231,8 +252,8 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-msgid "Guinea Franc"
-msgstr "Guinea-Franc"
+msgid "Guinean Franc"
+msgstr "Guineischer Franc"
 
 #. Name for GTQ
 msgid "Quetzal"
@@ -311,8 +332,8 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-msgid "Comoro Franc"
-msgstr "Komoren-Franc"
+msgid "Comorian Franc"
+msgstr "Komorischer Franc"
 
 #. Name for KPW
 msgid "North Korean Won"
@@ -335,8 +356,8 @@ msgid "Tenge"
 msgstr "Tenge"
 
 #. Name for LAK
-msgid "Kip"
-msgstr "Kip"
+msgid "Lao Kip"
+msgstr "Laotischer Kip"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -386,7 +407,7 @@ msgstr "Tugrik"
 msgid "Pataca"
 msgstr "Pataca"
 
-#. Name for MRO
+#. Name for MRU
 msgid "Ouguiya"
 msgstr "Ouguiya"
 
@@ -405,6 +426,10 @@ msgstr "Malawischer Kwacha"
 #. Name for MXN
 msgid "Mexican Peso"
 msgstr "Mexikanischer Peso"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr "Mexikanische Unidad de Inversion (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -468,7 +493,7 @@ msgstr "Złoty"
 
 #. Name for PYG
 msgid "Guarani"
-msgstr "Guarani"
+msgstr "Guaraní"
 
 #. Name for QAR
 msgid "Qatari Rial"
@@ -518,7 +543,7 @@ msgstr "Singapur-Dollar"
 msgid "Saint Helena Pound"
 msgstr "St.-Helena-Pfund"
 
-#. Name for SLL
+#. Name for SLE, Name for SLL
 msgid "Leone"
 msgstr "Leone"
 
@@ -534,7 +559,7 @@ msgstr "Surinam-Dollar"
 msgid "South Sudanese Pound"
 msgstr "Südsudanesisches Pfund"
 
-#. Name for STD
+#. Name for STN
 msgid "Dobra"
 msgstr "Dobra"
 
@@ -598,17 +623,29 @@ msgstr "Ugandischer Schilling"
 msgid "US Dollar"
 msgstr "US-Dollar"
 
+#. Name for USN
+msgid "US Dollar (Next day)"
+msgstr "US-Dollar (Nächster Tag)"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr "Uruguay Peso en Unidades Indexadas (UI)"
+
 #. Name for UYU
 msgid "Peso Uruguayo"
 msgstr "Uruguayischer Peso"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr "Unidad Previsional"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Usbekischer Sum"
 
-#. Name for VEF
-msgid "Bolívar"
-msgstr "Bolívar"
+#. Name for VED, Name for VES
+msgid "Bolívar Soberano"
+msgstr "Bolívar Soberano"
 
 #. Name for VND
 msgid "Dong"

@@ -7,14 +7,15 @@
 # Copyright ©
 # Jacek Stolarczyk <jacek@mer.chemia.polsl.gliwice.pl>
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
-# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2018, 2019.
+# Jakub Bogusz <qboosh@pld-linux.org>, 2009-2017, 2018, 2019, 2020, 2022, 2023.
+# Szylu <chipolade@gmail.com>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-10-03 13:00+0200\n"
-"PO-Revision-Date: 2019-09-20 18:28+0000\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2023-01-20 19:59+0000\n"
 "Last-Translator: Jakub Bogusz <qboosh@pld-linux.org>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-2/pl/>\n"
@@ -24,7 +25,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 4.15.1\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for AD-02
@@ -56,12 +57,12 @@ msgid "Escaldes-Engordany"
 msgstr "Escaldes-Engordany"
 
 #. Name for AE-AJ
-msgid "'Ajmān"
+msgid "‘Ajmān"
 msgstr "Adżman"
 
 #. Name for AE-AZ
-msgid "Abū Ȥaby [Abu Dhabi]"
-msgstr "Abu Zabi"
+msgid "Abū Z̧aby"
+msgstr ""
 
 #. Name for AE-DU
 msgid "Dubayy"
@@ -156,7 +157,7 @@ msgid "Khōst"
 msgstr "Chost"
 
 #. Name for AF-KNR
-msgid "Kunar"
+msgid "Kunaṟ"
 msgstr "Kunar"
 
 #. Name for AF-LAG
@@ -223,7 +224,7 @@ msgstr "Zabol"
 msgid "Saint George"
 msgstr "Saint George"
 
-#. Name for AG-04, Name for BB-05, Name for DM-05, Name for GD-04
+#. Name for AG-04, Name for BB-05, Name for DM-05, Name for GD-04, Name for MT-49
 msgid "Saint John"
 msgstr "Saint John"
 
@@ -235,7 +236,7 @@ msgstr "Saint Mary"
 msgid "Saint Paul"
 msgstr "Saint Paul"
 
-#. Name for AG-07, Name for BB-09, Name for DM-01
+#. Name for AG-07, Name for BB-09, Name for DM-11
 msgid "Saint Peter"
 msgstr "Saint Peter"
 
@@ -251,152 +252,56 @@ msgstr "Barbuda"
 msgid "Redonda"
 msgstr "Redonda"
 
-#. Name for AL-01, Name for AL-BR
+#. Name for AL-01
 msgid "Berat"
 msgstr "Berat"
 
-#. Name for AL-02, Name for AL-DR
+#. Name for AL-02
 msgid "Durrës"
 msgstr "Durrës"
 
-#. Name for AL-03, Name for AL-EL
+#. Name for AL-03
 msgid "Elbasan"
 msgstr "Elbasan"
 
-#. Name for AL-04, Name for AL-FR
+#. Name for AL-04
 msgid "Fier"
 msgstr "Fier"
 
-#. Name for AL-05, Name for AL-GJ
+#. Name for AL-05
 msgid "Gjirokastër"
 msgstr "Gjirokastra"
 
-#. Name for AL-06, Name for AL-KO
+#. Name for AL-06
 msgid "Korçë"
 msgstr "Korcza"
 
-#. Name for AL-07, Name for AL-KU
+#. Name for AL-07
 msgid "Kukës"
 msgstr "Kukës"
 
-#. Name for AL-08, Name for AL-LE
+#. Name for AL-08
 msgid "Lezhë"
 msgstr "Lezha"
 
-#. Name for AL-09, Name for AL-DI
+#. Name for AL-09
 msgid "Dibër"
 msgstr "Dibra"
 
-#. Name for AL-10, Name for AL-SH
+#. Name for AL-10
 msgid "Shkodër"
 msgstr "Szkodra"
 
-#. Name for AL-11, Name for AL-TR
+#. Name for AL-11
 msgid "Tiranë"
 msgstr "Tirana"
 
-#. Name for AL-12, Name for AL-VL
+#. Name for AL-12
 msgid "Vlorë"
 msgstr "Vlora"
 
-#. Name for AL-BU
-msgid "Bulqizë"
-msgstr "Bulqiza"
-
-#. Name for AL-DL
-msgid "Delvinë"
-msgstr "Delvina"
-
-#. Name for AL-DV
-msgid "Devoll"
-msgstr "Devoll"
-
-#. Name for AL-ER
-msgid "Kolonjë"
-msgstr "Kolonja"
-
-#. Name for AL-GR
-msgid "Gramsh"
-msgstr "Gramsh"
-
-#. Name for AL-HA
-msgid "Has"
-msgstr "Has"
-
-#. Name for AL-KA
-msgid "Kavajë"
-msgstr "Kavaja"
-
-#. Name for AL-KB
-msgid "Kurbin"
-msgstr "Kurbin"
-
-#. Name for AL-KC
-msgid "Kuçovë"
-msgstr "Kuçova"
-
-#. Name for AL-KR
-msgid "Krujë"
-msgstr "Kruja"
-
-#. Name for AL-LB
-msgid "Librazhd"
-msgstr "Librazhd"
-
-#. Name for AL-LU
-msgid "Lushnjë"
-msgstr "Lushnja"
-
-#. Name for AL-MK
-msgid "Mallakastër"
-msgstr "Mallakastra"
-
-#. Name for AL-MM
-msgid "Malësi e Madhe"
-msgstr "Malësi e Madhe"
-
-#. Name for AL-MR
-msgid "Mirditë"
-msgstr "Mirdita"
-
-#. Name for AL-MT
-msgid "Mat"
-msgstr "Mat"
-
-#. Name for AL-PG
-msgid "Pogradec"
-msgstr "Pogradec"
-
-#. Name for AL-PQ
-msgid "Peqin"
-msgstr "Peqin"
-
-#. Name for AL-PR
-msgid "Përmet"
-msgstr "Përmet"
-
-#. Name for AL-PU
-msgid "Pukë"
-msgstr "Puka"
-
-#. Name for AL-SK
-msgid "Skrapar"
-msgstr "Skrapar"
-
-#. Name for AL-SR
-msgid "Sarandë"
-msgstr "Saranda"
-
-#. Name for AL-TE
-msgid "Tepelenë"
-msgstr "Tepelena"
-
-#. Name for AL-TP
-msgid "Tropojë"
-msgstr "Tropoja"
-
 #. Name for AM-AG
-msgid "Aragacotn"
+msgid "Aragac̣otn"
 msgstr "Aragacotn"
 
 #. Name for AM-AR
@@ -412,7 +317,7 @@ msgid "Erevan"
 msgstr "Erywań"
 
 #. Name for AM-GR
-msgid "Gegarkunik'"
+msgid "Geġark'unik'"
 msgstr "Gegharkunik"
 
 #. Name for AM-KT
@@ -420,11 +325,11 @@ msgid "Kotayk'"
 msgstr "Kotajk"
 
 #. Name for AM-LO
-msgid "Lory"
-msgstr "Lori"
+msgid "Loṙi"
+msgstr ""
 
 #. Name for AM-SH
-msgid "Sirak"
+msgid "Širak"
 msgstr "Szirak"
 
 #. Name for AM-SU
@@ -432,11 +337,11 @@ msgid "Syunik'"
 msgstr "Sjunik"
 
 #. Name for AM-TV
-msgid "Tavus"
+msgid "Tavuš"
 msgstr "Tawusz"
 
 #. Name for AM-VD
-msgid "Vayoc Jor"
+msgid "Vayoć Jor"
 msgstr "Wajoc Dzor"
 
 #. Name for AO-BGO
@@ -456,20 +361,20 @@ msgid "Cabinda"
 msgstr "Kabinda"
 
 #. Name for AO-CCU
-msgid "Cuando-Cubango"
-msgstr "Kuando-Kubango"
+msgid "Cuando Cubango"
+msgstr "Cuando-Cubango"
 
 #. Name for AO-CNN
 msgid "Cunene"
 msgstr "Kunene"
 
 #. Name for AO-CNO
-msgid "Cuanza Norte"
-msgstr "Kuanza Północna"
+msgid "Cuanza-Norte"
+msgstr "Kwanza Północna"
 
 #. Name for AO-CUS
-msgid "Cuanza Sul"
-msgstr "Kuanza Południowa"
+msgid "Cuanza-Sul"
+msgstr "Kwanza Południowa"
 
 #. Name for AO-HUA
 msgid "Huambo"
@@ -480,11 +385,11 @@ msgid "Huíla"
 msgstr "Huíla"
 
 #. Name for AO-LNO
-msgid "Lunda Norte"
+msgid "Lunda-Norte"
 msgstr "Lunda Północna"
 
 #. Name for AO-LSU
-msgid "Lunda Sul"
+msgid "Lunda-Sul"
 msgstr "Lunda Południowa"
 
 #. Name for AO-LUA
@@ -528,8 +433,12 @@ msgid "San Luis"
 msgstr "San Luis"
 
 #. Name for AR-E
-msgid "Entre Rios"
+msgid "Entre Ríos"
 msgstr "Entre Ríos"
+
+#. Name for AR-F, Name for ES-LO, Name for ES-RI
+msgid "La Rioja"
+msgstr "La Rioja"
 
 #. Name for AR-G
 msgid "Santiago del Estero"
@@ -564,11 +473,11 @@ msgid "Formosa"
 msgstr "Formosa"
 
 #. Name for AR-Q
-msgid "Neuquen"
+msgid "Neuquén"
 msgstr "Neuquén"
 
-#. Name for AR-R
-msgid "Rio Negro"
+#. Name for AR-R, Name for UY-RN
+msgid "Río Negro"
 msgstr "Río Negro"
 
 #. Name for AR-S
@@ -576,7 +485,7 @@ msgid "Santa Fe"
 msgstr "Santa Fe"
 
 #. Name for AR-T
-msgid "Tucuman"
+msgid "Tucumán"
 msgstr "Tucumán"
 
 #. Name for AR-U
@@ -591,8 +500,8 @@ msgstr "Ziemia Ognista"
 msgid "Corrientes"
 msgstr "Cirrientes"
 
-#. Name for AR-X
-msgid "Cordoba"
+#. Name for AR-X, Name for CO-COR, Name for ES-CO
+msgid "Córdoba"
 msgstr "Córdoba"
 
 #. Name for AR-Y
@@ -728,8 +637,8 @@ msgid "Cəbrayıl"
 msgstr "Dżabrail"
 
 #. Name for AZ-CAL
-msgid "Cəlilabab"
-msgstr "Dżaliłabad"
+msgid "Cəlilabad"
+msgstr "Cəlilabad"
 
 #. Name for AZ-CUL
 msgid "Culfa"
@@ -967,46 +876,6 @@ msgstr "Zakatały"
 msgid "Zərdab"
 msgstr "Zardab"
 
-#. Name for BA-01
-msgid "Unsko-sanski kanton"
-msgstr "Kanton Una-Sana"
-
-#. Name for BA-02
-msgid "Posavski kanton"
-msgstr "Kanton Posawina"
-
-#. Name for BA-03
-msgid "Tuzlanski kanton"
-msgstr "Kanton Tuzla"
-
-#. Name for BA-04
-msgid "Zeničko-dobojski kanton"
-msgstr "Kanton Zenica-Doboj"
-
-#. Name for BA-05
-msgid "Bosansko-podrinjski kanton"
-msgstr "Kanton Bośnia Podrinje"
-
-#. Name for BA-06
-msgid "Srednjobosanski kanton"
-msgstr "Kanton Centralna Bośnia"
-
-#. Name for BA-07
-msgid "Hercegovačko-neretvanski kanton"
-msgstr "Kanton Hercegowina-Neretwa"
-
-#. Name for BA-08
-msgid "Zapadnohercegovački kanton"
-msgstr "Kanton Zachodnia Hercegowina"
-
-#. Name for BA-09
-msgid "Kanton Sarajevo"
-msgstr "Kanton Sarajewo"
-
-#. Name for BA-10
-msgid "Kanton br. 10 (Livanjski kanton)"
-msgstr "Kanton Zachodnia Bośnia"
-
 #. Name for BA-BIH
 msgid "Federacija Bosne i Hercegovine"
 msgstr "Federacja Bośni i Hercegowiny"
@@ -1056,7 +925,7 @@ msgid "Barguna"
 msgstr "Barguna"
 
 #. Name for BD-03
-msgid "Bogra"
+msgid "Bogura"
 msgstr "Bogra"
 
 #. Name for BD-04
@@ -1068,7 +937,7 @@ msgid "Bagerhat"
 msgstr "Bagerhat"
 
 #. Name for BD-06, Name for BD-A
-msgid "Barisal"
+msgid "Barishal"
 msgstr "Barisal"
 
 #. Name for BD-07
@@ -1076,7 +945,7 @@ msgid "Bhola"
 msgstr "Bhola"
 
 #. Name for BD-08
-msgid "Comilla"
+msgid "Cumilla"
 msgstr "Kumilla"
 
 #. Name for BD-09
@@ -1084,7 +953,7 @@ msgid "Chandpur"
 msgstr "Ćandpur"
 
 #. Name for BD-10, Name for BD-B
-msgid "Chittagong"
+msgid "Chattogram"
 msgstr "Ćottogram"
 
 #. Name for BD-11
@@ -1132,23 +1001,23 @@ msgid "Jamalpur"
 msgstr "Dźomalpur"
 
 #. Name for BD-22
-msgid "Jessore"
-msgstr "Dźoszohor"
+msgid "Jashore"
+msgstr ""
 
 #. Name for BD-23
 msgid "Jhenaidah"
 msgstr "Jhenaidah"
 
 #. Name for BD-24
-msgid "Jaipurhat"
+msgid "Joypurhat"
 msgstr "Dźaipur Hat"
 
 #. Name for BD-25
-msgid "Jhalakati"
+msgid "Jhalakathi"
 msgstr "Jhalakati"
 
 #. Name for BD-26
-msgid "Kishorganj"
+msgid "Kishoreganj"
 msgstr "Kiszorgandź"
 
 #. Name for BD-27, Name for BD-D
@@ -1160,7 +1029,7 @@ msgid "Kurigram"
 msgstr "Kurigram"
 
 #. Name for BD-29
-msgid "Khagrachari"
+msgid "Khagrachhari"
 msgstr "Khagraćori"
 
 #. Name for BD-30
@@ -1179,7 +1048,7 @@ msgstr "Lalmonir Hat"
 msgid "Manikganj"
 msgstr "Manikgandź"
 
-#. Name for BD-34
+#. Name for BD-34, Name for BD-H
 msgid "Mymensingh"
 msgstr "Mojmoszinho"
 
@@ -1224,7 +1093,7 @@ msgid "Natore"
 msgstr "Nator"
 
 #. Name for BD-45
-msgid "Nawabganj"
+msgid "Chapai Nawabganj"
 msgstr "Nobabgondźo"
 
 #. Name for BD-46
@@ -1304,7 +1173,7 @@ msgid "Thakurgaon"
 msgstr "Thakurgaon"
 
 #. Name for BE-BRU
-msgid "Bruxelles-Capitale, Région de;Brussels Hoofdstedelijk Gewest"
+msgid "Brussels Hoofdstedelijk Gewest"
 msgstr "Region Stołeczny Brukseli"
 
 #. Name for BE-VAN
@@ -1347,7 +1216,7 @@ msgstr "Hainaut"
 msgid "Liège"
 msgstr "Liège"
 
-#. Name for BE-WLX, Name for LU-L
+#. Name for BE-WLX, Name for LU-LU
 msgid "Luxembourg"
 msgstr "Luksemburg"
 
@@ -1385,7 +1254,7 @@ msgid "Centre-Sud"
 msgstr "Centre-Sud"
 
 # XXX: msgid conflict
-#. Name for BF-08, Name for RW-02
+#. Name for BF-08
 msgid "Est"
 msgstr "Wschodni / Wschodnia"
 
@@ -1394,7 +1263,7 @@ msgid "Hauts-Bassins"
 msgstr "Hauts-Bassins"
 
 # XXX: msgid conflict
-#. Name for BF-10, Name for FR-59, Name for HT-ND, Name for RW-03
+#. Name for BF-10, Name for FR-59, Name for HT-ND
 msgid "Nord"
 msgstr "Nord / Północny / Północna"
 
@@ -1438,7 +1307,7 @@ msgstr "Boulgou"
 msgid "Boulkiemdé"
 msgstr "Boulkiemdé"
 
-#. Name for BF-COM
+#. Name for BF-COM, Name for CI-CM
 msgid "Comoé"
 msgstr "Comoé"
 
@@ -1511,7 +1380,7 @@ msgid "Namentenga"
 msgstr "Namentenga"
 
 #. Name for BF-NAO
-msgid "Naouri"
+msgid "Nahouri"
 msgstr "Nahouri"
 
 #. Name for BF-NAY
@@ -1567,7 +1436,7 @@ msgid "Tapoa"
 msgstr "Tapoa"
 
 #. Name for BF-TUI
-msgid "Tui"
+msgid "Tuy"
 msgstr "Tuy"
 
 #. Name for BF-YAG
@@ -1675,8 +1544,8 @@ msgid "Smolyan"
 msgstr "Smolan"
 
 #. Name for BG-22
-msgid "Sofia-Grad"
-msgstr "Sofia-miasto"
+msgid "Sofia (stolitsa)"
+msgstr ""
 
 #. Name for BG-23
 msgid "Sofia"
@@ -1702,9 +1571,9 @@ msgstr "Szumen"
 msgid "Yambol"
 msgstr "Jamboł"
 
-#. Name for BH-13
-msgid "Al Manāmah (Al ‘Āşimah)"
-msgstr "Gubernatorstwo Stołeczne"
+#. Name for BH-13, Name for KW-KU
+msgid "Al ‘Āşimah"
+msgstr "Al-Asima"
 
 #. Name for BH-14
 msgid "Al Janūbīyah"
@@ -1714,12 +1583,8 @@ msgstr "Gubernatorstwo Południowe"
 msgid "Al Muḩarraq"
 msgstr "Gubernatorstwo Muharraq"
 
-#. Name for BH-16, Name for OM-WU
-msgid "Al Wusţá"
-msgstr "Gubernatorstwo Centralne"
-
 # XXX: msgid conflict
-#. Name for BH-17, Name for SD-NO
+#. Name for BH-17
 msgid "Ash Shamālīyah"
 msgstr "Asz-Szimalijja / Prowincja Północna"
 
@@ -1775,9 +1640,17 @@ msgstr "Muramvya"
 msgid "Mwaro"
 msgstr "Mwaro"
 
+#. Name for BI-MY
+msgid "Muyinga"
+msgstr "Muyinga"
+
 #. Name for BI-NG
 msgid "Ngozi"
 msgstr "Ngozi"
+
+#. Name for BI-RM
+msgid "Rumonge"
+msgstr "Rumonge"
 
 #. Name for BI-RT
 msgid "Rutana"
@@ -1788,8 +1661,8 @@ msgid "Ruyigi"
 msgstr "Ruyigi"
 
 #. Name for BJ-AK
-msgid "Atakora"
-msgstr "Atakora"
+msgid "Atacora"
+msgstr "Atacora"
 
 #. Name for BJ-AL
 msgid "Alibori"
@@ -1812,8 +1685,8 @@ msgid "Donga"
 msgstr "Donga"
 
 #. Name for BJ-KO
-msgid "Kouffo"
-msgstr "Kouffo"
+msgid "Couffo"
+msgstr "Couffo"
 
 #. Name for BJ-LI, Name for CM-LT
 msgid "Littoral"
@@ -1903,7 +1776,7 @@ msgstr "Acre"
 msgid "Alagoas"
 msgstr "Alagoas"
 
-#. Name for BR-AM, Name for CO-AMA, Name for PE-AMA, Name for VE-Z
+#. Name for BR-AM, Name for CO-AMA, Name for VE-Z
 msgid "Amazonas"
 msgstr "Amazonas"
 
@@ -1919,17 +1792,13 @@ msgstr "Bahia"
 msgid "Ceará"
 msgstr "Ceará"
 
-#. Name for BR-DF, Name for VE-A
+#. Name for BR-DF
 msgid "Distrito Federal"
 msgstr "Dystrykt Federalny"
 
 #. Name for BR-ES
 msgid "Espírito Santo"
 msgstr "Espírito Santo"
-
-#. Name for BR-FN
-msgid "Fernando de Noronha"
-msgstr "Fernando de Noronha"
 
 #. Name for BR-GO
 msgid "Goiás"
@@ -2033,7 +1902,7 @@ msgstr "Cat Island"
 
 #. Name for BS-CK
 msgid "Crooked Island and Long Cay"
-msgstr ""
+msgstr "Crooked Island i Long Cay"
 
 #. Name for BS-CO
 msgid "Central Abaco"
@@ -2095,6 +1964,10 @@ msgstr "North Eleuthera"
 msgid "North Abaco"
 msgstr "North Abaco"
 
+#. Name for BS-NP
+msgid "New Providence"
+msgstr ""
+
 #. Name for BS-NS
 msgid "North Andros"
 msgstr "North Andros"
@@ -2140,11 +2013,11 @@ msgid "Chhukha"
 msgstr "Chukha"
 
 #. Name for BT-13
-msgid "Ha"
+msgid "Haa"
 msgstr "Haa"
 
 #. Name for BT-14
-msgid "Samtee"
+msgid "Samtse"
 msgstr "Samtse"
 
 #. Name for BT-15
@@ -2192,7 +2065,7 @@ msgid "Monggar"
 msgstr "Mongar"
 
 #. Name for BT-43
-msgid "Pemagatshel"
+msgid "Pema Gatshel"
 msgstr "Pemagatshel"
 
 #. Name for BT-44
@@ -2200,7 +2073,7 @@ msgid "Lhuentse"
 msgstr "Lhuntse"
 
 #. Name for BT-45
-msgid "Samdrup Jongkha"
+msgid "Samdrup Jongkhar"
 msgstr "Samdrup Jongkhar"
 
 #. Name for BT-GA
@@ -2212,15 +2085,31 @@ msgid "Trashi Yangtse"
 msgstr "Trashiyangtse"
 
 # XXX: enormous msgid conflict
-#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for MV-CE, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
+#. Name for BW-CE, Name for FJ-C, Name for GH-CP, Name for NP-1, Name for PG-CPM, Name for PY-11, Name for SB-CE, Name for UG-C, Name for ZM-02
 msgid "Central"
 msgstr ""
 "Dystrykt Centralny / Region Centralny / Prowincja Centralna / Departament "
 "Centralny"
 
+#. Name for BW-CH
+msgid "Chobe"
+msgstr ""
+
+#. Name for BW-FR
+msgid "Francistown"
+msgstr "Francistown"
+
+#. Name for BW-GA
+msgid "Gaborone"
+msgstr "Gaborone"
+
 #. Name for BW-GH
 msgid "Ghanzi"
 msgstr "Ghanzi"
+
+#. Name for BW-JW
+msgid "Jwaneng"
+msgstr "Jwaneng"
 
 #. Name for BW-KG
 msgid "Kgalagadi"
@@ -2234,48 +2123,60 @@ msgstr "Kgatleng"
 msgid "Kweneng"
 msgstr "Kweneng"
 
-#. Name for BW-NE
-msgid "North-East"
+#. Name for BW-LO
+msgid "Lobatse"
+msgstr "Lobatse"
+
+#. Name for BW-NE, Name for GH-NE, Name for SG-02
+msgid "North East"
 msgstr "Północno-Wschodni"
 
-#. Name for BW-NW
-msgid "North-West"
+#. Name for BW-NW, Name for SG-03
+msgid "North West"
 msgstr "Północno-Zachodni"
 
-#. Name for BW-SE
-msgid "South-East"
+#. Name for BW-SE, Name for SG-04
+msgid "South East"
 msgstr "Południowo-Wschodni"
 
-#. Name for BW-SO
+#. Name for BW-SO, Name for RW-05, Name for SL-S, Name for ZM-07
 msgid "Southern"
 msgstr "Południowy"
 
+#. Name for BW-SP
+msgid "Selibe Phikwe"
+msgstr ""
+
+#. Name for BW-ST
+msgid "Sowa Town"
+msgstr "Sowa Town"
+
 #. Name for BY-BR
-msgid "Brèsckaja voblasc'"
+msgid "Bresckaja voblasć"
 msgstr "obwód brzeski"
 
 #. Name for BY-HM
-msgid "Horad Minsk"
+msgid "Gorod Minsk"
 msgstr "Miasto Mińsk"
 
 #. Name for BY-HO
-msgid "Homel'skaja voblasc'"
+msgid "Gomel'skaja oblast'"
 msgstr "obwód homelski"
 
 #. Name for BY-HR
-msgid "Hrodzenskaja voblasc'"
+msgid "Grodnenskaja oblast'"
 msgstr "obwód grodzieński"
 
 #. Name for BY-MA
-msgid "Mahilëuskaja voblasc'"
+msgid "Mahilioŭskaja voblasć"
 msgstr "obwód mohylewski"
 
 #. Name for BY-MI
-msgid "Minskaja voblasc'"
+msgid "Minskaja oblast'"
 msgstr "obwód miński"
 
 #. Name for BY-VI
-msgid "Vicebskaja voblasc'"
+msgid "Viciebskaja voblasć"
 msgstr "obwód witebski"
 
 #. Name for BZ-BZ
@@ -2351,52 +2252,113 @@ msgid "Saskatchewan"
 msgstr "Saskatchewan"
 
 #. Name for CA-YT
-msgid "Yukon Territory"
+msgid "Yukon"
 msgstr "Jukon"
 
+# XXX: enormous msgid conflict
 #. Name for CD-BC
-msgid "Bas-Congo"
-msgstr "Kongo Centralne"
+msgid "Kongo Central"
+msgstr "Kongo Środkowe"
 
-#. Name for CD-BN
-msgid "Bandundu"
-msgstr "Bandundu"
+#. Name for CD-BU
+msgid "Bas-Uélé"
+msgstr ""
 
 #. Name for CD-EQ
 msgid "Équateur"
 msgstr "Prowincja Równikowa"
 
-#. Name for CD-KA
-msgid "Katanga"
-msgstr "Katanga"
+#. Name for CD-HK
+msgid "Haut-Katanga"
+msgstr "Górna Katanga"
+
+#. Name for CD-HL
+msgid "Haut-Lomami"
+msgstr "Górne Lomami"
+
+#. Name for CD-HU
+msgid "Haut-Uélé"
+msgstr "Górne Uele"
+
+#. Name for CD-IT
+msgid "Ituri"
+msgstr "Ituri"
+
+#. Name for CD-KC
+msgid "Kasaï Central"
+msgstr "Kasai Środkowe"
 
 #. Name for CD-KE
-msgid "Kasai-Oriental"
+msgid "Kasaï Oriental"
 msgstr "Kasai Wschodnie"
+
+#. Name for CD-KG
+msgid "Kwango"
+msgstr "Kwango"
+
+#. Name for CD-KL
+msgid "Kwilu"
+msgstr ""
 
 #. Name for CD-KN
 msgid "Kinshasa"
 msgstr "Kinszasa"
 
-#. Name for CD-KW
-msgid "Kasai-Occidental"
-msgstr "Kasai Zachodnie"
+#. Name for CD-KS
+msgid "Kasaï"
+msgstr ""
+
+#. Name for CD-LO
+msgid "Lomami"
+msgstr ""
+
+#. Name for CD-LU
+msgid "Lualaba"
+msgstr "Lualaba"
 
 #. Name for CD-MA
 msgid "Maniema"
 msgstr "Maniema"
 
+#. Name for CD-MN
+msgid "Mai-Ndombe"
+msgstr ""
+
+#. Name for CD-MO
+msgid "Mongala"
+msgstr "Mongala"
+
 #. Name for CD-NK
 msgid "Nord-Kivu"
 msgstr "Kiwu Północne"
 
-#. Name for CD-OR
-msgid "Orientale"
-msgstr "Prowincja Wschodnia"
+#. Name for CD-NU
+msgid "Nord-Ubangi"
+msgstr "Ubangi Północne"
+
+#. Name for CD-SA
+msgid "Sankuru"
+msgstr "Sankuru"
 
 #. Name for CD-SK
 msgid "Sud-Kivu"
 msgstr "Kiwu Południowe"
+
+#. Name for CD-SU
+msgid "Sud-Ubangi"
+msgstr ""
+
+#. Name for CD-TA
+msgid "Tanganyika"
+msgstr "Tanganika"
+
+#. Name for CD-TO
+msgid "Tshopo"
+msgstr ""
+
+#. Name for CD-TU
+msgid "Tshuapa"
+msgstr ""
 
 #. Name for CF-AC
 msgid "Ouham"
@@ -2431,8 +2393,8 @@ msgid "Gribingui"
 msgstr "Nana-Grébizi"
 
 #. Name for CF-KG
-msgid "Kémo-Gribingui"
-msgstr "Kémo"
+msgid "Kemö-Gïrïbïngï"
+msgstr ""
 
 #. Name for CF-LB
 msgid "Lobaye"
@@ -2443,8 +2405,8 @@ msgid "Mbomou"
 msgstr "Mbomou"
 
 #. Name for CF-MP
-msgid "Ombella-M'poko"
-msgstr "Ombella-M'poko"
+msgid "Ombella-Mpoko"
+msgstr "Ombella-Mpoko"
 
 #. Name for CF-NM
 msgid "Nana-Mambéré"
@@ -2474,13 +2436,17 @@ msgstr "Bouenza"
 msgid "Pool"
 msgstr "Pool"
 
-#. Name for CG-14
+#. Name for CG-14, Name for TG-P
 msgid "Plateaux"
 msgstr "Plateaux"
 
 #. Name for CG-15
 msgid "Cuvette-Ouest"
 msgstr "Cuvette-Ouest"
+
+#. Name for CG-16
+msgid "Pointe-Noire"
+msgstr "Pointe-Noire"
 
 #. Name for CG-2
 msgid "Lékoumou"
@@ -2531,7 +2497,7 @@ msgid "Basel-Stadt"
 msgstr "Bazylea-Miasto"
 
 #. Name for CH-FR
-msgid "Fribourg"
+msgid "Freiburg"
 msgstr "Fryburg"
 
 #. Name for CH-GE
@@ -2610,84 +2576,60 @@ msgstr "Zug"
 msgid "Zürich"
 msgstr "Zurych"
 
-#. Name for CI-01
-msgid "Lagunes (Région des)"
-msgstr "Lagunes"
+#. Name for CI-AB
+msgid "Abidjan"
+msgstr ""
 
-#. Name for CI-02
-msgid "Haut-Sassandra (Région du)"
-msgstr "Haut-Sassandra"
-
-#. Name for CI-03
-msgid "Savanes (Région des)"
-msgstr "Savanes"
-
-#. Name for CI-04
-msgid "Vallée du Bandama (Région de la)"
-msgstr "Vallée du Bandama"
-
-#. Name for CI-05
-msgid "Moyen-Comoé (Région du)"
-msgstr "Moyen-Comoé"
-
-#. Name for CI-06
-msgid "18 Montagnes (Région des)"
-msgstr "Dix-Huit Montagnes"
-
-#. Name for CI-07
-msgid "Lacs (Région des)"
-msgstr "Lacs"
-
-#. Name for CI-08
-msgid "Zanzan (Région du)"
-msgstr "Zanzan"
-
-#. Name for CI-09
-msgid "Bas-Sassandra (Région du)"
+#. Name for CI-BS
+msgid "Bas-Sassandra"
 msgstr "Bas-Sassandra"
 
-#. Name for CI-10
-msgid "Denguélé (Région du)"
+#. Name for CI-DN
+msgid "Denguélé"
 msgstr "Denguélé"
 
-#. Name for CI-11
-msgid "Nzi-Comoé (Région)"
-msgstr "N'zi-Comoé"
+#. Name for CI-GD
+msgid "Gôh-Djiboua"
+msgstr "Gôh-Djiboua"
 
-#. Name for CI-12
-msgid "Marahoué (Région de la)"
-msgstr "Marahoué"
+#. Name for CI-LC
+msgid "Lacs"
+msgstr ""
 
-#. Name for CI-13
-msgid "Sud-Comoé (Région du)"
-msgstr "Sud-Comoé"
+#. Name for CI-LG
+msgid "Lagunes"
+msgstr "Lagunes"
 
-#. Name for CI-14
-msgid "Worodouqou (Région du)"
-msgstr "Worodouqou"
+#. Name for CI-MG
+msgid "Montagnes"
+msgstr "Montagnes"
 
-#. Name for CI-15
-msgid "Sud-Bandama (Région du)"
-msgstr "Sud-Bandama"
+#. Name for CI-SM
+msgid "Sassandra-Marahoué"
+msgstr ""
 
-#. Name for CI-16
-msgid "Agnébi (Région de l')"
-msgstr "Agnéby"
+#. Name for CI-SV, Name for TG-S
+msgid "Savanes"
+msgstr "Savanes"
 
-#. Name for CI-17
-msgid "Bafing (Région du)"
-msgstr "Bafing"
+#. Name for CI-VB
+msgid "Vallée du Bandama"
+msgstr "Vallée du Bandama"
 
-#. Name for CI-18
-msgid "Fromager (Région du)"
-msgstr "Fromager"
+#. Name for CI-WR
+msgid "Woroba"
+msgstr "Woroba"
 
-#. Name for CI-19
-msgid "Moyen-Cavally (Région du)"
-msgstr "Moyen-Cavally"
+#. Name for CI-YM
+msgid "Yamoussoukro"
+msgstr "Jamusukro"
+
+#. Name for CI-ZZ
+msgid "Zanzan"
+msgstr "Zanzan"
 
 #. Name for CL-AI
-msgid "Aisén del General Carlos Ibáñez del Campo"
+msgid "Aisén del General Carlos Ibañez del Campo"
 msgstr "Aisén"
 
 #. Name for CL-AN
@@ -2699,7 +2641,7 @@ msgid "Arica y Parinacota"
 msgstr "Arica y Parinacota"
 
 #. Name for CL-AR
-msgid "Araucanía"
+msgid "La Araucanía"
 msgstr "Araukania"
 
 #. Name for CL-AT
@@ -2707,8 +2649,8 @@ msgid "Atacama"
 msgstr "Atakama"
 
 #. Name for CL-BI
-msgid "Bío-Bío"
-msgstr "Biobío"
+msgid "Biobío"
+msgstr ""
 
 #. Name for CL-CO
 msgid "Coquimbo"
@@ -2727,12 +2669,16 @@ msgid "Los Ríos"
 msgstr "Los Ríos"
 
 #. Name for CL-MA
-msgid "Magallanes y Antártica Chilena"
+msgid "Magallanes"
 msgstr "Magallanes"
 
 #. Name for CL-ML
 msgid "Maule"
 msgstr "Maule"
+
+#. Name for CL-NB
+msgid "Ñuble"
+msgstr ""
 
 #. Name for CL-RM
 msgid "Región Metropolitana de Santiago"
@@ -2758,19 +2704,19 @@ msgstr "Północna Dalsza"
 msgid "East"
 msgstr "Wschodnia"
 
-#. Name for CM-NO, Name for MV-NO
+#. Name for CM-NO
 msgid "North"
 msgstr "Północna"
 
-#. Name for CM-NW
-msgid "North-West (Cameroon)"
-msgstr "Północno-Zachodnia"
+#. Name for CM-NW, Name for ZA-NW
+msgid "North-West"
+msgstr "Północno-Zachodni"
 
 #. Name for CM-OU
 msgid "West"
 msgstr "Zachodnia"
 
-#. Name for CM-SU, Name for MV-SU
+#. Name for CM-SU
 msgid "South"
 msgstr "Południowa"
 
@@ -2827,9 +2773,8 @@ msgid "Hainan Sheng"
 msgstr "Hajnan"
 
 #. Name for CN-HK
-msgid "Hong Kong SAR (see also separate country code entry under HK)"
+msgid "Hong Kong SAR"
 msgstr ""
-"Hongkong (Specjalny Region Administracyjny; p. także osobny kod kraju HK)"
 
 #. Name for CN-HL
 msgid "Heilongjiang Sheng"
@@ -2856,8 +2801,8 @@ msgid "Liaoning Sheng"
 msgstr "Liaoning"
 
 #. Name for CN-MO
-msgid "Macao SAR (see also separate country code entry under MO)"
-msgstr "Makau (Specjalny Region Administracyjny; p. także osobny kod kraju MO)"
+msgid "Macao SAR"
+msgstr ""
 
 #. Name for CN-NM
 msgid "Nei Mongol Zizhiqu"
@@ -2896,8 +2841,8 @@ msgid "Tianjin Shi"
 msgstr "Tiencin"
 
 #. Name for CN-TW
-msgid "Taiwan Sheng (see also separate country code entry under TW)"
-msgstr "Tajwan (p. także osobny kod kraju TW)"
+msgid "Taiwan Sheng"
+msgstr "Tajwan"
 
 #. Name for CN-XJ
 msgid "Xinjiang Uygur Zizhiqu"
@@ -2958,10 +2903,6 @@ msgstr "Cesar"
 #. Name for CO-CHO
 msgid "Chocó"
 msgstr "Chocó"
-
-#. Name for CO-COR, Name for ES-CO
-msgid "Córdoba"
-msgstr "Córdoba"
 
 #. Name for CO-CUN
 msgid "Cundinamarca"
@@ -3072,16 +3013,12 @@ msgid "San José"
 msgstr "San José"
 
 #. Name for CU-01
-msgid "Pinar del Rio"
-msgstr "Pinar del Rio"
-
-#. Name for CU-02
-msgid "La Habana"
-msgstr "La Habana"
+msgid "Pinar del Río"
+msgstr "Pinar del Río"
 
 #. Name for CU-03
-msgid "Ciudad de La Habana"
-msgstr "Hawana"
+msgid "La Habana"
+msgstr "La Habana"
 
 #. Name for CU-04
 msgid "Matanzas"
@@ -3127,6 +3064,14 @@ msgstr "Santiago de Cuba"
 msgid "Guantánamo"
 msgstr "Guantánamo"
 
+#. Name for CU-15
+msgid "Artemisa"
+msgstr ""
+
+#. Name for CU-16
+msgid "Mayabeque"
+msgstr "Mayabeque"
+
 #. Name for CU-99
 msgid "Isla de la Juventud"
 msgstr "Isla de la Juventud"
@@ -3144,7 +3089,7 @@ msgid "Boa Vista"
 msgstr "Boa Vista"
 
 #. Name for CV-CF
-msgid "Santa Catarina de Fogo"
+msgid "Santa Catarina do Fogo"
 msgstr "Santa Catarina do Fogo"
 
 #. Name for CV-MA
@@ -3220,120 +3165,32 @@ msgid "Tarrafal de São Nicolau"
 msgstr "Tarrafal de São Nicolau"
 
 #. Name for CY-01
-msgid "Lefkosía"
+msgid "Lefkosia"
 msgstr "Nikozja"
 
 #. Name for CY-02
-msgid "Lemesós"
+msgid "Lemesos"
 msgstr "Limassol"
 
 #. Name for CY-03
-msgid "Lárnaka"
+msgid "Larnaka"
 msgstr "Larnaka"
 
 #. Name for CY-04
-msgid "Ammóchostos"
+msgid "Ammochostos"
 msgstr "Famagusta"
 
 #. Name for CY-05
-msgid "Páfos"
+msgid "Baf"
 msgstr "Pafos"
 
 #. Name for CY-06
-msgid "Kerýneia"
+msgid "Girne"
 msgstr "Kirenia"
 
 #. Name for CZ-10
-msgid "Praha, Hlavní mešto"
+msgid "Praha, Hlavní město"
 msgstr "Praga, miasto stołeczne"
-
-#. Name for CZ-101
-msgid "Praha 1"
-msgstr "Praga 1"
-
-#. Name for CZ-102
-msgid "Praha 2"
-msgstr "Praga 2"
-
-#. Name for CZ-103
-msgid "Praha 3"
-msgstr "Praga 3"
-
-#. Name for CZ-104
-msgid "Praha 4"
-msgstr "Praga 4"
-
-#. Name for CZ-105
-msgid "Praha 5"
-msgstr "Praga 5"
-
-#. Name for CZ-106
-msgid "Praha 6"
-msgstr "Praga 6"
-
-#. Name for CZ-107
-msgid "Praha 7"
-msgstr "Praga 7"
-
-#. Name for CZ-108
-msgid "Praha 8"
-msgstr "Praga 8"
-
-#. Name for CZ-109
-msgid "Praha 9"
-msgstr "Praga 9"
-
-#. Name for CZ-110
-msgid "Praha 10"
-msgstr "Praga 10"
-
-#. Name for CZ-111
-msgid "Praha 11"
-msgstr "Praga 11"
-
-#. Name for CZ-112
-msgid "Praha 12"
-msgstr "Praga 12"
-
-#. Name for CZ-113
-msgid "Praha 13"
-msgstr "Praga 13"
-
-#. Name for CZ-114
-msgid "Praha 14"
-msgstr "Praga 14"
-
-#. Name for CZ-115
-msgid "Praha 15"
-msgstr "Praga 15"
-
-#. Name for CZ-116
-msgid "Praha 16"
-msgstr "Praga 16"
-
-#. Name for CZ-117
-msgid "Praha 17"
-msgstr "Praga 17"
-
-#. Name for CZ-118
-msgid "Praha 18"
-msgstr "Praga 18"
-
-#. Name for CZ-119
-msgid "Praha 19"
-msgstr "Praga 19"
-
-#. Name for CZ-120
-msgid "Praha 20"
-msgstr "Praga 20"
-
-#. Name for CZ-121
-msgid "Praha 21"
-msgstr "Praga 21"
-
-#. Name for CZ-122
-msgid "Praha 22"
-msgstr "Praga 22"
 
 #. Name for CZ-20
 msgid "Středočeský kraj"
@@ -3672,7 +3529,7 @@ msgid "Bruntál"
 msgstr "Bruntál"
 
 #. Name for CZ-802
-msgid "Frýdek Místek"
+msgid "Frýdek-Místek"
 msgstr "Frydek-Mistek"
 
 #. Name for CZ-803
@@ -3755,7 +3612,7 @@ msgstr "Saksonia-Anhalt"
 msgid "Thüringen"
 msgstr "Turyngia"
 
-#. Name for DJ-AR, Name for GR-31
+#. Name for DJ-AR
 msgid "Arta"
 msgstr "arta"
 
@@ -3772,8 +3629,8 @@ msgid "Djibouti"
 msgstr "Dżibuti"
 
 #. Name for DJ-OB
-msgid "Obock"
-msgstr "Obock"
+msgid "Awbūk"
+msgstr ""
 
 #. Name for DJ-TA
 msgid "Tadjourah"
@@ -3824,7 +3681,7 @@ msgid "Azua"
 msgstr "Azua"
 
 #. Name for DO-03
-msgid "Bahoruco"
+msgid "Baoruco"
 msgstr "Baoruco"
 
 #. Name for DO-04
@@ -3840,12 +3697,12 @@ msgid "Duarte"
 msgstr "Duarte"
 
 #. Name for DO-07
-msgid "La Estrelleta [Elías Piña]"
+msgid "Elías Piña"
 msgstr "Elías Piña"
 
 #. Name for DO-08
-msgid "El Seybo [El Seibo]"
-msgstr "El Seibo"
+msgid "El Seibo"
+msgstr ""
 
 #. Name for DO-09
 msgid "Espaillat"
@@ -3888,8 +3745,8 @@ msgid "Puerto Plata"
 msgstr "Puerto Plata"
 
 #. Name for DO-19
-msgid "Salcedo"
-msgstr "Hermanas Mirabal"
+msgid "Hermanas Mirabal"
+msgstr ""
 
 #. Name for DO-20
 msgid "Samaná"
@@ -3930,6 +3787,54 @@ msgstr "Monte Plata"
 #. Name for DO-30
 msgid "Hato Mayor"
 msgstr "Hato Mayor"
+
+#. Name for DO-31
+msgid "San José de Ocoa"
+msgstr "San José de Ocoa"
+
+#. Name for DO-32
+msgid "Santo Domingo"
+msgstr "Santo Domingo"
+
+#. Name for DO-33
+msgid "Cibao Nordeste"
+msgstr "Cibao Nordeste"
+
+#. Name for DO-34
+msgid "Cibao Noroeste"
+msgstr "Cibao Noroeste"
+
+#. Name for DO-35
+msgid "Cibao Norte"
+msgstr "Cibao Norte"
+
+#. Name for DO-36
+msgid "Cibao Sur"
+msgstr "Cibao Sur"
+
+#. Name for DO-37
+msgid "El Valle"
+msgstr "El Valle"
+
+#. Name for DO-38
+msgid "Enriquillo"
+msgstr "Enriquillo"
+
+#. Name for DO-39
+msgid "Higuamo"
+msgstr ""
+
+#. Name for DO-40
+msgid "Ozama"
+msgstr ""
+
+#. Name for DO-41
+msgid "Valdesia"
+msgstr ""
+
+#. Name for DO-42
+msgid "Yuma"
+msgstr ""
 
 #. Name for DZ-01, Name for MR-07
 msgid "Adrar"
@@ -3972,7 +3877,7 @@ msgid "Bouira"
 msgstr "Al-Buwajra"
 
 #. Name for DZ-11
-msgid "Tamanghasset"
+msgid "Tamanrasset"
 msgstr "Tamanrasset"
 
 #. Name for DZ-12
@@ -4040,7 +3945,7 @@ msgid "Mostaganem"
 msgstr "Mustaghanam"
 
 #. Name for DZ-28
-msgid "Msila"
+msgid "M'sila"
 msgstr "Al-Masila"
 
 #. Name for DZ-29
@@ -4176,7 +4081,7 @@ msgid "Pichincha"
 msgstr "Pichincha"
 
 #. Name for EC-S
-msgid "Morona-Santiago"
+msgid "Morona Santiago"
 msgstr "Morona-Santiago"
 
 #. Name for EC-SD
@@ -4208,68 +4113,360 @@ msgid "Pastaza"
 msgstr "Pastaza"
 
 #. Name for EC-Z
-msgid "Zamora-Chinchipe"
+msgid "Zamora Chinchipe"
 msgstr "Zamora-Chinchipe"
+
+#. Name for EE-130
+msgid "Alutaguse"
+msgstr "Alutaguse"
+
+#. Name for EE-141
+msgid "Anija"
+msgstr "Anija"
+
+#. Name for EE-142
+msgid "Antsla"
+msgstr "Antsla"
+
+#. Name for EE-171
+msgid "Elva"
+msgstr "Elva"
+
+#. Name for EE-184
+msgid "Haapsalu"
+msgstr "Haapsalu"
+
+#. Name for EE-191
+msgid "Haljala"
+msgstr "Haljala"
+
+#. Name for EE-198
+msgid "Harku"
+msgstr "Harku"
+
+#. Name for EE-205, Name for EE-39
+msgid "Hiiumaa"
+msgstr "Hiuma"
+
+#. Name for EE-214
+msgid "Häädemeeste"
+msgstr "Häädemeeste"
+
+#. Name for EE-245
+msgid "Jõelähtme"
+msgstr "Jõelähtme"
+
+#. Name for EE-247
+msgid "Jõgeva"
+msgstr "Jõgeva"
+
+#. Name for EE-251
+msgid "Jõhvi"
+msgstr "Jõhvi"
+
+#. Name for EE-255
+msgid "Järva"
+msgstr "Järva"
+
+#. Name for EE-272
+msgid "Kadrina"
+msgstr "Kadrina"
+
+#. Name for EE-283
+msgid "Kambja"
+msgstr "Kambja"
+
+#. Name for EE-284
+msgid "Kanepi"
+msgstr "Kambja"
+
+#. Name for EE-291
+msgid "Kastre"
+msgstr "Kastre"
+
+#. Name for EE-293
+msgid "Kehtna"
+msgstr "Kehtna"
+
+#. Name for EE-296
+msgid "Keila"
+msgstr "Keila"
+
+#. Name for EE-303
+msgid "Kihnu"
+msgstr "Kihnu"
+
+#. Name for EE-305
+msgid "Kiili"
+msgstr "Kiili"
+
+#. Name for EE-317
+msgid "Kohila"
+msgstr "Kohila"
+
+#. Name for EE-321
+msgid "Kohtla-Järve"
+msgstr "Kohtla-Järve"
+
+#. Name for EE-338
+msgid "Kose"
+msgstr "Kose"
+
+#. Name for EE-353
+msgid "Kuusalu"
+msgstr "Kuusalu"
 
 #. Name for EE-37
 msgid "Harjumaa"
-msgstr "Prowincja Harju"
+msgstr "Harjumaa"
 
-#. Name for EE-39
-msgid "Hiiumaa"
-msgstr "Prowincja Hiiu"
+#. Name for EE-424
+msgid "Loksa"
+msgstr "Loksa"
 
-#. Name for EE-44
+#. Name for EE-430
+msgid "Lääneranna"
+msgstr "Lääne"
+
+#. Name for EE-431
+msgid "Lääne-Harju"
+msgstr "Lääne-Harju"
+
+#. Name for EE-432
+msgid "Luunja"
+msgstr "Luunja"
+
+#. Name for EE-441
+msgid "Lääne-Nigula"
+msgstr "Lääne-Nigula"
+
+#. Name for EE-442
+msgid "Lüganuse"
+msgstr "Lüganuse"
+
+#. Name for EE-446
+msgid "Maardu"
+msgstr "Maardu"
+
+#. Name for EE-45
 msgid "Ida-Virumaa"
-msgstr "Prowincja Ida Viru"
+msgstr "Virumaa Wschodnia"
 
-#. Name for EE-49
+#. Name for EE-478
+msgid "Muhu"
+msgstr "Muhu"
+
+#. Name for EE-480
+msgid "Mulgi"
+msgstr "Mulgi"
+
+#. Name for EE-486
+msgid "Mustvee"
+msgstr "Mustvee"
+
+#. Name for EE-50
 msgid "Jõgevamaa"
-msgstr "Prowincja Jõgeva"
+msgstr "Jõgevamaa"
 
-#. Name for EE-51
+#. Name for EE-503
+msgid "Märjamaa"
+msgstr "Märjamaa"
+
+#. Name for EE-511
+msgid "Narva"
+msgstr "Narwa"
+
+#. Name for EE-514
+msgid "Narva-Jõesuu"
+msgstr "Narva-Jõesuu"
+
+#. Name for EE-52
 msgid "Järvamaa"
-msgstr "Prowincja Järva"
+msgstr "Järvamaa"
 
-#. Name for EE-57
+#. Name for EE-528
+msgid "Nõo"
+msgstr "Nõo"
+
+#. Name for EE-557
+msgid "Otepää"
+msgstr "Otepää"
+
+#. Name for EE-56
 msgid "Läänemaa"
-msgstr "Prowincja Lääne"
+msgstr "Läänemaa"
 
-#. Name for EE-59
+#. Name for EE-567
+msgid "Paide"
+msgstr "Paide"
+
+#. Name for EE-586
+msgid "Peipsiääre"
+msgstr "Peipsiääre"
+
+#. Name for EE-60
 msgid "Lääne-Virumaa"
-msgstr "Prowincja Lääne Viru"
+msgstr "Virumaa Zachodnia"
 
-#. Name for EE-65
+#. Name for EE-615
+msgid "Põhja-Sakala"
+msgstr "Põhja-Sakala"
+
+#. Name for EE-618
+msgid "Põltsamaa"
+msgstr "Põltsamaa"
+
+#. Name for EE-622
+msgid "Põlva"
+msgstr "Põlva"
+
+#. Name for EE-624
+msgid "Pärnu"
+msgstr "Parnawa"
+
+#. Name for EE-638
+msgid "Põhja-Pärnumaa"
+msgstr "Põhja-Pärnumaa"
+
+#. Name for EE-64
 msgid "Põlvamaa"
-msgstr "Prowincja Põlva"
+msgstr "Põlvamaa"
 
-#. Name for EE-67
+#. Name for EE-651
+msgid "Raasiku"
+msgstr "Raasiku"
+
+#. Name for EE-653
+msgid "Rae"
+msgstr "Rae"
+
+#. Name for EE-661, Name for EE-663
+msgid "Rakvere"
+msgstr "Rakvere"
+
+#. Name for EE-668
+msgid "Rapla"
+msgstr "Rapla"
+
+#. Name for EE-68
 msgid "Pärnumaa"
-msgstr "Prowincja Pärnu"
+msgstr "Parnawa"
 
-#. Name for EE-70
+#. Name for EE-689
+msgid "Ruhnu"
+msgstr "Ruhnu"
+
+#. Name for EE-698
+msgid "Rõuge"
+msgstr "Rõuge"
+
+#. Name for EE-708
+msgid "Räpina"
+msgstr "Räpina"
+
+#. Name for EE-71
 msgid "Raplamaa"
-msgstr "Prowincja Rapla"
+msgstr "Raplamaa"
 
-#. Name for EE-74
+#. Name for EE-712
+msgid "Saarde"
+msgstr "Saarde"
+
+#. Name for EE-714, Name for EE-74
 msgid "Saaremaa"
-msgstr "Prowincja Saare"
+msgstr "Sarema"
 
-#. Name for EE-78
+#. Name for EE-719
+msgid "Saku"
+msgstr "Saku"
+
+#. Name for EE-726
+msgid "Saue"
+msgstr "Saue"
+
+#. Name for EE-732
+msgid "Setomaa"
+msgstr "Setomaa"
+
+#. Name for EE-735
+msgid "Sillamäe"
+msgstr "Sillamäe"
+
+#. Name for EE-784
+msgid "Tallinn"
+msgstr "Tallinn"
+
+#. Name for EE-79
 msgid "Tartumaa"
-msgstr "Prowincja Tartu"
+msgstr "Tartu"
 
-#. Name for EE-82
+#. Name for EE-792
+msgid "Tapa"
+msgstr "Tapa"
+
+#. Name for EE-793, Name for EE-796
+msgid "Tartu"
+msgstr "Tartu"
+
+#. Name for EE-803
+msgid "Toila"
+msgstr "Toila"
+
+#. Name for EE-809
+msgid "Tori"
+msgstr "Tori"
+
+#. Name for EE-81
 msgid "Valgamaa"
-msgstr "Prowincja Valga"
+msgstr "Valgamaa"
+
+#. Name for EE-824
+msgid "Tõrva"
+msgstr "Tõrva"
+
+#. Name for EE-834
+msgid "Türi"
+msgstr "Türi"
 
 #. Name for EE-84
 msgid "Viljandimaa"
-msgstr "Prowincja Viljandi"
+msgstr "Viljandimaa"
 
-#. Name for EE-86
+#. Name for EE-855
+msgid "Valga"
+msgstr "Valga"
+
+#. Name for EE-87
 msgid "Võrumaa"
-msgstr "Prowincja Võru"
+msgstr "Võrumaa"
+
+#. Name for EE-890
+msgid "Viimsi"
+msgstr "Viimsi"
+
+#. Name for EE-897, Name for EE-899
+msgid "Viljandi"
+msgstr "Viljandi"
+
+#. Name for EE-901
+msgid "Vinni"
+msgstr "Vinni"
+
+#. Name for EE-903
+msgid "Viru-Nigula"
+msgstr "Viru-Nigula"
+
+#. Name for EE-907
+msgid "Vormsi"
+msgstr "Vormsi"
+
+#. Name for EE-917, Name for EE-919
+msgid "Võru"
+msgstr "Võru"
+
+#. Name for EE-928
+msgid "Väike-Maarja"
+msgstr "Väike-Maarja"
 
 #. Name for EG-ALX
 msgid "Al Iskandarīyah"
@@ -4280,15 +4477,15 @@ msgid "Aswān"
 msgstr "Asuan"
 
 #. Name for EG-AST
-msgid "Asyūt"
+msgid "Asyūţ"
 msgstr "Asjut"
 
 #. Name for EG-BA
-msgid "Al Bahr al Ahmar"
+msgid "Al Baḩr al Aḩmar"
 msgstr "Al-Bahr al-Ahmar"
 
-#. Name for EG-BH
-msgid "Al Buhayrah"
+#. Name for EG-BH, Name for TD-LC
+msgid "Al Buḩayrah"
 msgstr "Al-Buhajra"
 
 #. Name for EG-BNS
@@ -4304,7 +4501,7 @@ msgid "Ad Daqahlīyah"
 msgstr "Ad Dakahlijja"
 
 #. Name for EG-DT
-msgid "Dumyāt"
+msgid "Dumyāţ"
 msgstr "Damietta"
 
 #. Name for EG-FYM
@@ -4319,12 +4516,8 @@ msgstr "Al-Gharbijja"
 msgid "Al Jīzah"
 msgstr "Giza"
 
-#. Name for EG-HU
-msgid "Ḩulwān"
-msgstr "Heluan"
-
 #. Name for EG-IS
-msgid "Al Ismā`īlīyah"
+msgid "Al Ismā'īlīyah"
 msgstr "Ismailia"
 
 #. Name for EG-JS
@@ -4343,6 +4536,10 @@ msgstr "Kaft asz-Shajch"
 msgid "Qinā"
 msgstr "Kina"
 
+#. Name for EG-LX
+msgid "Al Uqşur"
+msgstr "Luksor"
+
 #. Name for EG-MN
 msgid "Al Minyā"
 msgstr "Al-Minja"
@@ -4352,28 +4549,24 @@ msgid "Al Minūfīyah"
 msgstr "Al-Minufijja"
 
 #. Name for EG-MT
-msgid "Matrūh"
+msgid "Maţrūḩ"
 msgstr "Matruh"
 
 #. Name for EG-PTS
-msgid "Būr Sa`īd"
+msgid "Būr Sa‘īd"
 msgstr "Port Said"
 
 #. Name for EG-SHG
 msgid "Sūhāj"
 msgstr "Sauhadż"
 
-#. Name for EG-SHR, Name for OM-SH, Name for SA-04
+#. Name for EG-SHR, Name for SA-04
 msgid "Ash Sharqīyah"
 msgstr "Asz-Szarkijja"
 
 #. Name for EG-SIN
-msgid "Shamal Sīnā'"
+msgid "Shamāl Sīnā'"
 msgstr "Synaj Północny"
-
-#. Name for EG-SU
-msgid "As Sādis min Uktūbar"
-msgstr "As-Sadis min Uktubar"
 
 #. Name for EG-SUZ
 msgid "As Suways"
@@ -4388,27 +4581,27 @@ msgid "Ansabā"
 msgstr "Anseba"
 
 #. Name for ER-DK
-msgid "Janūbī al Baḩrī al Aḩmar"
+msgid "Debubawi K’eyyĭḥ Baḥri"
 msgstr "Region Południowy Morza Czerwonego"
 
-#. Name for ER-DU
+#. Name for ER-DU, Name for IL-D
 msgid "Al Janūbī"
 msgstr "Region Południowy"
 
 #. Name for ER-GB
-msgid "Qāsh-Barkah"
+msgid "Gash-Barka"
 msgstr "Gasz-Barka"
 
-#. Name for ER-MA
+#. Name for ER-MA, Name for IL-M
 msgid "Al Awsaţ"
 msgstr "Region Centralny"
 
 #. Name for ER-SK
-msgid "Shimālī al Baḩrī al Aḩmar"
+msgid "Semienawi K’eyyĭḥ Baḥri"
 msgstr "Region Północny Morza Czerwonego"
 
 #. Name for ES-A
-msgid "Alicante"
+msgid "Alacant*"
 msgstr "Alicante"
 
 #. Name for ES-AB
@@ -4436,7 +4629,7 @@ msgid "Ávila"
 msgstr "Ávila"
 
 #. Name for ES-B
-msgid "Barcelona"
+msgid "Barcelona [Barcelona]"
 msgstr "Barcelona"
 
 #. Name for ES-BA
@@ -4452,7 +4645,7 @@ msgid "Burgos"
 msgstr "Burgos"
 
 #. Name for ES-C
-msgid "A Coruña"
+msgid "A Coruña [La Coruña]"
 msgstr "A Coruña"
 
 #. Name for ES-CA
@@ -4488,11 +4681,11 @@ msgid "Ciudad Real"
 msgstr "Ciudad Real"
 
 #. Name for ES-CS
-msgid "Castellón"
+msgid "Castelló*"
 msgstr "Castellón"
 
 #. Name for ES-CT
-msgid "Catalunya"
+msgid "Catalunya [Cataluña]"
 msgstr "Katalonia"
 
 #. Name for ES-CU
@@ -4504,15 +4697,15 @@ msgid "Extremadura"
 msgstr "Ekstremadura"
 
 #. Name for ES-GA
-msgid "Galicia"
-msgstr "Galicia"
+msgid "Galicia [Galicia]"
+msgstr "Galicja"
 
 #. Name for ES-GC
 msgid "Las Palmas"
 msgstr "Las Palmas"
 
 #. Name for ES-GI
-msgid "Girona"
+msgid "Girona [Gerona]"
 msgstr "Girona"
 
 # XXX: msgid conflict
@@ -4532,8 +4725,8 @@ msgstr "Huelva"
 msgid "Huesca"
 msgstr "Huesca"
 
-#. Name for ES-IB
-msgid "Illes Balears"
+#. Name for ES-IB, Name for ES-PM
+msgid "Illes Balears [Islas Baleares]"
 msgstr "Baleary"
 
 #. Name for ES-J
@@ -4541,19 +4734,15 @@ msgid "Jaén"
 msgstr "Jaén"
 
 #. Name for ES-L
-msgid "Lleida"
+msgid "Lleida [Lérida]"
 msgstr "Lleida"
 
 #. Name for ES-LE, Name for NI-LE
 msgid "León"
 msgstr "León"
 
-#. Name for ES-LO, Name for ES-RI
-msgid "La Rioja"
-msgstr "La Rioja"
-
 #. Name for ES-LU
-msgid "Lugo"
+msgid "Lugo [Lugo]"
 msgstr "Lugo"
 
 #. Name for ES-M
@@ -4581,11 +4770,11 @@ msgid "Murcia"
 msgstr "Murcja"
 
 #. Name for ES-NA
-msgid "Navarra / Nafarroa"
+msgid "Nafarroa*"
 msgstr "Nawarra"
 
 #. Name for ES-NC
-msgid "Navarra, Comunidad Foral de / Nafarroako Foru Komunitatea"
+msgid "Nafarroako Foru Komunitatea*"
 msgstr "Nawarra (wspólnota autonomiczna)"
 
 #. Name for ES-O
@@ -4593,23 +4782,19 @@ msgid "Asturias"
 msgstr "Asturia"
 
 #. Name for ES-OR
-msgid "Ourense"
+msgid "Ourense [Orense]"
 msgstr "Ourense"
 
 #. Name for ES-P
 msgid "Palencia"
 msgstr "Palencia"
 
-#. Name for ES-PM
-msgid "Balears"
-msgstr "Baleary"
-
 #. Name for ES-PO
-msgid "Pontevedra"
+msgid "Pontevedra [Pontevedra]"
 msgstr "Pontevedra"
 
 #. Name for ES-PV
-msgid "País Vasco / Euskal Herria"
+msgid "Euskal Herria"
 msgstr "Kraj Basków"
 
 #. Name for ES-SA
@@ -4633,7 +4818,7 @@ msgid "Gipuzkoa"
 msgstr "Gipuzkoa"
 
 #. Name for ES-T
-msgid "Tarragona"
+msgid "Tarragona [Tarragona]"
 msgstr "Tarragona"
 
 #. Name for ES-TE
@@ -4645,7 +4830,7 @@ msgid "Santa Cruz de Tenerife"
 msgstr "Santa Cruz de Tenerife"
 
 #. Name for ES-V
-msgid "Valencia / València"
+msgid "Valencia"
 msgstr "Walencja"
 
 #. Name for ES-VA
@@ -4653,11 +4838,11 @@ msgid "Valladolid"
 msgstr "Valladolid"
 
 #. Name for ES-VC
-msgid "Valenciana, Comunidad / Valenciana, Comunitat"
+msgid "Valenciana, Comunidad"
 msgstr "Walencja (wspólnota)"
 
 #. Name for ES-VI
-msgid "Álava"
+msgid "Araba*"
 msgstr "Araba"
 
 #. Name for ES-Z
@@ -4669,51 +4854,51 @@ msgid "Zamora"
 msgstr "Zamora"
 
 #. Name for ET-AA
-msgid "Ādīs Ābeba"
+msgid "Addis Ababa"
 msgstr "Addis Abeba"
 
 #. Name for ET-AF
-msgid "Āfar"
+msgid "Afar"
 msgstr "Afar"
 
 #. Name for ET-AM
-msgid "Āmara"
+msgid "Amara"
 msgstr "Amhara"
 
 #. Name for ET-BE
-msgid "Bīnshangul Gumuz"
-msgstr "Beniszengul-Gumaz"
+msgid "Benshangul-Gumaz"
+msgstr "Bienszangul-Gumuz"
 
 #. Name for ET-DD
-msgid "Dirē Dawa"
+msgid "Dire Dawa"
 msgstr "Dire Daua"
 
 #. Name for ET-GA
-msgid "Gambēla Hizboch"
-msgstr "Gambela"
+msgid "Gambela Peoples"
+msgstr "Region Ludów Gambeli"
 
 #. Name for ET-HA
-msgid "Hārerī Hizb"
-msgstr "Harari"
+msgid "Harari People"
+msgstr "Region Ludu Hareri"
 
 #. Name for ET-OR
-msgid "Oromīya"
+msgid "Oromia"
 msgstr "Oromia"
 
 #. Name for ET-SN
-msgid "YeDebub Bihēroch Bihēreseboch na Hizboch"
-msgstr "Jedebub Byhierocz, Byhiereseboczynna Hyzbocz"
+msgid "Southern Nations, Nationalities and Peoples"
+msgstr "Region Narodów, Narodowości i Ludów Południa"
 
 #. Name for ET-SO
-msgid "Sumalē"
+msgid "Somali"
 msgstr "Somali"
 
 #. Name for ET-TI
-msgid "Tigray"
+msgid "Tigrai"
 msgstr "Tigraj"
 
 #. Name for FI-01
-msgid "Ahvenanmaan maakunta"
+msgid "Åland"
 msgstr "Wyspy Alandzkie"
 
 #. Name for FI-02
@@ -4766,7 +4951,7 @@ msgstr "Karelia Północna"
 
 #. Name for FI-14
 msgid "Pohjois-Pohjanmaa"
-msgstr "Północna Ostrobotnia"
+msgstr "Ostrobotnia Północna"
 
 #. Name for FI-15
 msgid "Pohjois-Savo"
@@ -4786,15 +4971,71 @@ msgstr "Uusimaa"
 
 #. Name for FI-19
 msgid "Varsinais-Suomi"
-msgstr "Finlandia Właściwa"
+msgstr "Finlandia Południowo-Zachodnia"
+
+#. Name for FJ-01
+msgid "Ba"
+msgstr "Ba"
+
+#. Name for FJ-02
+msgid "Bua"
+msgstr "Bua"
+
+#. Name for FJ-03
+msgid "Cakaudrove"
+msgstr "Cakaudrove"
+
+#. Name for FJ-04
+msgid "Kadavu"
+msgstr "Kadavu"
+
+#. Name for FJ-05
+msgid "Lau"
+msgstr "Lau"
+
+#. Name for FJ-06
+msgid "Lomaiviti"
+msgstr "Lomaiviti"
+
+#. Name for FJ-07
+msgid "Macuata"
+msgstr "Macuata"
+
+#. Name for FJ-08
+msgid "Nadroga and Navosa"
+msgstr "Nadroga-Navosa"
+
+#. Name for FJ-09
+msgid "Naitasiri"
+msgstr "Naitasiri"
+
+#. Name for FJ-10
+msgid "Namosi"
+msgstr "Namosi"
+
+#. Name for FJ-11
+msgid "Ra"
+msgstr "Ra"
+
+#. Name for FJ-12
+msgid "Rewa"
+msgstr "Rewa"
+
+#. Name for FJ-13
+msgid "Serua"
+msgstr "Serua"
+
+#. Name for FJ-14
+msgid "Tailevu"
+msgstr "Tailevu"
 
 # XXX: massive msgid conflict
-#. Name for FJ-E, Name for GH-EP, Name for SL-E, Name for UG-E, Name for ZM-03
+#. Name for FJ-E, Name for GH-EP, Name for NP-4, Name for RW-02, Name for SL-E, Name for UG-E, Name for ZM-03
 msgid "Eastern"
 msgstr "Dystrykt Wschodni / Region Wschodni / Prowincja Wschodnia"
 
 # XXX: massive msgid conflict
-#. Name for FJ-N, Name for GH-NP, Name for PG-NPP, Name for SL-N, Name for UG-N, Name for ZM-05
+#. Name for FJ-N, Name for GH-NP, Name for PG-NPP, Name for RW-03, Name for SD-NO, Name for SL-N, Name for UG-N, Name for ZM-05
 msgid "Northern"
 msgstr "Dystrykt Północny / Region Północny / Prowincja Północna"
 
@@ -4803,7 +5044,7 @@ msgid "Rotuma"
 msgstr "Rotuma"
 
 # XXX: massive msgid conflict
-#. Name for FJ-W, Name for GH-WP, Name for GM-W, Name for PG-WPD, Name for SB-WE, Name for UG-W, Name for ZM-01
+#. Name for FJ-W, Name for GH-WP, Name for GM-W, Name for NP-3, Name for PG-WPD, Name for RW-04, Name for SB-WE, Name for UG-W, Name for ZM-01
 msgid "Western"
 msgstr ""
 "Dystrykt Zachodni / Region Zachodni / Western Division / Prowincja Zachodnia"
@@ -4899,6 +5140,10 @@ msgstr "Cher"
 #. Name for FR-19
 msgid "Corrèze"
 msgstr "Corrèze"
+
+#. Name for FR-20R
+msgid "Corse"
+msgstr "Korsyka"
 
 #. Name for FR-21
 msgid "Côte-d'Or"
@@ -5200,6 +5445,26 @@ msgstr "Dolina Marny"
 msgid "Val-d'Oise"
 msgstr "Dolina Oise"
 
+#. Name for FR-971, Name for FR-GP
+msgid "Guadeloupe"
+msgstr "Gwadelupa"
+
+#. Name for FR-972, Name for FR-MQ
+msgid "Martinique"
+msgstr "Martynika"
+
+#. Name for FR-973, Name for FR-GF
+msgid "Guyane (française)"
+msgstr "Gujana Francuska"
+
+#. Name for FR-974, Name for FR-RE
+msgid "La Réunion"
+msgstr "Reunion"
+
+#. Name for FR-976, Name for FR-YT
+msgid "Mayotte"
+msgstr "Majotta"
+
 #. Name for FR-ARA
 msgid "Auvergne-Rhône-Alpes"
 msgstr "Owernia-Rodan-Alpy"
@@ -5216,10 +5481,6 @@ msgstr "Saint-Barthélemy"
 msgid "Bretagne"
 msgstr "Bretania"
 
-#. Name for FR-COR
-msgid "Corse"
-msgstr "Korsyka"
-
 #. Name for FR-CP
 msgid "Clipperton"
 msgstr "Clipperton"
@@ -5232,14 +5493,6 @@ msgstr "Centralny-Dolina Loary"
 msgid "Grand-Est"
 msgstr "Grand Est"
 
-#. Name for FR-GF
-msgid "Guyane (française)"
-msgstr "Gujana Francuska"
-
-#. Name for FR-GP, Name for FR-GUA
-msgid "Guadeloupe"
-msgstr "Gwadelupa"
-
 #. Name for FR-HDF
 msgid "Hauts-de-France"
 msgstr "Hauts-de-France"
@@ -5248,21 +5501,9 @@ msgstr "Hauts-de-France"
 msgid "Île-de-France"
 msgstr "Île-de-France"
 
-#. Name for FR-LRE, Name for FR-RE
-msgid "La Réunion"
-msgstr "Reunion"
-
-#. Name for FR-MAY, Name for FR-YT
-msgid "Mayotte"
-msgstr "Majotta"
-
 #. Name for FR-MF
 msgid "Saint-Martin"
 msgstr "Saint-Martin"
-
-#. Name for FR-MQ
-msgid "Martinique"
-msgstr "Martynika"
 
 #. Name for FR-NAQ
 msgid "Nouvelle-Aquitaine"
@@ -5341,8 +5582,8 @@ msgid "Woleu-Ntem"
 msgstr "Woleu-Ntem"
 
 #. Name for GB-ABC
-msgid "Armagh, Banbridge and Craigavon"
-msgstr "Armagh, Banbridge and Craigavon"
+msgid "Armagh City, Banbridge and Craigavon"
+msgstr "Armagh City, Banbridge and Craigavon"
 
 #. Name for GB-ABD
 msgid "Aberdeenshire"
@@ -5357,8 +5598,8 @@ msgid "Argyll and Bute"
 msgstr "Argyll and Bute"
 
 #. Name for GB-AGY
-msgid "Isle of Anglesey; Sir Ynys Môn"
-msgstr "Isle of Anglesey"
+msgid "Isle of Anglesey [Sir Ynys Môn GB-YNM]"
+msgstr "Anglesey"
 
 #. Name for GB-AND
 msgid "Ards and North Down"
@@ -5380,6 +5621,10 @@ msgstr "Bath and North East Somerset"
 msgid "Blackburn with Darwen"
 msgstr "Blackburn with Darwen"
 
+#. Name for GB-BCP
+msgid "Bournemouth, Christchurch and Poole"
+msgstr "Bournemouth, Christchurch and Poole"
+
 #. Name for GB-BDF
 msgid "Bedford"
 msgstr "Bedford"
@@ -5397,11 +5642,11 @@ msgid "Bexley"
 msgstr "Bexley"
 
 #. Name for GB-BFS
-msgid "Belfast"
+msgid "Belfast City"
 msgstr "Belfast"
 
 #. Name for GB-BGE
-msgid "Bridgend; Pen-y-bont ar Ogwr"
+msgid "Bridgend [Pen-y-bont ar Ogwr GB-POG]"
 msgstr "Bridgend"
 
 #. Name for GB-BGW
@@ -5415,10 +5660,6 @@ msgstr "Birmingham"
 #. Name for GB-BKM
 msgid "Buckinghamshire"
 msgstr "Buckinghamshire"
-
-#. Name for GB-BMH
-msgid "Bournemouth"
-msgstr "Bournemouth"
 
 #. Name for GB-BNE
 msgid "Barnet"
@@ -5465,7 +5706,7 @@ msgid "Cambridgeshire"
 msgstr "Cambridgeshire"
 
 #. Name for GB-CAY
-msgid "Caerphilly; Caerffili"
+msgid "Caerphilly [Caerffili GB-CAF]"
 msgstr "Caerphilly"
 
 #. Name for GB-CBF
@@ -5477,7 +5718,7 @@ msgid "Causeway Coast and Glens"
 msgstr "Causeway Coast and Glens"
 
 #. Name for GB-CGN
-msgid "Ceredigion; Sir Ceredigion"
+msgid "Ceredigion [Sir Ceredigion]"
 msgstr "Ceredigion"
 
 #. Name for GB-CHE
@@ -5505,7 +5746,7 @@ msgid "Camden"
 msgstr "Camden"
 
 #. Name for GB-CMN
-msgid "Carmarthenshire; Sir Gaerfyrddin"
+msgid "Carmarthenshire [Sir Gaerfyrddin GB-GFY]"
 msgstr "Carmarthenshire"
 
 #. Name for GB-CON
@@ -5517,7 +5758,7 @@ msgid "Coventry"
 msgstr "Coventry"
 
 #. Name for GB-CRF
-msgid "Cardiff; Caerdydd"
+msgid "Cardiff [Caerdydd GB-CRD]"
 msgstr "Cardiff"
 
 #. Name for GB-CRY
@@ -5537,7 +5778,7 @@ msgid "Derbyshire"
 msgstr "Derbyshire"
 
 #. Name for GB-DEN
-msgid "Denbighshire; Sir Ddinbych"
+msgid "Denbighshire [Sir Ddinbych GB-DDB]"
 msgstr "Denbighshire"
 
 #. Name for GB-DER
@@ -5573,16 +5814,12 @@ msgid "Dudley"
 msgstr "Dudley"
 
 #. Name for GB-DUR
-msgid "Durham County"
+msgid "Durham, County"
 msgstr "County Durham"
 
 #. Name for GB-EAL
 msgid "Ealing"
 msgstr "Ealing"
-
-#. Name for GB-EAW
-msgid "England and Wales"
-msgstr "Anglia i Walia"
 
 #. Name for GB-EAY
 msgid "East Ayrshire"
@@ -5637,7 +5874,7 @@ msgid "Fife"
 msgstr "Fife"
 
 #. Name for GB-FLN
-msgid "Flintshire; Sir y Fflint"
+msgid "Flintshire [Sir y Fflint GB-FFL]"
 msgstr "Flintshire"
 
 #. Name for GB-FMO
@@ -5647,10 +5884,6 @@ msgstr "Fermanagh and Omagh"
 #. Name for GB-GAT
 msgid "Gateshead"
 msgstr "Gateshead"
-
-#. Name for GB-GBN
-msgid "Great Britain"
-msgstr "Wielka Brytania"
 
 #. Name for GB-GLG
 msgid "Glasgow City"
@@ -5829,7 +6062,7 @@ msgid "Midlothian"
 msgstr "Midlothian"
 
 #. Name for GB-MON
-msgid "Monmouthshire; Sir Fynwy"
+msgid "Monmouthshire [Sir Fynwy GB-FYN]"
 msgstr "Monmouthshire"
 
 #. Name for GB-MRT
@@ -5841,11 +6074,11 @@ msgid "Moray"
 msgstr "Moray"
 
 #. Name for GB-MTY
-msgid "Merthyr Tydfil; Merthyr Tudful"
+msgid "Merthyr Tydfil [Merthyr Tudful GB-MTU]"
 msgstr "Merthyr Tydfil"
 
 #. Name for GB-MUL
-msgid "Mid Ulster"
+msgid "Mid-Ulster"
 msgstr "Mid Ulster"
 
 #. Name for GB-NAY
@@ -5897,7 +6130,7 @@ msgid "Northamptonshire"
 msgstr "Northamptonshire"
 
 #. Name for GB-NTL
-msgid "Neath Port Talbot; Castell-nedd Port Talbot"
+msgid "Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]"
 msgstr "Neath Port Talbot"
 
 #. Name for GB-NTT
@@ -5913,7 +6146,7 @@ msgid "Newham"
 msgstr "Newham"
 
 #. Name for GB-NWP
-msgid "Newport; Casnewydd"
+msgid "Newport [Casnewydd GB-CNW]"
 msgstr "Newport"
 
 #. Name for GB-NYK
@@ -5933,7 +6166,7 @@ msgid "Oxfordshire"
 msgstr "Oxfordshire"
 
 #. Name for GB-PEM
-msgid "Pembrokeshire; Sir Benfro"
+msgid "Pembrokeshire [Sir Benfro GB-BNF]"
 msgstr "Pembrokeshire"
 
 #. Name for GB-PKN
@@ -5943,10 +6176,6 @@ msgstr "Perth and Kinross"
 #. Name for GB-PLY
 msgid "Plymouth"
 msgstr "Plymouth"
-
-#. Name for GB-POL
-msgid "Poole"
-msgstr "Poole"
 
 #. Name for GB-POR
 msgid "Portsmouth"
@@ -5969,7 +6198,7 @@ msgid "Rochdale"
 msgstr "Rochdale"
 
 #. Name for GB-RCT
-msgid "Rhondda, Cynon, Taff; Rhondda, Cynon, Taf"
+msgid "Rhondda Cynon Taff [Rhondda CynonTaf]"
 msgstr "Rhondda Cynon Taff"
 
 #. Name for GB-RDB
@@ -6005,7 +6234,7 @@ msgid "South Ayrshire"
 msgstr "South Ayrshire"
 
 #. Name for GB-SCB
-msgid "Scottish Borders, The"
+msgid "Scottish Borders"
 msgstr "Scottish Borders"
 
 #. Name for GB-SCT
@@ -6101,7 +6330,7 @@ msgid "South Tyneside"
 msgstr "South Tyneside"
 
 #. Name for GB-SWA
-msgid "Swansea; Abertawe"
+msgid "Swansea [Abertawe GB-ATA]"
 msgstr "Swansea"
 
 #. Name for GB-SWD
@@ -6129,7 +6358,7 @@ msgid "Torbay"
 msgstr "Torbay"
 
 #. Name for GB-TOF
-msgid "Torfaen; Tor-faen"
+msgid "Torfaen [Tor-faen]"
 msgstr "Torfaen"
 
 #. Name for GB-TRF
@@ -6140,12 +6369,8 @@ msgstr "Trafford"
 msgid "Tower Hamlets"
 msgstr "Tower Hamlets"
 
-#. Name for GB-UKM
-msgid "United Kingdom"
-msgstr "Zjednoczone Królestwo"
-
 #. Name for GB-VGL
-msgid "Vale of Glamorgan, The; Bro Morgannwg"
+msgid "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]"
 msgstr "Vale of Glamorgan"
 
 #. Name for GB-WAR
@@ -6185,7 +6410,7 @@ msgid "West Lothian"
 msgstr "West Lothian"
 
 #. Name for GB-WLS
-msgid "Wales; Cymru"
+msgid "Wales [Cymru GB-CYM]"
 msgstr "Walia"
 
 #. Name for GB-WLV
@@ -6217,7 +6442,7 @@ msgid "Warrington"
 msgstr "Warrington"
 
 #. Name for GB-WRX
-msgid "Wrexham; Wrecsam"
+msgid "Wrexham [Wrecsam GB-WRC]"
 msgstr "Wrexham"
 
 #. Name for GB-WSM
@@ -6253,76 +6478,101 @@ msgid "Guria"
 msgstr "Guria"
 
 #. Name for GE-IM
-msgid "Imeret’i"
+msgid "Imereti"
 msgstr "Imeretia"
 
 #. Name for GE-KA
-msgid "Kakhet’i"
+msgid "K'akheti"
 msgstr "Kachetia"
 
 #. Name for GE-KK
-msgid "K’vemo K’art’li"
+msgid "Kvemo Kartli"
 msgstr "Dolna Kartlia"
 
 #. Name for GE-MM
-msgid "Mts’khet’a-Mt’ianet’i"
+msgid "Mtskheta-Mtianeti"
 msgstr "Mccheta-Mtianetia"
 
 #. Name for GE-RL
-msgid "Racha-Lech’khumi-K’vemo Svanet’i"
+msgid "Rach'a-Lechkhumi-Kvemo Svaneti"
 msgstr "Racza-Leczchumi i Dolna Swanetia"
 
 #. Name for GE-SJ
-msgid "Samts’khe-Javakhet’i"
+msgid "Samtskhe-Javakheti"
 msgstr "Samcche-Dżawachetia"
 
 #. Name for GE-SK
-msgid "Shida K’art’li"
+msgid "Shida Kartli"
 msgstr "Wewnętrzna Kartlia"
 
 #. Name for GE-SZ
-msgid "Samegrelo-Zemo Svanet’i"
-msgstr "Megrelia i Górna Swanetia"
+msgid "Samegrelo-Zemo Svaneti"
+msgstr "Megrelia-Górna Swanetia"
 
 #. Name for GE-TB
-msgid "T’bilisi"
+msgid "Tbilisi"
 msgstr "Tbilisi"
 
 #. Name for GH-AA
 msgid "Greater Accra"
 msgstr "Wielka Akra"
 
+#. Name for GH-AF
+msgid "Ahafo"
+msgstr "Ahafo"
+
 #. Name for GH-AH
 msgid "Ashanti"
 msgstr "Aszanti"
 
-#. Name for GH-BA
-msgid "Brong-Ahafo"
-msgstr "Brong-Ahafo"
+#. Name for GH-BE
+msgid "Bono East"
+msgstr "Bono Wschodnie"
+
+#. Name for GH-BO
+msgid "Bono"
+msgstr "Bono"
+
+#. Name for GH-OT
+msgid "Oti"
+msgstr "Oti"
+
+#. Name for GH-SV
+msgid "Savannah"
+msgstr "Savannah"
 
 #. Name for GH-TV
 msgid "Volta"
-msgstr "Volta"
+msgstr "Wolta"
 
 #. Name for GH-UE
 msgid "Upper East"
-msgstr "Upper East"
+msgstr "Górny Region Wschodni"
 
 #. Name for GH-UW
 msgid "Upper West"
-msgstr "Upper West"
+msgstr "Górny Region Zachodni"
+
+# XXX: massive msgid conflict
+#. Name for GH-WN
+msgid "Western North"
+msgstr "Region Północno-Zachodni"
+
+#. Name for GL-AV
+msgid "Avannaata Kommunia"
+msgstr "Avannaata"
 
 #. Name for GL-KU
 msgid "Kommune Kujalleq"
 msgstr "Kujalleq"
 
-#. Name for GL-QA
-msgid "Qaasuitsup Kommunia"
-msgstr "Qaasuitsup"
-
 #. Name for GL-QE
 msgid "Qeqqata Kommunia"
 msgstr "Qeqqata"
+
+#. Name for GL-QT
+msgid "Kommune Qeqertalik"
+msgstr "Qeqertalik"
 
 #. Name for GL-SM
 msgid "Kommuneqarfik Sermersooq"
@@ -6485,28 +6735,32 @@ msgid "Yomou"
 msgstr "Yomou"
 
 #. Name for GQ-AN
-msgid "Annobón"
+msgid "Annobon"
 msgstr "Annobón"
 
 #. Name for GQ-BN
-msgid "Bioko Norte"
-msgstr "Bioko Norte"
+msgid "Bioko Nord"
+msgstr "Bioko Północne"
 
 #. Name for GQ-BS
-msgid "Bioko Sur"
-msgstr "Bioko Sur"
+msgid "Bioko Sud"
+msgstr "Bioko Południowe"
 
 #. Name for GQ-C
-msgid "Región Continental"
+msgid "Região Continental"
 msgstr "Region kontynentalny"
 
 #. Name for GQ-CS
-msgid "Centro Sur"
-msgstr "Centro Sur"
+msgid "Centro Sud"
+msgstr "Prowincja Środkowo-Południowa"
+
+#. Name for GQ-DJ
+msgid "Djibloho"
+msgstr "Djibloho"
 
 #. Name for GQ-I
-msgid "Región Insular"
-msgstr "Region wysp"
+msgid "Região Insular"
+msgstr "Region Wyspiarski"
 
 #. Name for GQ-KN
 msgid "Kié-Ntem"
@@ -6514,262 +6768,66 @@ msgstr "Kié-Ntem"
 
 #. Name for GQ-LI
 msgid "Litoral"
-msgstr "Litoral"
+msgstr "Prowincja Nadmorska"
 
 #. Name for GQ-WN
 msgid "Wele-Nzas"
 msgstr "Wele-Nzas"
 
-#. Name for GR-01
-msgid "Aitolia kai Akarnania"
-msgstr "Etolia i Akarnania"
-
-#. Name for GR-03
-msgid "Voiotia"
-msgstr "Beocja"
-
-#. Name for GR-04
-msgid "Evvoias"
-msgstr "Eubea"
-
-#. Name for GR-05
-msgid "Evrytania"
-msgstr "Eurytania"
-
-#. Name for GR-06
-msgid "Fthiotida"
-msgstr "Ftiotyda"
-
-#. Name for GR-07
-msgid "Fokida"
-msgstr "Fokida"
-
-#. Name for GR-11
-msgid "Argolida"
-msgstr "Argolida"
-
-#. Name for GR-12
-msgid "Arkadia"
-msgstr "Arkadia"
-
-#. Name for GR-13
-msgid "Achaïa"
-msgstr "Achaja"
-
-#. Name for GR-14
-msgid "Ileia"
-msgstr "Elida"
-
-#. Name for GR-15
-msgid "Korinthia"
-msgstr "Koryntia"
-
-#. Name for GR-16
-msgid "Lakonia"
-msgstr "Lakonia"
-
-#. Name for GR-17
-msgid "Messinia"
-msgstr "Mesenia"
-
-#. Name for GR-21
-msgid "Zakynthos"
-msgstr "Zakintos"
-
-#. Name for GR-22
-msgid "Kerkyra"
-msgstr "Kerkira"
-
-#. Name for GR-23
-msgid "Kefallonia"
-msgstr "Kefalinia"
-
-#. Name for GR-24
-msgid "Lefkada"
-msgstr "Leukada"
-
-#. Name for GR-32
-msgid "Thesprotia"
-msgstr "Tesprotia"
-
-#. Name for GR-33
-msgid "Ioannina"
-msgstr "Janina"
-
-#. Name for GR-34
-msgid "Preveza"
-msgstr "Preweza"
-
-#. Name for GR-41
-msgid "Karditsa"
-msgstr "Karditsa"
-
-#. Name for GR-42
-msgid "Larisa"
-msgstr "Larisa"
-
-#. Name for GR-43
-msgid "Magnisia"
-msgstr "Magnezja"
-
-#. Name for GR-44
-msgid "Trikala"
-msgstr "Trikala"
-
-#. Name for GR-51
-msgid "Grevena"
-msgstr "Grewena"
-
-#. Name for GR-52
-msgid "Drama"
-msgstr "Drama"
-
-#. Name for GR-53
-msgid "Imathia"
-msgstr "Imatia"
-
-#. Name for GR-54
-msgid "Thessaloniki"
-msgstr "Saloniki"
-
-#. Name for GR-55
-msgid "Kavala"
-msgstr "Kawala"
-
-#. Name for GR-56
-msgid "Kastoria"
-msgstr "Kastoria"
-
-#. Name for GR-57
-msgid "Kilkis"
-msgstr "Kilkis"
-
-#. Name for GR-58
-msgid "Kozani"
-msgstr "Kozani"
-
-#. Name for GR-59
-msgid "Pella"
-msgstr "Pela"
-
-#. Name for GR-61
-msgid "Pieria"
-msgstr "Pieria"
-
-#. Name for GR-62
-msgid "Serres"
-msgstr "Seres"
-
-#. Name for GR-63
-msgid "Florina"
-msgstr "Florina"
-
-#. Name for GR-64
-msgid "Chalkidiki"
-msgstr "Chalkidiki"
-
 #. Name for GR-69
-msgid "Agio Oros"
-msgstr "Góra Athos"
-
-#. Name for GR-71
-msgid "Evros"
-msgstr "Ewros"
-
-#. Name for GR-72
-msgid "Xanthi"
-msgstr "Ksanti"
-
-#. Name for GR-73
-msgid "Rodopi"
-msgstr "Rodopi"
-
-#. Name for GR-81
-msgid "Dodekanisos"
-msgstr "Dodekanez"
-
-#. Name for GR-82
-msgid "Kyklades"
-msgstr "Cyklady"
-
-#. Name for GR-83
-msgid "Lesvos"
-msgstr "Lesbos"
-
-#. Name for GR-84
-msgid "Samos"
-msgstr "Samos"
-
-#. Name for GR-85
-msgid "Chios"
-msgstr "Chios"
-
-#. Name for GR-91
-msgid "Irakleio"
-msgstr "Heraklion"
-
-#. Name for GR-92
-msgid "Lasithi"
-msgstr "Lasiti"
-
-#. Name for GR-93
-msgid "Rethymno"
-msgstr "Retimno"
-
-#. Name for GR-94
-msgid "Chania"
-msgstr "Chania"
+msgid "Ágion Óros"
+msgstr "Athos"
 
 #. Name for GR-A
-msgid "Anatoliki Makedonia kai Thraki"
+msgid "Anatolikí Makedonía kai Thráki"
 msgstr "Macedonia Wschodnia i Tracja"
 
-#. Name for GR-A1, Name for GR-I
-msgid "Attiki"
-msgstr "Attyka"
-
 #. Name for GR-B
-msgid "Kentriki Makedonia"
+msgid "Kentrikí Makedonía"
 msgstr "Macedonia Środkowa"
 
 #. Name for GR-C
-msgid "Dytiki Makedonia"
+msgid "Dytikí Makedonía"
 msgstr "Macedonia Zachodnia"
 
 #. Name for GR-D
-msgid "Ipeiros"
+msgid "Ípeiros"
 msgstr "Epir"
 
 #. Name for GR-E
-msgid "Thessalia"
+msgid "Thessalía"
 msgstr "Tesalia"
 
 #. Name for GR-F
-msgid "Ionia Nisia"
+msgid "Ionía Nísia"
 msgstr "Wyspy Jońskie"
 
 #. Name for GR-G
-msgid "Dytiki Ellada"
+msgid "Dytikí Elláda"
 msgstr "Grecja Zachodnia"
 
 #. Name for GR-H
-msgid "Sterea Ellada"
+msgid "Stereá Elláda"
 msgstr "Grecja Środkowa"
 
+#. Name for GR-I
+msgid "Attikí"
+msgstr "Attyka"
+
 #. Name for GR-J
-msgid "Peloponnisos"
+msgid "Pelopónnisos"
 msgstr "Peloponez"
 
 #. Name for GR-K
-msgid "Voreio Aigaio"
+msgid "Vóreio Aigaío"
 msgstr "Wyspy Egejskie Północne"
 
 #. Name for GR-L
-msgid "Notio Aigaio"
+msgid "Nótio Aigaío"
 msgstr "Wyspy Egejskie Południowe"
 
 #. Name for GR-M
-msgid "Kriti"
+msgid "Kríti"
 msgstr "Kreta"
 
 #. Name for GT-AV
@@ -6865,8 +6923,8 @@ msgid "Bafatá"
 msgstr "Bafatá"
 
 #. Name for GW-BL
-msgid "Bolama"
-msgstr "Bolama"
+msgid "Bolama / Bijagós"
+msgstr "Bolama / Bijagós"
 
 #. Name for GW-BM
 msgid "Biombo"
@@ -6922,11 +6980,11 @@ msgstr "Demerara-Mahaica"
 
 #. Name for GY-EB
 msgid "East Berbice-Corentyne"
-msgstr "Wschodnie Berbice-Corentyne"
+msgstr "East Berbice-Corentyne"
 
 #. Name for GY-ES
 msgid "Essequibo Islands-West Demerara"
-msgstr "Wyspy Essequibo-Zachodnia Demerara"
+msgstr "Essequibo Islands-West Demerara"
 
 #. Name for GY-MA
 msgid "Mahaica-Berbice"
@@ -6942,11 +7000,11 @@ msgstr "Potaro-Siparuni"
 
 #. Name for GY-UD
 msgid "Upper Demerara-Berbice"
-msgstr "Górna Demerara-Berbice"
+msgstr "Upper Demerara-Berbice"
 
 #. Name for GY-UT
 msgid "Upper Takutu-Upper Essequibo"
-msgstr "Górne Takutu-Górne Essequibo"
+msgstr "Upper Takutu-Upper Essequibo"
 
 #. Name for HN-AT
 msgid "Atlántida"
@@ -7018,116 +7076,119 @@ msgstr "Yoro"
 
 #. Name for HR-01
 msgid "Zagrebačka županija"
-msgstr "Zagrebačka županija"
+msgstr "żupania zagrzebska"
 
 #. Name for HR-02
 msgid "Krapinsko-zagorska županija"
-msgstr "Krapinsko-zagorska županija"
+msgstr "żupania krapińsko-zagorska"
 
 #. Name for HR-03
 msgid "Sisačko-moslavačka županija"
-msgstr "Sisačko-moslavačka županija"
+msgstr "żupania sisacko-moslawińska"
 
 #. Name for HR-04
 msgid "Karlovačka županija"
-msgstr "Karlovačka županija"
+msgstr "żupania karlowacka"
 
 #. Name for HR-05
 msgid "Varaždinska županija"
-msgstr "Varaždinska županija"
+msgstr "żupania varażdińska"
 
 #. Name for HR-06
 msgid "Koprivničko-križevačka županija"
-msgstr "Koprivničko-križevačka županija"
+msgstr "żupania kopriwnicko-kriżewczyńska"
 
 #. Name for HR-07
 msgid "Bjelovarsko-bilogorska županija"
-msgstr "Bjelovarsko-bilogorska županija"
+msgstr "żupania bielowarsko-bilogorska"
 
 #. Name for HR-08
 msgid "Primorsko-goranska županija"
-msgstr "Primorsko-goranska županija"
+msgstr "żupania primorsko-gorska"
 
 #. Name for HR-09
 msgid "Ličko-senjska županija"
-msgstr "Ličko-senjska županija"
+msgstr "żupania licko-seńska"
 
 #. Name for HR-10
 msgid "Virovitičko-podravska županija"
-msgstr "Virovitičko-podravska županija"
+msgstr "żupania virowiticko-podrawska"
 
 #. Name for HR-11
 msgid "Požeško-slavonska županija"
-msgstr "Požeško-slavonska županija"
+msgstr "żupania pożedzko-slawońska"
 
 #. Name for HR-12
 msgid "Brodsko-posavska županija"
-msgstr "Brodsko-posavska županija"
+msgstr "żupania brodzko-posawska"
 
 #. Name for HR-13
 msgid "Zadarska županija"
-msgstr "Zadarska županija"
+msgstr "żupania zadarska"
 
 #. Name for HR-14
 msgid "Osječko-baranjska županija"
-msgstr "Osječko-baranjska županija"
+msgstr "żupania osijecko-barańska"
 
 #. Name for HR-15
 msgid "Šibensko-kninska županija"
-msgstr "Šibensko-kninska županija"
+msgstr "żupania szybenicko-knińska"
 
 #. Name for HR-16
 msgid "Vukovarsko-srijemska županija"
-msgstr "Vukovarsko-srijemska županija"
+msgstr "żupania vukowarsko-srijemska"
 
 #. Name for HR-17
 msgid "Splitsko-dalmatinska županija"
-msgstr "Splitsko-dalmatinska županija"
+msgstr "żupania splicko-dalmatyńska"
 
 #. Name for HR-18
 msgid "Istarska županija"
-msgstr "Istarska županija"
+msgstr "żupania istryjska"
 
 #. Name for HR-19
 msgid "Dubrovačko-neretvanska županija"
-msgstr "Dubrovačko-neretvanska županija"
+msgstr "żupania dubrownicko-neretwiańska"
 
 #. Name for HR-20
 msgid "Međimurska županija"
-msgstr "Međimurska županija"
+msgstr "żupania medzimurska"
 
 #. Name for HR-21
 msgid "Grad Zagreb"
-msgstr "Miasto Zagrzeb"
+msgstr "Zagrzeb"
 
 #. Name for HT-AR
 msgid "Artibonite"
 msgstr "Artibonite"
 
+# XXX: msgid conflict
 #. Name for HT-GA
-msgid "Grande-Anse"
-msgstr "Grand'Anse"
+msgid "Grandans"
+msgstr "Grand’Anse"
 
 #. Name for HT-NE
 msgid "Nord-Est"
 msgstr "Północno-Wschodni"
 
+#. Name for HT-NI
+msgid "Nip"
+msgstr "Nippes"
+
 #. Name for HT-NO
 msgid "Nord-Ouest"
 msgstr "Północno-Zachodni"
 
-# XXX: msgid conflict
-#. Name for HT-OU, Name for RW-04
-msgid "Ouest"
-msgstr "Zachodni / Zachodnia"
+#. Name for HT-OU
+msgid "Lwès"
+msgstr "Wschodni"
 
-# XXX: msgid conflict
-#. Name for HT-SD, Name for RW-05
-msgid "Sud"
-msgstr "Południowy / Południowa"
+#. Name for HT-SD
+msgid "Sid"
+msgstr "Południowy"
 
 #. Name for HT-SE
-msgid "Sud-Est"
+msgid "Sidès"
 msgstr "Południowo-Wschodni"
 
 #. Name for HU-BA
@@ -7232,7 +7293,7 @@ msgstr "Nyíregyháza"
 
 #. Name for HU-PE
 msgid "Pest"
-msgstr "Pest"
+msgstr "Peszt"
 
 #. Name for HU-PS
 msgid "Pécs"
@@ -7240,7 +7301,7 @@ msgstr "Pecz"
 
 #. Name for HU-SD
 msgid "Szeged"
-msgstr "Szeged"
+msgstr "Segedyn"
 
 #. Name for HU-SF
 msgid "Székesfehérvár"
@@ -7286,11 +7347,7 @@ msgstr "Tolna"
 msgid "Vas"
 msgstr "Vas"
 
-#. Name for HU-VE
-msgid "Veszprém (county)"
-msgstr "Veszprém (komitat)"
-
-#. Name for HU-VM
+#. Name for HU-VE, Name for HU-VM
 msgid "Veszprém"
 msgstr "Veszprém"
 
@@ -7311,8 +7368,8 @@ msgid "Bali"
 msgstr "Bali"
 
 #. Name for ID-BB
-msgid "Bangka Belitung"
-msgstr "Bangka i Belitung"
+msgid "Kepulauan Bangka Belitung"
+msgstr "Wyspy Bangka i Belitung"
 
 #. Name for ID-BE
 msgid "Bengkulu"
@@ -7325,10 +7382,6 @@ msgstr "Banten"
 #. Name for ID-GO
 msgid "Gorontalo"
 msgstr "Gorontalo"
-
-#. Name for ID-IJ, Name for ID-PA
-msgid "Papua"
-msgstr "Papua"
 
 #. Name for ID-JA
 msgid "Jambi"
@@ -7356,7 +7409,7 @@ msgstr "Jawa"
 
 #. Name for ID-KA
 msgid "Kalimantan"
-msgstr "Kalimantan"
+msgstr "Borneo"
 
 #. Name for ID-KB
 msgid "Kalimantan Barat"
@@ -7368,7 +7421,7 @@ msgstr "Borneo Wschodnie"
 
 #. Name for ID-KR
 msgid "Kepulauan Riau"
-msgstr "Wyspy Riau"
+msgstr "Archipelag Riau"
 
 #. Name for ID-KS
 msgid "Kalimantan Selatan"
@@ -7377,6 +7430,10 @@ msgstr "Borneo Południowe"
 #. Name for ID-KT
 msgid "Kalimantan Tengah"
 msgstr "Borneo Środkowe"
+
+#. Name for ID-KU
+msgid "Kalimantan Utara"
+msgstr "Borneo Północne"
 
 #. Name for ID-LA
 msgid "Lampung"
@@ -7402,6 +7459,10 @@ msgstr "Małe Wyspy Sundajskie Wschodnie"
 msgid "Nusa Tenggara"
 msgstr "Małe Wyspy Sundajskie"
 
+#. Name for ID-PA, Name for ID-PP
+msgid "Papua"
+msgstr "Papua"
+
 #. Name for ID-PB
 msgid "Papua Barat"
 msgstr "Papua Zachodnia"
@@ -7415,7 +7476,7 @@ msgid "Sulawesi Utara"
 msgstr "Celebes Północny"
 
 #. Name for ID-SB
-msgid "Sumatra Barat"
+msgid "Sumatera Barat"
 msgstr "Sumatra Zachodnia"
 
 #. Name for ID-SG
@@ -7439,7 +7500,7 @@ msgid "Sulawesi Barat"
 msgstr "Celebes Zachodni"
 
 #. Name for ID-SS
-msgid "Sumatra Selatan"
+msgid "Sumatera Selatan"
 msgstr "Sumatra Południowa"
 
 #. Name for ID-ST
@@ -7455,7 +7516,7 @@ msgid "Yogyakarta"
 msgstr "Yogyakarta"
 
 #. Name for IE-C
-msgid "Connacht"
+msgid "Connaught"
 msgstr "Connacht"
 
 #. Name for IE-CE
@@ -7574,28 +7635,21 @@ msgstr "Wicklow"
 msgid "Wexford"
 msgstr "Wexford"
 
-#. Name for IL-D
-msgid "HaDarom"
-msgstr "Dystrykt Południowy"
-
 #. Name for IL-HA
-msgid "Hefa"
+msgid "H̱efa"
 msgstr "Hajfa"
 
 #. Name for IL-JM
-msgid "Yerushalayim Al Quds"
+msgid "Al Quds"
 msgstr "Jerozolima"
 
-#. Name for IL-M
-msgid "HaMerkaz"
-msgstr "Dystrykt Centralny"
-
 #. Name for IL-TA
-msgid "Tel-Aviv"
+msgid "Tall Abīb"
 msgstr "Tel Awiw"
 
+# XXX: msgid conflict
 #. Name for IL-Z
-msgid "HaZafon"
+msgid "Ash Shamālī"
 msgstr "Dystrykt Północny"
 
 #. Name for IN-AN
@@ -7607,79 +7661,79 @@ msgid "Andhra Pradesh"
 msgstr "Andhra Pradesh"
 
 #. Name for IN-AR
-msgid "Arunachal Pradesh"
+msgid "Arunāchal Pradesh"
 msgstr "Arunachal Pradesh"
 
 #. Name for IN-AS
 msgid "Assam"
-msgstr "Assam"
+msgstr "Asam"
 
 #. Name for IN-BR
-msgid "Bihar"
+msgid "Bihār"
 msgstr "Bihar"
 
 #. Name for IN-CH
-msgid "Chandigarh"
+msgid "Chandīgarh"
 msgstr "Czandigarh"
 
 #. Name for IN-CT
-msgid "Chhattisgarh"
+msgid "Chhattīsgarh"
 msgstr "Chhattisgarh"
 
-#. Name for IN-DD
-msgid "Daman and Diu"
-msgstr "Daman i Diu"
+#. Name for IN-DH
+msgid "Dādra and Nagar Haveli and Damān and Diu"
+msgstr "Dadra i Nagarhaweli"
 
 #. Name for IN-DL
 msgid "Delhi"
 msgstr "Delhi"
-
-#. Name for IN-DN
-msgid "Dadra and Nagar Haveli"
-msgstr "Dadra i Nagarhaweli"
 
 #. Name for IN-GA
 msgid "Goa"
 msgstr "Goa"
 
 #. Name for IN-GJ
-msgid "Gujarat"
-msgstr "Gujarat"
+msgid "Gujarāt"
+msgstr "Gudźarat"
 
 #. Name for IN-HP
-msgid "Himachal Pradesh"
+msgid "Himāchal Pradesh"
 msgstr "Himachal Pradesh"
 
 #. Name for IN-HR
-msgid "Haryana"
+msgid "Haryāna"
 msgstr "Haryana"
 
 #. Name for IN-JH
-msgid "Jharkhand"
+msgid "Jhārkhand"
 msgstr "Jharkhand"
 
 #. Name for IN-JK
-msgid "Jammu and Kashmir"
+msgid "Jammu and Kashmīr"
 msgstr "Dżammu i Kaszmir"
 
 #. Name for IN-KA
-msgid "Karnataka"
+msgid "Karnātaka"
 msgstr "Karnataka"
 
 #. Name for IN-KL
 msgid "Kerala"
 msgstr "Kerala"
 
+#. Name for IN-LA
+msgid "Ladākh"
+msgstr "Ladakh"
+
 #. Name for IN-LD
 msgid "Lakshadweep"
 msgstr "Lakszadiwy"
 
 #. Name for IN-MH
-msgid "Maharashtra"
-msgstr "Maharashtra"
+msgid "Mahārāshtra"
+msgstr "Maharasztra"
 
 #. Name for IN-ML
-msgid "Meghalaya"
+msgid "Meghālaya"
 msgstr "Meghalaya"
 
 #. Name for IN-MN
@@ -7695,7 +7749,7 @@ msgid "Mizoram"
 msgstr "Mizoram"
 
 #. Name for IN-NL
-msgid "Nagaland"
+msgid "Nāgāland"
 msgstr "Nagaland"
 
 #. Name for IN-OR
@@ -7711,7 +7765,7 @@ msgid "Puducherry"
 msgstr "Puducherry"
 
 #. Name for IN-RJ
-msgid "Rajasthan"
+msgid "Rājasthān"
 msgstr "Radżastan"
 
 #. Name for IN-SK
@@ -7719,12 +7773,12 @@ msgid "Sikkim"
 msgstr "Sikkim"
 
 #. Name for IN-TG
-msgid "Telangana"
+msgid "Telangāna"
 msgstr "Telangana"
 
 #. Name for IN-TN
-msgid "Tamil Nadu"
-msgstr "Tamil Nadu"
+msgid "Tamil Nādu"
+msgstr "Tamilnadu"
 
 #. Name for IN-TR
 msgid "Tripura"
@@ -7735,7 +7789,7 @@ msgid "Uttar Pradesh"
 msgstr "Uttar Pradesh"
 
 #. Name for IN-UT
-msgid "Uttarakhand"
+msgid "Uttarākhand"
 msgstr "Uttarakhand"
 
 #. Name for IN-WB
@@ -7743,204 +7797,204 @@ msgid "West Bengal"
 msgstr "Bengal Zachodni"
 
 #. Name for IQ-AN
-msgid "Al Anbar"
+msgid "Al Anbār"
 msgstr "Al-Anbar"
 
 #. Name for IQ-AR
-msgid "Arbil"
+msgid "Arbīl"
 msgstr "Irbil"
 
 #. Name for IQ-BA
-msgid "Al Basrah"
+msgid "Al Başrah"
 msgstr "Basra"
 
 #. Name for IQ-BB
-msgid "Babil"
-msgstr "Babil"
+msgid "Bābil"
+msgstr "Babilon"
 
 #. Name for IQ-BG
-msgid "Baghdad"
+msgid "Baghdād"
 msgstr "Bagdad"
 
 #. Name for IQ-DA
-msgid "Dahuk"
+msgid "Dahūk"
 msgstr "Dahuk"
 
 #. Name for IQ-DI
-msgid "Diyala"
+msgid "Diyālá"
 msgstr "Dijala"
 
 #. Name for IQ-DQ
-msgid "Dhi Qar"
+msgid "Dhī Qār"
 msgstr "Zi Kar"
 
 #. Name for IQ-KA
-msgid "Karbala'"
+msgid "Karbalā’"
 msgstr "Karbala"
 
+#. Name for IQ-KI
+msgid "Kirkūk"
+msgstr "Kirkuk"
+
 #. Name for IQ-MA
-msgid "Maysan"
+msgid "Maysān"
 msgstr "Majsan"
 
 #. Name for IQ-MU
-msgid "Al Muthanna"
+msgid "Al Muthanná"
 msgstr "Al-Musanna"
 
 #. Name for IQ-NA
-msgid "An Najef"
+msgid "An Najaf"
 msgstr "An-Nadżaf"
 
 #. Name for IQ-NI
-msgid "Ninawa"
+msgid "Nīnawá"
 msgstr "Niniwa"
 
 #. Name for IQ-QA
-msgid "Al Qadisiyah"
+msgid "Al Qādisīyah"
 msgstr "Al-Kadisijja"
 
 #. Name for IQ-SD
-msgid "Salah ad Din"
+msgid "Şalāḩ ad Dīn"
 msgstr "Salah Ad-Din"
 
-#. Name for IQ-SW
-msgid "As Sulaymaniyah"
+#. Name for IQ-SU
+msgid "As Sulaymānīyah"
 msgstr "As-Sulajmanijja"
 
-#. Name for IQ-TS
-msgid "At Ta'mim"
-msgstr "At-Tamim"
-
 #. Name for IQ-WA
-msgid "Wasit"
+msgid "Wāsiţ"
 msgstr "Wasit"
 
-#. Name for IR-01
-msgid "Āzarbāyjān-e Sharqī"
-msgstr "Azerbejdżan Wschodni"
-
-#. Name for IR-02
-msgid "Āzarbāyjān-e Gharbī"
-msgstr "Azerbejdżan Zachodni"
-
-#. Name for IR-03
-msgid "Ardabīl"
-msgstr "Ardabil"
-
-#. Name for IR-04
-msgid "Eşfahān"
-msgstr "Isfahan"
-
-#. Name for IR-05
-msgid "Īlām"
-msgstr "Ilam"
-
-#. Name for IR-06
-msgid "Būshehr"
-msgstr "Buszehr"
-
-#. Name for IR-07
-msgid "Tehrān"
-msgstr "Teheran"
-
-#. Name for IR-08
-msgid "Chahār Mahāll va Bakhtīārī"
-msgstr "Czahar Mahal wa Bachtijari"
-
-#. Name for IR-10
-msgid "Khūzestān"
-msgstr "Chuzestan"
-
-#. Name for IR-11
-msgid "Zanjān"
-msgstr "Zandżan"
-
-#. Name for IR-12
-msgid "Semnān"
-msgstr "Semnan"
-
-#. Name for IR-13
-msgid "Sīstān va Balūchestān"
-msgstr "Sistan i Beludżystan"
-
-#. Name for IR-14
-msgid "Fārs"
-msgstr "Fars"
-
-#. Name for IR-15
-msgid "Kermān"
-msgstr "Kerman"
-
-#. Name for IR-16
-msgid "Kordestān"
-msgstr "Kurdystan"
-
-#. Name for IR-17
-msgid "Kermānshāh"
-msgstr "Kermanszach"
-
-#. Name for IR-18
-msgid "Kohgīlūyeh va Būyer Ahmad"
-msgstr "Kohgiluje wa Bujerahmad"
-
-#. Name for IR-19
-msgid "Gīlān"
-msgstr "Gilan"
-
-#. Name for IR-20
-msgid "Lorestān"
-msgstr "Lorestan"
-
-#. Name for IR-21
-msgid "Māzandarān"
-msgstr "Mazandaran"
-
-#. Name for IR-22
+#. Name for IR-00
 msgid "Markazī"
 msgstr "Markazi"
 
-#. Name for IR-23
-msgid "Hormozgān"
-msgstr "Hormozgan"
+#. Name for IR-01
+msgid "Gīlān"
+msgstr "Gilan"
 
-#. Name for IR-24
+#. Name for IR-02
+msgid "Māzandarān"
+msgstr "Mazandaran"
+
+#. Name for IR-03
+msgid "Āz̄ārbāyjān-e Shārqī"
+msgstr "Azerbejdżan Wschodni"
+
+#. Name for IR-04
+msgid "Āz̄ārbāyjān-e Ghārbī"
+msgstr "Azerbejdżan Zachodni"
+
+#. Name for IR-05
+msgid "Kermānshāh"
+msgstr "Kermanszach"
+
+#. Name for IR-06
+msgid "Khūzestān"
+msgstr "Chuzestan"
+
+#. Name for IR-07
+msgid "Fārs"
+msgstr "Fars"
+
+#. Name for IR-08
+msgid "Kermān"
+msgstr "Kerman"
+
+#. Name for IR-09
+msgid "Khorāsān-e Raẕavī"
+msgstr "Chorasan-e Razawi"
+
+#. Name for IR-10
+msgid "Eşfahān"
+msgstr "Isfahan"
+
+#. Name for IR-11
+msgid "Sīstān va Balūchestān"
+msgstr "Sistan i Beludżystan"
+
+#. Name for IR-12
+msgid "Kordestān"
+msgstr "Kurdystan"
+
+#. Name for IR-13
 msgid "Hamadān"
 msgstr "Hamadan"
 
-#. Name for IR-25
+#. Name for IR-14
+msgid "Chahār Maḩāl va Bakhtīārī"
+msgstr "Czahar Mahal wa Bachtijari"
+
+#. Name for IR-15
+msgid "Lorestān"
+msgstr "Lorestan"
+
+#. Name for IR-16
+msgid "Īlām"
+msgstr "Ilam"
+
+#. Name for IR-17
+msgid "Kohgīlūyeh va Bowyer Aḩmad"
+msgstr "Kohgiluje wa Bujerahmad"
+
+#. Name for IR-18
+msgid "Būshehr"
+msgstr "Buszehr"
+
+#. Name for IR-19
+msgid "Zanjān"
+msgstr "Zandżan"
+
+#. Name for IR-20
+msgid "Semnān"
+msgstr "Semnan"
+
+#. Name for IR-21
 msgid "Yazd"
 msgstr "Jazd"
 
-#. Name for IR-26
+#. Name for IR-22
+msgid "Hormozgān"
+msgstr "Hormozgan"
+
+#. Name for IR-23
+msgid "Tehrān"
+msgstr "Teheran"
+
+#. Name for IR-24
+msgid "Ardabīl"
+msgstr "Ardabil"
+
+#. Name for IR-25
 msgid "Qom"
 msgstr "Kom"
+
+#. Name for IR-26
+msgid "Qazvīn"
+msgstr "Kazwin"
 
 #. Name for IR-27
 msgid "Golestān"
 msgstr "Golestan"
 
 #. Name for IR-28
-msgid "Qazvīn"
-msgstr "Kazwin"
+msgid "Khorāsān-e Shomālī"
+msgstr "Chorasan Północny"
 
 #. Name for IR-29
-msgid "Khorāsān-e Janūbī"
+msgid "Khorāsān-e Jonūbī"
 msgstr "Chorasan Południowy"
 
 #. Name for IR-30
-msgid "Khorāsān-e Razavī"
-msgstr "Chorasan-e Razawi"
-
-#. Name for IR-31
-msgid "Khorāsān-e Shemālī"
-msgstr "Chorasan Północny"
-
-#. Name for IS-0
-msgid "Reykjavík"
-msgstr "Reykjavík"
+msgid "Alborz"
+msgstr "Alborz"
 
 #. Name for IS-1
-msgid "Höfuðborgarsvæðið"
-msgstr "Höfuðborgarsvæðið"
+msgid "Höfuðborgarsvæði"
+msgstr "Höfuðborgarsvæði"
 
 #. Name for IS-2
 msgid "Suðurnes"
@@ -7970,13 +8024,301 @@ msgstr "Austurland"
 msgid "Suðurland"
 msgstr "Suðurland"
 
+#. Name for IS-AKH
+msgid "Akrahreppur"
+msgstr "Akrahreppur"
+
+#. Name for IS-AKN
+msgid "Akraneskaupstaður"
+msgstr "Akraneskaupstaður"
+
+#. Name for IS-AKU
+msgid "Akureyrarbær"
+msgstr "Akureyrarbær"
+
+#. Name for IS-ARN
+msgid "Árneshreppur"
+msgstr "Árneshreppur"
+
+#. Name for IS-ASA
+msgid "Ásahreppur"
+msgstr "Ásahreppur"
+
+#. Name for IS-BFJ
+msgid "Borgarfjarðarhreppur"
+msgstr "Borgarfjarðarhreppur"
+
+#. Name for IS-BLA
+msgid "Bláskógabyggð"
+msgstr "Bláskógabyggð"
+
+#. Name for IS-BLO
+msgid "Blönduósbær"
+msgstr "Blönduósbær"
+
+#. Name for IS-BOG
+msgid "Borgarbyggð"
+msgstr "Borgarbyggð"
+
+#. Name for IS-BOL
+msgid "Bolungarvíkurkaupstaður"
+msgstr "Bolungarvíkurkaupstaður"
+
+#. Name for IS-DAB
+msgid "Dalabyggð"
+msgstr "Dalabyggð"
+
+#. Name for IS-DAV
+msgid "Dalvíkurbyggð"
+msgstr "Dalvíkurbyggð"
+
+#. Name for IS-DJU
+msgid "Djúpavogshreppur"
+msgstr "Djúpavogshreppur"
+
+#. Name for IS-EOM
+msgid "Eyja- og Miklaholtshreppur"
+msgstr "Eyja- og Miklaholtshreppur"
+
+#. Name for IS-EYF
+msgid "Eyjafjarðarsveit"
+msgstr "Eyjafjarðarsveit"
+
+#. Name for IS-FJD
+msgid "Fjarðabyggð"
+msgstr "Fjarðabyggð"
+
+#. Name for IS-FJL
+msgid "Fjallabyggð"
+msgstr "Fjallabyggð"
+
+#. Name for IS-FLA
+msgid "Flóahreppur"
+msgstr "Flóahreppur"
+
+#. Name for IS-FLD
+msgid "Fljótsdalshérað"
+msgstr "Fljótsdalshérað"
+
+#. Name for IS-FLR
+msgid "Fljótsdalshreppur"
+msgstr "Fljótsdalshreppur"
+
+#. Name for IS-GAR
+msgid "Garðabær"
+msgstr "Garðabær"
+
+#. Name for IS-GOG
+msgid "Grímsnes- og Grafningshreppur"
+msgstr "Grímsnes- og Grafningshreppur"
+
+#. Name for IS-GRN
+msgid "Grindavíkurbær"
+msgstr "Grindavíkurbær"
+
+#. Name for IS-GRU
+msgid "Grundarfjarðarbær"
+msgstr "Grundarfjarðarbær"
+
+#. Name for IS-GRY
+msgid "Grýtubakkahreppur"
+msgstr "Grýtubakkahreppur"
+
+#. Name for IS-HAF
+msgid "Hafnarfjarðarkaupstaður"
+msgstr "Hafnarfjarðarkaupstaður"
+
+#. Name for IS-HEL
+msgid "Helgafellssveit"
+msgstr "Helgafellssveit"
+
+#. Name for IS-HRG
+msgid "Hörgársveit"
+msgstr "Hörgársveit"
+
+#. Name for IS-HRU
+msgid "Hrunamannahreppur"
+msgstr "Hrunamannahreppur"
+
+#. Name for IS-HUT
+msgid "Húnavatnshreppur"
+msgstr "Húnavatnshreppur"
+
+#. Name for IS-HUV
+msgid "Húnaþing vestra"
+msgstr "Húnaþing vestra"
+
+#. Name for IS-HVA
+msgid "Hvalfjarðarsveit"
+msgstr "Hvalfjarðarsveit"
+
+#. Name for IS-HVE
+msgid "Hveragerðisbær"
+msgstr "Hveragerðisbær"
+
+#. Name for IS-ISA
+msgid "Ísafjarðarbær"
+msgstr "Ísafjarðarbær"
+
+#. Name for IS-KAL
+msgid "Kaldrananeshreppur"
+msgstr "Kaldrananeshreppur"
+
+#. Name for IS-KJO
+msgid "Kjósarhreppur"
+msgstr "Kjósarhreppur"
+
+#. Name for IS-KOP
+msgid "Kópavogsbær"
+msgstr "Kópavogsbær"
+
+#. Name for IS-LAN
+msgid "Langanesbyggð"
+msgstr "Langanesbyggð"
+
+#. Name for IS-MOS
+msgid "Mosfellsbær"
+msgstr "Mosfellsbær"
+
+#. Name for IS-MYR
+msgid "Mýrdalshreppur"
+msgstr "Mýrdalshreppur"
+
+#. Name for IS-NOR
+msgid "Norðurþing"
+msgstr "Norðurþing"
+
+#. Name for IS-RGE
+msgid "Rangárþing eystra"
+msgstr "Rangárþing eystra"
+
+#. Name for IS-RGY
+msgid "Rangárþing ytra"
+msgstr "Rangárþing ytra"
+
+#. Name for IS-RHH
+msgid "Reykhólahreppur"
+msgstr "Reykhólahreppur"
+
+#. Name for IS-RKN
+msgid "Reykjanesbær"
+msgstr "Reykjanesbær"
+
+#. Name for IS-RKV
+msgid "Reykjavíkurborg"
+msgstr "Reykjavíkurborg"
+
+#. Name for IS-SBH
+msgid "Svalbarðshreppur"
+msgstr "Svalbarðshreppur"
+
+#. Name for IS-SBT
+msgid "Svalbarðsstrandarhreppur"
+msgstr "Svalbarðsstrandarhreppur"
+
+#. Name for IS-SDN
+msgid "Suðurnesjabær"
+msgstr "Suðurnesjabær"
+
+#. Name for IS-SDV
+msgid "Súðavíkurhreppur"
+msgstr "Súðavíkurhreppur"
+
+#. Name for IS-SEL
+msgid "Seltjarnarnesbær"
+msgstr "Seltjarnarnesbær"
+
+#. Name for IS-SEY
+msgid "Seyðisfjarðarkaupstaður"
+msgstr "Seyðisfjarðarkaupstaður"
+
+#. Name for IS-SFA
+msgid "Sveitarfélagið Árborg"
+msgstr "Sveitarfélagið Árborg"
+
+#. Name for IS-SHF
+msgid "Sveitarfélagið Hornafjörður"
+msgstr "Sveitarfélagið Hornafjörður"
+
+#. Name for IS-SKF
+msgid "Skaftárhreppur"
+msgstr "Skaftárhreppur"
+
+#. Name for IS-SKG
+msgid "Skagabyggð"
+msgstr "Skagabyggð"
+
+#. Name for IS-SKO
+msgid "Skorradalshreppur"
+msgstr "Skorradalshreppur"
+
+#. Name for IS-SKU
+msgid "Skútustaðahreppur"
+msgstr "Skútustaðahreppur"
+
+#. Name for IS-SNF
+msgid "Snæfellsbær"
+msgstr "Snæfellsbær"
+
+#. Name for IS-SOG
+msgid "Skeiða- og Gnúpverjahreppur"
+msgstr "Skeiða- og Gnúpverjahreppur"
+
+#. Name for IS-SOL
+msgid "Sveitarfélagið Ölfus"
+msgstr "Sveitarfélagið Ölfus"
+
+#. Name for IS-SSF
+msgid "Sveitarfélagið Skagafjörður"
+msgstr "Sveitarfélagið Skagafjörður"
+
+#. Name for IS-SSS
+msgid "Sveitarfélagið Skagaströnd"
+msgstr "Sveitarfélagið Skagaströnd"
+
+#. Name for IS-STR
+msgid "Strandabyggð"
+msgstr "Strandabyggð"
+
+#. Name for IS-STY
+msgid "Stykkishólmsbær"
+msgstr "Stykkishólmsbær"
+
+#. Name for IS-SVG
+msgid "Sveitarfélagið Vogar"
+msgstr "Sveitarfélagið Vogar"
+
+#. Name for IS-TAL
+msgid "Tálknafjarðarhreppur"
+msgstr "Tálknafjarðarhreppur"
+
+#. Name for IS-THG
+msgid "Þingeyjarsveit"
+msgstr "Þingeyjarsveit"
+
+#. Name for IS-TJO
+msgid "Tjörneshreppur"
+msgstr "Tjörneshreppur"
+
+#. Name for IS-VEM
+msgid "Vestmannaeyjabær"
+msgstr "Vestmannaeyjabær"
+
+#. Name for IS-VER
+msgid "Vesturbyggð"
+msgstr "Vesturbyggð"
+
+#. Name for IS-VOP
+msgid "Vopnafjarðarhreppur"
+msgstr "Vopnafjarðarhreppur"
+
 #. Name for IT-21
 msgid "Piemonte"
 msgstr "Piemont"
 
 #. Name for IT-23
-msgid "Valle d'Aosta"
-msgstr "Valle d'Aosta"
+msgid "Val d'Aoste"
+msgstr "Dolina Aosty"
 
 #. Name for IT-25
 msgid "Lombardia"
@@ -7991,7 +8333,7 @@ msgid "Veneto"
 msgstr "Wenecja Euganejska"
 
 #. Name for IT-36
-msgid "Friuli-Venezia Giulia"
+msgid "Friuli Venezia Giulia"
 msgstr "Friuli-Wenecja Julijska"
 
 #. Name for IT-42
@@ -8061,10 +8403,6 @@ msgstr "Alessandria"
 #. Name for IT-AN
 msgid "Ancona"
 msgstr "Ankona"
-
-#. Name for IT-AO
-msgid "Aosta"
-msgstr "Aosta"
 
 #. Name for IT-AP
 msgid "Ascoli Piceno"
@@ -8141,10 +8479,6 @@ msgstr "Caserta"
 #. Name for IT-CH
 msgid "Chieti"
 msgstr "Chieti"
-
-#. Name for IT-CI
-msgid "Carbonia-Iglesias"
-msgstr "Carbonia-Iglesias"
 
 #. Name for IT-CL
 msgid "Caltanissetta"
@@ -8224,7 +8558,7 @@ msgstr "Isernia"
 
 #. Name for IT-KR
 msgid "Crotone"
-msgstr "Krotona"
+msgstr "Crotone"
 
 #. Name for IT-LC
 msgid "Lecco"
@@ -8294,17 +8628,9 @@ msgstr "Novara"
 msgid "Nuoro"
 msgstr "Nuoro"
 
-#. Name for IT-OG
-msgid "Ogliastra"
-msgstr "Ogliastra"
-
 #. Name for IT-OR
 msgid "Oristano"
 msgstr "Oristano"
-
-#. Name for IT-OT
-msgid "Olbia-Tempio"
-msgstr "Olbia-Tempio"
 
 #. Name for IT-PA
 msgid "Palermo"
@@ -8414,6 +8740,10 @@ msgstr "Syrakuzy"
 msgid "Sassari"
 msgstr "Sassari"
 
+#. Name for IT-SU
+msgid "Sud Sardegna"
+msgstr "Sud Sardegna"
+
 #. Name for IT-SV
 msgid "Savona"
 msgstr "Savona"
@@ -8460,7 +8790,7 @@ msgstr "Varese"
 
 #. Name for IT-VB
 msgid "Verbano-Cusio-Ossola"
-msgstr "Verbano Cusio Ossola"
+msgstr "Verbano-Cusio-Ossola"
 
 #. Name for IT-VC
 msgid "Vercelli"
@@ -8477,10 +8807,6 @@ msgstr "Vicenza"
 #. Name for IT-VR
 msgid "Verona"
 msgstr "Werona"
-
-#. Name for IT-VS
-msgid "Medio Campidano"
-msgstr "Medio Campidano"
 
 #. Name for IT-VT
 msgid "Viterbo"
@@ -8531,8 +8857,8 @@ msgid "‘Ajlūn"
 msgstr "Adżlun"
 
 #. Name for JO-AM
-msgid "‘Ammān (Al ‘Aşimah)"
-msgstr "Amman"
+msgid "Al ‘A̅şimah"
+msgstr "Prowincja Stołeczna"
 
 #. Name for JO-AQ
 msgid "Al ‘Aqabah"
@@ -8543,11 +8869,11 @@ msgid "Aţ Ţafīlah"
 msgstr "At-Tafila"
 
 #. Name for JO-AZ
-msgid "Az Zarqā'"
+msgid "Az Zarqā’"
 msgstr "Az-Zarka"
 
 #. Name for JO-BA
-msgid "Al Balqā'"
+msgid "Al Balqā’"
 msgstr "Al-Balka"
 
 #. Name for JO-IR
@@ -8763,20 +9089,16 @@ msgid "Okinawa"
 msgstr "Okinawa"
 
 #. Name for KE-01
-#, fuzzy
-#| msgid "Bari"
 msgid "Baringo"
-msgstr "Bari"
+msgstr "Baringo"
 
 #. Name for KE-02
 msgid "Bomet"
-msgstr ""
+msgstr "Bomet"
 
 #. Name for KE-03
-#, fuzzy
-#| msgid "Kungota"
 msgid "Bungoma"
-msgstr "Kungota"
+msgstr "Bungoma"
 
 #. Name for KE-04, Name for UG-202
 msgid "Busia"
@@ -8784,228 +9106,194 @@ msgstr "Busia"
 
 #. Name for KE-05
 msgid "Elgeyo/Marakwet"
-msgstr ""
+msgstr "Elgeyo-Marakwet"
 
 #. Name for KE-06
 msgid "Embu"
-msgstr ""
+msgstr "Embu"
 
 #. Name for KE-07
-#, fuzzy
-#| msgid "Larisa"
 msgid "Garissa"
-msgstr "Larisa"
+msgstr "Garissa"
 
 #. Name for KE-08
-#, fuzzy
-#| msgid "Hawke's Bay"
 msgid "Homa Bay"
-msgstr "Hawke's Bay"
+msgstr "Homa Bay"
 
 #. Name for KE-09
 msgid "Isiolo"
-msgstr ""
+msgstr "Isiolo"
 
 #. Name for KE-10
 msgid "Kajiado"
-msgstr ""
+msgstr "Kajiado"
 
 #. Name for KE-11
-#, fuzzy
-#| msgid "Makamba"
 msgid "Kakamega"
-msgstr "Makamba"
+msgstr "Kakamega"
 
 #. Name for KE-12
 msgid "Kericho"
-msgstr ""
+msgstr "Kericho"
 
 #. Name for KE-13
-#, fuzzy
-#| msgid "Hamburg"
 msgid "Kiambu"
-msgstr "Hamburg"
+msgstr "Kiambu"
 
 #. Name for KE-14
-#, fuzzy
-#| msgid "Kili"
 msgid "Kilifi"
-msgstr "Kili"
+msgstr "Kilifi"
 
 #. Name for KE-15
-#, fuzzy
-#| msgid "Shinyanga"
 msgid "Kirinyaga"
-msgstr "Shinyanga"
+msgstr "Kirinyaga"
 
 #. Name for KE-16
 msgid "Kisii"
-msgstr ""
+msgstr "Kisii"
 
 #. Name for KE-17
 msgid "Kisumu"
-msgstr ""
+msgstr "Kisumu"
 
 #. Name for KE-18
 msgid "Kitui"
-msgstr ""
+msgstr "Kitui"
 
 #. Name for KE-19
 msgid "Kwale"
-msgstr ""
+msgstr "Kwale"
 
 #. Name for KE-20
 msgid "Laikipia"
-msgstr ""
+msgstr "Laikipia"
 
 #. Name for KE-21
 msgid "Lamu"
-msgstr ""
+msgstr "Lamu"
 
 #. Name for KE-22
-#, fuzzy
-#| msgid "Maracha"
 msgid "Machakos"
-msgstr "Maracha"
+msgstr "Machakos"
 
 #. Name for KE-23
 msgid "Makueni"
-msgstr ""
+msgstr "Makueni"
 
 #. Name for KE-24
-#, fuzzy
-#| msgid "Mandiana"
 msgid "Mandera"
-msgstr "Mandiana"
+msgstr "Mandera"
 
 #. Name for KE-25
-#, fuzzy
-#| msgid "Marsa"
 msgid "Marsabit"
-msgstr "Marsa"
+msgstr "Marsabit"
 
 #. Name for KE-26
 msgid "Meru"
-msgstr ""
+msgstr "Meru"
 
 #. Name for KE-27
 msgid "Migori"
-msgstr ""
+msgstr "Migori"
 
 #. Name for KE-28
-#, fuzzy
-#| msgid "Zomba"
 msgid "Mombasa"
-msgstr "Zomba"
+msgstr "Mombasa"
 
 #. Name for KE-29
-#, fuzzy
-#| msgid "Durango"
 msgid "Murang'a"
-msgstr "Durango"
+msgstr "Murang'a"
 
 #. Name for KE-30
-#, fuzzy
-#| msgid "Taipei City"
 msgid "Nairobi City"
-msgstr "Tajpej"
+msgstr "Nairobi"
 
 #. Name for KE-31
 msgid "Nakuru"
-msgstr ""
+msgstr "Nakuru"
 
 #. Name for KE-32
-#, fuzzy
-#| msgid "Normandie"
 msgid "Nandi"
-msgstr "Normandia"
+msgstr "Nandi"
 
 #. Name for KE-33
 msgid "Narok"
-msgstr ""
+msgstr "Narok"
 
 #. Name for KE-34
 msgid "Nyamira"
-msgstr ""
+msgstr "Nyamira"
 
 #. Name for KE-35
-#, fuzzy
-#| msgid "Bandarban"
 msgid "Nyandarua"
-msgstr "Bandarban"
+msgstr "Nyandarua"
 
 #. Name for KE-36
 msgid "Nyeri"
-msgstr ""
+msgstr "Nyeri"
 
 #. Name for KE-37
-#, fuzzy
-#| msgid "Hamburg"
 msgid "Samburu"
-msgstr "Hamburg"
+msgstr "Samburu"
 
 #. Name for KE-38
 msgid "Siaya"
-msgstr ""
+msgstr "Siaya"
 
 #. Name for KE-39
 msgid "Taita/Taveta"
-msgstr ""
+msgstr "Taita-Taveta"
 
 #. Name for KE-40
-#, fuzzy
-#| msgid "Central River"
 msgid "Tana River"
-msgstr "Central River"
+msgstr "Tana River"
 
 #. Name for KE-41
 msgid "Tharaka-Nithi"
-msgstr ""
+msgstr "Tharaka-Nithi"
 
 #. Name for KE-42
 msgid "Trans Nzoia"
-msgstr ""
+msgstr "Trans Nzoia"
 
 #. Name for KE-43
-#, fuzzy
-#| msgid "Arkansas"
 msgid "Turkana"
-msgstr "Arkansas"
+msgstr "Turkana"
 
 #. Name for KE-44
 msgid "Uasin Gishu"
-msgstr ""
+msgstr "Uasin Gishu"
 
 #. Name for KE-45
-#, fuzzy
-#| msgid "Shiga"
 msgid "Vihiga"
-msgstr "Shiga"
+msgstr "Vihiga"
 
 #. Name for KE-46
 msgid "Wajir"
-msgstr ""
+msgstr "Wajir"
 
 #. Name for KE-47
-#, fuzzy
-#| msgid "West Coast"
 msgid "West Pokot"
-msgstr "West Coast"
+msgstr "West Pokot"
 
 #. Name for KG-B
 msgid "Batken"
-msgstr "obwót batkeński"
+msgstr "obwód batkeński"
 
 #. Name for KG-C
-msgid "Chü"
+msgid "Chuyskaya oblast'"
 msgstr "obwód czujski"
 
 #. Name for KG-GB
-msgid "Bishkek"
+msgid "Bishkek Shaary"
 msgstr "Biszkek"
 
+#. Name for KG-GO
+msgid "Gorod Osh"
+msgstr "Osz"
+
 #. Name for KG-J
-msgid "Jalal-Abad"
+msgid "Dzhalal-Abadskaya oblast'"
 msgstr "obwód dżalalabadzki"
 
 #. Name for KG-N
@@ -9021,20 +9309,20 @@ msgid "Talas"
 msgstr "obwód tałaski"
 
 #. Name for KG-Y
-msgid "Ysyk-Köl"
+msgid "Issyk-Kul'skaja oblast'"
 msgstr "obwód issykkulski"
 
 #. Name for KH-1
-msgid "Banteay Mean Chey"
-msgstr "Banteay Mean Cheay"
+msgid "Banteay Mean Choăy"
+msgstr "Bântéay Méanchey"
 
 #. Name for KH-10
-msgid "Krachoh"
-msgstr "Krachen"
+msgid "Kracheh"
+msgstr "Krâchéh"
 
 #. Name for KH-11
 msgid "Mondol Kiri"
-msgstr "Mondol Kiri"
+msgstr "Môndôl Kiri"
 
 #. Name for KH-12
 msgid "Phnom Penh"
@@ -9042,34 +9330,40 @@ msgstr "Phnom Penh"
 
 #. Name for KH-13
 msgid "Preah Vihear"
-msgstr "Preah Vihear"
+msgstr "Preăh Vĭhéar"
 
 #. Name for KH-14
 msgid "Prey Veaeng"
-msgstr "Prey Veng"
+msgstr "Prey Vêng"
 
 #. Name for KH-15
 msgid "Pousaat"
-msgstr "Pouthisat"
+msgstr "Poŭrsăt"
 
 #. Name for KH-16
 msgid "Rotanak Kiri"
-msgstr "Rotanah Kiri"
+msgstr "Rôttanak Kiri"
 
 #. Name for KH-17
 msgid "Siem Reab"
-msgstr "Siem Reap"
+msgstr "Siĕm Réab"
 
 #. Name for KH-18
-msgid "Krong Preah Sihanouk"
+#, fuzzy
+#| msgid "Krong Preah Sihanouk"
+msgid "Preah Sihanouk"
 msgstr "Kompong Som"
 
 #. Name for KH-19
-msgid "Stueng Traeng"
+#, fuzzy
+#| msgid "Stueng Traeng"
+msgid "Stoĕng Trêng"
 msgstr "Stoeng Treng"
 
 #. Name for KH-2
-msgid "Battambang"
+#, fuzzy
+#| msgid "Battambang"
+msgid "Baat Dambang"
 msgstr "Batdambang"
 
 #. Name for KH-20
@@ -9085,15 +9379,25 @@ msgid "Otdar Mean Chey"
 msgstr "Otdar Mean Cheay"
 
 #. Name for KH-23
-msgid "Krong Kaeb"
-msgstr "Keb"
+msgid "Kaeb"
+msgstr ""
 
 #. Name for KH-24
-msgid "Krong Pailin"
+#, fuzzy
+#| msgid "Krong Pailin"
+msgid "Pailin"
 msgstr "Pailin"
 
+#. Name for KH-25
+#, fuzzy
+#| msgid "Nong Khai"
+msgid "Tbong Khmum"
+msgstr "Nong Khai"
+
 #. Name for KH-3
-msgid "Kampong Cham"
+#, fuzzy
+#| msgid "Kampong Cham"
+msgid "Kampong Chaam"
 msgstr "Kampong Czam"
 
 #. Name for KH-4
@@ -9101,11 +9405,15 @@ msgid "Kampong Chhnang"
 msgstr "Kampong Czhnang"
 
 #. Name for KH-5
-msgid "Kampong Speu"
+#, fuzzy
+#| msgid "Kampong Speu"
+msgid "Kampong Spueu"
 msgstr "Kampong Spoe"
 
 #. Name for KH-6
-msgid "Kampong Thom"
+#, fuzzy
+#| msgid "Kampong Thom"
+msgid "Kampong Thum"
 msgstr "Kampong Thum"
 
 #. Name for KH-7
@@ -9113,11 +9421,15 @@ msgid "Kampot"
 msgstr "Kampot"
 
 #. Name for KH-8
-msgid "Kandal"
+#, fuzzy
+#| msgid "Kandal"
+msgid "Kandaal"
 msgstr "Kandal"
 
 #. Name for KH-9
-msgid "Kach Kong"
+#, fuzzy
+#| msgid "Kach Kong"
+msgid "Kaoh Kong"
 msgstr "Kaoh Kong"
 
 #. Name for KI-G
@@ -9133,16 +9445,20 @@ msgid "Phoenix Islands"
 msgstr "Wyspy Feniks"
 
 #. Name for KM-A
-msgid "Andjouân (Anjwān)"
+#, fuzzy
+#| msgid "Andjouân (Anjwān)"
+msgid "Andjouân"
 msgstr "Anjouan"
 
 #. Name for KM-G
-msgid "Andjazîdja (Anjazījah)"
+#, fuzzy
+#| msgid "Andjazîdja (Anjazījah)"
+msgid "Andjazîdja"
 msgstr "Wielki Komor"
 
 #. Name for KM-M
-msgid "Moûhîlî (Mūhīlī)"
-msgstr "Mohéli"
+msgid "Mohéli"
+msgstr ""
 
 #. Name for KN-01
 msgid "Christ Church Nichola Town"
@@ -9209,15 +9525,21 @@ msgid "Nevis"
 msgstr "Nevis"
 
 #. Name for KP-01
-msgid "P’yŏngyang"
+#, fuzzy
+#| msgid "P’yŏngyang"
+msgid "P'yǒngyang"
 msgstr "P'yŏngan"
 
 #. Name for KP-02
-msgid "P’yŏngan-namdo"
+#, fuzzy
+#| msgid "P’yŏngan-namdo"
+msgid "P'yǒngan-namdo"
 msgstr "P'yŏngan Południowy"
 
 #. Name for KP-03
-msgid "P’yŏngan-bukto"
+#, fuzzy
+#| msgid "P’yŏngan-bukto"
+msgid "P'yǒngan-bukto"
 msgstr "P'yŏngan Północny"
 
 #. Name for KP-04
@@ -9233,91 +9555,141 @@ msgid "Hwanghae-bukto"
 msgstr "Hwanghae Północne"
 
 #. Name for KP-07
-msgid "Kangwŏn-do"
+#, fuzzy
+#| msgid "Gang'weondo"
+msgid "Kangweonto"
 msgstr "Kangwŏn"
 
 #. Name for KP-08
-msgid "Hamgyŏng-namdo"
+#, fuzzy
+#| msgid "Hamgyŏng-namdo"
+msgid "Hamgyǒng-namdo"
 msgstr "Hamgyŏng Południowy"
 
 #. Name for KP-09
-msgid "Hamgyŏng-bukto"
+#, fuzzy
+#| msgid "Hamgyŏng-bukto"
+msgid "Hamgyǒng-bukto"
 msgstr "Hamgyŏng Północny"
 
 #. Name for KP-10
-msgid "Yanggang-do"
+#, fuzzy
+#| msgid "Yanggang-do"
+msgid "Ryanggang-do"
 msgstr "Ryanggang"
 
 #. Name for KP-13
-msgid "Nasŏn (Najin-Sŏnbong)"
-msgstr "Rasŏn (Rajin-Sŏnbong)"
+msgid "Raseon"
+msgstr ""
+
+#. Name for KP-14
+#, fuzzy
+#| msgid "Lamphun"
+msgid "Nampho"
+msgstr "Lamphun"
 
 #. Name for KR-11
-msgid "Seoul Teugbyeolsi"
+#, fuzzy
+#| msgid "Seoul Teugbyeolsi"
+msgid "Seoul-teukbyeolsi"
 msgstr "Seul"
 
 #. Name for KR-26
-msgid "Busan Gwang'yeogsi"
+#, fuzzy
+#| msgid "Busan Gwang'yeogsi"
+msgid "Busan-gwangyeoksi"
 msgstr "Pusan"
 
 #. Name for KR-27
-msgid "Daegu Gwang'yeogsi"
+#, fuzzy
+#| msgid "Daegu Gwang'yeogsi"
+msgid "Daegu-gwangyeoksi"
 msgstr "Taegu"
 
 #. Name for KR-28
-msgid "Incheon Gwang'yeogsi"
+#, fuzzy
+#| msgid "Incheon Gwang'yeogsi"
+msgid "Incheon-gwangyeoksi"
 msgstr "Inch'ŏn"
 
 #. Name for KR-29
-msgid "Gwangju Gwang'yeogsi"
+#, fuzzy
+#| msgid "Gwangju Gwang'yeogsi"
+msgid "Gwangju-gwangyeoksi"
 msgstr "Krangju"
 
 #. Name for KR-30
-msgid "Daejeon Gwang'yeogsi"
+#, fuzzy
+#| msgid "Daejeon Gwang'yeogsi"
+msgid "Daejeon-gwangyeoksi"
 msgstr "Taejŏn"
 
 #. Name for KR-31
-msgid "Ulsan Gwang'yeogsi"
+#, fuzzy
+#| msgid "Ulsan Gwang'yeogsi"
+msgid "Ulsan-gwangyeoksi"
 msgstr "Ulsan"
 
 #. Name for KR-41
-msgid "Gyeonggido"
+#, fuzzy
+#| msgid "Gyeonggido"
+msgid "Gyeonggi-do"
 msgstr "Kyŏnggi"
 
 #. Name for KR-42
-msgid "Gang'weondo"
+#, fuzzy
+#| msgid "Gang'weondo"
+msgid "Gangwon-do"
 msgstr "Kangwŏn"
 
 #. Name for KR-43
-msgid "Chungcheongbukdo"
+#, fuzzy
+#| msgid "Chungcheongbukdo"
+msgid "Chungcheongbuk-do"
 msgstr "Ch'ungch'ŏng Północny"
 
 #. Name for KR-44
-msgid "Chungcheongnamdo"
+#, fuzzy
+#| msgid "Chungcheongnamdo"
+msgid "Chungcheongnam-do"
 msgstr "Ch'ungch'ŏng Południowy"
 
 #. Name for KR-45
-msgid "Jeonrabukdo"
+#, fuzzy
+#| msgid "Jeonrabukdo"
+msgid "Jeollabuk-do"
 msgstr "Chŏlla Północna"
 
 #. Name for KR-46
-msgid "Jeonranamdo"
+#, fuzzy
+#| msgid "Jeonranamdo"
+msgid "Jeollanam-do"
 msgstr "Chŏlla Południowa"
 
 #. Name for KR-47
-msgid "Gyeongsangbukdo"
+#, fuzzy
+#| msgid "Gyeongsangbukdo"
+msgid "Gyeongsangbuk-do"
 msgstr "Kyŏngsang Północny"
 
 #. Name for KR-48
-msgid "Gyeongsangnamdo"
+#, fuzzy
+#| msgid "Gyeongsangnamdo"
+msgid "Gyeongsangnam-do"
 msgstr "Kyŏngsang Południowy"
 
 #. Name for KR-49
-msgid "Jejudo"
-msgstr "Czedżu"
+msgid "Jeju-teukbyeoljachido"
+msgstr ""
+
+#. Name for KR-50
+msgid "Sejong"
+msgstr ""
 
 #. Name for KW-AH
-msgid "Al Ahmadi"
+#, fuzzy
+#| msgid "Al Ahmadi"
+msgid "Al Aḩmadī"
 msgstr "Al-Ahmadi"
 
 #. Name for KW-FA
@@ -9325,56 +9697,70 @@ msgid "Al Farwānīyah"
 msgstr "Al-Farwanija"
 
 #. Name for KW-HA
-msgid "Hawallī"
+#, fuzzy
+#| msgid "Hawallī"
+msgid "Ḩawallī"
 msgstr "Hawalli"
 
 #. Name for KW-JA
-msgid "Al Jahrrā’"
+#, fuzzy
+#| msgid "Al Jahrrā’"
+msgid "Al Jahrā’"
 msgstr "Al-Dżahra"
-
-#. Name for KW-KU
-msgid "Al Kuwayt (Al ‘Āşimah)"
-msgstr "Al-Asima"
 
 #. Name for KW-MU
 msgid "Mubārak al Kabīr"
 msgstr "Mubarak al-Kabir"
 
 #. Name for KZ-AKM
-msgid "Aqmola oblysy"
-msgstr "obwód akmolski"
+#, fuzzy
+#| msgid "Smolenskaya oblast'"
+msgid "Akmolinskaja oblast'"
+msgstr "obwód smoleński"
 
 #. Name for KZ-AKT
-msgid "Aqtöbe oblysy"
-msgstr "obwód aktiubiński"
+#, fuzzy
+#| msgid "Irkutiskaya oblast'"
+msgid "Aktjubinskaja oblast'"
+msgstr "obwód irkucki"
 
 #. Name for KZ-ALA
 msgid "Almaty"
 msgstr "Ałmaty"
 
 #. Name for KZ-ALM
-msgid "Almaty oblysy"
-msgstr "obwód ałmaacki"
+#, fuzzy
+#| msgid "Murmanskaya oblast'"
+msgid "Almatinskaja oblast'"
+msgstr "obwód murmański"
 
 #. Name for KZ-AST
-msgid "Astana"
-msgstr "Astana"
+msgid "Nur-Sultan"
+msgstr ""
 
 #. Name for KZ-ATY
-msgid "Atyraū oblysy"
-msgstr "obwód atyrauski"
+#, fuzzy
+#| msgid "Astrakhanskaya oblast'"
+msgid "Atyrauskaja oblast'"
+msgstr "obwód astrachański"
 
 #. Name for KZ-KAR
-msgid "Qaraghandy oblysy"
-msgstr "obwód karagandzki"
+#, fuzzy
+#| msgid "Kurganskaya oblast'"
+msgid "Karagandinskaja oblast'"
+msgstr "obwód kurgański"
 
 #. Name for KZ-KUS
-msgid "Qostanay oblysy"
-msgstr "obwód kustanajski"
+#, fuzzy
+#| msgid "Kostromskaya oblast'"
+msgid "Kostanajskaja oblast'"
+msgstr "obwód kostromski"
 
 #. Name for KZ-KZY
-msgid "Qyzylorda oblysy"
-msgstr "obwód kyzyłordyński"
+#, fuzzy
+#| msgid "Belgorodskaya oblast'"
+msgid "Kyzylordinskaja oblast'"
+msgstr "obwód biełgorodzki"
 
 #. Name for KZ-MAN
 msgid "Mangghystaū oblysy"
@@ -9385,19 +9771,32 @@ msgid "Pavlodar oblysy"
 msgstr "obwód pawłodarski"
 
 #. Name for KZ-SEV
-msgid "Soltüstik Quzaqstan oblysy"
-msgstr "obwód północnokazachstański"
+#, fuzzy
+#| msgid "Sakhalinskaya oblast'"
+msgid "Severo-Kazahstanskaja oblast'"
+msgstr "obwód sachaliński"
+
+# XXX: msgid conflict: "wilajet taszkancki" / "Taszkent"
+#. Name for KZ-SHY
+#, fuzzy
+#| msgid "Toshkent"
+msgid "Shymkent"
+msgstr "Taszkent"
 
 #. Name for KZ-VOS
 msgid "Shyghys Qazaqstan oblysy"
 msgstr "obwód wschodniokazachstański"
 
 #. Name for KZ-YUZ
-msgid "Ongtüstik Qazaqstan oblysy"
-msgstr "obwód południowokazachstański"
+#, fuzzy
+#| msgid "Kurskaya oblast'"
+msgid "Turkestankaya oblast'"
+msgstr "obwód kurski"
 
 #. Name for KZ-ZAP
-msgid "Batys Quzaqstan oblysy"
+#, fuzzy
+#| msgid "Batys Quzaqstan oblysy"
+msgid "Batys Qazaqstan oblysy"
 msgstr "obwód zachodniokazachstański"
 
 #. Name for KZ-ZHA
@@ -9453,8 +9852,10 @@ msgid "Savannakhét"
 msgstr "Savannakhet"
 
 #. Name for LA-VI, Name for LA-VT
-msgid "Vientiane"
-msgstr "Wientian"
+#, fuzzy
+#| msgid "Xiangkhouang"
+msgid "Viangchan"
+msgstr "Xieng Khouang"
 
 #. Name for LA-XA
 msgid "Xaignabouli"
@@ -9477,32 +9878,90 @@ msgid "Aakkâr"
 msgstr "Akkar"
 
 #. Name for LB-AS
-msgid "Liban-Nord"
-msgstr "Dystrykt Północny"
+#, fuzzy
+#| msgid "Ash Shamal"
+msgid "Ash Shimāl"
+msgstr "Asz-Szamal"
 
 #. Name for LB-BA
-msgid "Beyrouth"
-msgstr "Bejrut"
+msgid "Bayrūt"
+msgstr ""
 
 #. Name for LB-BH
 msgid "Baalbek-Hermel"
 msgstr "Baalbek-Hirmil"
 
 #. Name for LB-BI
-msgid "Béqaa"
-msgstr "Al-Bika"
+#, fuzzy
+#| msgid "Al Balqā'"
+msgid "Al Biqā‘"
+msgstr "Al-Balka"
 
 #. Name for LB-JA
-msgid "Liban-Sud"
-msgstr "Dystrykt Południowy"
+#, fuzzy
+#| msgid "Al Janūbī"
+msgid "Al Janūb"
+msgstr "Region Południowy"
 
 #. Name for LB-JL
-msgid "Mont-Liban"
-msgstr "Dżabal Lubnan"
+msgid "Jabal Lubnān"
+msgstr ""
 
 #. Name for LB-NA
-msgid "Nabatîyé"
-msgstr "An-Nabatija"
+#, fuzzy
+#| msgid "Al Gharbīyah"
+msgid "An Nabaţīyah"
+msgstr "Al-Gharbijja"
+
+#. Name for LC-01
+#, fuzzy
+#| msgid "Anse Royale"
+msgid "Anse la Raye"
+msgstr "Anse Royale"
+
+#. Name for LC-02
+msgid "Castries"
+msgstr ""
+
+#. Name for LC-03, Name for SB-CH
+msgid "Choiseul"
+msgstr "Choiseul"
+
+#. Name for LC-05
+#, fuzzy
+#| msgid "Vienne"
+msgid "Dennery"
+msgstr "Vienne"
+
+#. Name for LC-06
+#, fuzzy
+#| msgid "Grosseto"
+msgid "Gros Islet"
+msgstr "Grosseto"
+
+#. Name for LC-07
+#, fuzzy
+#| msgid "Tabor"
+msgid "Laborie"
+msgstr "Tabor"
+
+#. Name for LC-08
+msgid "Micoud"
+msgstr ""
+
+#. Name for LC-10
+msgid "Soufrière"
+msgstr ""
+
+#. Name for LC-11
+msgid "Vieux Fort"
+msgstr ""
+
+#. Name for LC-12
+#, fuzzy
+#| msgid "Canarias"
+msgid "Canaries"
+msgstr "Wyspy Kanaryjskie"
 
 #. Name for LI-01
 msgid "Balzers"
@@ -9549,139 +10008,189 @@ msgid "Vaduz"
 msgstr "Vaduz"
 
 #. Name for LK-1
-msgid "Basnāhira paḷāta"
-msgstr "Prowincja Zachodnia"
+#, fuzzy
+#| msgid "Mountain Province"
+msgid "Western Province"
+msgstr "Mountain Province"
 
 #. Name for LK-11
-msgid "Kŏḷamba"
-msgstr "Kolombo"
+#, fuzzy
+#| msgid "Colorado"
+msgid "Colombo"
+msgstr "Kolorado"
 
 #. Name for LK-12
 msgid "Gampaha"
 msgstr "Gampaha"
 
 #. Name for LK-13
-msgid "Kaḷutara"
+#, fuzzy
+#| msgid "Kaḷutara"
+msgid "Kalutara"
 msgstr "Kalutara"
 
 #. Name for LK-2
-msgid "Madhyama paḷāta"
-msgstr "Prowincja Centralna"
+#, fuzzy
+#| msgid "Mountain Province"
+msgid "Central Province"
+msgstr "Mountain Province"
 
 #. Name for LK-21
-msgid "Mahanuvara"
-msgstr "Kandy"
+#, fuzzy
+#| msgid "Kandal"
+msgid "Kandy"
+msgstr "Kandal"
 
 #. Name for LK-22
-msgid "Mātale"
+#, fuzzy
+#| msgid "Mātale"
+msgid "Matale"
 msgstr "Matale"
 
 #. Name for LK-23
-msgid "Nuvara Ĕliya"
+#, fuzzy
+#| msgid "Nuvara Ĕliya"
+msgid "Nuwara Eliya"
 msgstr "Nuwara Elija"
 
 #. Name for LK-3
-msgid "Dakuṇu paḷāta"
-msgstr "Prowincja Południowa"
+#, fuzzy
+#| msgid "Mountain Province"
+msgid "Southern Province"
+msgstr "Mountain Province"
 
 #. Name for LK-31
-msgid "Gālla"
-msgstr "Galle"
+#, fuzzy
+#| msgid "Valle"
+msgid "Galle"
+msgstr "Valle"
 
 #. Name for LK-32
-msgid "Mātara"
+#, fuzzy
+#| msgid "Mātara"
+msgid "Matara"
 msgstr "Matara"
 
 #. Name for LK-33
-msgid "Hambantŏṭa"
+#, fuzzy
+#| msgid "Hambantŏṭa"
+msgid "Hambantota"
 msgstr "Hambantota"
 
 #. Name for LK-4
-msgid "Uturu paḷāta"
-msgstr "Prowincja Północna"
+#, fuzzy
+#| msgid "Mountain Province"
+msgid "Northern Province"
+msgstr "Mountain Province"
 
 #. Name for LK-41
-msgid "Yāpanaya"
-msgstr "Dżafna"
+msgid "Jaffna"
+msgstr ""
 
 #. Name for LK-42
-msgid "Kilinŏchchi"
+#, fuzzy
+#| msgid "Kilinŏchchi"
+msgid "Kilinochchi"
 msgstr "Kilinoćći"
 
 #. Name for LK-43
-msgid "Mannārama"
-msgstr "Mannar"
+#, fuzzy
+#| msgid "Sannat"
+msgid "Mannar"
+msgstr "Sannat"
 
 #. Name for LK-44
-msgid "Vavuniyāva"
+#, fuzzy
+#| msgid "Vavuniyāva"
+msgid "Vavuniya"
 msgstr "Wawunija"
 
 #. Name for LK-45
-msgid "Mulativ"
-msgstr "Mullajttiwu"
+msgid "Mullaittivu"
+msgstr ""
 
 #. Name for LK-5
-msgid "Næ̆gĕnahira paḷāta"
-msgstr "Prowincja Wschodnia"
+#, fuzzy
+#| msgid "Mountain Province"
+msgid "Eastern Province"
+msgstr "Mountain Province"
 
 #. Name for LK-51
-msgid "Maḍakalapuva"
-msgstr "Madakalapuwa"
+#, fuzzy
+#| msgid "Battambang"
+msgid "Batticaloa"
+msgstr "Batdambang"
 
 #. Name for LK-52
-msgid "Ampāara"
-msgstr "Ampara"
+msgid "Ampara"
+msgstr ""
 
 #. Name for LK-53
-msgid "Trikuṇāmalaya"
-msgstr "Trikunamalaja"
+msgid "Trincomalee"
+msgstr ""
 
 #. Name for LK-6
-msgid "Vayamba paḷāta"
+#, fuzzy
+#| msgid "North-Western"
+msgid "North Western Province"
 msgstr "Prowincja Północno-Zachodnia"
 
 #. Name for LK-61
-msgid "Kuruṇægala"
+#, fuzzy
+#| msgid "Kuruṇægala"
+msgid "Kurunegala"
 msgstr "Kurunegala"
 
 #. Name for LK-62
-msgid "Puttalama"
+#, fuzzy
+#| msgid "Puttalama"
+msgid "Puttalam"
 msgstr "Puttalam"
 
 #. Name for LK-7
-msgid "Uturumæ̆da paḷāta"
-msgstr "Prowincja Północno-Centralna"
+#, fuzzy
+#| msgid "North Central"
+msgid "North Central Province"
+msgstr "Północno-centralny"
 
 #. Name for LK-71
-msgid "Anurādhapura"
+#, fuzzy
+#| msgid "Anurādhapura"
+msgid "Anuradhapura"
 msgstr "Anuradhapura"
 
 #. Name for LK-72
-msgid "Pŏḷŏnnaruva"
-msgstr "Polonnaruwa"
+msgid "Polonnaruwa"
+msgstr ""
 
 #. Name for LK-8
-msgid "Ūva paḷāta"
-msgstr "Prowincja Uva"
+#, fuzzy
+#| msgid "Mountain Province"
+msgid "Uva Province"
+msgstr "Mountain Province"
 
 #. Name for LK-81
 msgid "Badulla"
 msgstr "Badulla"
 
 #. Name for LK-82
-msgid "Mŏṇarāgala"
-msgstr "Moneragala"
+#, fuzzy
+#| msgid "Matagalpa"
+msgid "Monaragala"
+msgstr "Matagalpa"
 
 #. Name for LK-9
-msgid "Sabaragamuva paḷāta"
-msgstr "Prowincja Sabaragamuwa"
+msgid "Sabaragamuwa Province"
+msgstr ""
 
 #. Name for LK-91
 msgid "Ratnapura"
 msgstr "Ratnapura"
 
 #. Name for LK-92
-msgid "Kægalla"
+#, fuzzy
+#| msgid "Kægalla"
+msgid "Kegalla"
 msgstr "Kegalle"
 
 #. Name for LR-BG
@@ -9708,6 +10217,10 @@ msgstr "Grand Gedeh"
 msgid "Grand Kru"
 msgstr "Grand Kru"
 
+#. Name for LR-GP
+msgid "Gbarpolu"
+msgstr ""
+
 #. Name for LR-LO
 msgid "Lofa"
 msgstr "Lofa"
@@ -9728,8 +10241,16 @@ msgstr "Maryland"
 msgid "Nimba"
 msgstr "Nimba"
 
+#. Name for LR-RG
+#, fuzzy
+#| msgid "Rivercess"
+msgid "River Gee"
+msgstr "River Cess"
+
 #. Name for LR-RI
-msgid "Rivercess"
+#, fuzzy
+#| msgid "Rivercess"
+msgid "River Cess"
 msgstr "River Cess"
 
 #. Name for LR-SI
@@ -9741,7 +10262,9 @@ msgid "Maseru"
 msgstr "Maseru"
 
 #. Name for LS-B
-msgid "Butha-Buthe"
+#, fuzzy
+#| msgid "Butha-Buthe"
+msgid "Botha-Bothe"
 msgstr "Butha-Buthe"
 
 #. Name for LS-C
@@ -9776,53 +10299,393 @@ msgstr "Mokhotlong"
 msgid "Thaba-Tseka"
 msgstr "Thaba-Tseka"
 
+#. Name for LT-01
+msgid "Akmenė"
+msgstr ""
+
+#. Name for LT-02
+#, fuzzy
+#| msgid "Alytaus Apskritis"
+msgid "Alytaus miestas"
+msgstr "okręg olicki"
+
+#. Name for LT-03
+msgid "Alytus"
+msgstr ""
+
+#. Name for LT-04
+msgid "Anykščiai"
+msgstr ""
+
+#. Name for LT-05
+msgid "Birštono"
+msgstr ""
+
+#. Name for LT-06
+msgid "Biržai"
+msgstr ""
+
+#. Name for LT-07
+msgid "Druskininkai"
+msgstr ""
+
+#. Name for LT-08
+msgid "Elektrėnai"
+msgstr ""
+
+#. Name for LT-09
+msgid "Ignalina"
+msgstr ""
+
+#. Name for LT-10
+#, fuzzy
+#| msgid "Dornava"
+msgid "Jonava"
+msgstr "Dornava"
+
+#. Name for LT-11
+msgid "Joniškis"
+msgstr ""
+
+#. Name for LT-12
+msgid "Jurbarkas"
+msgstr ""
+
+#. Name for LT-13
+#, fuzzy
+#| msgid "Kajiado"
+msgid "Kaišiadorys"
+msgstr "Kajiado"
+
+#. Name for LT-14
+#, fuzzy
+#| msgid "Calvados"
+msgid "Kalvarijos"
+msgstr "Calvados"
+
+#. Name for LT-15
+#, fuzzy
+#| msgid "Kauno Apskritis"
+msgid "Kauno miestas"
+msgstr "okręg kowieński"
+
+#. Name for LT-16
+#, fuzzy
+#| msgid "Las Tunas"
+msgid "Kaunas"
+msgstr "Las Tunas"
+
+#. Name for LT-17
+msgid "Kazlų Rūdos"
+msgstr ""
+
+#. Name for LT-18
+msgid "Kėdainiai"
+msgstr ""
+
+#. Name for LT-19
+msgid "Kelmė"
+msgstr ""
+
+#. Name for LT-20
+#, fuzzy
+#| msgid "Klaipėdos Apskritis"
+msgid "Klaipėdos miestas"
+msgstr "okręg kłajpedzki"
+
+#. Name for LT-21
+msgid "Klaipėda"
+msgstr ""
+
+#. Name for LT-22
+#, fuzzy
+#| msgid "Iringa"
+msgid "Kretinga"
+msgstr "Iringa"
+
+#. Name for LT-23
+msgid "Kupiškis"
+msgstr ""
+
+#. Name for LT-24
+msgid "Lazdijai"
+msgstr ""
+
+#. Name for LT-25
+#, fuzzy
+#| msgid "Marijampolės Apskritis"
+msgid "Marijampolė"
+msgstr "okręg mariampolski"
+
+#. Name for LT-26
+msgid "Mažeikiai"
+msgstr ""
+
+#. Name for LT-27
+msgid "Molėtai"
+msgstr ""
+
+#. Name for LT-28
+#, fuzzy
+#| msgid "Iringa"
+msgid "Neringa"
+msgstr "Iringa"
+
+#. Name for LT-29
+msgid "Pagėgiai"
+msgstr ""
+
+#. Name for LT-30
+msgid "Pakruojis"
+msgstr ""
+
+#. Name for LT-31
+msgid "Palangos miestas"
+msgstr ""
+
+#. Name for LT-32
+#, fuzzy
+#| msgid "Panevėžio Apskritis"
+msgid "Panevėžio miestas"
+msgstr "okręg poniewieski"
+
+#. Name for LT-33
+#, fuzzy
+#| msgid "Panevėžio Apskritis"
+msgid "Panevėžys"
+msgstr "okręg poniewieski"
+
+#. Name for LT-34
+msgid "Pasvalys"
+msgstr ""
+
+#. Name for LT-35
+msgid "Plungė"
+msgstr ""
+
+#. Name for LT-36
+#, fuzzy
+#| msgid "Siena"
+msgid "Prienai"
+msgstr "Siena"
+
+#. Name for LT-37
+msgid "Radviliškis"
+msgstr ""
+
+#. Name for LT-38
+msgid "Raseiniai"
+msgstr ""
+
+#. Name for LT-39
+#, fuzzy
+#| msgid "Rieti"
+msgid "Rietavo"
+msgstr "Rieti"
+
+#. Name for LT-40
+msgid "Rokiškis"
+msgstr ""
+
+#. Name for LT-41
+msgid "Šakiai"
+msgstr ""
+
+#. Name for LT-42
+msgid "Šalčininkai"
+msgstr ""
+
+#. Name for LT-43
+#, fuzzy
+#| msgid "Šiaulių Apskritis"
+msgid "Šiaulių miestas"
+msgstr "okręg szawelski"
+
+#. Name for LT-44
+msgid "Šiauliai"
+msgstr ""
+
+#. Name for LT-45
+msgid "Šilalė"
+msgstr ""
+
+#. Name for LT-46
+msgid "Šilutė"
+msgstr ""
+
+#. Name for LT-47
+msgid "Širvintos"
+msgstr ""
+
+#. Name for LT-48
+msgid "Skuodas"
+msgstr ""
+
+#. Name for LT-49
+msgid "Švenčionys"
+msgstr ""
+
+#. Name for LT-50
+msgid "Tauragė"
+msgstr ""
+
+#. Name for LT-51
+msgid "Telšiai"
+msgstr ""
+
+#. Name for LT-52
+#, fuzzy
+#| msgid "Rakai"
+msgid "Trakai"
+msgstr "Rakai"
+
+#. Name for LT-53
+msgid "Ukmergė"
+msgstr ""
+
+#. Name for LT-54
+msgid "Utena"
+msgstr ""
+
+#. Name for LT-55
+msgid "Varėna"
+msgstr ""
+
+#. Name for LT-56
+msgid "Vilkaviškis"
+msgstr ""
+
+#. Name for LT-57
+#, fuzzy
+#| msgid "Vilniaus Apskritis"
+msgid "Vilniaus miestas"
+msgstr "okręg wileński"
+
+#. Name for LT-58
+msgid "Vilnius"
+msgstr ""
+
+#. Name for LT-59
+#, fuzzy
+#| msgid "Barinas"
+msgid "Visaginas"
+msgstr "Barinas"
+
+#. Name for LT-60
+#, fuzzy
+#| msgid "Zaragoza"
+msgid "Zarasai"
+msgstr "Saragossa"
+
 #. Name for LT-AL
-msgid "Alytaus Apskritis"
+#, fuzzy
+#| msgid "Alytaus Apskritis"
+msgid "Alytaus apskritis"
 msgstr "okręg olicki"
 
 #. Name for LT-KL
-msgid "Klaipėdos Apskritis"
+#, fuzzy
+#| msgid "Klaipėdos Apskritis"
+msgid "Klaipėdos apskritis"
 msgstr "okręg kłajpedzki"
 
 #. Name for LT-KU
-msgid "Kauno Apskritis"
+#, fuzzy
+#| msgid "Kauno Apskritis"
+msgid "Kauno apskritis"
 msgstr "okręg kowieński"
 
 #. Name for LT-MR
-msgid "Marijampolės Apskritis"
+#, fuzzy
+#| msgid "Marijampolės Apskritis"
+msgid "Marijampolės apskritis"
 msgstr "okręg mariampolski"
 
 #. Name for LT-PN
-msgid "Panevėžio Apskritis"
+#, fuzzy
+#| msgid "Panevėžio Apskritis"
+msgid "Panevėžio apskritis"
 msgstr "okręg poniewieski"
 
 #. Name for LT-SA
-msgid "Šiaulių Apskritis"
+#, fuzzy
+#| msgid "Šiaulių Apskritis"
+msgid "Šiaulių apskritis"
 msgstr "okręg szawelski"
 
 #. Name for LT-TA
-msgid "Tauragés Apskritis"
+#, fuzzy
+#| msgid "Tauragés Apskritis"
+msgid "Tauragės apskritis"
 msgstr "okręg tauroski"
 
 #. Name for LT-TE
-msgid "Telšių Apskritis"
+#, fuzzy
+#| msgid "Telšių Apskritis"
+msgid "Telšių apskritis"
 msgstr "okręg telszański"
 
 #. Name for LT-UT
-msgid "Utenos Apskritis"
+#, fuzzy
+#| msgid "Utenos Apskritis"
+msgid "Utenos apskritis"
 msgstr "okręg uciański"
 
 #. Name for LT-VL
-msgid "Vilniaus Apskritis"
+#, fuzzy
+#| msgid "Vilniaus Apskritis"
+msgid "Vilniaus apskritis"
 msgstr "okręg wileński"
 
-#. Name for LU-D
+#. Name for LU-CA
+msgid "Capellen"
+msgstr ""
+
+#. Name for LU-CL
+msgid "Clerf"
+msgstr ""
+
+#. Name for LU-DI
 msgid "Diekirch"
 msgstr "Diekirch"
 
-#. Name for LU-G
+#. Name for LU-EC
+msgid "Echternach"
+msgstr ""
+
+#. Name for LU-ES
+msgid "Esch an der Alzette"
+msgstr ""
+
+#. Name for LU-GR
 msgid "Grevenmacher"
 msgstr "Grevenmacher"
+
+#. Name for LU-ME
+#, fuzzy
+#| msgid "Mersin"
+msgid "Mersch"
+msgstr "Mersin"
+
+#. Name for LU-RD
+#, fuzzy
+#| msgid "Madang"
+msgid "Redange"
+msgstr "Madang"
+
+#. Name for LU-RM
+msgid "Remich"
+msgstr ""
+
+#. Name for LU-VD
+#, fuzzy
+#| msgid "Vientiane"
+msgid "Veianen"
+msgstr "Wientian"
+
+#. Name for LU-WI
+msgid "Wiltz"
+msgstr ""
 
 #. Name for LV-001
 msgid "Aglonas novads"
@@ -10320,16 +11183,14 @@ msgstr "Ghat"
 msgid "Al Jabal al Akhḑar"
 msgstr "Al-Dżabal al-Achdar"
 
-#. Name for LY-JB
-msgid "Jaghbūb"
-msgstr "Al-Dżaghbub"
-
 #. Name for LY-JG
 msgid "Al Jabal al Gharbī"
 msgstr "Al-Dżabal al-Gharbi"
 
 #. Name for LY-JI
-msgid "Al Jifārah"
+#, fuzzy
+#| msgid "Al Jifārah"
+msgid "Al Jafārah"
 msgstr "Al-Dżifara"
 
 #. Name for LY-JU
@@ -10361,7 +11222,9 @@ msgid "Nālūt"
 msgstr "Nalut"
 
 #. Name for LY-NQ
-msgid "An Nuqaţ al Khams"
+#, fuzzy
+#| msgid "An Nuqaţ al Khams"
+msgid "An Nuqāţ al Khams"
 msgstr "An-Nukat al-Chams"
 
 #. Name for LY-SB
@@ -10377,7 +11240,9 @@ msgid "Ţarābulus"
 msgstr "Trypolis"
 
 #. Name for LY-WA
-msgid "Al Wāḩāt"
+#, fuzzy
+#| msgid "Al Wāḩāt"
+msgid "Al Wāḩāt"
 msgstr "Al-Wahat"
 
 #. Name for LY-WD
@@ -10385,7 +11250,9 @@ msgid "Wādī al Ḩayāt"
 msgstr "Wadi al-Hajat"
 
 #. Name for LY-WS
-msgid "Wādī ash Shāţiʾ"
+#, fuzzy
+#| msgid "Wādī ash Shāţiʾ"
+msgid "Wādī ash Shāţi’"
 msgstr "Wadi asz-Szati"
 
 #. Name for LY-ZA
@@ -10573,11 +11440,15 @@ msgid "El Kelâa des Sraghna"
 msgstr "Al-Kalat as-Saraghna"
 
 #. Name for MA-KHE
-msgid "Khemisset"
+#, fuzzy
+#| msgid "Khemisset"
+msgid "Khémisset"
 msgstr "Al-Chamisat"
 
 #. Name for MA-KHN
-msgid "Khenifra"
+#, fuzzy
+#| msgid "Khenifra"
+msgid "Khénifra"
 msgstr "Chunajfira"
 
 #. Name for MA-KHO
@@ -10702,7 +11573,9 @@ msgid "Taounate"
 msgstr "Taunat"
 
 #. Name for MA-TAR
-msgid "Taroudant"
+#, fuzzy
+#| msgid "Taroudant"
+msgid "Taroudannt"
 msgstr "Tarudant"
 
 #. Name for MA-TAT
@@ -10818,7 +11691,9 @@ msgid "Bălți"
 msgstr "Bielce"
 
 #. Name for MD-BD
-msgid "Tighina"
+#, fuzzy
+#| msgid "Tighina"
+msgid "Bender [Tighina]"
 msgstr "Bendery"
 
 #. Name for MD-BR
@@ -10882,7 +11757,9 @@ msgid "Florești"
 msgstr "Floreşti"
 
 #. Name for MD-GA
-msgid "Găgăuzia, Unitatea teritorială autonomă"
+#, fuzzy
+#| msgid "Găgăuzia, Unitatea teritorială autonomă"
+msgid "Găgăuzia, Unitatea teritorială autonomă (UTAG)"
 msgstr "Gagauzja (Terytorium Autonomiczne)"
 
 #. Name for MD-GL
@@ -11041,6 +11918,18 @@ msgstr "Ulcinj"
 msgid "Žabljak"
 msgstr "Žabljak"
 
+#. Name for ME-22
+msgid "Gusinje"
+msgstr ""
+
+#. Name for ME-23
+msgid "Petnjica"
+msgstr ""
+
+#. Name for ME-24
+msgid "Tuzi"
+msgstr ""
+
 #. Name for MG-A
 msgid "Toamasina"
 msgstr "Toamasina"
@@ -11086,7 +11975,9 @@ msgid "Ebon"
 msgstr "Ebon"
 
 #. Name for MH-ENI
-msgid "Enewetak"
+#, fuzzy
+#| msgid "Enewetak"
+msgid "Enewetak & Ujelang"
 msgstr "Enewetak"
 
 #. Name for MH-JAB
@@ -11098,8 +11989,8 @@ msgid "Jaluit"
 msgstr "Jaluit"
 
 #. Name for MH-KIL
-msgid "Kili"
-msgstr "Kili"
+msgid "Bikini & Kili"
+msgstr ""
 
 #. Name for MH-KWA
 msgid "Kwajalein"
@@ -11158,356 +12049,372 @@ msgid "Ujae"
 msgstr "Ujae"
 
 #. Name for MH-UTI
-msgid "Utirik"
-msgstr "Utirik"
+msgid "Utrik"
+msgstr ""
+
+#. Name for MH-WTH
+msgid "Wotho"
+msgstr "Wotho"
 
 #. Name for MH-WTJ
 msgid "Wotje"
 msgstr "Wotje"
 
-#. Name for MH-WTN
-msgid "Wotho"
-msgstr "Wotho"
-
-#. Name for MK-01
-msgid "Aerodrom"
-msgstr "Aerodrom"
-
-#. Name for MK-02
-msgid "Aračinovo"
-msgstr "Araczinowo"
-
-#. Name for MK-03
-msgid "Berovo"
-msgstr "Berowo"
-
-#. Name for MK-04
-msgid "Bitola"
-msgstr "Bitola"
-
-#. Name for MK-05
-msgid "Bogdanci"
-msgstr "Bogdanci"
-
-#. Name for MK-06
-msgid "Bogovinje"
-msgstr "Bogowinje"
-
-#. Name for MK-07
-msgid "Bosilovo"
-msgstr "Bosiłowo"
-
-#. Name for MK-08
-msgid "Brvenica"
-msgstr "Brwenica"
-
-#. Name for MK-09
-msgid "Butel"
-msgstr "Buteł"
-
-#. Name for MK-10
-msgid "Valandovo"
-msgstr "Wałandowo"
-
-#. Name for MK-11
-msgid "Vasilevo"
-msgstr "Wasilewo"
-
-#. Name for MK-12
-msgid "Vevčani"
-msgstr "Wewczani"
-
-#. Name for MK-13
+#. Name for MK-101
 msgid "Veles"
 msgstr "Weles"
 
-#. Name for MK-14
-msgid "Vinica"
-msgstr "Winica"
-
-#. Name for MK-15
-msgid "Vraneštica"
-msgstr "Wranesztica"
-
-#. Name for MK-16
-msgid "Vrapčište"
-msgstr "Wrabcziszte"
-
-#. Name for MK-17
-msgid "Gazi Baba"
-msgstr "Gazi Baba"
-
-#. Name for MK-18
-msgid "Gevgelija"
-msgstr "Gewgelija"
-
-#. Name for MK-19
-msgid "Gostivar"
-msgstr "Gostiwar"
-
-#. Name for MK-20
+#. Name for MK-102
 msgid "Gradsko"
 msgstr "Gradsko"
 
-#. Name for MK-21
-msgid "Debar"
-msgstr "Debar"
-
-#. Name for MK-22
-msgid "Debarca"
-msgstr "Debarca"
-
-#. Name for MK-23
-msgid "Delčevo"
-msgstr "Dełczewo"
-
-#. Name for MK-24
+#. Name for MK-103
 msgid "Demir Kapija"
 msgstr "Demir Kapija"
 
-#. Name for MK-25
-msgid "Demir Hisar"
-msgstr "Demir Hisar"
-
-#. Name for MK-26
-msgid "Dojran"
-msgstr "Dojran"
-
-#. Name for MK-27
-msgid "Dolneni"
-msgstr "Dołneni"
-
-#. Name for MK-28
-msgid "Drugovo"
-msgstr "Drugowo"
-
-#. Name for MK-29
-msgid "Gjorče Petrov"
-msgstr "Gjorcze Petrow"
-
-#. Name for MK-30
-msgid "Želino"
-msgstr "Żelino"
-
-#. Name for MK-31
-msgid "Zajas"
-msgstr "Zajas"
-
-#. Name for MK-32
-msgid "Zelenikovo"
-msgstr "Zelenikowo"
-
-#. Name for MK-33
-msgid "Zrnovci"
-msgstr "Zrnowci"
-
-#. Name for MK-34
-msgid "Ilinden"
-msgstr "Ilinden"
-
-#. Name for MK-35
-msgid "Jegunovce"
-msgstr "Jegunowce"
-
-#. Name for MK-36
+#. Name for MK-104
 msgid "Kavadarci"
 msgstr "Kawadarci"
 
-#. Name for MK-37
-msgid "Karbinci"
-msgstr "Karbinci"
-
-#. Name for MK-38
-msgid "Karpoš"
-msgstr "Karlosz"
-
-#. Name for MK-39
-msgid "Kisela Voda"
-msgstr "Kiseła Woda"
-
-#. Name for MK-40
-msgid "Kičevo"
-msgstr "Kiczewo"
-
-#. Name for MK-41
-msgid "Konče"
-msgstr "Koncze"
-
-#. Name for MK-42
-msgid "Kočani"
-msgstr "Koczani"
-
-#. Name for MK-43
-msgid "Kratovo"
-msgstr "Kratowo"
-
-#. Name for MK-44
-msgid "Kriva Palanka"
-msgstr "Kriwa Pałanka"
-
-#. Name for MK-45
-msgid "Krivogaštani"
-msgstr "Kriwogasztani"
-
-#. Name for MK-46
-msgid "Kruševo"
-msgstr "Kruszewo"
-
-#. Name for MK-47
-msgid "Kumanovo"
-msgstr "Kumanowo"
-
-#. Name for MK-48
-msgid "Lipkovo"
-msgstr "Lipkowo"
-
-#. Name for MK-49
+#. Name for MK-105
 msgid "Lozovo"
 msgstr "Łozowo"
 
-#. Name for MK-50
-msgid "Mavrovo-i-Rostuša"
-msgstr "Mawrowo i Rostusza"
-
-#. Name for MK-51
-msgid "Makedonska Kamenica"
-msgstr "Makedonska Kamenica"
-
-#. Name for MK-52
-msgid "Makedonski Brod"
-msgstr "Makedonski Brod"
-
-#. Name for MK-53
-msgid "Mogila"
-msgstr "Mogiła"
-
-#. Name for MK-54
+#. Name for MK-106
 msgid "Negotino"
 msgstr "Negotino"
 
-#. Name for MK-55
-msgid "Novaci"
-msgstr "Nowaci"
-
-#. Name for MK-56
-msgid "Novo Selo"
-msgstr "Nowo Seło"
-
-#. Name for MK-57
-msgid "Oslomej"
-msgstr "Osłomej"
-
-#. Name for MK-58
-msgid "Ohrid"
-msgstr "Ochryda"
-
-#. Name for MK-59
-msgid "Petrovec"
-msgstr "Petrowec"
-
-#. Name for MK-60
-msgid "Pehčevo"
-msgstr "Pehczewo"
-
-#. Name for MK-61
-msgid "Plasnica"
-msgstr "Płasnica"
-
-#. Name for MK-62
-msgid "Prilep"
-msgstr "Prilep"
-
-#. Name for MK-63
-msgid "Probištip"
-msgstr "Probisztip"
-
-#. Name for MK-64
-msgid "Radoviš"
-msgstr "Radowisz"
-
-#. Name for MK-65
-msgid "Rankovce"
-msgstr "Rankowce"
-
-#. Name for MK-66
-msgid "Resen"
-msgstr "Resen"
-
-#. Name for MK-67
+#. Name for MK-107
 msgid "Rosoman"
 msgstr "Rosoman"
 
-#. Name for MK-68
-msgid "Saraj"
-msgstr "Saraj"
-
-#. Name for MK-69
+#. Name for MK-108
 msgid "Sveti Nikole"
 msgstr "Sweti Nikole"
 
-#. Name for MK-70
-msgid "Sopište"
-msgstr "Soliszte"
-
-#. Name for MK-71
-msgid "Staro Nagoričane"
-msgstr "Staro Nagoriczane"
-
-#. Name for MK-72
-msgid "Struga"
-msgstr "Struga"
-
-#. Name for MK-73
-msgid "Strumica"
-msgstr "Strumica"
-
-#. Name for MK-74
-msgid "Studeničani"
-msgstr "Studenczani"
-
-#. Name for MK-75
-msgid "Tearce"
-msgstr "Tearce"
-
-#. Name for MK-76
-msgid "Tetovo"
-msgstr "Tetowo"
-
-#. Name for MK-77
-msgid "Centar"
-msgstr "Centar"
-
-#. Name for MK-78
-msgid "Centar Župa"
-msgstr "Centar Żupa"
-
-#. Name for MK-79
-msgid "Čair"
-msgstr "Czair"
-
-#. Name for MK-80
+#. Name for MK-109
 msgid "Čaška"
 msgstr "Czaszka"
 
-#. Name for MK-81
+#. Name for MK-201
+msgid "Berovo"
+msgstr "Berowo"
+
+#. Name for MK-202
+msgid "Vinica"
+msgstr "Winica"
+
+#. Name for MK-203
+msgid "Delčevo"
+msgstr "Dełczewo"
+
+#. Name for MK-204
+msgid "Zrnovci"
+msgstr "Zrnowci"
+
+#. Name for MK-205
+msgid "Karbinci"
+msgstr "Karbinci"
+
+#. Name for MK-206
+msgid "Kočani"
+msgstr "Koczani"
+
+#. Name for MK-207
+msgid "Makedonska Kamenica"
+msgstr "Makedonska Kamenica"
+
+#. Name for MK-208
+msgid "Pehčevo"
+msgstr "Pehczewo"
+
+#. Name for MK-209
+msgid "Probištip"
+msgstr "Probisztip"
+
+#. Name for MK-210
 msgid "Češinovo-Obleševo"
 msgstr "Czeszinowo-Obleszewo"
 
-#. Name for MK-82
-msgid "Čučer Sandevo"
-msgstr "Czuczer-Sandewo"
-
-#. Name for MK-83
+#. Name for MK-211
 msgid "Štip"
 msgstr "Sztip"
 
-#. Name for MK-84
-msgid "Šuto Orizari"
+#. Name for MK-301
+msgid "Vevčani"
+msgstr "Wewczani"
+
+#. Name for MK-303
+msgid "Debar"
+msgstr "Debar"
+
+#. Name for MK-304
+#, fuzzy
+#| msgid "Debrecen"
+msgid "Debrca"
+msgstr "Debreczyn"
+
+#. Name for MK-307
+msgid "Kičevo"
+msgstr "Kiczewo"
+
+#. Name for MK-308
+msgid "Makedonski Brod"
+msgstr "Makedonski Brod"
+
+#. Name for MK-310
+msgid "Ohrid"
+msgstr "Ochryda"
+
+#. Name for MK-311
+msgid "Plasnica"
+msgstr "Płasnica"
+
+#. Name for MK-312
+msgid "Struga"
+msgstr "Struga"
+
+#. Name for MK-313
+msgid "Centar Župa"
+msgstr "Centar Żupa"
+
+#. Name for MK-401
+msgid "Bogdanci"
+msgstr "Bogdanci"
+
+#. Name for MK-402
+msgid "Bosilovo"
+msgstr "Bosiłowo"
+
+#. Name for MK-403
+msgid "Valandovo"
+msgstr "Wałandowo"
+
+#. Name for MK-404
+msgid "Vasilevo"
+msgstr "Wasilewo"
+
+#. Name for MK-405
+msgid "Gevgelija"
+msgstr "Gewgelija"
+
+#. Name for MK-406
+msgid "Dojran"
+msgstr "Dojran"
+
+#. Name for MK-407
+msgid "Konče"
+msgstr "Koncze"
+
+#. Name for MK-408
+msgid "Novo Selo"
+msgstr "Nowo Seło"
+
+#. Name for MK-409
+msgid "Radoviš"
+msgstr "Radowisz"
+
+#. Name for MK-410
+msgid "Strumica"
+msgstr "Strumica"
+
+#. Name for MK-501
+msgid "Bitola"
+msgstr "Bitola"
+
+#. Name for MK-502
+msgid "Demir Hisar"
+msgstr "Demir Hisar"
+
+#. Name for MK-503
+msgid "Dolneni"
+msgstr "Dołneni"
+
+#. Name for MK-504
+msgid "Krivogaštani"
+msgstr "Kriwogasztani"
+
+#. Name for MK-505
+msgid "Kruševo"
+msgstr "Kruszewo"
+
+#. Name for MK-506
+msgid "Mogila"
+msgstr "Mogiła"
+
+#. Name for MK-507
+msgid "Novaci"
+msgstr "Nowaci"
+
+#. Name for MK-508
+msgid "Prilep"
+msgstr "Prilep"
+
+#. Name for MK-509
+msgid "Resen"
+msgstr "Resen"
+
+#. Name for MK-601
+msgid "Bogovinje"
+msgstr "Bogowinje"
+
+#. Name for MK-602
+msgid "Brvenica"
+msgstr "Brwenica"
+
+#. Name for MK-603
+msgid "Vrapčište"
+msgstr "Wrabcziszte"
+
+#. Name for MK-604
+msgid "Gostivar"
+msgstr "Gostiwar"
+
+#. Name for MK-605
+msgid "Želino"
+msgstr "Żelino"
+
+#. Name for MK-606
+msgid "Jegunovce"
+msgstr "Jegunowce"
+
+#. Name for MK-607
+#, fuzzy
+#| msgid "Mavrovo-i-Rostuša"
+msgid "Mavrovo i Rostuše"
+msgstr "Mawrowo i Rostusza"
+
+#. Name for MK-608
+msgid "Tearce"
+msgstr "Tearce"
+
+#. Name for MK-609
+msgid "Tetovo"
+msgstr "Tetowo"
+
+#. Name for MK-701
+msgid "Kratovo"
+msgstr "Kratowo"
+
+#. Name for MK-702
+msgid "Kriva Palanka"
+msgstr "Kriwa Pałanka"
+
+#. Name for MK-703
+msgid "Kumanovo"
+msgstr "Kumanowo"
+
+#. Name for MK-704
+msgid "Lipkovo"
+msgstr "Lipkowo"
+
+#. Name for MK-705
+msgid "Rankovce"
+msgstr "Rankowce"
+
+#. Name for MK-706
+msgid "Staro Nagoričane"
+msgstr "Staro Nagoriczane"
+
+#. Name for MK-801
+#, fuzzy
+#| msgid "Aerodrom"
+msgid "Aerodrom †"
+msgstr "Aerodrom"
+
+#. Name for MK-802
+msgid "Aračinovo"
+msgstr "Araczinowo"
+
+#. Name for MK-803
+#, fuzzy
+#| msgid "Butel"
+msgid "Butel †"
+msgstr "Buteł"
+
+#. Name for MK-804
+#, fuzzy
+#| msgid "Gazi Baba"
+msgid "Gazi Baba †"
+msgstr "Gazi Baba"
+
+#. Name for MK-805
+#, fuzzy
+#| msgid "Gjorče Petrov"
+msgid "Gjorče Petrov †"
+msgstr "Gjorcze Petrow"
+
+#. Name for MK-806
+msgid "Zelenikovo"
+msgstr "Zelenikowo"
+
+#. Name for MK-807
+msgid "Ilinden"
+msgstr "Ilinden"
+
+#. Name for MK-808
+#, fuzzy
+#| msgid "Karpoš"
+msgid "Karpoš †"
+msgstr "Karlosz"
+
+#. Name for MK-809
+#, fuzzy
+#| msgid "Kisela Voda"
+msgid "Kisela Voda †"
+msgstr "Kiseła Woda"
+
+#. Name for MK-810
+msgid "Petrovec"
+msgstr "Petrowec"
+
+#. Name for MK-811
+#, fuzzy
+#| msgid "Saraj"
+msgid "Saraj †"
+msgstr "Saraj"
+
+#. Name for MK-812
+msgid "Sopište"
+msgstr "Soliszte"
+
+#. Name for MK-813
+msgid "Studeničani"
+msgstr "Studenczani"
+
+#. Name for MK-814
+#, fuzzy
+#| msgid "Centar"
+msgid "Centar †"
+msgstr "Centar"
+
+#. Name for MK-815
+#, fuzzy
+#| msgid "Čair"
+msgid "Čair †"
+msgstr "Czair"
+
+#. Name for MK-816
+#, fuzzy
+#| msgid "Čučer Sandevo"
+msgid "Čučer-Sandevo"
+msgstr "Czuczer-Sandewo"
+
+#. Name for MK-817
+#, fuzzy
+#| msgid "Šuto Orizari"
+msgid "Šuto Orizari †"
 msgstr "Szuto Orizari"
 
 #. Name for ML-1
 msgid "Kayes"
 msgstr "Kayes"
+
+#. Name for ML-10
+#, fuzzy
+#| msgid "Taourirt"
+msgid "Taoudénit"
+msgstr "Taurirt"
 
 #. Name for ML-2
 msgid "Koulikoro"
@@ -11537,7 +12444,13 @@ msgstr "Gao"
 msgid "Kidal"
 msgstr "Kidal"
 
-#. Name for ML-BK0
+#. Name for ML-9
+#, fuzzy
+#| msgid "Lárnaka"
+msgid "Ménaka"
+msgstr "Larnaka"
+
+#. Name for ML-BKO
 msgid "Bamako"
 msgstr "Bamako"
 
@@ -11597,6 +12510,10 @@ msgstr "Arakan"
 msgid "Shan"
 msgstr "Szan"
 
+#. Name for MM-18
+msgid "Nay Pyi Taw"
+msgstr ""
+
 #. Name for MN-035
 msgid "Orhon"
 msgstr "ajmak orchoński"
@@ -11634,7 +12551,9 @@ msgid "Sühbaatar"
 msgstr "ajmak suchebatorski"
 
 #. Name for MN-053
-msgid "Ömnögovi"
+#, fuzzy
+#| msgid "Ömnögovi"
+msgid "Ömnögovĭ"
 msgstr "ajmak południowogobijski"
 
 #. Name for MN-055
@@ -11646,7 +12565,9 @@ msgid "Dzavhan"
 msgstr "ajmak dzawchański"
 
 #. Name for MN-059
-msgid "Dundgovi"
+#, fuzzy
+#| msgid "Dundgovi"
+msgid "Dundgovĭ"
 msgstr "ajmak środkowogobijski"
 
 #. Name for MN-061
@@ -11654,15 +12575,21 @@ msgid "Dornod"
 msgstr "ajmak wschodni"
 
 #. Name for MN-063
-msgid "Dornogovi"
+#, fuzzy
+#| msgid "Dornogovi"
+msgid "Dornogovĭ"
 msgstr "ajmak wschodniogobijski"
 
 #. Name for MN-064
-msgid "Govi-Sumber"
+#, fuzzy
+#| msgid "Govi-Sumber"
+msgid "Govĭ-Sümber"
 msgstr "ajmak gobijsko-sumberski"
 
 #. Name for MN-065
-msgid "Govi-Altay"
+#, fuzzy
+#| msgid "Govi-Altay"
+msgid "Govĭ-Altay"
 msgstr "ajmak gobijsko-ałtajski"
 
 #. Name for MN-067
@@ -11682,7 +12609,9 @@ msgid "Arhangay"
 msgstr "ajmak północnochangajski"
 
 #. Name for MN-1
-msgid "Ulanbaatar"
+#, fuzzy
+#| msgid "Ulanbaatar"
+msgid "Ulaanbaatar"
 msgstr "Ułan Bator"
 
 #. Name for MR-01
@@ -11690,7 +12619,9 @@ msgid "Hodh ech Chargui"
 msgstr "Haud asz-Szarki"
 
 #. Name for MR-02
-msgid "Hodh el Charbi"
+#, fuzzy
+#| msgid "Hodh el Charbi"
+msgid "Hodh el Gharbi"
 msgstr "Haud al-Gharbi"
 
 #. Name for MR-03
@@ -11710,7 +12641,9 @@ msgid "Trarza"
 msgstr "At-Tarariza"
 
 #. Name for MR-08
-msgid "Dakhlet Nouadhibou"
+#, fuzzy
+#| msgid "Dakhlet Nouadhibou"
+msgid "Dakhlet Nouâdhibou"
 msgstr "Dachlat Nawazibu"
 
 #. Name for MR-09
@@ -11729,8 +12662,22 @@ msgstr "Tiris Zammur"
 msgid "Inchiri"
 msgstr "Insziri"
 
-#. Name for MR-NKC
-msgid "Nouakchott"
+#. Name for MR-13
+#, fuzzy
+#| msgid "Nouakchott"
+msgid "Nouakchott Ouest"
+msgstr "Nawakszut"
+
+#. Name for MR-14
+#, fuzzy
+#| msgid "Nouakchott"
+msgid "Nouakchott Nord"
+msgstr "Nawakszut"
+
+#. Name for MR-15
+#, fuzzy
+#| msgid "Nouakchott"
+msgid "Nouakchott Sud"
 msgstr "Nawakszut"
 
 #. Name for MT-01
@@ -11910,36 +12857,42 @@ msgid "Qrendi"
 msgstr "Qrendi"
 
 #. Name for MT-45
-msgid "Rabat Għawdex"
-msgstr "Rabat (Gozo)"
+#, fuzzy
+#| msgid "Rabat"
+msgid "Rabat Gozo"
+msgstr "Rabat"
 
 #. Name for MT-46
 msgid "Rabat Malta"
 msgstr "Rabat (Malta)"
 
 #. Name for MT-48
-msgid "San Ġiljan"
-msgstr "San Ġiljan"
-
-#. Name for MT-49
-msgid "San Ġwann"
-msgstr "San Ġwann"
+#, fuzzy
+#| msgid "Saint James"
+msgid "Saint Julian's"
+msgstr "Saint James"
 
 #. Name for MT-50
-msgid "San Lawrenz"
+#, fuzzy
+#| msgid "San Lawrenz"
+msgid "Saint Lawrence"
 msgstr "San Lawrenz"
 
 #. Name for MT-51
-msgid "San Pawl il-Baħar"
-msgstr "St. Paul's Bay"
+#, fuzzy
+#| msgid "Saint Paul"
+msgid "Saint Paul's Bay"
+msgstr "Saint Paul"
 
 #. Name for MT-52
 msgid "Sannat"
 msgstr "Sannat"
 
 #. Name for MT-53
-msgid "Santa Luċija"
-msgstr "Santa Luċija"
+#, fuzzy
+#| msgid "Saint Louis"
+msgid "Saint Lucia's"
+msgstr "Saint Louis"
 
 #. Name for MT-54
 msgid "Santa Venera"
@@ -11958,7 +12911,9 @@ msgid "Swieqi"
 msgstr "Swieqi"
 
 #. Name for MT-58
-msgid "Ta’ Xbiex"
+#, fuzzy
+#| msgid "Ta’ Xbiex"
+msgid "Ta' Xbiex"
 msgstr "Ta’ Xbiex"
 
 #. Name for MT-59
@@ -11986,7 +12941,9 @@ msgid "Żabbar"
 msgstr "Żabbar"
 
 #. Name for MT-65
-msgid "Żebbuġ Għawdex"
+#, fuzzy
+#| msgid "Żebbuġ Għawdex"
+msgid "Żebbuġ Gozo"
 msgstr "Żebbuġ (Gozo)"
 
 #. Name for MT-66
@@ -12009,17 +12966,9 @@ msgstr "Wyspy Agalega"
 msgid "Black River"
 msgstr "Black River"
 
-#. Name for MU-BR
-msgid "Beau Bassin-Rose Hill"
-msgstr "Beau Bassin-Rose Hill"
-
 #. Name for MU-CC
 msgid "Cargados Carajos Shoals"
 msgstr "Cargados Carajos"
-
-#. Name for MU-CU
-msgid "Curepipe"
-msgstr "Curepipe"
 
 #. Name for MU-FL
 msgid "Flacq"
@@ -12037,7 +12986,7 @@ msgstr "Moka"
 msgid "Pamplemousses"
 msgstr "Pamplemousses"
 
-#. Name for MU-PL, Name for MU-PU
+#. Name for MU-PL
 msgid "Port Louis"
 msgstr "Port Louis"
 
@@ -12045,15 +12994,11 @@ msgstr "Port Louis"
 msgid "Plaines Wilhems"
 msgstr "Plaines Wilhems"
 
-#. Name for MU-QB
-msgid "Quatre Bornes"
-msgstr "Quatre Bornes"
-
 #. Name for MU-RO
 msgid "Rodrigues Island"
 msgstr "Rodrigues"
 
-#. Name for MU-RP
+#. Name for MU-RR
 msgid "Rivière du Rempart"
 msgstr "Rivière du Rempart"
 
@@ -12061,109 +13006,107 @@ msgstr "Rivière du Rempart"
 msgid "Savanne"
 msgstr "Savanne"
 
-#. Name for MU-VP
-msgid "Vacoas-Phoenix"
-msgstr "Vacoas-Phoenix"
-
 #. Name for MV-00
-msgid "Alifu Dhaalu"
-msgstr "Alif Dhaal"
+#, fuzzy
+#| msgid "South Andros"
+msgid "South Ari Atoll"
+msgstr "South Andros"
 
 #. Name for MV-01
-msgid "Seenu"
-msgstr "Seenu"
+#, fuzzy
+#| msgid "Aberdeen City"
+msgid "Addu City"
+msgstr "Aberdeen"
 
 #. Name for MV-02
-msgid "Alifu Alifu"
-msgstr "Alif Alif"
+#, fuzzy
+#| msgid "North Andros"
+msgid "North Ari Atoll"
+msgstr "North Andros"
 
 #. Name for MV-03
-msgid "Lhaviyani"
-msgstr "Lhaviyani"
+msgid "Faadhippolhu"
+msgstr ""
 
 #. Name for MV-04
-msgid "Vaavu"
-msgstr "Vaavu"
+msgid "Felidhu Atoll"
+msgstr ""
 
 #. Name for MV-05
-msgid "Laamu"
-msgstr "Laamu"
+msgid "Hahdhunmathi"
+msgstr ""
 
 #. Name for MV-07
-msgid "Haa Alifu"
-msgstr "Haa Alif"
+msgid "North Thiladhunmathi"
+msgstr ""
 
 #. Name for MV-08
-msgid "Thaa"
-msgstr "Thaa"
+msgid "Kolhumadulu"
+msgstr ""
 
 #. Name for MV-12
-msgid "Meemu"
-msgstr "Meemu"
+#, fuzzy
+#| msgid "Palmyra Atoll"
+msgid "Mulaku Atoll"
+msgstr "Palmyra"
 
 #. Name for MV-13
-msgid "Raa"
-msgstr "Raa"
+msgid "North Maalhosmadulu"
+msgstr ""
 
 #. Name for MV-14
-msgid "Faafu"
-msgstr "Faafu"
+#, fuzzy
+#| msgid "North Island"
+msgid "North Nilandhe Atoll"
+msgstr "Wyspa Północna"
 
 #. Name for MV-17
-msgid "Dhaalu"
-msgstr "Dhaalu"
+#, fuzzy
+#| msgid "South Island"
+msgid "South Nilandhe Atoll"
+msgstr "Wyspa Południowa"
 
 #. Name for MV-20
-msgid "Baa"
-msgstr "Baa"
+msgid "South Maalhosmadulu"
+msgstr ""
 
 #. Name for MV-23
-msgid "Haa Dhaalu"
-msgstr "Haa Dhaalu"
+msgid "South Thiladhunmathi"
+msgstr ""
 
 #. Name for MV-24
-msgid "Shaviyani"
-msgstr "Shaviyani"
+#, fuzzy
+#| msgid "North Island"
+msgid "North Miladhunmadulu"
+msgstr "Wyspa Północna"
 
 #. Name for MV-25
-msgid "Noonu"
-msgstr "Noonu"
+#, fuzzy
+#| msgid "South Island"
+msgid "South Miladhunmadulu"
+msgstr "Wyspa Południowa"
 
 #. Name for MV-26
-msgid "Kaafu"
-msgstr "Kaafu"
+#, fuzzy
+#| msgid "Palmyra Atoll"
+msgid "Male Atoll"
+msgstr "Palmyra"
 
 #. Name for MV-27
-msgid "Gaafu Alifu"
-msgstr "Gaafu Alif"
+msgid "North Huvadhu Atoll"
+msgstr ""
 
 #. Name for MV-28
-msgid "Gaafu Dhaalu"
-msgstr "Gaafu Dhaalu"
+msgid "South Huvadhu Atoll"
+msgstr ""
 
 #. Name for MV-29
-msgid "Gnaviyani"
-msgstr "Gnaviyani"
+msgid "Fuvammulah"
+msgstr ""
 
 #. Name for MV-MLE
 msgid "Male"
 msgstr "Malé"
-
-#. Name for MV-NC
-msgid "North Central"
-msgstr ""
-
-#. Name for MV-SC
-msgid "South Central"
-msgstr ""
-
-#. Name for MV-UN
-msgid "Upper North"
-msgstr ""
-
-#. Name for MV-US
-msgid "Upper South"
-msgstr ""
 
 #. Name for MW-BA
 msgid "Balaka"
@@ -12497,16 +13440,14 @@ msgstr "Gaza"
 msgid "Inhambane"
 msgstr "Inhambane"
 
-#. Name for MZ-L
+#. Name for MZ-L, Name for MZ-MPM
 msgid "Maputo"
 msgstr "Maputo"
 
-#. Name for MZ-MPM
-msgid "Maputo (city)"
-msgstr "Maputo (stołeczna)"
-
 #. Name for MZ-N
-msgid "Numpula"
+#, fuzzy
+#| msgid "Numpula"
+msgid "Nampula"
 msgstr "Numpula"
 
 #. Name for MZ-P
@@ -12514,7 +13455,9 @@ msgid "Cabo Delgado"
 msgstr "Cabo Delgado"
 
 #. Name for MZ-Q
-msgid "Zambezia"
+#, fuzzy
+#| msgid "Zambezia"
+msgid "Zambézia"
 msgstr "Zambezia"
 
 #. Name for MZ-S
@@ -12526,8 +13469,10 @@ msgid "Tete"
 msgstr "Tete"
 
 #. Name for NA-CA
-msgid "Caprivi"
-msgstr "Caprivi"
+#, fuzzy
+#| msgid "Zambezia"
+msgid "Zambezi"
+msgstr "Zambezia"
 
 #. Name for NA-ER
 msgid "Erongo"
@@ -12538,8 +13483,16 @@ msgid "Hardap"
 msgstr "Hardap"
 
 #. Name for NA-KA
-msgid "Karas"
+#, fuzzy
+#| msgid "Karas"
+msgid "//Karas"
 msgstr "Karas"
+
+#. Name for NA-KE
+#, fuzzy
+#| msgid "Okavango"
+msgid "Kavango East"
+msgstr "Okawango"
 
 #. Name for NA-KH
 msgid "Khomas"
@@ -12549,6 +13502,12 @@ msgstr "Khomas"
 msgid "Kunene"
 msgstr "Kunene"
 
+#. Name for NA-KW
+#, fuzzy
+#| msgid "Okavango"
+msgid "Kavango West"
+msgstr "Okawango"
+
 #. Name for NA-OD
 msgid "Otjozondjupa"
 msgstr "Otjozondjupa"
@@ -12556,10 +13515,6 @@ msgstr "Otjozondjupa"
 #. Name for NA-OH
 msgid "Omaheke"
 msgstr "Omaheke"
-
-#. Name for NA-OK
-msgid "Okavango"
-msgstr "Okawango"
 
 #. Name for NA-ON
 msgid "Oshana"
@@ -12666,7 +13621,9 @@ msgid "Enugu"
 msgstr "Enugu"
 
 #. Name for NG-FC
-msgid "Abuja Capital Territory"
+#, fuzzy
+#| msgid "Abuja Capital Territory"
+msgid "Abuja Federal Capital Territory"
 msgstr "Abudża (Federalne Terytorium Stołeczne)"
 
 #. Name for NG-GO
@@ -12710,7 +13667,9 @@ msgid "Lagos"
 msgstr "Lagos"
 
 #. Name for NG-NA
-msgid "Nassarawa"
+#, fuzzy
+#| msgid "Nassarawa"
+msgid "Nasarawa"
 msgstr "Nassarawa"
 
 #. Name for NG-NI
@@ -12754,12 +13713,16 @@ msgid "Zamfara"
 msgstr "Zamfara"
 
 #. Name for NI-AN
-msgid "Atlántico Norte"
-msgstr "Atlántico Norte"
+#, fuzzy
+#| msgid "Camarines Norte"
+msgid "Costa Caribe Norte"
+msgstr "Camarines Norte"
 
 #. Name for NI-AS
-msgid "Atlántico Sur"
-msgstr "Atlántico Sur"
+#, fuzzy
+#| msgid "Camarines Sur"
+msgid "Costa Caribe Sur"
+msgstr "Camarines Sur"
 
 #. Name for NI-BO
 msgid "Boaco"
@@ -12830,8 +13793,8 @@ msgid "Flevoland"
 msgstr "Flevoland"
 
 #. Name for NL-FR
-msgid "Friesland"
-msgstr "Fryzja"
+msgid "Fryslân"
+msgstr ""
 
 #. Name for NL-GE
 msgid "Gelderland"
@@ -12869,81 +13832,21 @@ msgstr "Zelandia"
 msgid "Zuid-Holland"
 msgstr "Holandia Południowa"
 
-#. Name for NO-01
-msgid "Østfold"
-msgstr "Østfold"
-
-#. Name for NO-02
-msgid "Akershus"
-msgstr "Akershus"
-
 #. Name for NO-03
 msgid "Oslo"
 msgstr "Oslo"
-
-#. Name for NO-04
-msgid "Hedmark"
-msgstr "Hedmark"
-
-#. Name for NO-05
-msgid "Oppland"
-msgstr "Oppland"
-
-#. Name for NO-06
-msgid "Buskerud"
-msgstr "Buskerud"
-
-#. Name for NO-07
-msgid "Vestfold"
-msgstr "Vestfold"
-
-#. Name for NO-08
-msgid "Telemark"
-msgstr "Telemark"
-
-#. Name for NO-09
-msgid "Aust-Agder"
-msgstr "Aust-Agder"
-
-#. Name for NO-10
-msgid "Vest-Agder"
-msgstr "Vest-Agder"
 
 #. Name for NO-11
 msgid "Rogaland"
 msgstr "Rogaland"
 
-#. Name for NO-12
-msgid "Hordaland"
-msgstr "Hordaland"
-
-#. Name for NO-14
-msgid "Sogn og Fjordane"
-msgstr "Sogn og Fjordane"
-
 #. Name for NO-15
 msgid "Møre og Romsdal"
 msgstr "Møre og Romsdal"
 
-#. Name for NO-16
-msgid "Sør-Trøndelag"
-msgstr "Sør-Trøndelag"
-
-#. Name for NO-17
-msgid "Nord-Trøndelag"
-msgstr "Nord-Trøndelag"
-
 #. Name for NO-18
 msgid "Nordland"
 msgstr "Nordland"
-
-#. Name for NO-19
-msgid "Troms"
-msgstr "Troms"
-
-#. Name for NO-20
-msgid "Finnmark"
-msgstr "Finnmark"
 
 #. Name for NO-21
 msgid "Svalbard (Arctic Region)"
@@ -12953,25 +13856,57 @@ msgstr "Svalbard (terytorium arktyczne)"
 msgid "Jan Mayen (Arctic Region)"
 msgstr "Jan Mayen (terytorium arktyczne)"
 
-#. Name for NP-1
-msgid "Madhyamanchal"
-msgstr "Madhyamańćal Wikas Kszetr"
+#. Name for NO-30
+msgid "Viken"
+msgstr ""
 
+#. Name for NO-34
+#, fuzzy
+#| msgid "England"
+msgid "Innlandet"
+msgstr "Anglia"
+
+#. Name for NO-38
+msgid "Vestfold og Telemark"
+msgstr ""
+
+#. Name for NO-42
+#, fuzzy
+#| msgid "Aust-Agder"
+msgid "Agder"
+msgstr "Aust-Agder"
+
+#. Name for NO-46
+#, fuzzy
+#| msgid "Vesturland"
+msgid "Vestland"
+msgstr "Vesturland"
+
+#. Name for NO-50
+#, fuzzy
+#| msgid "Trøndelag"
+msgid "Trööndelage"
+msgstr "Trøndelag"
+
+#. Name for NO-54
+msgid "Romssa ja Finnmárkku"
+msgstr ""
+
+# XXX: massive msgid conflict
 #. Name for NP-2
-msgid "Madhya Pashchimanchal"
-msgstr "Madhja-Paśćimańćal Wikas Kszekr"
+#, fuzzy
+#| msgid "Western"
+msgid "Mid Western"
+msgstr ""
+"Dystrykt Zachodni / Region Zachodni / Western Division / Prowincja Zachodnia"
 
-#. Name for NP-3
-msgid "Pashchimanchal"
-msgstr "Paśćimańćal Wikas Kszekr"
-
-#. Name for NP-4
-msgid "Purwanchal"
-msgstr "Purwańćal Wikas Kszekr"
-
+# XXX: massive msgid conflict
 #. Name for NP-5
-msgid "Sudur Pashchimanchal"
-msgstr "Sudur Paśćimańćal Wikas Kszekr"
+#, fuzzy
+#| msgid "Western"
+msgid "Far Western"
+msgstr ""
+"Dystrykt Zachodni / Region Zachodni / Western Division / Prowincja Zachodnia"
 
 #. Name for NP-BA
 msgid "Bagmati"
@@ -12985,7 +13920,7 @@ msgstr "Bheri"
 msgid "Dhawalagiri"
 msgstr "Dhawalagiri"
 
-#. Name for NP-GA
+#. Name for NP-GA, Name for NP-P4
 msgid "Gandaki"
 msgstr "Gandaki"
 
@@ -12993,7 +13928,7 @@ msgstr "Gandaki"
 msgid "Janakpur"
 msgstr "Janakpur"
 
-#. Name for NP-KA
+#. Name for NP-KA, Name for NP-P6
 msgid "Karnali"
 msgstr "Karnali"
 
@@ -13016,6 +13951,36 @@ msgstr "Mechi"
 #. Name for NP-NA
 msgid "Narayani"
 msgstr "Narayani"
+
+#. Name for NP-P1
+#, fuzzy
+#| msgid "Princes Town"
+msgid "Province 1"
+msgstr "Princes Town"
+
+#. Name for NP-P2
+#, fuzzy
+#| msgid "Princes Town"
+msgid "Province 2"
+msgstr "Princes Town"
+
+#. Name for NP-P3
+#, fuzzy
+#| msgid "Bagmati"
+msgid "Bāgmatī"
+msgstr "Bagmati"
+
+#. Name for NP-P5
+#, fuzzy
+#| msgid "Princes Town"
+msgid "Province 5"
+msgstr "Princes Town"
+
+#. Name for NP-P7
+#, fuzzy
+#| msgid "Sudur Pashchimanchal"
+msgid "Sudūr Pashchim"
+msgstr "Sudur Paśćimańćal Wikas Kszekr"
 
 #. Name for NP-RA
 msgid "Rapti"
@@ -13046,7 +14011,9 @@ msgid "Anibare"
 msgstr "Anibare"
 
 #. Name for NR-05
-msgid "Baiti"
+#, fuzzy
+#| msgid "Baiti"
+msgid "Baitsi"
 msgstr "Baiti"
 
 #. Name for NR-06
@@ -13102,7 +14069,9 @@ msgid "Chatham Islands Territory"
 msgstr "Wyspy Chatham"
 
 #. Name for NZ-GIS
-msgid "Gisborne District"
+#, fuzzy
+#| msgid "Gisborne District"
+msgid "Gisborne"
 msgstr "Gisborne"
 
 #. Name for NZ-HKB
@@ -13110,19 +14079,19 @@ msgid "Hawke's Bay"
 msgstr "Hawke's Bay"
 
 #. Name for NZ-MBH
-msgid "Marlborough District"
+#, fuzzy
+#| msgid "Marlborough District"
+msgid "Marlborough"
 msgstr "Marlborough"
 
 #. Name for NZ-MWT
 msgid "Manawatu-Wanganui"
 msgstr "Manawatu-Wanganui"
 
-#. Name for NZ-N
-msgid "North Island"
-msgstr "Wyspa Północna"
-
 #. Name for NZ-NSN
-msgid "Nelson City"
+#, fuzzy
+#| msgid "Nelson City"
+msgid "Nelson"
 msgstr "Nelson"
 
 #. Name for NZ-NTL
@@ -13133,17 +14102,15 @@ msgstr "Northland"
 msgid "Otago"
 msgstr "Otago"
 
-#. Name for NZ-S
-msgid "South Island"
-msgstr "Wyspa Południowa"
-
 #. Name for NZ-STL
 msgid "Southland"
 msgstr "Southland"
 
 #. Name for NZ-TAS
-msgid "Tasman District"
-msgstr "Tasman"
+#, fuzzy
+#| msgid "Tasmania"
+msgid "Tasman"
+msgstr "Tasmania"
 
 #. Name for NZ-TKI
 msgid "Taranaki"
@@ -13161,8 +14128,16 @@ msgstr "Waikato"
 msgid "West Coast"
 msgstr "West Coast"
 
-#. Name for OM-BA
-msgid "Al Bāţinah"
+#. Name for OM-BJ
+#, fuzzy
+#| msgid "Al Bāţinah"
+msgid "Janūb al Bāţinah"
+msgstr "Al-Batina"
+
+#. Name for OM-BS
+#, fuzzy
+#| msgid "Al Bāţinah"
+msgid "Shamāl al Bāţinah"
 msgstr "Al-Batina"
 
 #. Name for OM-BU
@@ -13170,7 +14145,9 @@ msgid "Al Buraymī"
 msgstr "Al-Burajmi"
 
 #. Name for OM-DA
-msgid "Ad Dākhilīya"
+#, fuzzy
+#| msgid "Ad Dākhilīya"
+msgid "Ad Dākhilīyah"
 msgstr "ad-Dachilijja"
 
 #. Name for OM-MA
@@ -13180,6 +14157,22 @@ msgstr "Maskat"
 #. Name for OM-MU
 msgid "Musandam"
 msgstr "Musandam"
+
+#. Name for OM-SJ
+#, fuzzy
+#| msgid "Ash Sharqīyah"
+msgid "Janūb ash Sharqīyah"
+msgstr "Asz-Szarkijja"
+
+#. Name for OM-SS
+#, fuzzy
+#| msgid "Ash Sharqīyah"
+msgid "Shamāl ash Sharqīyah"
+msgstr "Asz-Szarkijja"
+
+#. Name for OM-WU
+msgid "Al Wusţá"
+msgstr "Gubernatorstwo Centralne"
 
 #. Name for OM-ZA
 msgid "Az̧ Z̧āhirah"
@@ -13192,6 +14185,12 @@ msgstr "Zufar"
 #. Name for PA-1
 msgid "Bocas del Toro"
 msgstr "Bocas del Toro"
+
+#. Name for PA-10
+#, fuzzy
+#| msgid "Panamá"
+msgid "Panamá Oeste"
+msgstr "Panamá"
 
 #. Name for PA-2
 msgid "Coclé"
@@ -13226,20 +14225,28 @@ msgid "Emberá"
 msgstr "Emberá"
 
 #. Name for PA-KY
-msgid "Kuna Yala"
+#, fuzzy
+#| msgid "Kuna Yala"
+msgid "Guna Yala"
 msgstr "Kuna Yala"
 
 #. Name for PA-NB
 msgid "Ngöbe-Buglé"
 msgstr "Ngöbe-Buglé"
 
+#. Name for PE-AMA
+msgid "Amarumayu"
+msgstr ""
+
 #. Name for PE-ANC
 msgid "Ancash"
 msgstr "Ancash"
 
 #. Name for PE-APU
-msgid "Apurímac"
-msgstr "Apurímac"
+#, fuzzy
+#| msgid "Arima"
+msgid "Apurimaq"
+msgstr "Arima"
 
 #. Name for PE-ARE
 msgid "Arequipa"
@@ -13258,8 +14265,8 @@ msgid "El Callao"
 msgstr "Callao"
 
 #. Name for PE-CUS
-msgid "Cusco [Cuzco]"
-msgstr "Cuzco"
+msgid "Cusco"
+msgstr ""
 
 #. Name for PE-HUC
 msgid "Huánuco"
@@ -13274,8 +14281,8 @@ msgid "Ica"
 msgstr "Ica"
 
 #. Name for PE-JUN
-msgid "Junín"
-msgstr "Junín"
+msgid "Hunin"
+msgstr ""
 
 #. Name for PE-LAL, Name for SV-LI
 msgid "La Libertad"
@@ -13290,8 +14297,8 @@ msgid "Lima"
 msgstr "Lima"
 
 #. Name for PE-LMA
-msgid "Municipalidad Metropolitana de Lima"
-msgstr "Prowincja Lima"
+msgid "Lima hatun llaqta"
+msgstr ""
 
 #. Name for PE-LOR
 msgid "Loreto"
@@ -13318,8 +14325,10 @@ msgid "Puno"
 msgstr "Puno"
 
 #. Name for PE-SAM
-msgid "San Martín"
-msgstr "San Martín"
+#, fuzzy
+#| msgid "San Marino"
+msgid "San Martin"
+msgstr "San Marino"
 
 #. Name for PE-TAC
 msgid "Tacna"
@@ -13357,6 +14366,14 @@ msgstr "Sepik Wschodni"
 msgid "Gulf"
 msgstr "Gulf"
 
+#. Name for PG-HLA
+msgid "Hela"
+msgstr ""
+
+#. Name for PG-JWK
+msgid "Jiwaka"
+msgstr ""
+
 #. Name for PG-MBA
 msgid "Milne Bay"
 msgstr "Milne Bay"
@@ -13386,8 +14403,10 @@ msgid "Bougainville"
 msgstr "Bougainville"
 
 #. Name for PG-SAN
-msgid "Sandaun"
-msgstr "Sandaun"
+#, fuzzy
+#| msgid "East Sepik"
+msgid "West Sepik"
+msgstr "Sepik Wschodni"
 
 #. Name for PG-SHM
 msgid "Southern Highlands"
@@ -13462,12 +14481,16 @@ msgid "Cordillera Administrative Region (CAR)"
 msgstr "Cordillera Administrative Region (CAR)"
 
 #. Name for PH-40
-msgid "CALABARZON (Region IV-A)"
-msgstr "CALABARZON (Region IV-A)"
+#, fuzzy
+#| msgid "Davao (Region XI)"
+msgid "Calabarzon (Region IV-A)"
+msgstr "Davao (Region XI)"
 
 #. Name for PH-41
-msgid "MIMAROPA (Region IV-B)"
-msgstr "MIMAROPA (Region IV-B)"
+#, fuzzy
+#| msgid "Bicol (Region V)"
+msgid "Mimaropa (Region IV-B)"
+msgstr "Bicol (Region V)"
 
 #. Name for PH-ABR
 msgid "Abra"
@@ -13502,7 +14525,9 @@ msgid "Aurora"
 msgstr "Aurora"
 
 #. Name for PH-BAN
-msgid "Batasn"
+#, fuzzy
+#| msgid "Batasn"
+msgid "Bataan"
 msgstr "Bataan Peninsula"
 
 #. Name for PH-BAS
@@ -13570,8 +14595,10 @@ msgid "Cebu"
 msgstr "Cebu"
 
 #. Name for PH-COM
-msgid "Compostela Valley"
-msgstr "Compostela Valley"
+#, fuzzy
+#| msgid "Davao del Sur"
+msgid "Davao de Oro"
+msgstr "Davao del Sur"
 
 #. Name for PH-DAO
 msgid "Davao Oriental"
@@ -13588,6 +14615,12 @@ msgstr "Davao del Norte"
 #. Name for PH-DIN
 msgid "Dinagat Islands"
 msgstr "Dinagat Islands"
+
+#. Name for PH-DVO
+#, fuzzy
+#| msgid "Davao Oriental"
+msgid "Davao Occidental"
+msgstr "Davao Oriental"
 
 #. Name for PH-EAS
 msgid "Eastern Samar"
@@ -13618,8 +14651,10 @@ msgid "Isabela"
 msgstr "Isabela"
 
 #. Name for PH-KAL
-msgid "Kalinga-Apayso"
-msgstr "Kalinga-Apayao"
+#, fuzzy
+#| msgid "Ealing"
+msgid "Kalinga"
+msgstr "Ealing"
 
 #. Name for PH-LAG
 msgid "Laguna"
@@ -13674,7 +14709,9 @@ msgid "Misamis Oriental"
 msgstr "Misamis Oriental"
 
 #. Name for PH-NCO
-msgid "North Cotabato"
+#, fuzzy
+#| msgid "North Cotabato"
+msgid "Cotabato"
 msgstr "North Cotabato"
 
 #. Name for PH-NEC
@@ -13770,8 +14807,10 @@ msgid "Tawi-Tawi"
 msgstr "Tawi-Tawi"
 
 #. Name for PH-WSA
-msgid "Western Samar"
-msgstr "Western Samar"
+#, fuzzy
+#| msgid "Samarqand"
+msgid "Samar"
+msgstr "wilajet samarkandzki"
 
 #. Name for PH-ZAN
 msgid "Zamboanga del Norte"
@@ -13802,8 +14841,10 @@ msgid "Islamabad"
 msgstr "Islamabad"
 
 #. Name for PK-JK
-msgid "Azad Kashmir"
-msgstr "Azad Kaszmir"
+#, fuzzy
+#| msgid "Jammu and Kashmir"
+msgid "Azad Jammu and Kashmir"
+msgstr "Dżammu i Kaszmir"
 
 #. Name for PK-KP
 msgid "Khyber Pakhtunkhwa"
@@ -13813,71 +14854,67 @@ msgstr "Chajber Pachtunchwa"
 msgid "Sindh"
 msgstr "Sindh"
 
-#. Name for PK-TA
-msgid "Federally Administered Tribal Areas"
-msgstr "Terytoria Plemienne Administrowane Federalnie"
-
-#. Name for PL-DS
+#. Name for PL-02
 msgid "Dolnośląskie"
 msgstr "dolnośląskie"
 
-#. Name for PL-KP
+#. Name for PL-04
 msgid "Kujawsko-pomorskie"
 msgstr "kujawsko-pomorskie"
 
-#. Name for PL-LB
-msgid "Lubuskie"
-msgstr "lubuskie"
-
-#. Name for PL-LD
-msgid "Łódzkie"
-msgstr "łódzkie"
-
-#. Name for PL-LU
+#. Name for PL-06
 msgid "Lubelskie"
 msgstr "lubelskie"
 
-#. Name for PL-MA
+#. Name for PL-08
+msgid "Lubuskie"
+msgstr "lubuskie"
+
+#. Name for PL-10
+msgid "Łódzkie"
+msgstr "łódzkie"
+
+#. Name for PL-12
 msgid "Małopolskie"
 msgstr "małopolskie"
 
-#. Name for PL-MZ
+#. Name for PL-14
 msgid "Mazowieckie"
 msgstr "mazowieckie"
 
-#. Name for PL-OP
+#. Name for PL-16
 msgid "Opolskie"
 msgstr "opolskie"
 
-#. Name for PL-PD
-msgid "Podlaskie"
-msgstr "podlaskie"
-
-#. Name for PL-PK
+#. Name for PL-18
 msgid "Podkarpackie"
 msgstr "podkarpackie"
 
-#. Name for PL-PM
+#. Name for PL-20
+msgid "Podlaskie"
+msgstr "podlaskie"
+
+#. Name for PL-22
 msgid "Pomorskie"
 msgstr "pomorskie"
 
-#. Name for PL-SK
-msgid "Świętokrzyskie"
-msgstr "świętokrzyskie"
-
-#. Name for PL-SL
+#. Name for PL-24
 msgid "Śląskie"
 msgstr "śląskie"
 
-#. Name for PL-WN
+#. Name for PL-26
+msgid "Świętokrzyskie"
+msgstr "świętokrzyskie"
+
+#. Name for PL-28
 msgid "Warmińsko-mazurskie"
 msgstr "warmińsko-mazurskie"
 
-#. Name for PL-WP
+#. Name for PL-30
 msgid "Wielkopolskie"
 msgstr "wielkopolskie"
 
-#. Name for PL-ZP
+#. Name for PL-32
 msgid "Zachodniopomorskie"
 msgstr "zachodniopomorskie"
 
@@ -13902,7 +14939,9 @@ msgid "Jenin"
 msgstr "Dżanin"
 
 #. Name for PS-JRH
-msgid "Jericho - Al Aghwar"
+#, fuzzy
+#| msgid "Jericho - Al Aghwar"
+msgid "Jericho and Al Aghwar"
 msgstr "Jerycho"
 
 #. Name for PS-KYS
@@ -14034,7 +15073,9 @@ msgid "Angaur"
 msgstr "Angaur"
 
 #. Name for PW-050
-msgid "Hatobohei"
+#, fuzzy
+#| msgid "Hatobohei"
+msgid "Hatohobei"
 msgstr "Hatobohei"
 
 #. Name for PW-100
@@ -14150,7 +15191,9 @@ msgid "Asunción"
 msgstr "Asunción"
 
 #. Name for QA-DA
-msgid "Ad Dawhah"
+#, fuzzy
+#| msgid "Ad Dawhah"
+msgid "Ad Dawḩah"
 msgstr "Ad-Dauha"
 
 #. Name for QA-KH
@@ -14158,15 +15201,28 @@ msgid "Al Khawr wa adh Dhakhīrah"
 msgstr "Al-Chaur"
 
 #. Name for QA-MS
-msgid "Ash Shamal"
+#, fuzzy
+#| msgid "Ash Shamal"
+msgid "Ash Shamāl"
 msgstr "Asz-Szamal"
 
 #. Name for QA-RA
-msgid "Ar Rayyan"
+#, fuzzy
+#| msgid "Ar Rayyan"
+msgid "Ar Rayyān"
 msgstr "Ar-Rajjan"
 
+# XXX: msgid conflict
+#. Name for QA-SH
+#, fuzzy
+#| msgid "Ash Shamālīyah"
+msgid "Ash Shīḩānīyah"
+msgstr "Asz-Szimalijja / Prowincja Północna"
+
 #. Name for QA-US
-msgid "Umm Salal"
+#, fuzzy
+#| msgid "Umm Salal"
+msgid "Umm Şalāl"
 msgstr "Umm Salal"
 
 #. Name for QA-WA
@@ -14470,27 +15526,39 @@ msgid "Vojvodina"
 msgstr "Wojwodina"
 
 #. Name for RU-AD
-msgid "Adygeya, Respublika"
+#, fuzzy
+#| msgid "Adygeya, Respublika"
+msgid "Adygeja, Respublika"
 msgstr "Republika Adygei"
 
 #. Name for RU-AL
-msgid "Altay, Respublika"
+#, fuzzy
+#| msgid "Altay, Respublika"
+msgid "Altaj, Respublika"
 msgstr "Republika Ałtaju"
 
 #. Name for RU-ALT
-msgid "Altayskiy kray"
+#, fuzzy
+#| msgid "Altayskiy kray"
+msgid "Altajskij kraj"
 msgstr "Kraj Ałtajski"
 
 #. Name for RU-AMU
-msgid "Amurskaya oblast'"
+#, fuzzy
+#| msgid "Amurskaya oblast'"
+msgid "Amurskaja oblast'"
 msgstr "obwód amurski"
 
 #. Name for RU-ARK
-msgid "Arkhangel'skaya oblast'"
+#, fuzzy
+#| msgid "Arkhangel'skaya oblast'"
+msgid "Arhangel'skaja oblast'"
 msgstr "obwód archangielski"
 
 #. Name for RU-AST
-msgid "Astrakhanskaya oblast'"
+#, fuzzy
+#| msgid "Astrakhanskaya oblast'"
+msgid "Astrahanskaja oblast'"
 msgstr "obwód astrachański"
 
 #. Name for RU-BA
@@ -14498,15 +15566,21 @@ msgid "Bashkortostan, Respublika"
 msgstr "Republika Baszkirii"
 
 #. Name for RU-BEL
-msgid "Belgorodskaya oblast'"
+#, fuzzy
+#| msgid "Belgorodskaya oblast'"
+msgid "Belgorodskaja oblast'"
 msgstr "obwód biełgorodzki"
 
 #. Name for RU-BRY
-msgid "Bryanskaya oblast'"
+#, fuzzy
+#| msgid "Bryanskaya oblast'"
+msgid "Brjanskaja oblast'"
 msgstr "obwód briański"
 
 #. Name for RU-BU
-msgid "Buryatiya, Respublika"
+#, fuzzy
+#| msgid "Buryatiya, Respublika"
+msgid "Burjatija, Respublika"
 msgstr "Republika Buriacji"
 
 #. Name for RU-CE
@@ -14530,15 +15604,21 @@ msgid "Dagestan, Respublika"
 msgstr "Republika Dagestanu"
 
 #. Name for RU-IN
-msgid "Respublika Ingushetiya"
-msgstr "Republika Inguszetii"
+#, fuzzy
+#| msgid "Buryatiya, Respublika"
+msgid "Ingushetiya, Respublika"
+msgstr "Republika Buriacji"
 
 #. Name for RU-IRK
-msgid "Irkutiskaya oblast'"
+#, fuzzy
+#| msgid "Irkutiskaya oblast'"
+msgid "Irkutskaja oblast'"
 msgstr "obwód irkucki"
 
 #. Name for RU-IVA
-msgid "Ivanovskaya oblast'"
+#, fuzzy
+#| msgid "Ivanovskaya oblast'"
+msgid "Ivanovskaja oblast'"
 msgstr "obwód iwanowski"
 
 #. Name for RU-KAM
@@ -14546,7 +15626,9 @@ msgid "Kamchatskiy kray"
 msgstr "Kraj Kamczacki"
 
 #. Name for RU-KB
-msgid "Kabardino-Balkarskaya Respublika"
+#, fuzzy
+#| msgid "Kabardino-Balkarskaya Respublika"
+msgid "Kabardino-Balkarskaja Respublika"
 msgstr "Republika Kabardyjsko-Bałkarska"
 
 #. Name for RU-KC
@@ -14554,39 +15636,57 @@ msgid "Karachayevo-Cherkesskaya Respublika"
 msgstr "Republika Karaczajsko-Czerkieska"
 
 #. Name for RU-KDA
-msgid "Krasnodarskiy kray"
+#, fuzzy
+#| msgid "Krasnodarskiy kray"
+msgid "Krasnodarskij kraj"
 msgstr "Kraj Krasnodarski"
 
 #. Name for RU-KEM
-msgid "Kemerovskaya oblast'"
+#, fuzzy
+#| msgid "Kemerovskaya oblast'"
+msgid "Kemerovskaja oblast'"
 msgstr "obwód kemerowski"
 
 #. Name for RU-KGD
-msgid "Kaliningradskaya oblast'"
+#, fuzzy
+#| msgid "Kaliningradskaya oblast'"
+msgid "Kaliningradskaja oblast'"
 msgstr "obwód kaliningradzki"
 
 #. Name for RU-KGN
-msgid "Kurganskaya oblast'"
+#, fuzzy
+#| msgid "Kurganskaya oblast'"
+msgid "Kurganskaja oblast'"
 msgstr "obwód kurgański"
 
 #. Name for RU-KHA
-msgid "Khabarovskiy kray"
+#, fuzzy
+#| msgid "Khabarovskiy kray"
+msgid "Habarovskij kraj"
 msgstr "Kraj Chabarowski"
 
 #. Name for RU-KHM
-msgid "Khanty-Mansiysky avtonomnyy okrug-Yugra"
+#, fuzzy
+#| msgid "Khanty-Mansiysky avtonomnyy okrug-Yugra"
+msgid "Hanty-Mansijskij avtonomnyj okrug"
 msgstr "Chanty-Mansyjski Okręg Autonomiczny - Jugra"
 
 #. Name for RU-KIR
-msgid "Kirovskaya oblast'"
+#, fuzzy
+#| msgid "Kirovskaya oblast'"
+msgid "Kirovskaja oblast'"
 msgstr "obwód kirowski"
 
 #. Name for RU-KK
-msgid "Khakasiya, Respublika"
+#, fuzzy
+#| msgid "Khakasiya, Respublika"
+msgid "Hakasija, Respublika"
 msgstr "Republika Chakasji"
 
 #. Name for RU-KL
-msgid "Kalmykiya, Respublika"
+#, fuzzy
+#| msgid "Kalmykiya, Respublika"
+msgid "Kalmykija, Respublika"
 msgstr "Republika Kałmucji"
 
 #. Name for RU-KLU
@@ -14598,43 +15698,63 @@ msgid "Komi, Respublika"
 msgstr "Republika Komi"
 
 #. Name for RU-KOS
-msgid "Kostromskaya oblast'"
+#, fuzzy
+#| msgid "Kostromskaya oblast'"
+msgid "Kostromskaja oblast'"
 msgstr "obwód kostromski"
 
 #. Name for RU-KR
-msgid "Kareliya, Respublika"
+#, fuzzy
+#| msgid "Kareliya, Respublika"
+msgid "Karelija, Respublika"
 msgstr "Republika Karelii"
 
 #. Name for RU-KRS
-msgid "Kurskaya oblast'"
+#, fuzzy
+#| msgid "Kurskaya oblast'"
+msgid "Kurskaja oblast'"
 msgstr "obwód kurski"
 
 #. Name for RU-KYA
-msgid "Krasnoyarskiy kray"
-msgstr "Kraj Krasnojarski"
+#, fuzzy
+#| msgid "Krasnodarskiy kray"
+msgid "Krasnojarskij kraj"
+msgstr "Kraj Krasnodarski"
 
 #. Name for RU-LEN
-msgid "Leningradskaya oblast'"
+#, fuzzy
+#| msgid "Leningradskaya oblast'"
+msgid "Leningradskaja oblast'"
 msgstr "obwód leningradzki"
 
 #. Name for RU-LIP
-msgid "Lipetskaya oblast'"
+#, fuzzy
+#| msgid "Lipetskaya oblast'"
+msgid "Lipeckaja oblast'"
 msgstr "obwód lipiecki"
 
 #. Name for RU-MAG
-msgid "Magadanskaya oblast'"
+#, fuzzy
+#| msgid "Magadanskaya oblast'"
+msgid "Magadanskaja oblast'"
 msgstr "obwód magadański"
 
 #. Name for RU-ME
-msgid "Mariy El, Respublika"
+#, fuzzy
+#| msgid "Mariy El, Respublika"
+msgid "Marij Èl, Respublika"
 msgstr "Republika Maryjska"
 
 #. Name for RU-MO
-msgid "Mordoviya, Respublika"
+#, fuzzy
+#| msgid "Mordoviya, Respublika"
+msgid "Mordovija, Respublika"
 msgstr "Republika Mordwińska"
 
 #. Name for RU-MOS
-msgid "Moskovskaya oblast'"
+#, fuzzy
+#| msgid "Moskovskaya oblast'"
+msgid "Moskovskaja oblast'"
 msgstr "obwód moskiewski"
 
 #. Name for RU-MOW
@@ -14642,15 +15762,21 @@ msgid "Moskva"
 msgstr "Moskwa"
 
 #. Name for RU-MUR
-msgid "Murmanskaya oblast'"
+#, fuzzy
+#| msgid "Murmanskaya oblast'"
+msgid "Murmanskaja oblast'"
 msgstr "obwód murmański"
 
 #. Name for RU-NEN
-msgid "Nenetskiy avtonomnyy okrug"
+#, fuzzy
+#| msgid "Nenetskiy avtonomnyy okrug"
+msgid "Neneckij avtonomnyj okrug"
 msgstr "Nieniecki Okręg Autonomiczny"
 
 #. Name for RU-NGR
-msgid "Novgorodskaya oblast'"
+#, fuzzy
+#| msgid "Novgorodskaya oblast'"
+msgid "Novgorodskaja oblast'"
 msgstr "obwód nowogrodzki"
 
 #. Name for RU-NIZ
@@ -14658,67 +15784,99 @@ msgid "Nizhegorodskaya oblast'"
 msgstr "obwód niżnonowogrodzki"
 
 #. Name for RU-NVS
-msgid "Novosibirskaya oblast'"
+#, fuzzy
+#| msgid "Novosibirskaya oblast'"
+msgid "Novosibirskaja oblast'"
 msgstr "obwód nowosybirski"
 
 #. Name for RU-OMS
-msgid "Omskaya oblast'"
+#, fuzzy
+#| msgid "Omskaya oblast'"
+msgid "Omskaja oblast'"
 msgstr "obwód omski"
 
 #. Name for RU-ORE
-msgid "Orenburgskaya oblast'"
+#, fuzzy
+#| msgid "Orenburgskaya oblast'"
+msgid "Orenburgskaja oblast'"
 msgstr "obwód orenburski"
 
 #. Name for RU-ORL
-msgid "Orlovskaya oblast'"
+#, fuzzy
+#| msgid "Orlovskaya oblast'"
+msgid "Orlovskaja oblast'"
 msgstr "obwód orłowski"
 
 #. Name for RU-PER
-msgid "Permskiy kray"
+#, fuzzy
+#| msgid "Permskiy kray"
+msgid "Permskij kraj"
 msgstr "Kraj Permski"
 
 #. Name for RU-PNZ
-msgid "Penzenskaya oblast'"
+#, fuzzy
+#| msgid "Penzenskaya oblast'"
+msgid "Penzenskaja oblast'"
 msgstr "obwód penzeński"
 
 #. Name for RU-PRI
-msgid "Primorskiy kray"
+#, fuzzy
+#| msgid "Primorskiy kray"
+msgid "Primorskij kraj"
 msgstr "Kraj Nadmorski"
 
 #. Name for RU-PSK
-msgid "Pskovskaya oblast'"
+#, fuzzy
+#| msgid "Pskovskaya oblast'"
+msgid "Pskovskaja oblast'"
 msgstr "obwód pskowski"
 
 #. Name for RU-ROS
-msgid "Rostovskaya oblast'"
+#, fuzzy
+#| msgid "Rostovskaya oblast'"
+msgid "Rostovskaja oblast'"
 msgstr "obwód rostowski"
 
 #. Name for RU-RYA
-msgid "Ryazanskaya oblast'"
+#, fuzzy
+#| msgid "Ryazanskaya oblast'"
+msgid "Rjazanskaja oblast'"
 msgstr "obwód riazański"
 
 #. Name for RU-SA
-msgid "Sakha, Respublika [Yakutiya]"
-msgstr "Republika Sacha (Jakucja)"
+#, fuzzy
+#| msgid "Altay, Respublika"
+msgid "Saha, Respublika"
+msgstr "Republika Ałtaju"
 
 #. Name for RU-SAK
-msgid "Sakhalinskaya oblast'"
+#, fuzzy
+#| msgid "Sakhalinskaya oblast'"
+msgid "Sahalinskaja oblast'"
 msgstr "obwód sachaliński"
 
 #. Name for RU-SAM
-msgid "Samaraskaya oblast'"
+#, fuzzy
+#| msgid "Samaraskaya oblast'"
+msgid "Samarskaja oblast'"
 msgstr "obwód samarski"
 
 #. Name for RU-SAR
-msgid "Saratovskaya oblast'"
+#, fuzzy
+#| msgid "Saratovskaya oblast'"
+msgid "Saratovskaja oblast'"
 msgstr "obwód saratowski"
 
 #. Name for RU-SE
-msgid "Severnaya Osetiya-Alaniya, Respublika"
+#, fuzzy
+#| msgid "Severnaya Osetiya-Alaniya, Respublika"
+msgid "Severnaja Osetija, Respublika"
 msgstr "Republika Północnoosetyjska-Alania"
 
 #. Name for RU-SMO
-msgid "Smolenskaya oblast'"
+#, fuzzy
+#| msgid "Smolenskaya oblast'"
+msgid "Smolenskaja oblast'"
 msgstr "obwód smoleński"
 
 #. Name for RU-SPE
@@ -14726,11 +15884,15 @@ msgid "Sankt-Peterburg"
 msgstr "Sankt Petersburg"
 
 #. Name for RU-STA
-msgid "Stavropol'skiy kray"
+#, fuzzy
+#| msgid "Stavropol'skiy kray"
+msgid "Stavropol'skij kraj"
 msgstr "Kraj Stawropolski"
 
 #. Name for RU-SVE
-msgid "Sverdlovskaya oblast'"
+#, fuzzy
+#| msgid "Sverdlovskaya oblast'"
+msgid "Sverdlovskaja oblast'"
 msgstr "obwód swierdłowski"
 
 #. Name for RU-TA
@@ -14738,47 +15900,69 @@ msgid "Tatarstan, Respublika"
 msgstr "Republika Tatarstanu"
 
 #. Name for RU-TAM
-msgid "Tambovskaya oblast'"
+#, fuzzy
+#| msgid "Tambovskaya oblast'"
+msgid "Tambovskaja oblast'"
 msgstr "obwód tambowski"
 
 #. Name for RU-TOM
-msgid "Tomskaya oblast'"
+#, fuzzy
+#| msgid "Tomskaya oblast'"
+msgid "Tomskaja oblast'"
 msgstr "obwód tomski"
 
 #. Name for RU-TUL
-msgid "Tul'skaya oblast'"
+#, fuzzy
+#| msgid "Tul'skaya oblast'"
+msgid "Tul'skaja oblast'"
 msgstr "obwód tulski"
 
 #. Name for RU-TVE
-msgid "Tverskaya oblast'"
+#, fuzzy
+#| msgid "Tverskaya oblast'"
+msgid "Tverskaja oblast'"
 msgstr "obwód twerski"
 
 #. Name for RU-TY
-msgid "Tyva, Respublika [Tuva]"
+#, fuzzy
+#| msgid "Tyva, Respublika [Tuva]"
+msgid "Tyva, Respublika"
 msgstr "Republika Tuwy"
 
 #. Name for RU-TYU
-msgid "Tyumenskaya oblast'"
+#, fuzzy
+#| msgid "Tyumenskaya oblast'"
+msgid "Tjumenskaja oblast'"
 msgstr "obwód tiumeński"
 
 #. Name for RU-UD
-msgid "Udmurtskaya Respublika"
+#, fuzzy
+#| msgid "Udmurtskaya Respublika"
+msgid "Udmurtskaja Respublika"
 msgstr "Republika Udmurcka"
 
 #. Name for RU-ULY
-msgid "Ul'yanovskaya oblast'"
+#, fuzzy
+#| msgid "Ul'yanovskaya oblast'"
+msgid "Ul'janovskaja oblast'"
 msgstr "obwód uljanowski"
 
 #. Name for RU-VGG
-msgid "Volgogradskaya oblast'"
+#, fuzzy
+#| msgid "Volgogradskaya oblast'"
+msgid "Volgogradskaja oblast'"
 msgstr "obwód wołgogradzki"
 
 #. Name for RU-VLA
-msgid "Vladimirskaya oblast'"
+#, fuzzy
+#| msgid "Vladimirskaya oblast'"
+msgid "Vladimirskaja oblast'"
 msgstr "obwód włodzimierski"
 
 #. Name for RU-VLG
-msgid "Vologodskaya oblast'"
+#, fuzzy
+#| msgid "Vologodskaya oblast'"
+msgid "Vologodskaja oblast'"
 msgstr "obwód wołogodzki"
 
 #. Name for RU-VOR
@@ -14786,15 +15970,21 @@ msgid "Voronezhskaya oblast'"
 msgstr "obwód woroneski"
 
 #. Name for RU-YAN
-msgid "Yamalo-Nenetskiy avtonomnyy okrug"
+#, fuzzy
+#| msgid "Yamalo-Nenetskiy avtonomnyy okrug"
+msgid "Jamalo-Neneckij avtonomnyj okrug"
 msgstr "Jamalsko-Nieniecki Okręg Autonomiczny"
 
 #. Name for RU-YAR
-msgid "Yaroslavskaya oblast'"
+#, fuzzy
+#| msgid "Yaroslavskaya oblast'"
+msgid "Jaroslavskaja oblast'"
 msgstr "obwód jarosławski"
 
 #. Name for RU-YEV
-msgid "Yevreyskaya avtonomnaya oblast'"
+#, fuzzy
+#| msgid "Yevreyskaya avtonomnaya oblast'"
+msgid "Evrejskaja avtonomnaja oblast'"
 msgstr "Żydowski Obwód Autonomiczny"
 
 #. Name for RU-ZAB
@@ -14802,19 +15992,25 @@ msgid "Zabajkal'skij kraj"
 msgstr "Kraj Zabajkalski"
 
 #. Name for RW-01
-msgid "Ville de Kigali"
+#, fuzzy
+#| msgid "Ville de Kigali"
+msgid "City of Kigali"
 msgstr "Kigali"
 
 #. Name for SA-01
-msgid "Ar Riyāḍ"
+#, fuzzy
+#| msgid "Ar Riyāḍ"
+msgid "Ar Riyāḑ"
 msgstr "Rijad"
 
 #. Name for SA-02
-msgid "Makkah"
-msgstr "Mekka"
+msgid "Makkah al Mukarramah"
+msgstr ""
 
 #. Name for SA-03
-msgid "Al Madīnah"
+#, fuzzy
+#| msgid "Al Madīnah"
+msgid "Al Madīnah al Munawwarah"
 msgstr "Medyna"
 
 #. Name for SA-05
@@ -14822,7 +16018,9 @@ msgid "Al Qaşīm"
 msgstr "Al-Kasim"
 
 #. Name for SA-06
-msgid "Ḥā'il"
+#, fuzzy
+#| msgid "Ḥā'il"
+msgid "Ḩā'il"
 msgstr "Hail"
 
 #. Name for SA-07
@@ -14830,19 +16028,23 @@ msgid "Tabūk"
 msgstr "Tabuk"
 
 #. Name for SA-08
-msgid "Al Ḥudūd ash Shamāliyah"
+#, fuzzy
+#| msgid "Al Ḥudūd ash Shamāliyah"
+msgid "Al Ḩudūd ash Shamālīyah"
 msgstr "Al-Hudud asz-Szamalija"
 
 #. Name for SA-09
-msgid "Jīzan"
-msgstr "Dżizan"
+msgid "Jāzān"
+msgstr ""
 
 #. Name for SA-10
 msgid "Najrān"
 msgstr "Nadżran"
 
 #. Name for SA-11
-msgid "Al Bāhah"
+#, fuzzy
+#| msgid "Al Bāhah"
+msgid "Al Bāḩah"
 msgstr "Al-Baha"
 
 #. Name for SA-12, Name for YE-JA
@@ -14850,12 +16052,10 @@ msgid "Al Jawf"
 msgstr "Al-Dżauf"
 
 #. Name for SA-14
-msgid "`Asīr"
+#, fuzzy
+#| msgid "`Asīr"
+msgid "'Asīr"
 msgstr "Asir"
-
-#. Name for SB-CH
-msgid "Choiseul"
-msgstr "Choiseul"
 
 #. Name for SB-CT
 msgid "Capital Territory (Honiara)"
@@ -14870,7 +16070,9 @@ msgid "Isabel"
 msgstr "Isabel"
 
 #. Name for SB-MK
-msgid "Makira"
+#, fuzzy
+#| msgid "Makira"
+msgid "Makira-Ulawa"
 msgstr "Makira-Ulawa"
 
 #. Name for SB-ML
@@ -14898,8 +16100,8 @@ msgid "Anse Etoile"
 msgstr "Anse Etoile"
 
 #. Name for SC-04
-msgid "Anse Louis"
-msgstr "Anse Louis"
+msgid "Au Cap"
+msgstr ""
 
 #. Name for SC-05
 msgid "Anse Royale"
@@ -14985,169 +16187,237 @@ msgstr "Les Mamelles"
 msgid "Roche Caiman"
 msgstr "Roche Caïman"
 
+#. Name for SC-26
+msgid "Ile Perseverance I"
+msgstr ""
+
+#. Name for SC-27
+msgid "Ile Perseverance II"
+msgstr ""
+
 #. Name for SD-DC
-msgid "Zalingei"
-msgstr "Zalinje"
+#, fuzzy
+#| msgid "Central Abaco"
+msgid "Central Darfur"
+msgstr "Central Abaco"
 
 #. Name for SD-DE
-msgid "Sharq Dārfūr"
-msgstr "Darfur Wschodni"
+#, fuzzy
+#| msgid "East Dunbartonshire"
+msgid "East Darfur"
+msgstr "East Dunbartonshire"
 
 #. Name for SD-DN
-msgid "Shamāl Dārfūr"
-msgstr "Darfur Północny"
+#, fuzzy
+#| msgid "North Dakota"
+msgid "North Darfur"
+msgstr "Dakota Północna"
 
 #. Name for SD-DS
-msgid "Janūb Dārfūr"
-msgstr "Darfur Południowy"
+#, fuzzy
+#| msgid "South Dakota"
+msgid "South Darfur"
+msgstr "Dakota Południowa"
 
 #. Name for SD-DW
-msgid "Gharb Dārfūr"
-msgstr "Darfur Zachodni"
+#, fuzzy
+#| msgid "West Dunbartonshire"
+msgid "West Darfur"
+msgstr "West Dunbartonshire"
 
 #. Name for SD-GD
-msgid "Al Qaḑārif"
-msgstr "Al-Kadarif"
+msgid "Gedaref"
+msgstr ""
+
+#. Name for SD-GK
+#, fuzzy
+#| msgid "West Lothian"
+msgid "West Kordofan"
+msgstr "West Lothian"
 
 #. Name for SD-GZ
-msgid "Al Jazīrah"
-msgstr "Al-Dżazira"
+msgid "Gezira"
+msgstr ""
 
 #. Name for SD-KA
-msgid "Kassalā"
+#, fuzzy
+#| msgid "Kassalā"
+msgid "Kassala"
 msgstr "Kassala"
 
 #. Name for SD-KH
-msgid "Al Kharţūm"
-msgstr "Chartum"
+msgid "Khartoum"
+msgstr ""
 
 #. Name for SD-KN
-msgid "Shamāl Kurdufān"
-msgstr "Kordofan Północny"
+#, fuzzy
+#| msgid "North Bank"
+msgid "North Kordofan"
+msgstr "North Bank"
 
 #. Name for SD-KS
-msgid "Janūb Kurdufān"
-msgstr "Kordofan Południowy"
+#, fuzzy
+#| msgid "South Carolina"
+msgid "South Kordofan"
+msgstr "Karolina Południowa"
 
 #. Name for SD-NB
-msgid "An Nīl al Azraq"
-msgstr "An-Nil al-Azrak"
+#, fuzzy
+#| msgid "Upper Nile"
+msgid "Blue Nile"
+msgstr "Nil Górny"
 
 #. Name for SD-NR
-msgid "An Nīl"
-msgstr "Nil"
+#, fuzzy
+#| msgid "Upper Nile"
+msgid "River Nile"
+msgstr "Nil Górny"
 
 #. Name for SD-NW
-msgid "An Nīl al Abyaḑ"
-msgstr "An-Nil al-Abjad"
+#, fuzzy
+#| msgid "Upper Nile"
+msgid "White Nile"
+msgstr "Nil Górny"
 
 #. Name for SD-RS
-msgid "Al Baḩr al Aḩmar"
-msgstr "Al-Bahr al-Ahmar"
+msgid "Red Sea"
+msgstr ""
 
 #. Name for SD-SI
-msgid "Sinnār"
-msgstr "Sannar"
+#, fuzzy
+#| msgid "Ravenna"
+msgid "Sennar"
+msgstr "Rawenna"
 
 #. Name for SE-AB
-msgid "Stockholms län"
+#, fuzzy
+#| msgid "Stockholms län"
+msgid "Stockholms län [SE-01]"
 msgstr "Sztokholm"
 
 #. Name for SE-AC
-msgid "Västerbottens län"
+#, fuzzy
+#| msgid "Västerbottens län"
+msgid "Västerbottens län [SE-24]"
 msgstr "Västerbotten"
 
 #. Name for SE-BD
-msgid "Norrbottens län"
+#, fuzzy
+#| msgid "Norrbottens län"
+msgid "Norrbottens län [SE-25]"
 msgstr "Norrbotten"
 
 #. Name for SE-C
-msgid "Uppsala län"
+#, fuzzy
+#| msgid "Uppsala län"
+msgid "Uppsala län [SE-03]"
 msgstr "Uppsala"
 
 #. Name for SE-D
-msgid "Södermanlands län"
+#, fuzzy
+#| msgid "Södermanlands län"
+msgid "Södermanlands län [SE-04]"
 msgstr "Södermanland"
 
 #. Name for SE-E
-msgid "Östergötlands län"
+#, fuzzy
+#| msgid "Östergötlands län"
+msgid "Östergötlands län [SE-05]"
 msgstr "Östergötland"
 
 #. Name for SE-F
-msgid "Jönköpings län"
+#, fuzzy
+#| msgid "Jönköpings län"
+msgid "Jönköpings län [SE-06]"
 msgstr "Jönköping"
 
 #. Name for SE-G
-msgid "Kronobergs län"
+#, fuzzy
+#| msgid "Kronobergs län"
+msgid "Kronobergs län [SE-07]"
 msgstr "Kronoberg"
 
 #. Name for SE-H
-msgid "Kalmar län"
+#, fuzzy
+#| msgid "Kalmar län"
+msgid "Kalmar län [SE-08]"
 msgstr "Kalmar"
 
 #. Name for SE-I
-msgid "Gotlands län"
+#, fuzzy
+#| msgid "Gotlands län"
+msgid "Gotlands län [SE-09]"
 msgstr "Gotland"
 
 #. Name for SE-K
-msgid "Blekinge län"
+#, fuzzy
+#| msgid "Blekinge län"
+msgid "Blekinge län [SE-10]"
 msgstr "Blekinge"
 
 #. Name for SE-M
-msgid "Skåne län"
+#, fuzzy
+#| msgid "Skåne län"
+msgid "Skåne län [SE-12]"
 msgstr "Skåne"
 
 #. Name for SE-N
-msgid "Hallands län"
+#, fuzzy
+#| msgid "Hallands län"
+msgid "Hallands län [SE-13]"
 msgstr "Halland"
 
 #. Name for SE-O
-msgid "Västra Götalands län"
+#, fuzzy
+#| msgid "Västra Götalands län"
+msgid "Västra Götalands län [SE-14]"
 msgstr "Västra Götaland"
 
 #. Name for SE-S
-msgid "Värmlands län"
+#, fuzzy
+#| msgid "Värmlands län"
+msgid "Värmlands län [SE-17]"
 msgstr "Värmland"
 
 #. Name for SE-T
-msgid "Örebro län"
+#, fuzzy
+#| msgid "Örebro län"
+msgid "Örebro län [SE-18]"
 msgstr "Örebro"
 
 #. Name for SE-U
-msgid "Västmanlands län"
+#, fuzzy
+#| msgid "Västmanlands län"
+msgid "Västmanlands län [SE-19]"
 msgstr "Västmanland"
 
 #. Name for SE-W
-msgid "Dalarnas län"
+#, fuzzy
+#| msgid "Dalarnas län"
+msgid "Dalarnas län [SE-20]"
 msgstr "Dalarna"
 
 #. Name for SE-X
-msgid "Gävleborgs län"
+#, fuzzy
+#| msgid "Gävleborgs län"
+msgid "Gävleborgs län [SE-21]"
 msgstr "Gävleborg"
 
 #. Name for SE-Y
-msgid "Västernorrlands län"
+#, fuzzy
+#| msgid "Västernorrlands län"
+msgid "Västernorrlands län [SE-22]"
 msgstr "Västernorrland"
 
 #. Name for SE-Z
-msgid "Jämtlands län"
+#, fuzzy
+#| msgid "Jämtlands län"
+msgid "Jämtlands län [SE-23]"
 msgstr "Jämtland"
 
 #. Name for SG-01
 msgid "Central Singapore"
 msgstr "Singapur Centralny"
-
-#. Name for SG-02
-msgid "North East"
-msgstr "Północno-Wschodni"
-
-#. Name for SG-03
-msgid "North West"
-msgstr "Północno-Zachodni"
-
-#. Name for SG-04
-msgid "South East"
-msgstr "Południowo-Wschodni"
 
 #. Name for SG-05
 msgid "South West"
@@ -15322,7 +16592,9 @@ msgid "Ivančna Gorica"
 msgstr "Ivančna Gorica"
 
 #. Name for SI-040
-msgid "Izola/Isola"
+#, fuzzy
+#| msgid "Izola/Isola"
+msgid "Izola"
 msgstr "Izola"
 
 #. Name for SI-041
@@ -15362,8 +16634,8 @@ msgid "Komen"
 msgstr "Komen"
 
 #. Name for SI-050
-msgid "Koper/Capodistria"
-msgstr "Koper"
+msgid "Koper"
+msgstr ""
 
 #. Name for SI-051
 msgid "Kozje"
@@ -15398,7 +16670,9 @@ msgid "Lenart"
 msgstr "Lenart"
 
 #. Name for SI-059
-msgid "Lendava/Lendva"
+#, fuzzy
+#| msgid "Lendava/Lendva"
+msgid "Lendava"
 msgstr "Lendava"
 
 #. Name for SI-060
@@ -15502,7 +16776,9 @@ msgid "Nova Gorica"
 msgstr "Nova Gorica"
 
 #. Name for SI-085
-msgid "Novo mesto"
+#, fuzzy
+#| msgid "Novo mesto"
+msgid "Novo Mesto"
 msgstr "Novo Mesto"
 
 #. Name for SI-086
@@ -15522,8 +16798,10 @@ msgid "Pesnica"
 msgstr "Pesnica"
 
 #. Name for SI-090
-msgid "Piran/Pirano"
-msgstr "Piran"
+#, fuzzy
+#| msgid "Tiranë"
+msgid "Piran"
+msgstr "Tirana"
 
 #. Name for SI-091
 msgid "Pivka"
@@ -15622,11 +16900,15 @@ msgid "Slovenske Konjice"
 msgstr "Slovenske Konjice"
 
 #. Name for SI-115
-msgid "Starče"
+#, fuzzy
+#| msgid "Starče"
+msgid "Starše"
 msgstr "Starše"
 
 #. Name for SI-116
-msgid "Sveti Jurij"
+#, fuzzy
+#| msgid "Sveti Jurij"
+msgid "Sveti Jurij ob Ščavnici"
 msgstr "Sveti Jurij"
 
 #. Name for SI-117
@@ -15782,7 +17064,9 @@ msgid "Dobrna"
 msgstr "Dobrna"
 
 #. Name for SI-156
-msgid "Dobrovnik/Dobronak"
+#, fuzzy
+#| msgid "Dobrovnik/Dobronak"
+msgid "Dobrovnik"
 msgstr "Dobrovnik"
 
 #. Name for SI-157
@@ -15802,7 +17086,9 @@ msgid "Hoče-Slivnica"
 msgstr "Hoče-Slivnica"
 
 #. Name for SI-161
-msgid "Hodoš/Hodos"
+#, fuzzy
+#| msgid "Hodoš/Hodos"
+msgid "Hodoš"
 msgstr "Hodoš"
 
 #. Name for SI-162
@@ -15886,7 +17172,9 @@ msgid "Sveta Ana"
 msgstr "Sveta Ana"
 
 #. Name for SI-182
-msgid "Sveta Andraž v Slovenskih Goricah"
+#, fuzzy
+#| msgid "Sveta Andraž v Slovenskih Goricah"
+msgid "Sveti Andraž v Slovenskih goricah"
 msgstr "Sveti Andraž v Slovenskih goricah"
 
 #. Name for SI-183
@@ -15898,7 +17186,9 @@ msgid "Tabor"
 msgstr "Tabor"
 
 #. Name for SI-185
-msgid "Trnovska vas"
+#, fuzzy
+#| msgid "Trnovska vas"
+msgid "Trnovska Vas"
 msgstr "Trnovska vas"
 
 #. Name for SI-186
@@ -15974,7 +17264,9 @@ msgid "Straža"
 msgstr "Straža"
 
 #. Name for SI-204
-msgid "Sveta Trojica v Slovenskih Goricah"
+#, fuzzy
+#| msgid "Sveta Trojica v Slovenskih Goricah"
+msgid "Sveta Trojica v Slovenskih goricah"
 msgstr "Sveta Trojica v Slovenskih Goricah"
 
 #. Name for SI-205
@@ -15982,7 +17274,9 @@ msgid "Sveti Tomaž"
 msgstr "Sveti Tomaž"
 
 #. Name for SI-206
-msgid "Šmarjeske Topliče"
+#, fuzzy
+#| msgid "Šmarjeske Topliče"
+msgid "Šmarješke Toplice"
 msgstr "Šmarjeske Topliče"
 
 #. Name for SI-207
@@ -15998,12 +17292,26 @@ msgid "Rečica ob Savinji"
 msgstr "Rečica ob Savinji"
 
 #. Name for SI-210
-msgid "Sveti Jurij v Slovenskih Goricah"
+#, fuzzy
+#| msgid "Sveti Jurij v Slovenskih Goricah"
+msgid "Sveti Jurij v Slovenskih goricah"
 msgstr "Sveti Jurij v Slovenskih Goricah"
 
 #. Name for SI-211
 msgid "Šentrupert"
 msgstr "Šentrupert"
+
+#. Name for SI-212
+#, fuzzy
+#| msgid "Mirna Peč"
+msgid "Mirna"
+msgstr "Mirna Peč"
+
+#. Name for SI-213
+#, fuzzy
+#| msgid "Ankara"
+msgid "Ankaran"
+msgstr "Ankara"
 
 #. Name for SK-BC
 msgid "Banskobystrický kraj"
@@ -16037,9 +17345,11 @@ msgstr "Kraj trenczyński"
 msgid "Žilinský kraj"
 msgstr "Kraj żyliński"
 
-#. Name for SL-S
-msgid "Southern (Sierra Leone)"
-msgstr "Prowincja Południowa"
+#. Name for SL-NW
+#, fuzzy
+#| msgid "North-Western"
+msgid "North Western"
+msgstr "Prowincja Północno-Zachodnia"
 
 #. Name for SL-W
 msgid "Western Area (Freetown)"
@@ -16070,7 +17380,9 @@ msgid "Borgo Maggiore"
 msgstr "Borgo Maggiore"
 
 #. Name for SM-07
-msgid "San Marino"
+#, fuzzy
+#| msgid "San Marino"
+msgid "Città di San Marino"
 msgstr "San Marino"
 
 #. Name for SM-08
@@ -16162,7 +17474,9 @@ msgid "Gedo"
 msgstr "Gedo"
 
 #. Name for SO-HI
-msgid "Hiirsan"
+#, fuzzy
+#| msgid "Hiirsan"
+msgid "Hiiraan"
 msgstr "Hiiraan"
 
 #. Name for SO-JD
@@ -16182,8 +17496,8 @@ msgid "Nugaal"
 msgstr "Nugaal"
 
 #. Name for SO-SA
-msgid "Saneag"
-msgstr "Sanaag"
+msgid "Sanaag"
+msgstr ""
 
 #. Name for SO-SD
 msgid "Shabeellaha Dhexe"
@@ -16285,13 +17599,39 @@ msgstr "Unity"
 msgid "Warrap"
 msgstr "Warrap"
 
+#. Name for ST-01
+#, fuzzy
+#| msgid "Sangre Grande"
+msgid "Água Grande"
+msgstr "Sangre Grande"
+
+#. Name for ST-02
+#, fuzzy
+#| msgid "Cantal"
+msgid "Cantagalo"
+msgstr "Cantal"
+
+#. Name for ST-03
+msgid "Caué"
+msgstr ""
+
+#. Name for ST-04
+msgid "Lembá"
+msgstr ""
+
+#. Name for ST-05
+#, fuzzy
+#| msgid "Lobaye"
+msgid "Lobata"
+msgstr "Lobaye"
+
+#. Name for ST-06
+msgid "Mé-Zóchi"
+msgstr ""
+
 #. Name for ST-P
 msgid "Príncipe"
 msgstr "Wyspa Książęca"
-
-#. Name for ST-S
-msgid "São Tomé"
-msgstr "Wyspa Świętego Tomasza"
 
 #. Name for SV-AH
 msgid "Ahuachapán"
@@ -16342,7 +17682,9 @@ msgid "Dimashq"
 msgstr "Damaszek"
 
 #. Name for SY-DR
-msgid "Dar'a"
+#, fuzzy
+#| msgid "Dar'a"
+msgid "Dar'ā"
 msgstr "Dara"
 
 #. Name for SY-DY
@@ -16350,31 +17692,39 @@ msgid "Dayr az Zawr"
 msgstr "Dajr az-Zaur"
 
 #. Name for SY-HA
-msgid "Al Hasakah"
+#, fuzzy
+#| msgid "Al Hasakah"
+msgid "Al Ḩasakah"
 msgstr "Al-Hasaka"
 
 #. Name for SY-HI
-msgid "Homs"
-msgstr "Hims"
+msgid "Ḩimş"
+msgstr ""
 
 #. Name for SY-HL
-msgid "Halab"
+#, fuzzy
+#| msgid "Halab"
+msgid "Ḩalab"
 msgstr "Aleppo"
 
 #. Name for SY-HM
-msgid "Hamah"
-msgstr "Hama"
+msgid "Ḩamāh"
+msgstr ""
 
 #. Name for SY-ID
 msgid "Idlib"
 msgstr "Idlib"
 
 #. Name for SY-LA
-msgid "Al Ladhiqiyah"
+#, fuzzy
+#| msgid "Al Ladhiqiyah"
+msgid "Al Lādhiqīyah"
 msgstr "Latakia"
 
 #. Name for SY-QU
-msgid "Al Qunaytirah"
+#, fuzzy
+#| msgid "Al Qunaytirah"
+msgid "Al Qunayţirah"
 msgstr "Al-Kunajtira"
 
 #. Name for SY-RA
@@ -16382,16 +17732,20 @@ msgid "Ar Raqqah"
 msgstr "Ar-Rakka"
 
 #. Name for SY-RD
-msgid "Rif Dimashq"
+#, fuzzy
+#| msgid "Rif Dimashq"
+msgid "Rīf Dimashq"
 msgstr "Damaszek-Okręg"
 
 #. Name for SY-SU
-msgid "As Suwayda'"
+#, fuzzy
+#| msgid "As Suwayda'"
+msgid "As Suwaydā'"
 msgstr "As-Suwajda"
 
 #. Name for SY-TA
-msgid "Tartus"
-msgstr "Tartus"
+msgid "Ţarţūs"
+msgstr ""
 
 #. Name for SZ-HH
 msgid "Hhohho"
@@ -16410,115 +17764,134 @@ msgid "Shiselweni"
 msgstr "Shiselweni"
 
 #. Name for TD-BA
-msgid "Al Baṭḩah"
-msgstr "Batha"
+#, fuzzy
+#| msgid "Al Bayḑā'"
+msgid "Al Baţḩā’"
+msgstr "Al-Bajda"
 
 #. Name for TD-BG
-msgid "Baḩr al Ghazāl"
-msgstr "Bahr El Gazel"
+#, fuzzy
+#| msgid "Western Bahr el Ghazal"
+msgid "Bahr el Ghazal"
+msgstr "Bahr el Ghazal Zachodni"
 
 #. Name for TD-BO
-msgid "Būrkū"
-msgstr "Borkou"
+msgid "Borkou"
+msgstr ""
 
 #. Name for TD-CB
-msgid "Shārī Bāqirmī"
-msgstr "Chari-Baguirmi"
+msgid "Chari-Baguirmi"
+msgstr ""
 
-#. Name for TD-EN
-msgid "Innīdī"
-msgstr "Ennedi"
+#. Name for TD-EE
+#, fuzzy
+#| msgid "Grand-Est"
+msgid "Ennedi-Est"
+msgstr "Grand Est"
+
+#. Name for TD-EO
+#, fuzzy
+#| msgid "Centre-Ouest"
+msgid "Ennedi-Ouest"
+msgstr "Centre-Ouest"
 
 #. Name for TD-GR
-msgid "Qīrā"
-msgstr "Guéra"
+msgid "Guéra"
+msgstr ""
 
 #. Name for TD-HL
-msgid "Ḥajjar Lamīs"
-msgstr "Hadjer-Lamis"
+msgid "Hadjer Lamis"
+msgstr ""
 
 #. Name for TD-KA
-msgid "Kānim"
-msgstr "Kanem"
-
-#. Name for TD-LC
-msgid "Al Buḩayrah"
-msgstr "Lac"
+msgid "Kanem"
+msgstr ""
 
 #. Name for TD-LO
-msgid "Lūqūn al Gharbī"
-msgstr "Logone Occidental"
+#, fuzzy
+#| msgid "Negros Occidental"
+msgid "Logone-Occidental"
+msgstr "Negros Occidental"
 
 #. Name for TD-LR
-msgid "Lūqūn ash Sharqī"
-msgstr "Logone Oriental"
+#, fuzzy
+#| msgid "L'Oriental"
+msgid "Logone-Oriental"
+msgstr "Region Wschodni"
 
 #. Name for TD-MA
-msgid "Māndūl"
-msgstr "Mandoul"
+#, fuzzy
+#| msgid "Pando"
+msgid "Mandoul"
+msgstr "Pando"
 
 #. Name for TD-MC
-msgid "Shārī al Awsaṭ"
-msgstr "Moyen-Chari"
+msgid "Moyen-Chari"
+msgstr ""
 
 #. Name for TD-ME
-msgid "Māyū Kībbī ash Sharqī"
-msgstr "Mayo-Kebbi Est"
+msgid "Mayo-Kebbi-Est"
+msgstr ""
 
 #. Name for TD-MO
-msgid "Māyū Kībbī al Gharbī"
-msgstr "Mayo-Kebbi Ouest"
+msgid "Mayo-Kebbi-Ouest"
+msgstr ""
 
 #. Name for TD-ND
 msgid "Madīnat Injamīnā"
 msgstr "Ndżamena"
 
 #. Name for TD-OD
-msgid "Waddāy"
-msgstr "Ouaddaï"
+msgid "Ouaddaï"
+msgstr ""
 
 #. Name for TD-SA
-msgid "Salāmāt"
-msgstr "Salamat"
+#, fuzzy
+#| msgid "Salamanca"
+msgid "Salamat"
+msgstr "Salamanka"
 
 #. Name for TD-SI
-msgid "Sīlā"
-msgstr "Sila"
+msgid "Sila"
+msgstr ""
 
 #. Name for TD-TA
-msgid "Tānjilī"
-msgstr "Tandjilé"
+msgid "Tandjilé"
+msgstr ""
 
 #. Name for TD-TI
 msgid "Tibastī"
 msgstr "Tibesti"
 
 #. Name for TD-WF
-msgid "Wādī Fīrā"
-msgstr "Wadi Fira"
+msgid "Wadi Fira"
+msgstr ""
 
+# XXX: enormous msgid conflict
 #. Name for TG-C
-msgid "Région du Centre"
-msgstr "Region Centrale"
+#, fuzzy
+#| msgid "Central"
+msgid "Centrale"
+msgstr ""
+"Dystrykt Centralny / Region Centralny / Prowincja Centralna / Departament "
+"Centralny"
 
 #. Name for TG-K
-msgid "Région de la Kara"
-msgstr "Region Kara"
+#, fuzzy
+#| msgid "Karas"
+msgid "Kara"
+msgstr "Karas"
 
 #. Name for TG-M
-msgid "Région Maritime"
-msgstr "Region Maritime"
-
-#. Name for TG-P
-msgid "Région des Plateaux"
-msgstr "Region Plateaux"
-
-#. Name for TG-S
-msgid "Région des Savannes"
-msgstr "Region Savanes"
+#, fuzzy
+#| msgid "Fromager (Région du)"
+msgid "Maritime (Région)"
+msgstr "Fromager"
 
 #. Name for TH-10
-msgid "Krung Thep Maha Nakhon Bangkok"
+#, fuzzy
+#| msgid "Krung Thep Maha Nakhon Bangkok"
+msgid "Krung Thep Maha Nakhon"
 msgstr "Bangkok"
 
 #. Name for TH-11
@@ -16620,6 +17993,12 @@ msgstr "Chaiyaphum"
 #. Name for TH-37
 msgid "Amnat Charoen"
 msgstr "Amnat Charoen"
+
+#. Name for TH-38
+#, fuzzy
+#| msgid "Stueng Traeng"
+msgid "Bueng Kan"
+msgstr "Stoeng Treng"
 
 #. Name for TH-39
 msgid "Nong Bua Lam Phu"
@@ -16825,13 +18204,21 @@ msgstr "Narathiwat"
 msgid "Phatthaya"
 msgstr "Pattaya"
 
+#. Name for TJ-DU
+msgid "Dushanbe"
+msgstr ""
+
 #. Name for TJ-GB
-msgid "Gorno-Badakhshan"
-msgstr "Górski Badachszan"
+msgid "Kŭhistoni Badakhshon"
+msgstr ""
 
 #. Name for TJ-KT
 msgid "Khatlon"
 msgstr "wilajet chatloński"
+
+#. Name for TJ-RA
+msgid "nohiyahoi tobei jumhurí"
+msgstr ""
 
 #. Name for TJ-SU
 msgid "Sughd"
@@ -16866,12 +18253,16 @@ msgid "Ermera"
 msgstr "Ermera"
 
 #. Name for TL-LA
-msgid "Lautem"
+#, fuzzy
+#| msgid "Lautem"
+msgid "Lautein"
 msgstr "Lautém"
 
 #. Name for TL-LI
-msgid "Liquiça"
-msgstr "Liquiçá"
+#, fuzzy
+#| msgid "Likiep"
+msgid "Likisá"
+msgstr "Likiep"
 
 #. Name for TL-MF
 msgid "Manufahi"
@@ -16882,12 +18273,12 @@ msgid "Manatuto"
 msgstr "Manatuto"
 
 #. Name for TL-OE
-msgid "Oecussi"
-msgstr "Oecussi"
+msgid "Oekusi-Ambenu"
+msgstr ""
 
 #. Name for TL-VI
-msgid "Viqueque"
-msgstr "Viqueque"
+msgid "Vikeke"
+msgstr ""
 
 #. Name for TM-A
 msgid "Ahal"
@@ -16918,7 +18309,9 @@ msgid "Tunis"
 msgstr "Tunis"
 
 #. Name for TN-12
-msgid "Ariana"
+#, fuzzy
+#| msgid "Ariana"
+msgid "L'Ariana"
 msgstr "Arjana"
 
 #. Name for TN-13
@@ -16994,7 +18387,9 @@ msgid "Tozeur"
 msgstr "Tauzar"
 
 #. Name for TN-73
-msgid "Kebili"
+#, fuzzy
+#| msgid "Kebili"
+msgid "Kébili"
 msgstr "Kibili"
 
 #. Name for TN-81
@@ -17002,7 +18397,9 @@ msgid "Gabès"
 msgstr "Kabis"
 
 #. Name for TN-82
-msgid "Medenine"
+#, fuzzy
+#| msgid "Medenine"
+msgid "Médenine"
 msgstr "Madanijin"
 
 #. Name for TN-83
@@ -17369,9 +18766,9 @@ msgstr "Couva-Tabaquite-Talparo"
 msgid "Diego Martin"
 msgstr "Diego Martin"
 
-#. Name for TT-ETO
-msgid "Eastern Tobago"
-msgstr "Tobago Wschodnie"
+#. Name for TT-MRC
+msgid "Mayaro-Rio Claro"
+msgstr ""
 
 #. Name for TT-PED
 msgid "Penal-Debe"
@@ -17389,10 +18786,6 @@ msgstr "Princes Town"
 msgid "Point Fortin"
 msgstr "Point Fortin"
 
-#. Name for TT-RCM
-msgid "Rio Claro-Mayaro"
-msgstr "Rio Claro-Mayaro"
-
 #. Name for TT-SFO
 msgid "San Fernando"
 msgstr "San Fernando"
@@ -17409,13 +18802,15 @@ msgstr "Siparia"
 msgid "San Juan-Laventille"
 msgstr "San Juan-Laventille"
 
+#. Name for TT-TOB
+#, fuzzy
+#| msgid "Eastern Tobago"
+msgid "Tobago"
+msgstr "Tobago Wschodnie"
+
 #. Name for TT-TUP
 msgid "Tunapuna-Piarco"
 msgstr "Tunapuna-Piarco"
-
-#. Name for TT-WTO
-msgid "Western Tobago"
-msgstr "Tobago Zachodnie"
 
 #. Name for TV-FUN
 msgid "Funafuti"
@@ -17438,7 +18833,9 @@ msgid "Nanumea"
 msgstr "Nanumea"
 
 #. Name for TV-NMG
-msgid "Nanumanga"
+#, fuzzy
+#| msgid "Nanumanga"
+msgid "Nanumaga"
 msgstr "Nanumanga"
 
 #. Name for TV-NUI
@@ -17453,20 +18850,12 @@ msgstr "Vaitupu"
 msgid "Changhua"
 msgstr "Changhua"
 
-#. Name for TW-CYI
-msgid "Chiay City"
-msgstr "Chiayi"
-
-#. Name for TW-CYQ
+#. Name for TW-CYI, Name for TW-CYQ
 msgid "Chiayi"
 msgstr "Chiayi"
 
-#. Name for TW-HSQ
+#. Name for TW-HSQ, Name for TW-HSZ
 msgid "Hsinchu"
-msgstr "Hsinchu"
-
-#. Name for TW-HSZ
-msgid "Hsinchui City"
 msgstr "Hsinchu"
 
 #. Name for TW-HUA
@@ -17474,20 +18863,28 @@ msgid "Hualien"
 msgstr "Hualien"
 
 #. Name for TW-ILA
-msgid "Ilan"
-msgstr "Yilan"
+#, fuzzy
+#| msgid "Milano"
+msgid "Yilan"
+msgstr "Mediolan"
 
 #. Name for TW-KEE
-msgid "Keelung City"
+#, fuzzy
+#| msgid "Keelung City"
+msgid "Keelung"
 msgstr "Keelung"
 
 #. Name for TW-KHH
-msgid "Kaohsiung City"
-msgstr "Kaohsiung"
-
-#. Name for TW-KHQ
 msgid "Kaohsiung"
 msgstr "Kaohsiung"
+
+#. Name for TW-KIN
+msgid "Kinmen"
+msgstr ""
+
+#. Name for TW-LIE
+msgid "Lienchiang"
+msgstr ""
 
 #. Name for TW-MIA
 msgid "Miaoli"
@@ -17496,6 +18893,12 @@ msgstr "Miaoli"
 #. Name for TW-NAN
 msgid "Nantou"
 msgstr "Nantou"
+
+#. Name for TW-NWT
+#, fuzzy
+#| msgid "Taipei"
+msgid "New Taipei"
+msgstr "Tajpej"
 
 #. Name for TW-PEN
 msgid "Penghu"
@@ -17510,18 +18913,10 @@ msgid "Taoyuan"
 msgstr "Taoyuan"
 
 #. Name for TW-TNN
-msgid "Tainan City"
-msgstr "Tainan"
-
-#. Name for TW-TNQ
 msgid "Tainan"
 msgstr "Tainan"
 
 #. Name for TW-TPE
-msgid "Taipei City"
-msgstr "Tajpej"
-
-#. Name for TW-TPQ
 msgid "Taipei"
 msgstr "Tajpej"
 
@@ -17530,10 +18925,6 @@ msgid "Taitung"
 msgstr "Taitung"
 
 #. Name for TW-TXG
-msgid "Taichung City"
-msgstr "Taichung"
-
-#. Name for TW-TXQ
 msgid "Taichung"
 msgstr "Taichung"
 
@@ -17546,7 +18937,9 @@ msgid "Arusha"
 msgstr "Arusza"
 
 #. Name for TZ-02
-msgid "Dar-es-Salaam"
+#, fuzzy
+#| msgid "Dar-es-Salaam"
+msgid "Dar es Salaam"
 msgstr "Dar es Salaam"
 
 #. Name for TZ-03
@@ -17562,12 +18955,16 @@ msgid "Kagera"
 msgstr "Kagera"
 
 #. Name for TZ-06
-msgid "Kaskazini Pemba"
-msgstr "Pemba Północna"
+#, fuzzy
+#| msgid "Far North"
+msgid "Pemba North"
+msgstr "Północna Dalsza"
 
 #. Name for TZ-07
-msgid "Kaskazini Unguja"
-msgstr "Zanzibar Północny"
+#, fuzzy
+#| msgid "Far North"
+msgid "Zanzibar North"
+msgstr "Północna Dalsza"
 
 #. Name for TZ-08
 msgid "Kigoma"
@@ -17578,12 +18975,14 @@ msgid "Kilimanjaro"
 msgstr "Kilimandżaro"
 
 #. Name for TZ-10
-msgid "Kusini Pemba"
-msgstr "Pemba Południowa"
+#, fuzzy
+#| msgid "Upper South"
+msgid "Pemba South"
+msgstr "Górnopołudniowy"
 
 #. Name for TZ-11
-msgid "Kusini Unguja"
-msgstr "Zanzibar Centralny/Południowy"
+msgid "Zanzibar South"
+msgstr ""
 
 #. Name for TZ-12
 msgid "Lindi"
@@ -17598,8 +18997,10 @@ msgid "Mbeya"
 msgstr "Mbeya"
 
 #. Name for TZ-15
-msgid "Mjini Magharibi"
-msgstr "Zanzibar Miejski/Zachodni"
+#, fuzzy
+#| msgid "Anibare"
+msgid "Zanzibar West"
+msgstr "Anibare"
 
 #. Name for TZ-16
 msgid "Morogoro"
@@ -17610,8 +19011,10 @@ msgid "Mtwara"
 msgstr "Mtwara"
 
 #. Name for TZ-19
-msgid "Pwani"
-msgstr "Pwani"
+#, fuzzy
+#| msgid "West Coast"
+msgid "Coast"
+msgstr "West Coast"
 
 #. Name for TZ-20
 msgid "Rukwa"
@@ -17641,52 +19044,100 @@ msgstr "Tanga"
 msgid "Manyara"
 msgstr "Manyara"
 
+#. Name for TZ-27
+msgid "Geita"
+msgstr ""
+
+#. Name for TZ-28
+#, fuzzy
+#| msgid "Katakwi"
+msgid "Katavi"
+msgstr "Katakwi"
+
+#. Name for TZ-29
+#, fuzzy
+#| msgid "Gombe"
+msgid "Njombe"
+msgstr "Gombe"
+
+#. Name for TZ-30
+msgid "Simiyu"
+msgstr ""
+
+#. Name for TZ-31
+#, fuzzy
+#| msgid "Lilongwe"
+msgid "Songwe"
+msgstr "Lilongwe"
+
 #. Name for UA-05
-msgid "Vinnyts'ka Oblast'"
+#, fuzzy
+#| msgid "Vinnyts'ka Oblast'"
+msgid "Vinnytska oblast"
 msgstr "obwód winnicki"
 
 #. Name for UA-07
-msgid "Volyns'ka Oblast'"
+#, fuzzy
+#| msgid "Volyns'ka Oblast'"
+msgid "Volynska oblast"
 msgstr "obwód wołyński"
 
 #. Name for UA-09
-msgid "Luhans'ka Oblast'"
+#, fuzzy
+#| msgid "Luhans'ka Oblast'"
+msgid "Luhanska oblast"
 msgstr "obwód ługański"
 
 #. Name for UA-12
-msgid "Dnipropetrovs'ka Oblast'"
+#, fuzzy
+#| msgid "Dnipropetrovs'ka Oblast'"
+msgid "Dnipropetrovska oblast"
 msgstr "obwód dniepropetrowski"
 
 #. Name for UA-14
-msgid "Donets'ka Oblast'"
+#, fuzzy
+#| msgid "Donets'ka Oblast'"
+msgid "Donetska oblast"
 msgstr "obwód doniecki"
 
 #. Name for UA-18
-msgid "Zhytomyrs'ka Oblast'"
+#, fuzzy
+#| msgid "Zhytomyrs'ka Oblast'"
+msgid "Zhytomyrska oblast"
 msgstr "obwód żytomierski"
 
 #. Name for UA-21
-msgid "Zakarpats'ka Oblast'"
+#, fuzzy
+#| msgid "Zakarpats'ka Oblast'"
+msgid "Zakarpatska oblast"
 msgstr "obwód zakarpacki"
 
 #. Name for UA-23
-msgid "Zaporiz'ka Oblast'"
+#, fuzzy
+#| msgid "Zaporiz'ka Oblast'"
+msgid "Zaporizka oblast"
 msgstr "obwód zaporoski"
 
 #. Name for UA-26
-msgid "Ivano-Frankivs'ka Oblast'"
+#, fuzzy
+#| msgid "Ivano-Frankivs'ka Oblast'"
+msgid "Ivano-Frankivska oblast"
 msgstr "obwód iwanofrankowski"
 
 #. Name for UA-30
-msgid "Kyïvs'ka mis'ka rada"
-msgstr "miasto Kijów"
+msgid "Kyiv"
+msgstr ""
 
 #. Name for UA-32
-msgid "Kyïvs'ka Oblast'"
-msgstr "obwód kijowski"
+#, fuzzy
+#| msgid "Kirovskaya oblast'"
+msgid "Kyivska oblast"
+msgstr "obwód kirowski"
 
 #. Name for UA-35
-msgid "Kirovohrads'ka Oblast'"
+#, fuzzy
+#| msgid "Kirovohrads'ka Oblast'"
+msgid "Kirovohradska oblast"
 msgstr "obwód kirowogradzki"
 
 #. Name for UA-40
@@ -17694,59 +19145,87 @@ msgid "Sevastopol"
 msgstr "Sewastopol"
 
 #. Name for UA-43
-msgid "Respublika Krym"
+#, fuzzy
+#| msgid "Respublika Krym"
+msgid "Avtonomna Respublika Krym"
 msgstr "Autonomiczna Republika Krymu"
 
 #. Name for UA-46
-msgid "L'vivs'ka Oblast'"
+#, fuzzy
+#| msgid "L'vivs'ka Oblast'"
+msgid "Lvivska oblast"
 msgstr "obwód lwowski"
 
 #. Name for UA-48
-msgid "Mykolaïvs'ka Oblast'"
+#, fuzzy
+#| msgid "Mykolaïvs'ka Oblast'"
+msgid "Mykolaivska oblast"
 msgstr "obwód mikołajowski"
 
 #. Name for UA-51
-msgid "Odes'ka Oblast'"
+#, fuzzy
+#| msgid "Odes'ka Oblast'"
+msgid "Odeska oblast"
 msgstr "obwód odeski"
 
 #. Name for UA-53
-msgid "Poltavs'ka Oblast'"
+#, fuzzy
+#| msgid "Poltavs'ka Oblast'"
+msgid "Poltavska oblast"
 msgstr "obwód połtawski"
 
 #. Name for UA-56
-msgid "Rivnens'ka Oblast'"
+#, fuzzy
+#| msgid "Rivnens'ka Oblast'"
+msgid "Rivnenska oblast"
 msgstr "obwód rówieński"
 
 #. Name for UA-59
-msgid "Sums 'ka Oblast'"
+#, fuzzy
+#| msgid "Sums 'ka Oblast'"
+msgid "Sumska oblast"
 msgstr "obwód sumski"
 
 #. Name for UA-61
-msgid "Ternopil's'ka Oblast'"
+#, fuzzy
+#| msgid "Ternopil's'ka Oblast'"
+msgid "Ternopilska oblast"
 msgstr "obwód tarnopolski"
 
 #. Name for UA-63
-msgid "Kharkivs'ka Oblast'"
+#, fuzzy
+#| msgid "Kharkivs'ka Oblast'"
+msgid "Kharkivska oblast"
 msgstr "obwód charkowski"
 
 #. Name for UA-65
-msgid "Khersons'ka Oblast'"
+#, fuzzy
+#| msgid "Khersons'ka Oblast'"
+msgid "Khersonska oblast"
 msgstr "obwód chersoński"
 
 #. Name for UA-68
-msgid "Khmel'nyts'ka Oblast'"
+#, fuzzy
+#| msgid "Khmel'nyts'ka Oblast'"
+msgid "Khmelnytska oblast"
 msgstr "obwód chmielnicki"
 
 #. Name for UA-71
-msgid "Cherkas'ka Oblast'"
+#, fuzzy
+#| msgid "Cherkas'ka Oblast'"
+msgid "Cherkaska oblast"
 msgstr "obwód czerkaski"
 
 #. Name for UA-74
-msgid "Chernihivs'ka Oblast'"
+#, fuzzy
+#| msgid "Chernihivs'ka Oblast'"
+msgid "Chernihivska oblast"
 msgstr "obwód czernihowski"
 
 #. Name for UA-77
-msgid "Chernivets'ka Oblast'"
+#, fuzzy
+#| msgid "Chernivets'ka Oblast'"
+msgid "Chernivetska oblast"
 msgstr "obwód czerniowiecki"
 
 #. Name for UG-101
@@ -17802,16 +19281,70 @@ msgid "Wakiso"
 msgstr "Wakiso"
 
 #. Name for UG-114
+msgid "Lyantonde"
+msgstr "Lyantonde"
+
+#. Name for UG-115
 msgid "Mityana"
 msgstr "Mityana"
 
-#. Name for UG-115
+#. Name for UG-116
 msgid "Nakaseke"
 msgstr "Nakaseke"
 
-#. Name for UG-116
-msgid "Lyantonde"
-msgstr "Lyantonde"
+#. Name for UG-117
+msgid "Buikwe"
+msgstr ""
+
+#. Name for UG-118
+msgid "Bukomansibi"
+msgstr ""
+
+#. Name for UG-119
+#, fuzzy
+#| msgid "Butaleja"
+msgid "Butambala"
+msgstr "Butaleja"
+
+#. Name for UG-120
+#, fuzzy
+#| msgid "Ruvuma"
+msgid "Buvuma"
+msgstr "Ruvumo"
+
+#. Name for UG-121
+#, fuzzy
+#| msgid "Zomba"
+msgid "Gomba"
+msgstr "Zomba"
+
+#. Name for UG-122
+#, fuzzy
+#| msgid "Kasungu"
+msgid "Kalungu"
+msgstr "Kasungu"
+
+#. Name for UG-123
+msgid "Kyankwanzi"
+msgstr ""
+
+#. Name for UG-124
+#, fuzzy
+#| msgid "Bengo"
+msgid "Lwengo"
+msgstr "Bengo"
+
+#. Name for UG-125
+#, fuzzy
+#| msgid "Kyoto"
+msgid "Kyotera"
+msgstr "Kioto"
+
+#. Name for UG-126
+#, fuzzy
+#| msgid "Kandal"
+msgid "Kasanda"
+msgstr "Kandal"
 
 #. Name for UG-201
 msgid "Bugiri"
@@ -17878,32 +19411,96 @@ msgid "Budaka"
 msgstr "Budaka"
 
 #. Name for UG-218
-msgid "Bukwa"
-msgstr "Bukwa"
-
-#. Name for UG-219
-msgid "Butaleja"
-msgstr "Butaleja"
-
-#. Name for UG-220
-msgid "Kaliro"
-msgstr "Kaliro"
-
-#. Name for UG-221
-msgid "Manafwa"
-msgstr "Manafwa"
-
-#. Name for UG-222
-msgid "Namutumba"
-msgstr "Namutumba"
-
-#. Name for UG-223
 msgid "Bududa"
 msgstr "Bududa"
 
-#. Name for UG-224
+#. Name for UG-219
 msgid "Bukedea"
 msgstr "Bukedea"
+
+#. Name for UG-220
+#, fuzzy
+#| msgid "Bukwa"
+msgid "Bukwo"
+msgstr "Bukwa"
+
+#. Name for UG-221
+msgid "Butaleja"
+msgstr "Butaleja"
+
+#. Name for UG-222
+msgid "Kaliro"
+msgstr "Kaliro"
+
+#. Name for UG-223
+msgid "Manafwa"
+msgstr "Manafwa"
+
+#. Name for UG-224
+msgid "Namutumba"
+msgstr "Namutumba"
+
+#. Name for UG-225
+msgid "Bulambuli"
+msgstr ""
+
+#. Name for UG-226
+#, fuzzy
+#| msgid "Mubende"
+msgid "Buyende"
+msgstr "Mubende"
+
+#. Name for UG-227
+msgid "Kibuku"
+msgstr ""
+
+#. Name for UG-228
+msgid "Kween"
+msgstr ""
+
+#. Name for UG-229
+msgid "Luuka"
+msgstr ""
+
+#. Name for UG-230
+#, fuzzy
+#| msgid "Namangan"
+msgid "Namayingo"
+msgstr "wilajet namangański"
+
+#. Name for UG-231
+#, fuzzy
+#| msgid "Zagora"
+msgid "Ngora"
+msgstr "Zaghura"
+
+#. Name for UG-232
+msgid "Serere"
+msgstr ""
+
+#. Name for UG-233
+#, fuzzy
+#| msgid "Butel"
+msgid "Butebo"
+msgstr "Buteł"
+
+#. Name for UG-234
+msgid "Namisindwa"
+msgstr ""
+
+#. Name for UG-235
+msgid "Bugweri"
+msgstr ""
+
+#. Name for UG-236
+msgid "Kapelebyong"
+msgstr ""
+
+#. Name for UG-237
+#, fuzzy
+#| msgid "Kalasin"
+msgid "Kalaki"
+msgstr "Kalasin"
 
 #. Name for UG-301
 msgid "Adjumani"
@@ -17958,28 +19555,28 @@ msgid "Yumbe"
 msgstr "Yumbe"
 
 #. Name for UG-314
-msgid "Amolatar"
-msgstr "Amolatar"
-
-#. Name for UG-315
-msgid "Kaabong"
-msgstr "Kaabong"
-
-#. Name for UG-316
-msgid "Koboko"
-msgstr "Koboko"
-
-#. Name for UG-317
 msgid "Abim"
 msgstr "Abim"
 
-#. Name for UG-318
+#. Name for UG-315
+msgid "Amolatar"
+msgstr "Amolatar"
+
+#. Name for UG-316
+msgid "Amuru"
+msgstr "Amuru"
+
+#. Name for UG-317
 msgid "Dokolo"
 msgstr "Dokolo"
 
+#. Name for UG-318
+msgid "Kaabong"
+msgstr "Kaabong"
+
 #. Name for UG-319
-msgid "Amuru"
-msgstr "Amuru"
+msgid "Koboko"
+msgstr "Koboko"
 
 #. Name for UG-320
 msgid "Maracha"
@@ -17988,6 +19585,78 @@ msgstr "Maracha"
 #. Name for UG-321
 msgid "Oyam"
 msgstr "Oyam"
+
+#. Name for UG-322
+msgid "Agago"
+msgstr ""
+
+#. Name for UG-323
+msgid "Alebtong"
+msgstr ""
+
+#. Name for UG-324
+msgid "Amudat"
+msgstr ""
+
+#. Name for UG-325
+msgid "Kole"
+msgstr ""
+
+#. Name for UG-326
+msgid "Lamwo"
+msgstr ""
+
+#. Name for UG-327
+msgid "Napak"
+msgstr ""
+
+#. Name for UG-328
+msgid "Nwoya"
+msgstr ""
+
+#. Name for UG-329
+msgid "Otuke"
+msgstr ""
+
+#. Name for UG-330
+#, fuzzy
+#| msgid "Zomba"
+msgid "Zombo"
+msgstr "Zomba"
+
+#. Name for UG-331
+msgid "Omoro"
+msgstr ""
+
+#. Name for UG-332
+msgid "Pakwach"
+msgstr ""
+
+#. Name for UG-333
+#, fuzzy
+#| msgid "Pwani"
+msgid "Kwania"
+msgstr "Pwani"
+
+#. Name for UG-334
+msgid "Nabilatuk"
+msgstr ""
+
+#. Name for UG-335
+#, fuzzy
+#| msgid "Yatenga"
+msgid "Karenga"
+msgstr "Yatenga"
+
+#. Name for UG-336
+msgid "Madi-Okollo"
+msgstr ""
+
+#. Name for UG-337
+#, fuzzy
+#| msgid "Kaabong"
+msgid "Obongi"
+msgstr "Kaabong"
 
 #. Name for UG-401
 msgid "Bundibugyo"
@@ -18050,20 +19719,96 @@ msgid "Kyenjojo"
 msgstr "Kyenjojo"
 
 #. Name for UG-416
+msgid "Buliisa"
+msgstr "Bulisa"
+
+#. Name for UG-417
 msgid "Ibanda"
 msgstr "Ibanda"
 
-#. Name for UG-417
+#. Name for UG-418
 msgid "Isingiro"
 msgstr "Isingiro"
 
-#. Name for UG-418
+#. Name for UG-419
 msgid "Kiruhura"
 msgstr "Kiruhura"
 
-#. Name for UG-419
-msgid "Buliisa"
-msgstr "Bulisa"
+#. Name for UG-420
+msgid "Buhweju"
+msgstr ""
+
+#. Name for UG-421
+#, fuzzy
+#| msgid "Bayanhongor"
+msgid "Kiryandongo"
+msgstr "ajmak bajanchongorski"
+
+#. Name for UG-422
+msgid "Kyegegwa"
+msgstr ""
+
+#. Name for UG-423
+msgid "Mitooma"
+msgstr ""
+
+#. Name for UG-424
+msgid "Ntoroko"
+msgstr ""
+
+#. Name for UG-425
+msgid "Rubirizi"
+msgstr ""
+
+#. Name for UG-426
+msgid "Sheema"
+msgstr ""
+
+#. Name for UG-427
+#, fuzzy
+#| msgid "Kgalagadi"
+msgid "Kagadi"
+msgstr "kgalagadi"
+
+#. Name for UG-428
+msgid "Kakumiro"
+msgstr ""
+
+#. Name for UG-429
+#, fuzzy
+#| msgid "Ibanda"
+msgid "Rubanda"
+msgstr "Ibanda"
+
+#. Name for UG-430
+#, fuzzy
+#| msgid "Shinyanga"
+msgid "Bunyangabu"
+msgstr "Shinyanga"
+
+#. Name for UG-431
+msgid "Rukiga"
+msgstr ""
+
+#. Name for UG-432
+msgid "Kikuube"
+msgstr ""
+
+#. Name for UG-433
+msgid "Kazo"
+msgstr ""
+
+#. Name for UG-434
+#, fuzzy
+#| msgid "Ohangwena"
+msgid "Kitagwenda"
+msgstr "Ohangwena"
+
+#. Name for UG-435
+#, fuzzy
+#| msgid "Gampaha"
+msgid "Rwampara"
+msgstr "Gampaha"
 
 #. Name for UM-67
 msgid "Johnston Atoll"
@@ -18298,8 +20043,8 @@ msgid "Virginia"
 msgstr "Wirginia"
 
 #. Name for US-VI
-msgid "Virgin Islands"
-msgstr "Wyspy Dziewicze"
+msgid "Virgin Islands, U.S."
+msgstr "Wyspy Dziewicze Stanów Zjednoczonych"
 
 #. Name for US-VT
 msgid "Vermont"
@@ -18361,10 +20106,6 @@ msgstr "Montevideo"
 msgid "Paysandú"
 msgstr "Paysandú"
 
-#. Name for UY-RN
-msgid "Río Negro"
-msgstr "Río Negro"
-
 #. Name for UY-RO
 msgid "Rocha"
 msgstr "Rocha"
@@ -18398,7 +20139,9 @@ msgid "Buxoro"
 msgstr "wilajet bucharski"
 
 #. Name for UZ-FA
-msgid "Farg'ona"
+#, fuzzy
+#| msgid "Farg'ona"
+msgid "Farg‘ona"
 msgstr "wilajet fergański"
 
 #. Name for UZ-JI
@@ -18418,7 +20161,9 @@ msgid "Qashqadaryo"
 msgstr "wilajet kaszkadaryjski"
 
 #. Name for UZ-QR
-msgid "Qoraqalpog'iston Respublikasi"
+#, fuzzy
+#| msgid "Qoraqalpog'iston Respublikasi"
+msgid "Qoraqalpog‘iston Respublikasi"
 msgstr "Republika Karakałpacka"
 
 #. Name for UZ-SA
@@ -18449,6 +20194,12 @@ msgstr "Charlotte"
 #. Name for VC-06
 msgid "Grenadines"
 msgstr "Grenadyny"
+
+#. Name for VE-A
+#, fuzzy
+#| msgid "Distrito Capital de Bogotá"
+msgid "Distrito Capital"
+msgstr "Dystrykt Specjalny Bogota"
 
 #. Name for VE-B
 msgid "Anzoátegui"
@@ -18527,8 +20278,10 @@ msgid "Dependencias Federales"
 msgstr "Dependencias Federales"
 
 #. Name for VE-X
-msgid "Vargas"
-msgstr "Vargas"
+#, fuzzy
+#| msgid "La Guajira"
+msgid "La Guaira"
+msgstr "La Guajira"
 
 #. Name for VE-Y
 msgid "Delta Amacuro"
@@ -18571,12 +20324,10 @@ msgid "Quảng Ninh"
 msgstr "Quảng Ninh"
 
 #. Name for VN-14
-msgid "Hoà Bình"
+#, fuzzy
+#| msgid "Hoà Bình"
+msgid "Hòa Bình"
 msgstr "Hoà Bình"
-
-#. Name for VN-15
-msgid "Hà Tây"
-msgstr "Hà Tây"
 
 #. Name for VN-18
 msgid "Ninh Bình"
@@ -18595,7 +20346,9 @@ msgid "Nghệ An"
 msgstr "Nghệ An"
 
 #. Name for VN-23
-msgid "Hà Tỉnh"
+#, fuzzy
+#| msgid "Hà Tỉnh"
+msgid "Hà Tĩnh"
 msgstr "Hà Tỉnh"
 
 #. Name for VN-24
@@ -18635,7 +20388,9 @@ msgid "Phú Yên"
 msgstr "Phú Yên"
 
 #. Name for VN-33
-msgid "Đắc Lắk"
+#, fuzzy
+#| msgid "Đắc Lắk"
+msgid "Đắk Lắk"
 msgstr "Đắc Lắk"
 
 #. Name for VN-34
@@ -18667,7 +20422,9 @@ msgid "Long An"
 msgstr "Long An"
 
 #. Name for VN-43
-msgid "Bà Rịa-Vũng Tàu"
+#, fuzzy
+#| msgid "Bà Rịa-Vũng Tàu"
+msgid "Bà Rịa - Vũng Tàu"
 msgstr "Bà Rịa-Vũng Tàu"
 
 #. Name for VN-44
@@ -18683,7 +20440,9 @@ msgid "Tiền Giang"
 msgstr "Tiền Giang"
 
 #. Name for VN-47
-msgid "Kiên Giang"
+#, fuzzy
+#| msgid "Kiên Giang"
+msgid "Kiến Giang"
 msgstr "Kiên Giang"
 
 #. Name for VN-49
@@ -18731,7 +20490,9 @@ msgid "Cà Mau"
 msgstr "Cà Mau"
 
 #. Name for VN-61
-msgid "Hải Duong"
+#, fuzzy
+#| msgid "Hải Duong"
+msgid "Hải Dương"
 msgstr "Hải Duong"
 
 #. Name for VN-63
@@ -18787,7 +20548,9 @@ msgid "Hải Phòng"
 msgstr "Hải Phòng"
 
 #. Name for VN-SG
-msgid "Hồ Chí Minh [Sài Gòn]"
+#, fuzzy
+#| msgid "Hồ Chí Minh [Sài Gòn]"
+msgid "Hồ Chí Minh"
 msgstr "Hồ Chí Minh (Sajgon)"
 
 #. Name for VU-MAP
@@ -18813,6 +20576,20 @@ msgstr "Tafea"
 #. Name for VU-TOB
 msgid "Torba"
 msgstr "Torba"
+
+#. Name for WF-AL
+#, fuzzy
+#| msgid "Alibori"
+msgid "Alo"
+msgstr "Alibori"
+
+#. Name for WF-SG
+msgid "Sigave"
+msgstr ""
+
+#. Name for WF-UV
+msgid "Uvea"
+msgstr ""
 
 #. Name for WS-AA
 msgid "A'ana"
@@ -18859,23 +20636,31 @@ msgid "Vaisigano"
 msgstr "Vaisigano"
 
 #. Name for YE-AB
-msgid "Abyān"
-msgstr "Abjan"
+msgid "Abyan"
+msgstr ""
 
 #. Name for YE-AD
-msgid "'Adan"
-msgstr "Aden"
+#, fuzzy
+#| msgid "Adana"
+msgid "‘Adan"
+msgstr "Adana"
 
 #. Name for YE-AM
-msgid "'Amrān"
+#, fuzzy
+#| msgid "'Amrān"
+msgid "‘Amrān"
 msgstr "Amran"
 
 #. Name for YE-BA
-msgid "Al Bayḑā'"
+#, fuzzy
+#| msgid "Al Bayḑā'"
+msgid "Al Bayḑā’"
 msgstr "Al-Bajda"
 
 #. Name for YE-DA
-msgid "Aḑ Ḑāli‘"
+#, fuzzy
+#| msgid "Aḑ Ḑāli‘"
+msgid "Aḑ Ḑāli‘"
 msgstr "Ad-Dali"
 
 #. Name for YE-DH
@@ -18890,6 +20675,10 @@ msgstr "Hadramaut"
 msgid "Ḩajjah"
 msgstr "Hadżdża"
 
+#. Name for YE-HU
+msgid "Al Ḩudaydah"
+msgstr "Al-Hudajda"
+
 #. Name for YE-IB
 msgid "Ibb"
 msgstr "Ibb"
@@ -18899,16 +20688,12 @@ msgid "Laḩij"
 msgstr "Lahidż"
 
 #. Name for YE-MA
-msgid "Ma'rib"
-msgstr "Marib"
+msgid "Ma’rib"
+msgstr ""
 
 #. Name for YE-MR
 msgid "Al Mahrah"
 msgstr "Al-Mahra"
-
-#. Name for YE-MU
-msgid "Al Ḩudaydah"
-msgstr "Al-Hudajda"
 
 #. Name for YE-MW
 msgid "Al Maḩwīt"
@@ -18918,21 +20703,31 @@ msgstr "Al-Mahwit"
 msgid "Raymah"
 msgstr "Rajma"
 
+#. Name for YE-SA
+#, fuzzy
+#| msgid "Al Manāmah (Al ‘Āşimah)"
+msgid "Amānat al ‘Āşimah [city]"
+msgstr "Gubernatorstwo Stołeczne"
+
 #. Name for YE-SD
-msgid "Şa'dah"
-msgstr "Sada"
+msgid "Şāʻdah"
+msgstr ""
 
 #. Name for YE-SH
 msgid "Shabwah"
 msgstr "Szabwa"
 
 #. Name for YE-SN
-msgid "Şan'ā'"
-msgstr "Sana"
+msgid "Şanʻā’"
+msgstr ""
+
+#. Name for YE-SU
+msgid "Arkhabīl Suquţrá"
+msgstr ""
 
 #. Name for YE-TA
-msgid "Tā'izz"
-msgstr "Taizz"
+msgid "Tāʻizz"
+msgstr ""
 
 #. Name for ZA-EC
 msgid "Eastern Cape"
@@ -18942,9 +20737,13 @@ msgstr "Prowincja Przylądkowa Wschodnia"
 msgid "Free State"
 msgstr "Wolne Państwo"
 
-#. Name for ZA-GT
+#. Name for ZA-GP
 msgid "Gauteng"
 msgstr "Gauteng"
+
+#. Name for ZA-KZN
+msgid "Kwazulu-Natal"
+msgstr "KwaZulu-Natal"
 
 #. Name for ZA-LP
 msgid "Limpopo"
@@ -18958,14 +20757,6 @@ msgstr "Mpumalanga"
 msgid "Northern Cape"
 msgstr "Prowincja Przylądkowa Północna"
 
-#. Name for ZA-NL
-msgid "Kwazulu-Natal"
-msgstr "KwaZulu-Natal"
-
-#. Name for ZA-NW
-msgid "North-West (South Africa)"
-msgstr "Prowincja Północno-Zachodnia"
-
 #. Name for ZA-WC
 msgid "Western Cape"
 msgstr "Prowincja Przylądkowa Zachodnia"
@@ -18978,10 +20769,6 @@ msgstr "Prowincja Luapula"
 msgid "North-Western"
 msgstr "Prowincja Północno-Zachodnia"
 
-#. Name for ZM-07
-msgid "Southern (Zambia)"
-msgstr "Prowincja Południowa"
-
 #. Name for ZM-08
 msgid "Copperbelt"
 msgstr "Prowincja Copperbelt"
@@ -18989,6 +20776,12 @@ msgstr "Prowincja Copperbelt"
 #. Name for ZM-09
 msgid "Lusaka"
 msgstr "Prowincja Lusaka"
+
+#. Name for ZM-10
+#, fuzzy
+#| msgid "Machinga"
+msgid "Muchinga"
+msgstr "Machinga"
 
 #. Name for ZW-BU
 msgid "Bulawayo"

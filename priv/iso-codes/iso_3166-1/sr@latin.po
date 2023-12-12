@@ -9,21 +9,24 @@
 # Milos Komarcevic <kmilos@gmail.com>, 2009.
 # Aleksandar Jelenak <aleksandar.jelenak@gmail.com>, 2012.
 # Miroslav Nikolić <miroslavnikolic@rocketmail.com>, 2014-2015.
+# Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2015-12-26 21:20+0200\n"
-"Last-Translator: Miroslav Nikolić <miroslavnikolic@rocketmail.com>\n"
-"Language-Team: Serbian <(nothing)>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2021-02-03 11:41+0000\n"
+"Last-Translator: Slobodan Simić(Slobodan Simić) <slsimic@gmail.com>\n"
+"Language-Team: Serbian <https://hosted.weblate.org/projects/iso-codes/"
+"iso-3166-1/sr/>\n"
 "Language: sr@latin\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.5-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -350,14 +353,10 @@ msgid "Union of the Comoros"
 msgstr "Zajednica Komora"
 
 #. Name for CPV
-#, fuzzy
-#| msgid "Cape Verde"
 msgid "Cabo Verde"
 msgstr "Zelenortska ostrva"
 
 #. Official name for CPV
-#, fuzzy
-#| msgid "Republic of Cape Verde"
 msgid "Republic of Cabo Verde"
 msgstr "Republika Zelenortska ostrva"
 
@@ -399,7 +398,7 @@ msgstr "Republika Kipar"
 
 #. Name for CZE
 msgid "Czechia"
-msgstr ""
+msgstr "Češka"
 
 #. Official name for CZE
 msgid "Czech Republic"
@@ -587,17 +586,15 @@ msgstr "Republika Gvineja"
 
 #. Name for GLP
 msgid "Guadeloupe"
-msgstr "Gvadalupa"
+msgstr "Gvadalupe"
 
 #. Name for GMB
 msgid "Gambia"
 msgstr "Gambija"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Republika Zambija"
+msgstr "Republika Gambija"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -731,6 +728,10 @@ msgstr "Iran, Islamska Republika"
 msgid "Islamic Republic of Iran"
 msgstr "Islamska Republika Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -831,6 +832,12 @@ msgstr "Sveti Kits i Nevis"
 msgid "Korea, Republic of"
 msgstr "Koreja, Republika"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Južna Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuvajt"
@@ -842,6 +849,10 @@ msgstr "Država Kuvajt"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Laoška Narodna Demokratska Republika"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -988,16 +999,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Republika Maršalska ostrva"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Nova Kaledonija"
+msgstr "Severna Makedonija"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Republika Litvanija"
+msgstr "Republika Severna Makedonija"
 
 #. Name for MLI
 msgid "Mali"
@@ -1033,7 +1040,7 @@ msgstr "Mongolija"
 
 #. Name for MNP
 msgid "Northern Mariana Islands"
-msgstr "Ostrva Severna Marijana"
+msgstr "Severna Marijanska ostrva"
 
 #. Official name for MNP
 msgid "Commonwealth of the Northern Mariana Islands"
@@ -1247,6 +1254,12 @@ msgstr "Koreja, Demokratska Narodna Republika"
 msgid "Democratic People's Republic of Korea"
 msgstr "Demokratska Narodna Republika Koreja"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "North Macedonia"
+msgid "North Korea"
+msgstr "Severna Makedonija"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1445,13 +1458,11 @@ msgstr "Kraljevina Švedska"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Esvatini"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Kraljevina Španija"
+msgstr "Kraljevina Esvatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1468,6 +1479,10 @@ msgstr "Republika Sejšeli"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Sirijska Arapska Republika"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1546,11 +1561,13 @@ msgid "Republic of Tunisia"
 msgstr "Republika Tunis"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Turska"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Republika Turska"
 
 #. Name for TUV
@@ -1591,7 +1608,7 @@ msgstr "Ukrajina"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Manja Spoljašnja Ostrva Sjedinjenih Država"
+msgstr "Spoljna ivična ostrva SAD"
 
 #. Name for URY
 msgid "Uruguay"
@@ -1647,7 +1664,7 @@ msgstr "Britanska Devičanska ostrva"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Devičanska ostrva, Američka"
+msgstr "Devičanska ostrva, SAD"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
@@ -1662,8 +1679,6 @@ msgid "Socialist Republic of Viet Nam"
 msgstr "Socijalistička Republika Vijetnam"
 
 #. Common name for VNM
-#, fuzzy
-#| msgid "Viet Nam"
 msgid "Vietnam"
 msgstr "Vijetnam"
 

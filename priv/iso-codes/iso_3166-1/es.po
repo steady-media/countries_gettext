@@ -10,14 +10,16 @@
 # Javier Fernández-Sanguino <jfs@debian.org>, 2004-2008, 2010.
 # zamir <hades_ni@yahoo.com>, 2013.
 # Rodrigo Lledó <rodhos92@gmail.com>, 2019.
+# Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021.
+# Kamborio <Kamborio15@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-04-07 21:04+0000\n"
-"Last-Translator: Rodrigo Lledó <rodhos92@gmail.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-10-13 10:01+0000\n"
+"Last-Translator: Kamborio <Kamborio15@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/es/>\n"
 "Language: es\n"
@@ -25,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -727,6 +729,10 @@ msgstr "Irán, República islámica de"
 msgid "Islamic Republic of Iran"
 msgstr "República Islámica de Irán"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Irán"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -827,6 +833,10 @@ msgstr "San Cristóbal y Nieves"
 msgid "Korea, Republic of"
 msgstr "Corea, República de"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Corea del Sur"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwait"
@@ -838,6 +848,10 @@ msgstr "Estado de Kuwait"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "República Democrática Popular de Lao"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -993,7 +1007,7 @@ msgstr "República de Macedonia del Norte"
 
 #. Name for MLI
 msgid "Mali"
-msgstr "Mali"
+msgstr "Malí"
 
 #. Official name for MLI
 msgid "Republic of Mali"
@@ -1239,6 +1253,10 @@ msgstr "Corea, República Democrática Popular de"
 msgid "Democratic People's Republic of Korea"
 msgstr "República Popular Democrática de Corea"
 
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Corea del Norte"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1437,11 +1455,11 @@ msgstr "Reino de Suecia"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr "Suazilandia"
+msgstr "Esuatini"
 
 #. Official name for SWZ
 msgid "Kingdom of Eswatini"
-msgstr "Reino de Suazilandia"
+msgstr "Reino de Esuatini"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1458,6 +1476,10 @@ msgstr "República de las Seychelles"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "República árabe de Siria"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "Siria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1536,11 +1558,11 @@ msgid "Republic of Tunisia"
 msgstr "República de Túnez"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "Turquía"
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "República de Turquía"
 
 #. Name for TUV

@@ -6,22 +6,23 @@
 # .
 # Copyright ©
 # Erdal Ronahi <erdal.ronahi@gmail.com>, 2005, 2007.
+# Pêşeroja paşerojê <cyax1@protonmail.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: ISO-falan-ku\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-02-24 12:38+0000\n"
-"Last-Translator: Hüseyin Kaya <kaya6491@gmail.com>\n"
-"Language-Team: Kurdish <https://hosted.weblate.org/projects/iso-codes/"
-"iso-3166-1/ku/>\n"
-"Language: ku\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2022-01-14 11:56+0000\n"
+"Last-Translator: Pêşeroja paşerojê <cyax1@protonmail.com>\n"
+"Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/iso-"
+"codes/iso-3166-1/kmr/>\n"
+"Language: kmr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.20-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 "X-Poedit-Language: Kurdish\n"
 
 #. Name for ABW
@@ -731,6 +732,10 @@ msgstr "Îran, Komara Îslamî ya"
 msgid "Islamic Republic of Iran"
 msgstr "Komara Îslamî ya Îran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Iraq"
@@ -832,6 +837,10 @@ msgstr "Saint Kitts û Nevis"
 msgid "Korea, Republic of"
 msgstr "Kore, Komara"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Koriya Başûr"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kûveyt"
@@ -843,6 +852,10 @@ msgstr "Dewleta Kûveyt"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Komara Demokratîka Gelê Lao"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -989,10 +1002,8 @@ msgid "Republic of the Marshall Islands"
 msgstr "Komara Giravên Marşal"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Kaledonyaya Nû"
+msgstr "Makedonyaya Bakur"
 
 #. Official name for MKD
 #, fuzzy
@@ -1250,6 +1261,12 @@ msgstr "Kore, Komara Demokratîk a Gelê"
 msgid "Democratic People's Republic of Korea"
 msgstr "Komara Demokratîk a Gelê Kore"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Kaledonyaya Nû"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portekîz"
@@ -1477,6 +1494,10 @@ msgstr "Komara Seyşelan"
 msgid "Syrian Arab Republic"
 msgstr "Sûriye"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Giravên Turks û Caicos"
@@ -1554,11 +1575,13 @@ msgid "Republic of Tunisia"
 msgstr "Komara Tûnis"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Tirkiye"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Komara Tirkiye"
 
 #. Name for TUV

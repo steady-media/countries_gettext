@@ -10,14 +10,16 @@
 # Carlos Z.F. Liu <carlosliu@users.sourceforge.net>, 2004-2006.
 # YunQiang Su <wzssyqa@gmail.com>, 2011.
 # LI Daobing <lidaobing@gmail.com>, 2007-2011, 2013, 2019.
-# Boyuan Yang <073plan@gmail.com>, 2019.
+# Boyuan Yang <073plan@gmail.com>, 2019, 2020, 2021, 2023.
+# tao wang <tonywang5@163.com>, 2020.
+# Promesis Yuan <m3149154722@outlook.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-03-21 16:03+0000\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-02-24 21:01+0000\n"
 "Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/iso-"
 "codes/iso-3166-1/zh_Hans/>\n"
@@ -26,7 +28,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.6-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -722,11 +724,15 @@ msgstr "爱尔兰"
 
 #. Name for IRN
 msgid "Iran, Islamic Republic of"
-msgstr "伊朗"
+msgstr "伊朗伊斯兰共和国"
 
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
 msgstr "伊朗伊斯兰共和国"
+
+#. Common name for IRN
+msgid "Iran"
+msgstr "伊朗"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -826,6 +832,10 @@ msgstr "圣基茨和尼维斯"
 
 #. Name for KOR
 msgid "Korea, Republic of"
+msgstr "大韩民国"
+
+#. Common name for KOR
+msgid "South Korea"
 msgstr "韩国"
 
 #. Name for KWT
@@ -839,6 +849,10 @@ msgstr "科威特国"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "老挝人民民主共和国"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "老挝"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1234,11 +1248,15 @@ msgstr "波多黎各"
 
 #. Name for PRK
 msgid "Korea, Democratic People's Republic of"
-msgstr "朝鲜"
+msgstr "朝鲜民主主义人民共和国"
 
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
-msgstr "朝鲜人民民主共和国"
+msgstr "朝鲜民主主义人民共和国"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "朝鲜"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1362,7 +1380,7 @@ msgstr "萨尔瓦多共和国"
 
 #. Name for SMR
 msgid "San Marino"
-msgstr "圣马力诺"
+msgstr "圣马力诺市"
 
 #. Official name for SMR
 msgid "Republic of San Marino"
@@ -1458,6 +1476,10 @@ msgstr "塞舌尔共和国"
 
 #. Name for SYR
 msgid "Syrian Arab Republic"
+msgstr "阿拉伯叙利亚共和国"
+
+#. Common name for SYR
+msgid "Syria"
 msgstr "叙利亚"
 
 #. Name for TCA
@@ -1498,7 +1520,7 @@ msgstr "塔吉克斯坦共和国"
 
 #. Name for TKL
 msgid "Tokelau"
-msgstr "托克劳群岛"
+msgstr "托克劳"
 
 #. Name for TKM
 msgid "Turkmenistan"
@@ -1537,16 +1559,16 @@ msgid "Republic of Tunisia"
 msgstr "突尼斯共和国"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "土耳其"
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "土耳其共和国"
 
 #. Name for TUV
 msgid "Tuvalu"
-msgstr "图瓦鲁"
+msgstr "图瓦卢"
 
 #. Name for TWN, Official name for TWN
 msgid "Taiwan, Province of China"
@@ -1630,15 +1652,15 @@ msgstr "委内瑞拉"
 
 #. Name for VGB
 msgid "Virgin Islands, British"
-msgstr "英属维京群岛"
+msgstr "英属维尔京群岛"
 
 #. Official name for VGB
 msgid "British Virgin Islands"
-msgstr "英属维京群岛"
+msgstr "英属维尔京群岛"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "美属维京群岛"
+msgstr "美属维尔京群岛"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

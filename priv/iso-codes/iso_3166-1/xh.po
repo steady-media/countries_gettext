@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2002-01-05 18:40+0000\n"
 "Last-Translator: Antoinette Dekeni <antoinette@translate.org.za>\n"
 "Language-Team: Xhosa <xhosa@translate.org.za>\n"
@@ -772,6 +772,10 @@ msgstr "Ulawulo lokuziphatha kwe Dominican"
 msgid "Islamic Republic of Iran"
 msgstr "Ulawulo lokuziphatha kwe Dominican"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 #, fuzzy
 msgid "Iraq"
@@ -884,6 +888,12 @@ msgstr "St. Kitts no Nevis"
 msgid "Korea, Republic of"
 msgstr "Ulawulo lokuziphatha kwe Dominican"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Mzantsi Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr ""
@@ -894,6 +904,10 @@ msgstr ""
 
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#. Common name for LAO
+msgid "Laos"
 msgstr ""
 
 #. Name for LBN
@@ -1331,6 +1345,11 @@ msgstr ""
 msgid "Democratic People's Republic of Korea"
 msgstr ""
 
+#. Common name for PRK
+#, fuzzy
+msgid "North Korea"
+msgstr "Macedonia"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1567,6 +1586,10 @@ msgstr ""
 msgid "Syrian Arab Republic"
 msgstr "Ulawulo lokuziphatha kwe Dominican"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr ""
@@ -1651,12 +1674,12 @@ msgid "Republic of Tunisia"
 msgstr ""
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Turkey"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
 #, fuzzy
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Ulawulo lokuziphatha kwe Dominican"
 
 #. Name for TUV

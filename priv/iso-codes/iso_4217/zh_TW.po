@@ -7,14 +7,15 @@
 # Wei-Lun Chao <bluebat@member.fsf.org>, 2010, 2013.
 # Louies <louies0623@gmail.com>, 2019.
 # Walter Cheuk <wwycheuk@gmail.com>, 2019.
+# Abel Cheung <abelcheung@gmail.com>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-10-18 14:54+0000\n"
-"Last-Translator: Walter Cheuk <wwycheuk@gmail.com>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2023-04-10 05:19+0000\n"
+"Last-Translator: Abel Cheung <abelcheung@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "iso-codes/iso-4217/zh_Hant/>\n"
 "Language: zh_TW\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.9.1-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -61,12 +62,12 @@ msgid "Aruban Florin"
 msgstr "阿魯巴弗羅林"
 
 #. Name for AZN
-msgid "Azerbaijanian Manat"
+msgid "Azerbaijan Manat"
 msgstr "亞塞拜然馬納特"
 
 #. Name for BAM
 msgid "Convertible Mark"
-msgstr "可兌換標記"
+msgstr "波黑可兌換馬克"
 
 #. Name for BBD
 msgid "Barbados Dollar"
@@ -100,6 +101,10 @@ msgstr "汶萊元"
 msgid "Boliviano"
 msgstr "玻利維亞諾"
 
+#. Name for BOV
+msgid "Mvdol"
+msgstr "MVDOL"
+
 #. Name for BRL
 msgid "Brazilian Real"
 msgstr "巴西里耳"
@@ -132,9 +137,21 @@ msgstr "加拿大元"
 msgid "Congolese Franc"
 msgstr "剛果法郎"
 
+#. Name for CHE
+msgid "WIR Euro"
+msgstr "WIR 歐元"
+
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "瑞士法郎"
+
+#. Name for CHW
+msgid "WIR Franc"
+msgstr "WIR 法郎"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr "UF金融單位"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -147,6 +164,10 @@ msgstr "中國人民幣元"
 #. Name for COP
 msgid "Colombian Peso"
 msgstr "哥倫比亞披索"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr ""
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -229,7 +250,7 @@ msgid "Dalasi"
 msgstr "甘比亞達拉西"
 
 #. Name for GNF
-msgid "Guinea Franc"
+msgid "Guinean Franc"
 msgstr "幾內亞法郎"
 
 #. Name for GTQ
@@ -309,7 +330,7 @@ msgid "Riel"
 msgstr "柬埔寨瑞爾"
 
 #. Name for KMF
-msgid "Comoro Franc"
+msgid "Comorian Franc"
 msgstr "葛摩法郎"
 
 #. Name for KPW
@@ -333,8 +354,8 @@ msgid "Tenge"
 msgstr "哈薩克坦吉"
 
 #. Name for LAK
-msgid "Kip"
-msgstr "寮國基普"
+msgid "Lao Kip"
+msgstr ""
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -384,7 +405,7 @@ msgstr "蒙古圖格里克"
 msgid "Pataca"
 msgstr "澳門幣"
 
-#. Name for MRO
+#. Name for MRU
 msgid "Ouguiya"
 msgstr "毛利塔尼亞烏吉亞"
 
@@ -403,6 +424,10 @@ msgstr "馬拉威克瓦查"
 #. Name for MXN
 msgid "Mexican Peso"
 msgstr "墨西哥披索"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr ""
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -516,7 +541,7 @@ msgstr "新加坡元"
 msgid "Saint Helena Pound"
 msgstr "聖赫倫那島鎊"
 
-#. Name for SLL
+#. Name for SLE, Name for SLL
 msgid "Leone"
 msgstr "利昂"
 
@@ -532,7 +557,7 @@ msgstr "蘇利南元"
 msgid "South Sudanese Pound"
 msgstr "南蘇丹鎊"
 
-#. Name for STD
+#. Name for STN
 msgid "Dobra"
 msgstr "聖多美及普林西比多布拉"
 
@@ -596,21 +621,33 @@ msgstr "烏干達先令"
 msgid "US Dollar"
 msgstr "美元"
 
+#. Name for USN
+msgid "US Dollar (Next day)"
+msgstr "美元（次日）"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr ""
+
 #. Name for UYU
 msgid "Peso Uruguayo"
 msgstr "烏拉圭披索"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr ""
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "烏茲別克頌"
 
-#. Name for VEF
-msgid "Bolívar"
-msgstr "玻利瓦"
+#. Name for VED, Name for VES
+msgid "Bolívar Soberano"
+msgstr "主權玻利瓦"
 
 #. Name for VND
 msgid "Dong"
-msgstr "侗語"
+msgstr "盾"
 
 #. Name for VUV
 msgid "Vatu"

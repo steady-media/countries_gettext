@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-05-25 09:35+0000\n"
 "Last-Translator: ប៉ុកណូ រ៉ូយ៉ាល់ <royalpokno68@gmail.com>\n"
 "Language-Team: Central Khmer <https://hosted.weblate.org/projects/iso-codes/"
@@ -728,6 +728,10 @@ msgstr "​អ៊ីរ៉ង់ សាធារណ​រដ្ឋ​អ៊ី�
 msgid "Islamic Republic of Iran"
 msgstr "សាធារណ​រដ្ឋ​អ៊ីស្លាម​អ៊ីរ៉ង់"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "អ៊ីរ៉ាក់"
@@ -828,6 +832,12 @@ msgstr "សង់ឃីត និង នេវីស"
 msgid "Korea, Republic of"
 msgstr "កូរ៉េ សាធារណរដ្ឋ​នៃរ៉េ"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "អាហ្វ្រិក​ខាងត្បូង"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "គុយវ៉ែត"
@@ -839,6 +849,10 @@ msgstr "រដ្ឋ​គុយវ៉ែត"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "សាធារណ​រដ្ឋ​ប្រជាធិបតេយ្យ​​ប្រជាមានិត​ឡាវ"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1245,6 +1259,12 @@ msgstr "កូរ៉េ សាធារណ​រដ្ឋ​ប្រជាម�
 msgid "Democratic People's Republic of Korea"
 msgstr "សាធារណ​រដ្ឋ​ប្រជាមានិត​ប្រជាធិបតេយ្យ​កូរ៉េ"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "នូវែលកាលេដូនី"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "ព័រទុយហ្គាល់"
@@ -1468,6 +1488,10 @@ msgstr "សាធារណរដ្ឋ​សីស្ហែល"
 msgid "Syrian Arab Republic"
 msgstr "សាធារណរដ្ឋ​ស៊ីរីយ៉ា​​អារាប់"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "កោះ​ទួក និង កៃកូស"
@@ -1545,11 +1569,13 @@ msgid "Republic of Tunisia"
 msgstr "សាធារណរដ្ឋ​ទុយណេស៊ី"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "ទួរគី"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "សាធារណរដ្ឋទួរគី​"
 
 #. Name for TUV

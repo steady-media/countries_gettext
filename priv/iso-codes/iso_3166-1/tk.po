@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-01-01 17:04+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Turkmen <https://hosted.weblate.org/projects/iso-codes/"
@@ -70,7 +70,7 @@ msgstr "Andorra Knýazlygy"
 
 #. Name for ARE
 msgid "United Arab Emirates"
-msgstr "Birleşen  Arap Emiratlary"
+msgstr "Birleşen Arap Emiratlary"
 
 #. Name for ARG
 msgid "Argentina"
@@ -736,6 +736,10 @@ msgstr "Eýran, Yslam Respublikasy"
 msgid "Islamic Republic of Iran"
 msgstr "Eýran Yslam Respublikasy"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -836,6 +840,12 @@ msgstr "Sent-Kitts we Newis"
 msgid "Korea, Republic of"
 msgstr "Koreýa Respublikasy"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Günorta Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuweýt"
@@ -846,6 +856,10 @@ msgstr "Kuweýt Döwleti"
 
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#. Common name for LAO
+msgid "Laos"
 msgstr ""
 
 #. Name for LBN
@@ -983,7 +997,7 @@ msgstr "Meksikanyň"
 
 #. Official name for MEX
 msgid "United Mexican States"
-msgstr "Meksikanyň  Birleşen  Ştatlary"
+msgstr "Meksikanyň Birleşen Ştatlary"
 
 #. Name for MHL
 msgid "Marshall Islands"
@@ -1183,7 +1197,7 @@ msgstr "Oman"
 
 #. Official name for OMN
 msgid "Sultanate of Oman"
-msgstr "Oman  Soltanlygy"
+msgstr "Oman Soltanlygy"
 
 #. Name for PAK
 msgid "Pakistan"
@@ -1257,6 +1271,12 @@ msgstr "Koreýa, Halk Demokratik Respublikasy"
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Koreýa Halk Demokratik Respublikasy"
+
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Täze Kaledoniýa"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1484,6 +1504,10 @@ msgstr "Seýşel Adlar Respublikasy"
 msgid "Syrian Arab Republic"
 msgstr "Siriýa Arap Respublikasy"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr ""
@@ -1502,7 +1526,7 @@ msgstr "Togolez"
 
 #. Official name for TGO
 msgid "Togolese Republic"
-msgstr "Togolez  Respublikasy"
+msgstr "Togolez Respublikasy"
 
 #. Name for THA
 msgid "Thailand"
@@ -1561,11 +1585,13 @@ msgid "Republic of Tunisia"
 msgstr "Tunis Respublikasy"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Türk"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Türk Respublikasy"
 
 #. Name for TUV
