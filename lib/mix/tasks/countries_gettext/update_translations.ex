@@ -12,10 +12,11 @@ defmodule Mix.Tasks.CountriesGettext.UpdateTranslations do
 
   def run(locales) do
     output_dir = Path.join(["priv", "gettext"])
-    IO.puts "Generating countries.pot"
+    IO.puts("Generating countries.pot")
     CountriesGettext.GenerateFiles.generate_pot(output_dir)
+
     Enum.each(locales, fn locale ->
-      IO.puts "Generating countries.po for locale \"#{locale}\""
+      IO.puts("Generating countries.po for locale \"#{locale}\"")
       CountriesGettext.GenerateFiles.generate_po(output_dir, locale)
     end)
   end
