@@ -733,7 +733,7 @@ msgstr "República Islâmica do Irão"
 
 #. Common name for IRN
 msgid "Iran"
-msgstr ""
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -853,7 +853,7 @@ msgstr "República Democrática Popular do Laos"
 
 #. Common name for LAO
 msgid "Laos"
-msgstr ""
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1481,7 +1481,7 @@ msgstr "República Árabe Síria"
 
 #. Common name for SYR
 msgid "Syria"
-msgstr ""
+msgstr "Syria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
