@@ -1,8 +1,9 @@
 defmodule CountriesGettext.GenerateFiles do
-  @country_codes_input_json_path to_string(:code.priv_dir(:countries_gettext)) <>
-                                   "/iso-codes/data/iso_3166-1.json"
+  country_codes_input_json_path =
+    to_string(:code.priv_dir(:countries_gettext)) <>
+      "/iso-codes/data/iso_3166-1.json"
 
-  @codes_by_name @country_codes_input_json_path
+  @codes_by_name country_codes_input_json_path
                  |> File.read!()
                  |> Jason.decode!()
                  |> Map.get("3166-1")
@@ -20,14 +21,16 @@ defmodule CountriesGettext.GenerateFiles do
 
     File.mkdir_p!(output_dir)
     File.write!(pot_path(output_dir), content)
+  end
 
-    en_po_content =
+  def generate_po(output_dir, "en") do
+    content =
       @codes_by_name
       |> Enum.map(&en_po_entry_for_country/1)
       |> Enum.join("\n")
 
     File.mkdir_p!(po_directory(output_dir, "en"))
-    File.write!(po_path(output_dir, "en"), en_po_content)
+    File.write!(po_path(output_dir, "en"), content)
   end
 
   def generate_po(output_dir, locale) do
