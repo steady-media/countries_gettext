@@ -9,16 +9,17 @@
 # Luk Claes <luk.claes@ugent.be>, 2005.
 # Freek de Kruijf <f.de.kruijf@gmail.com>, 2006-2013, 2015, 2017.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2018.
-# Pander <pander@users.sourceforge.net>, 2018.
+# Pander <pander@users.sourceforge.net>, 2018, 2021, 2022.
 # powerburner-nl <peter.mulder.1981@gmail.com>, 2019.
+# Frans Spiesschaert <frans.spiesschaert@gmail.com>, 2019, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-10-27 18:53+0000\n"
-"Last-Translator: powerburner-nl <peter.mulder.1981@gmail.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-03-18 21:41+0000\n"
+"Last-Translator: Frans Spiesschaert <frans.spiesschaert@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/nl/>\n"
 "Language: nl\n"
@@ -26,7 +27,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.9.1-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -279,7 +280,7 @@ msgstr "Canada"
 
 #. Name for CCK
 msgid "Cocos (Keeling) Islands"
-msgstr "Cocoseilanden"
+msgstr "Cocoseilanden (Keelingeilanden)"
 
 #. Name for CHE
 msgid "Switzerland"
@@ -471,7 +472,7 @@ msgstr "Eritrea"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr "de Staat Eritrea"
+msgstr "Staat Eritrea"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -519,7 +520,7 @@ msgstr "Republiek Fiji"
 
 #. Name for FLK
 msgid "Falkland Islands (Malvinas)"
-msgstr "Falklandeilanden"
+msgstr "Falklandeilanden (Malvinas)"
 
 #. Name for FRA
 msgid "France"
@@ -594,10 +595,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Republiek Zambia"
+msgstr "Republiek Gambia"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -731,6 +730,10 @@ msgstr "Iran"
 msgid "Islamic Republic of Iran"
 msgstr "Islamitische Republiek Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iran"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -829,6 +832,10 @@ msgstr "Saint Kitts en Nevis"
 
 #. Name for KOR
 msgid "Korea, Republic of"
+msgstr "Korea, Republiek"
+
+#. Common name for KOR
+msgid "South Korea"
 msgstr "Zuid-Korea"
 
 #. Name for KWT
@@ -842,6 +849,10 @@ msgstr "Staat Koeweit"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Laos Democratische Volksrepubliek"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -905,7 +916,7 @@ msgstr "Luxemburg"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
-msgstr "Groot-Hertogdom Luxemburg"
+msgstr "Groothertogdom Luxemburg"
 
 #. Name for LVA
 msgid "Latvia"
@@ -925,7 +936,7 @@ msgstr "Speciale Administratieve Regio Macau van de Volksrepubliek China"
 
 #. Name for MAF
 msgid "Saint Martin (French part)"
-msgstr "Sint-Maarten"
+msgstr "Sint-Maarten (Frans deel)"
 
 #. Name for MAR
 msgid "Morocco"
@@ -961,7 +972,7 @@ msgstr "Madagaskar"
 
 #. Official name for MDG
 msgid "Republic of Madagascar"
-msgstr "Republiek Madagascar"
+msgstr "Republiek Madagaskar"
 
 #. Name for MDV
 msgid "Maldives"
@@ -1221,7 +1232,7 @@ msgstr "Papoea-Nieuw-Guinea"
 
 #. Official name for PNG
 msgid "Independent State of Papua New Guinea"
-msgstr "Onafhankelijke staat Papua Nieuw Guinea"
+msgstr "Onafhankelijke Staat Papua Nieuw Guinea"
 
 #. Name for POL
 msgid "Poland"
@@ -1237,11 +1248,15 @@ msgstr "Puerto Rico"
 
 #. Name for PRK
 msgid "Korea, Democratic People's Republic of"
-msgstr "Noord-Korea"
+msgstr "Korea, Democratische Volksrepubliek"
 
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Democratische Volksrepubliek Korea"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Noord-Korea"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1261,7 +1276,7 @@ msgstr "Republiek Paraguay"
 
 #. Name for PSE
 msgid "Palestine, State of"
-msgstr "Palestina"
+msgstr "Palestina, Staat"
 
 #. Official name for PSE
 msgid "the State of Palestine"
@@ -1463,6 +1478,10 @@ msgstr "Republiek Seychellen"
 msgid "Syrian Arab Republic"
 msgstr "Syrië"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr "Syrië"
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Turks- en Caicoseilanden"
@@ -1540,11 +1559,11 @@ msgid "Republic of Tunisia"
 msgstr "Republiek Tunesië"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "Turkije"
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Republiek Turkije"
 
 #. Name for TUV
@@ -1613,7 +1632,7 @@ msgstr "Republiek Oezbekistan"
 
 #. Name for VAT
 msgid "Holy See (Vatican City State)"
-msgstr "Vaticaanstad"
+msgstr "Vaticaanstad, Staat"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
@@ -1641,11 +1660,11 @@ msgstr "Britse Maagdeneilanden"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Amerikaanse Maagdeneilanden"
+msgstr "Maagdeneilanden, Amerikaanse"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"
-msgstr "Territorium de Maagdeneilanden"
+msgstr "Amerikaanse Maagdeneilanden"
 
 #. Name for VNM
 msgid "Viet Nam"

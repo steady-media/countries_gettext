@@ -1,36 +1,48 @@
 defmodule CountriesGettext.GenerateFiles do
-  @country_codes_input_json_path to_string(:code.priv_dir(:countries_gettext)) <>
-                                   "/iso-codes/data/iso_3166-1.json"
+  country_codes_input_json_path =
+    to_string(:code.priv_dir(:countries_gettext)) <>
+      "/iso-codes/data/iso_3166-1.json"
 
-  @codes_by_name @country_codes_input_json_path
-                 |> File.read!()
-                 |> Jason.decode!()
-                 |> Map.get("3166-1")
-                 |> Enum.map(fn %{"alpha_2" => code, "name" => name} = map ->
+  @names_with_codes country_codes_input_json_path
+                    |> File.read!()
+                    |> Jason.decode!()
+                    |> Map.get("3166-1")
+                    |> Enum.map(fn %{"alpha_2" => code, "name" => name} = map ->
                       name = map["common_name"] || name
-                      {name, String.downcase(code)} end)
-                 |> Enum.into(%{})
+                      {name, String.downcase(code)}
+                    end)
+
+  @codes_by_name Map.new(@names_with_codes)
 
   def generate_pot(output_dir) do
     content =
-      @country_codes_input_json_path
-      |> File.read!()
-      |> Jason.decode!()
-      |> Map.get("3166-1")
+      @names_with_codes
       |> Enum.map(&pot_entry_for_country/1)
       |> Enum.join("\n")
 
+    File.mkdir_p!(output_dir)
     File.write!(pot_path(output_dir), content)
+  end
+
+  def generate_po(output_dir, "en") do
+    content =
+      @names_with_codes
+      |> Enum.map(&en_po_entry_for_country/1)
+      |> Enum.join("\n")
+
+    File.mkdir_p!(po_directory(output_dir, "en"))
+    File.write!(po_path(output_dir, "en"), content)
   end
 
   def generate_po(output_dir, locale) do
     input =
       locale
-      |> po_input_json_path
+      |> po_input_json_path()
       |> File.read!()
 
     content = Regex.replace(~r/msgid "([^"]+)"/, input, &replace_name_by_code/2)
 
+    File.mkdir_p!(po_directory(output_dir, locale))
     File.write!(po_path(output_dir, locale), content)
   end
 
@@ -41,8 +53,14 @@ defmodule CountriesGettext.GenerateFiles do
     end
   end
 
-  def pot_entry_for_country(%{"alpha_2" => code, "name" => name} = map) do
-    name = map["common_name"] || name
+  def pot_entry_for_country({_name, code}) do
+    ~s"""
+    msgid "#{String.downcase(code)}"
+    msgstr ""
+    """
+  end
+
+  def en_po_entry_for_country({name, code}) do
     ~s"""
     msgid "#{String.downcase(code)}"
     msgstr "#{name}"
@@ -53,13 +71,17 @@ defmodule CountriesGettext.GenerateFiles do
     Path.join([output_dir, "countries.pot"])
   end
 
+  defp po_directory(output_dir, locale) do
+    Path.join([output_dir, locale, "LC_MESSAGES"])
+  end
+
   defp po_path(output_dir, locale) do
     Path.join([output_dir, locale, "LC_MESSAGES", "countries.po"])
   end
 
   def po_input_json_path(locale) do
     :code.priv_dir(:countries_gettext)
-    |> to_string
+    |> to_string()
     |> Path.join(Path.join(["iso-codes", "iso_3166-1", "#{locale}.po"]))
   end
 end

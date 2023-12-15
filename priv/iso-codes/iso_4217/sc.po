@@ -4,14 +4,14 @@
 # This file is distributed under the same license as the iso-codes package.
 # .
 # Copyright ©
-# Ajeje Brazorf <lmelonimamo@yahoo.it>, 2018, 2019.
+# Ajeje Brazorf <lmelonimamo@yahoo.it>, 2018, 2019, 2020, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2019-06-16 01:22+0000\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2022-06-03 20:17+0000\n"
 "Last-Translator: Ajeje Brazorf <lmelonimamo@yahoo.it>\n"
 "Language-Team: Sardinian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/sc/>\n"
@@ -20,7 +20,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.7-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -59,7 +59,7 @@ msgid "Aruban Florin"
 msgstr "Fiorinu de Aruba"
 
 #. Name for AZN
-msgid "Azerbaijanian Manat"
+msgid "Azerbaijan Manat"
 msgstr "Manat de s'Azerbaigiàn"
 
 #. Name for BAM
@@ -98,6 +98,10 @@ msgstr "Dòllaru de su Brunei"
 msgid "Boliviano"
 msgstr "Bolivianu"
 
+#. Name for BOV
+msgid "Mvdol"
+msgstr "Mvdol"
+
 #. Name for BRL
 msgid "Brazilian Real"
 msgstr "Real brasilianu"
@@ -130,9 +134,21 @@ msgstr "Dòllaru canadesu"
 msgid "Congolese Franc"
 msgstr "Francu congolesu"
 
+#. Name for CHE
+msgid "WIR Euro"
+msgstr "Èuro WIR"
+
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Francu isvìtzeru"
+
+#. Name for CHW
+msgid "WIR Franc"
+msgstr "Francu WIR"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr "Unidade de acontu tzilena"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -145,6 +161,10 @@ msgstr "Yuan renminbi"
 #. Name for COP
 msgid "Colombian Peso"
 msgstr "Peso columbianu"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr "Unidade de valore reale"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -227,7 +247,7 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-msgid "Guinea Franc"
+msgid "Guinean Franc"
 msgstr "Francu guineanu"
 
 #. Name for GTQ
@@ -307,8 +327,8 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-msgid "Comoro Franc"
-msgstr "Francu de sas Comoras"
+msgid "Comorian Franc"
+msgstr "Francu comoranu"
 
 #. Name for KPW
 msgid "North Korean Won"
@@ -331,8 +351,8 @@ msgid "Tenge"
 msgstr "Tenge"
 
 #. Name for LAK
-msgid "Kip"
-msgstr "Kip"
+msgid "Lao Kip"
+msgstr "Kip laotianu"
 
 #. Name for LBP
 msgid "Lebanese Pound"
@@ -382,7 +402,7 @@ msgstr "Tugrik"
 msgid "Pataca"
 msgstr "Pataca"
 
-#. Name for MRO
+#. Name for MRU
 msgid "Ouguiya"
 msgstr "Ouguiya"
 
@@ -401,6 +421,10 @@ msgstr "Kwacha de su Malawi"
 #. Name for MXN
 msgid "Mexican Peso"
 msgstr "Peso messicanu"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr "Unidade de inversione messicana (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -464,7 +488,7 @@ msgstr "Zloty"
 
 #. Name for PYG
 msgid "Guarani"
-msgstr "Guarani"
+msgstr "Guaranì"
 
 #. Name for QAR
 msgid "Qatari Rial"
@@ -514,7 +538,7 @@ msgstr "Dòllaru de Singapore"
 msgid "Saint Helena Pound"
 msgstr "Isterlina de Sant'Èlena"
 
-#. Name for SLL
+#. Name for SLE, Name for SLL
 msgid "Leone"
 msgstr "Leone"
 
@@ -530,7 +554,7 @@ msgstr "Dòllaru surinamesu"
 msgid "South Sudanese Pound"
 msgstr "Isterlina sudsudanesa"
 
-#. Name for STD
+#. Name for STN
 msgid "Dobra"
 msgstr "Dobra"
 
@@ -594,17 +618,29 @@ msgstr "Iscellinu ugandesu"
 msgid "US Dollar"
 msgstr "Dòllaru americanu"
 
+#. Name for USN
+msgid "US Dollar (Next day)"
+msgstr "Dòllaru americanu (die imbeniente)"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr "Peso uruguayanu in unidades inditzitzadas (UI)"
+
 #. Name for UYU
 msgid "Peso Uruguayo"
 msgstr "Peso uruguaianu"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr "Unidade previsionale"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Sum uzbecu"
 
-#. Name for VEF
-msgid "Bolívar"
-msgstr "Bolivar"
+#. Name for VED, Name for VES
+msgid "Bolívar Soberano"
+msgstr "Bolivar soberanu"
 
 #. Name for VND
 msgid "Dong"

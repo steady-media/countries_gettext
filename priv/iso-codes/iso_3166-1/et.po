@@ -12,14 +12,16 @@
 # Hasso Tepper <hasso@estpak.ee>, 2006.
 # Siim Põder <windo@p6drad-teel.net>, 2006.
 # Tõivo Leedjärv <toivol@gmail.com>, 2008, 2011, 2013.
+# Janar Leas <janar.leas@gmail.com>, 2020.
+# Priit Jõerüüt <hwlate@joeruut.com>, 2021, 2022, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2018-01-01 15:06+0000\n"
-"Last-Translator: Kristjan Räts <kristjanrats@gmail.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-02-28 09:59+0000\n"
+"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
 "Language-Team: Estonian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/et/>\n"
 "Language: et\n"
@@ -27,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -594,10 +596,8 @@ msgid "Gambia"
 msgstr "Gambia"
 
 #. Official name for GMB
-#, fuzzy
-#| msgid "Republic of Zambia"
 msgid "Republic of the Gambia"
-msgstr "Sambia Vabariik"
+msgstr "Gambia Vabariik"
 
 #. Name for GNB
 msgid "Guinea-Bissau"
@@ -731,6 +731,10 @@ msgstr "Iraan"
 msgid "Islamic Republic of Iran"
 msgstr "Iraani Islamivabariik"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iraan"
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Iraak"
@@ -831,6 +835,10 @@ msgstr "Saint Kitts ja Nevis"
 msgid "Korea, Republic of"
 msgstr "Lõuna-Korea (Korea Vabariik)"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Lõuna-Korea"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuveit"
@@ -842,6 +850,10 @@ msgstr "Kuveidi Riik"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Laose Demokraatlik Rahvavabariik"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -988,16 +1000,12 @@ msgid "Republic of the Marshall Islands"
 msgstr "Marshalli Saarte Vabariik"
 
 #. Name for MKD
-#, fuzzy
-#| msgid "New Caledonia"
 msgid "North Macedonia"
-msgstr "Uus-Kaledoonia"
+msgstr "Põhja-Makedoonia"
 
 #. Official name for MKD
-#, fuzzy
-#| msgid "Republic of Lithuania"
 msgid "Republic of North Macedonia"
-msgstr "Leedu Vabariik"
+msgstr "Põhja-Makedoonia Vabariik"
 
 #. Name for MLI
 msgid "Mali"
@@ -1247,6 +1255,10 @@ msgstr "Põhja-Korea"
 msgid "Democratic People's Republic of Korea"
 msgstr "Korea Rahvademokraatlik Vabariik"
 
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Põhja-Korea"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1445,13 +1457,11 @@ msgstr "Rootsi Kuningriik"
 
 #. Name for SWZ
 msgid "Eswatini"
-msgstr ""
+msgstr "Svaasimaa"
 
 #. Official name for SWZ
-#, fuzzy
-#| msgid "Kingdom of Spain"
 msgid "Kingdom of Eswatini"
-msgstr "Hispaania Kuningriik"
+msgstr "eSwatini Kuningriik"
 
 #. Name for SXM, Official name for SXM
 msgid "Sint Maarten (Dutch part)"
@@ -1468,6 +1478,10 @@ msgstr "Seišelli Vabariik"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Süüria Araabia Vabariik"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "Süüria"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1546,11 +1560,11 @@ msgid "Republic of Tunisia"
 msgstr "Tuneesia Vabariik"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "Türgi"
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Türgi Vabariik"
 
 #. Name for TUV

@@ -7,16 +7,16 @@
 # Copyright ©
 # Arief S Fitrianto <arief@gurame.fisika.ui.ac.id>, 2004-2006.
 # Andhika Padmawan <andhika.padmawan@gmail.com>, 2011-2016.
-# Andika Triwidada <andika@gmail.com>, 2018, 2019.
+# Andika Triwidada <andika@gmail.com>, 2018, 2019, 2020, 2021, 2022, 2023.
 # Chris Leonard <cjlhomeaddress@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-08-02 17:12+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-03-03 15:38+0000\n"
+"Last-Translator: Andika Triwidada <andika@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/id/>\n"
 "Language: id\n"
@@ -24,7 +24,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.8-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 "X-Bugs: Report translation errors to the Language-Team address.\n"
 
 #. Name for ABW
@@ -689,7 +689,7 @@ msgstr "Republik Haiti"
 
 #. Name for HUN, Official name for HUN
 msgid "Hungary"
-msgstr "Hungaria"
+msgstr "Hongaria"
 
 #. Name for IDN
 msgid "Indonesia"
@@ -726,6 +726,10 @@ msgstr "Iran, Republik Islam"
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
 msgstr "Republik Islam Iran"
+
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -827,6 +831,10 @@ msgstr "Saint Kitts dan Nevis"
 msgid "Korea, Republic of"
 msgstr "Korea Selatan"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Korea Selatan"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwait"
@@ -838,6 +846,10 @@ msgstr "Negara Kuwait"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Republik Demokrat Rakyat Laos"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1239,6 +1251,10 @@ msgstr "Korea Utara"
 msgid "Democratic People's Republic of Korea"
 msgstr "Republik Demokrat Rakyat Korea"
 
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Korea Utara"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1413,7 +1429,7 @@ msgstr "Republik Suriname"
 
 #. Name for SVK
 msgid "Slovakia"
-msgstr "Slovakia"
+msgstr "Slowakia"
 
 #. Official name for SVK
 msgid "Slovak Republic"
@@ -1458,6 +1474,10 @@ msgstr "Republik Seychelles"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Republik Arab Syria"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr "Suriah"
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1536,11 +1556,11 @@ msgid "Republic of Tunisia"
 msgstr "Republik Tunisia"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "Turki"
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Republik Turki"
 
 #. Name for TUV
@@ -1637,7 +1657,7 @@ msgstr "Kepulauan Virgin Britania Raya"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Kepulauan Virgin Amerika Serikat"
+msgstr "Kepulauan Virgin, A.S."
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

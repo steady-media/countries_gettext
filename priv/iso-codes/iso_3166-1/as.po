@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2010-04-05 17:41+0530\n"
 "Last-Translator: Amitakhya Phukan <aphukan@fedoraproject.org>\n"
 "Language-Team: Assamese <fedora-trans-as@redhat.com>\n"
@@ -730,6 +730,10 @@ msgstr "ইৰান, ইচ্‌লামিক প্ৰজাতন্ত্
 msgid "Islamic Republic of Iran"
 msgstr "ইচ্‌লামিক প্ৰজাতন্ত্ৰ ইৰান"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "ইৰাক"
@@ -830,6 +834,12 @@ msgstr "চেন্ট কিট্‌স আৰু নেভিচ"
 msgid "Korea, Republic of"
 msgstr "কোৰিয়া প্ৰজাতন্ত্ৰ"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "দক্ষিণ আফ্ৰিকা"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "কুৱেইট"
@@ -841,6 +851,10 @@ msgstr "কুৱেইট ৰাষ্ট্ৰ"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "গণপ্ৰজাতন্ত্ৰী লাও"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1248,6 +1262,12 @@ msgstr "কোৰিয়া, গণতান্ত্ৰিক গণপ্ৰজ
 msgid "Democratic People's Republic of Korea"
 msgstr "গণতান্ত্ৰিক গণপ্ৰজাতন্ত্ৰী কোৰিয়া"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "নিউ কেলেডনিয়া"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "পোর্টুগাল"
@@ -1475,6 +1495,10 @@ msgstr "ছেয়চেলছ প্ৰজাতন্ত্ৰ"
 msgid "Syrian Arab Republic"
 msgstr "চিৰিয়ান আৰব প্ৰজাতন্ত্ৰ"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "টুৰ্কছ আৰু কেইকোছ দ্বীপ"
@@ -1552,11 +1576,13 @@ msgid "Republic of Tunisia"
 msgstr "টিউনিছিয়া প্ৰজাতন্ত্ৰ"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "তুৰস্ক"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "তুৰস্ক প্ৰজাতন্ত্ৰ"
 
 #. Name for TUV

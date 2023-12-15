@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-07-10 10:42+0000\n"
 "Last-Translator: వీవెన్ <veeven@gmail.com>\n"
 "Language-Team: Telugu <https://hosted.weblate.org/projects/iso-codes/"
@@ -732,6 +732,10 @@ msgstr "ఇరాన్, ఇస్లామిక్ రిపబ్లిక్
 msgid "Islamic Republic of Iran"
 msgstr "ఇస్లామిక్ రిపబ్లిక్ ఆఫ్ ఇరాన్"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "ఇరాక్"
@@ -832,6 +836,12 @@ msgstr "సైంట్ కిట్స్ మరియు నెవిస్"
 msgid "Korea, Republic of"
 msgstr "కోరియా, రిపబ్లిక్ ఆఫ్"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "సౌత్ ఆఫ్రికా"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "కువైట్"
@@ -843,6 +853,10 @@ msgstr "స్టేట్ ఆఫ్ కువైట్"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "లాఓ పీపుల్స్ డెమోక్రటిక్ రిపబ్లిక్"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1249,6 +1263,12 @@ msgstr "కోరియా, డెమోక్రటిక్ పీపుల్
 msgid "Democratic People's Republic of Korea"
 msgstr "డెమోక్రటిక్ పీపుల్స్ రిపబ్లిక్ ఆఫ్ కోరియా"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "న్యూ కెలిడోనియా"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "పోర్చుగల్"
@@ -1473,6 +1493,10 @@ msgstr "రిపబ్లిక్ ఆఫ్ సేశేల్స్"
 msgid "Syrian Arab Republic"
 msgstr "సిరియన్ అరబ్ రిపబ్లిక్"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "టర్కస్ మరియు కైకోస్ ఐలాండ్స్"
@@ -1550,11 +1574,13 @@ msgid "Republic of Tunisia"
 msgstr "రిపబ్లిక్ ఆఫ్ తునిశియా"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "టర్కీ"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "రిపబ్లిక్ ఆఫ్ టర్కీ"
 
 #. Name for TUV

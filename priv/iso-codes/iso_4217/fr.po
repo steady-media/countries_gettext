@@ -11,14 +11,17 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2002.
 # Christian Perrier <bubulle@debian.org>, 2004-2007, 2010, 2015.
 # Alban Vidal <alban.vidal@zordhak.fr>, 2017.
+# J. Lavoie <j.lavoie@net-c.ca>, 2020.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2022.
+# un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_4217\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Alban Vidal <alban.vidal@zordhak.fr>\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2023-07-18 11:05+0000\n"
+"Last-Translator: un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-4217/fr/>\n"
 "Language: fr\n"
@@ -26,7 +29,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Name for AED
 msgid "UAE Dirham"
@@ -65,7 +68,7 @@ msgid "Aruban Florin"
 msgstr "Florin d'Aruba"
 
 #. Name for AZN
-msgid "Azerbaijanian Manat"
+msgid "Azerbaijan Manat"
 msgstr "Manat azerbaïdjanais"
 
 #. Name for BAM
@@ -104,6 +107,10 @@ msgstr "Dollar de Brunei"
 msgid "Boliviano"
 msgstr "Boliviano bolivien"
 
+#. Name for BOV
+msgid "Mvdol"
+msgstr "Mvdol"
+
 #. Name for BRL
 msgid "Brazilian Real"
 msgstr "Real brésilien"
@@ -136,9 +143,21 @@ msgstr "Dollar canadien"
 msgid "Congolese Franc"
 msgstr "Franc congolais"
 
+#. Name for CHE
+msgid "WIR Euro"
+msgstr "Euro WIR"
+
 #. Name for CHF
 msgid "Swiss Franc"
 msgstr "Franc suisse"
+
+#. Name for CHW
+msgid "WIR Franc"
+msgstr "Franc WIR"
+
+#. Name for CLF
+msgid "Unidad de Fomento"
+msgstr "Unité d'investissement"
 
 #. Name for CLP
 msgid "Chilean Peso"
@@ -151,6 +170,10 @@ msgstr "Yuan renmimbi"
 #. Name for COP
 msgid "Colombian Peso"
 msgstr "Peso colombien"
+
+#. Name for COU
+msgid "Unidad de Valor Real"
+msgstr "Unité de valeur réelle"
 
 #. Name for CRC
 msgid "Costa Rican Colon"
@@ -233,7 +256,7 @@ msgid "Dalasi"
 msgstr "Dalasi"
 
 #. Name for GNF
-msgid "Guinea Franc"
+msgid "Guinean Franc"
 msgstr "Franc guinéen"
 
 #. Name for GTQ
@@ -313,7 +336,7 @@ msgid "Riel"
 msgstr "Riel"
 
 #. Name for KMF
-msgid "Comoro Franc"
+msgid "Comorian Franc"
 msgstr "Franc comorien"
 
 #. Name for KPW
@@ -337,7 +360,7 @@ msgid "Tenge"
 msgstr "Tenge"
 
 #. Name for LAK
-msgid "Kip"
+msgid "Lao Kip"
 msgstr "Kip"
 
 #. Name for LBP
@@ -388,7 +411,7 @@ msgstr "Tugrik"
 msgid "Pataca"
 msgstr "Pataca"
 
-#. Name for MRO
+#. Name for MRU
 msgid "Ouguiya"
 msgstr "Ouguiya"
 
@@ -407,6 +430,10 @@ msgstr "Kwacha malawien"
 #. Name for MXN
 msgid "Mexican Peso"
 msgstr "Peso mexicain"
+
+#. Name for MXV
+msgid "Mexican Unidad de Inversion (UDI)"
+msgstr "Unité de conversion (UDI)"
 
 #. Name for MYR
 msgid "Malaysian Ringgit"
@@ -520,7 +547,7 @@ msgstr "Dollar singapourien"
 msgid "Saint Helena Pound"
 msgstr "Livre de Sainte-Hélène"
 
-#. Name for SLL
+#. Name for SLE, Name for SLL
 msgid "Leone"
 msgstr "Leone"
 
@@ -536,7 +563,7 @@ msgstr "Dollar surinamien"
 msgid "South Sudanese Pound"
 msgstr "Livre sud-soudanaise"
 
-#. Name for STD
+#. Name for STN
 msgid "Dobra"
 msgstr "Dobra"
 
@@ -600,17 +627,29 @@ msgstr "Shilling ougandais"
 msgid "US Dollar"
 msgstr "Dollar américain"
 
+#. Name for USN
+msgid "US Dollar (Next day)"
+msgstr "Dollar américain (lendemain)"
+
+#. Name for UYI
+msgid "Uruguay Peso en Unidades Indexadas (UI)"
+msgstr "Peso (unité de comptes)"
+
 #. Name for UYU
 msgid "Peso Uruguayo"
 msgstr "Peso uruguayen"
+
+#. Name for UYW
+msgid "Unidad Previsional"
+msgstr "Unité prévisionnelle"
 
 #. Name for UZS
 msgid "Uzbekistan Sum"
 msgstr "Sum d'Ouzbékistan"
 
-#. Name for VEF
-msgid "Bolívar"
-msgstr "Bolivar"
+#. Name for VED, Name for VES
+msgid "Bolívar Soberano"
+msgstr "Bolivar souverain"
 
 #. Name for VND
 msgid "Dong"

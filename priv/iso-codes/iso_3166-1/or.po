@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2019-09-07 05:25+0000\n"
 "Last-Translator: Pro Neon <proneon267@gmail.com>\n"
 "Language-Team: Odia <https://hosted.weblate.org/projects/iso-codes/"
@@ -724,6 +724,10 @@ msgstr "ଇରାନ, ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
 msgid "Islamic Republic of Iran"
 msgstr "ଇରାନ ଇସଲାମିକ ଗଣତନ୍ତ୍ର"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "ଇରାକ"
@@ -824,6 +828,12 @@ msgstr "ସେଣ୍ଟ କିଟ୍ସ ଏବଂ ନେଭିସ"
 msgid "Korea, Republic of"
 msgstr "କୋରିଆ, ଗଣତନ୍ତ୍ର"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "ଦକ୍ଷିଣ ଆଫ୍ରିକା"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "କୁଏତ"
@@ -835,6 +845,10 @@ msgstr "କୁଏତର ରାଜ୍ଯ"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "ଲାଓ ଜନସମାଜ ସର୍ବସାଧାରଣ ଗଣତନ୍ତ୍ର"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1236,6 +1250,12 @@ msgstr "କୋରିଆ, ସର୍ବସାଧାରଣ ଜନସମାଜ ଗ�
 msgid "Democratic People's Republic of Korea"
 msgstr "କୋରିଆ ସର୍ବସାଧାରଣ ଜନସମାଜ ଗଣତନ୍ତ୍ର"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "North Macedonia"
+msgid "North Korea"
+msgstr "ନର୍ଥ ମ୍ୟାସିଡୋନିୟା"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "ପର୍ତୁଗାଲ"
@@ -1456,6 +1476,10 @@ msgstr "ସେଚେଲସ ଗଣତନ୍ତ୍ର"
 msgid "Syrian Arab Republic"
 msgstr "ସିରିଆନ ଆରବ ଗଣତନ୍ତ୍ର"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "ତୁର୍କ ଏବଂ କୈକୋସ ଦ୍ବୀପ"
@@ -1533,11 +1557,13 @@ msgid "Republic of Tunisia"
 msgstr "ଟ୍ଯୁନୀଶିୟା ଗଣତନ୍ତ୍ର"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "ତୁର୍କୀ"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "ତୁର୍କୀ ଗଣତନ୍ତ୍ର"
 
 #. Name for TUV

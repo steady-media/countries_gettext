@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2019-06-22 12:01+0000\n"
 "Last-Translator: Jacques Viviers <jacques.viviers@gmail.com>\n"
 "Language-Team: Afrikaans <https://hosted.weblate.org/projects/iso-codes/"
@@ -730,6 +730,10 @@ msgstr "Iran, Islamitiese Republiek van"
 msgid "Islamic Republic of Iran"
 msgstr "Islamitiese Republiek van Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -830,6 +834,12 @@ msgstr "St. Kitts en Nevis"
 msgid "Korea, Republic of"
 msgstr "Suid-Korea"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Suid-Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Koeweit"
@@ -842,6 +852,10 @@ msgstr "Staat van Koeweit"
 #, fuzzy
 msgid "Lao People's Democratic Republic"
 msgstr "Lao Demokratiese Volksrepubliek"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1248,6 +1262,12 @@ msgstr "Noord-Korea"
 msgid "Democratic People's Republic of Korea"
 msgstr "Demokratiese Volksrepubliek van Korea"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Nieu-Kaledonië"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1471,6 +1491,10 @@ msgstr "Republiek van Seychelle"
 msgid "Syrian Arab Republic"
 msgstr "Siriese Arabiese Republiek"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Turks- en Caicos-eilande"
@@ -1548,11 +1572,13 @@ msgid "Republic of Tunisia"
 msgstr "Republiek van Tunisië"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Turkye"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Republiek van Turkye"
 
 #. Name for TUV

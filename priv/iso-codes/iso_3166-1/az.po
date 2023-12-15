@@ -7,14 +7,15 @@
 # Copyright ©
 # Alastair McKinstry <mckinstry@debian.org>, 2001.
 # Mətin Əmirov <metin@karegen.com>, 2004.
+# Ata Ali Kilicli <ataali@kilic.li>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2017-12-28 21:49+0000\n"
-"Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2022-11-09 13:47+0000\n"
+"Last-Translator: Ata Ali Kilicli <ataali@kilic.li>\n"
 "Language-Team: Azerbaijani <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/az/>\n"
 "Language: az\n"
@@ -22,7 +23,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2.19-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -33,18 +34,16 @@ msgid "Afghanistan"
 msgstr "Əfqanıstan"
 
 #. Official name for AFG
-#, fuzzy
 msgid "Islamic Republic of Afghanistan"
-msgstr "Koreya, Respublika"
+msgstr "Əfqanıstan İslam Respublikası"
 
 #. Name for AGO
 msgid "Angola"
 msgstr "Anqola"
 
 #. Official name for AGO
-#, fuzzy
 msgid "Republic of Angola"
-msgstr "Respublika Anqola"
+msgstr "Anqola Respublikası"
 
 #. Name for AIA
 msgid "Anguilla"
@@ -236,7 +235,7 @@ msgstr "Bermuda"
 
 #. Name for BOL
 msgid "Bolivia, Plurinational State of"
-msgstr ""
+msgstr "Boliviya Çoxmillətli Dövləti"
 
 #. Official name for BOL
 msgid "Plurinational State of Bolivia"
@@ -375,7 +374,7 @@ msgstr "Komor"
 
 #. Official name for COM
 msgid "Union of the Comoros"
-msgstr ""
+msgstr "Qəmər Adaları İttifaqı"
 
 #. Name for CPV
 #, fuzzy
@@ -796,6 +795,10 @@ msgstr "Respublika İran"
 msgid "Islamic Republic of Iran"
 msgstr "İran Respublika"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "İraq"
@@ -908,6 +911,12 @@ msgstr "Sent-Kits və Nevis"
 msgid "Korea, Republic of"
 msgstr "Koreya, Respublika"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Cənubi Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Küveyt"
@@ -921,6 +930,10 @@ msgstr "Küveyt"
 #, fuzzy
 msgid "Lao People's Democratic Republic"
 msgstr "Laos"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -992,7 +1005,7 @@ msgstr "Lüksemburq"
 
 #. Official name for LUX
 msgid "Grand Duchy of Luxembourg"
-msgstr ""
+msgstr "Lüksemburq Böyük Hersoqluğu"
 
 #. Name for LVA
 msgid "Latvia"
@@ -1371,6 +1384,12 @@ msgstr "Koreya, Demokratık Xalq Respublikası"
 msgid "Democratic People's Republic of Korea"
 msgstr "Koreya, Demokratık Xalq Respublikası"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Yeni Kaledoniya"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portuqaliya"
@@ -1618,6 +1637,10 @@ msgstr "Seyşel"
 msgid "Syrian Arab Republic"
 msgstr "Mərkəzi Afrika Respublikası"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 #, fuzzy
 msgid "Turks and Caicos Islands"
@@ -1705,13 +1728,12 @@ msgid "Republic of Tunisia"
 msgstr "Tunis"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "Türkiyə"
 
 #. Official name for TUR
-#, fuzzy
-msgid "Republic of Turkey"
-msgstr "Türkiyə"
+msgid "Republic of Türkiye"
+msgstr "Türkiyə Respublikası"
 
 #. Name for TUV
 msgid "Tuvalu"

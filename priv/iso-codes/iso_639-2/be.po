@@ -8,13 +8,15 @@
 # Alastair McKinstry <mckinstry@debian.org>, 2004.
 # Alexander Nyakhaychyk <nyakhaychyk@gmail.com>, 2009.
 # Ihar Hrachyshka <ihar.hrachyshka@gmail.com>, 2007, 2010, 2012-2013.
+# Serge Karpesh <skarpiesz@gmail.com>, 2020.
+# Viktar Vauchkevich <victorenator@gmail.com>, 2020, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_639-2\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2018-01-17 22:10+0100\n"
-"PO-Revision-Date: 2018-02-20 00:34+0000\n"
+"POT-Creation-Date: 2022-06-01 15:01+0200\n"
+"PO-Revision-Date: 2022-10-17 00:54+0000\n"
 "Last-Translator: Viktar Vauchkevich <victorenator@gmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-639-2/be/>\n"
@@ -22,9 +24,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 2.19\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Name for aar
 msgid "Afar"
@@ -264,7 +266,7 @@ msgstr "брадж"
 
 #. Name for bre
 msgid "Breton"
-msgstr "брэтанская"
+msgstr "брэтонская"
 
 #. Name for btk
 msgid "Batak languages"
@@ -376,9 +378,13 @@ msgstr "шэенская"
 msgid "Chamic languages"
 msgstr "чамскія мовы"
 
+#. Name for cnr
+msgid "Montenegrin"
+msgstr "чарнагорская"
+
 #. Name for cop
 msgid "Coptic"
-msgstr "копцская"
+msgstr "копцскае"
 
 #. Name for cor
 msgid "Cornish"
@@ -482,7 +488,7 @@ msgstr "дуала"
 
 #. Name for dum
 msgid "Dutch, Middle (ca. 1050-1350)"
-msgstr "сярэднегаландская (1050-1350)"
+msgstr "сярэднегаландская (1050–1350)"
 
 #. Name for dyu
 msgid "Dyula"
@@ -506,7 +512,7 @@ msgstr "экаюк"
 
 #. Name for ell
 msgid "Greek, Modern (1453-)"
-msgstr "грэцкая (ад 1453)"
+msgstr "грэцкая (з 1453)"
 
 #. Name for elx
 msgid "Elamite"
@@ -518,7 +524,7 @@ msgstr "англійская"
 
 #. Name for enm
 msgid "English, Middle (1100-1500)"
-msgstr "сярэднеанглійская (1100-1500)"
+msgstr "сярэднеанглійская (1100–1500)"
 
 #. Name for epo
 msgid "Esperanto"
@@ -582,11 +588,11 @@ msgstr "французская"
 
 #. Name for frm
 msgid "French, Middle (ca. 1400-1600)"
-msgstr "сярэднефранцузская (1400-1600)"
+msgstr "сярэднефранцузская (1400–1600)"
 
 #. Name for fro
 msgid "French, Old (842-ca. 1400)"
-msgstr "старафранцузская (842-1400)"
+msgstr "старафранцузская (842–1400)"
 
 #. Name for frr
 msgid "Northern Frisian"
@@ -666,7 +672,7 @@ msgstr "Гарантала"
 
 #. Name for got
 msgid "Gothic"
-msgstr "готская"
+msgstr "гатычнае"
 
 #. Name for grb
 msgid "Grebo"
@@ -834,7 +840,7 @@ msgstr "італьянская"
 
 #. Name for jav
 msgid "Javanese"
-msgstr "яванская"
+msgstr "яванскае"
 
 #. Name for jbo
 msgid "Lojban"
@@ -1006,11 +1012,11 @@ msgstr "ламба"
 
 #. Name for lao
 msgid "Lao"
-msgstr "лаоская"
+msgstr "лаоскае"
 
 #. Name for lat
 msgid "Latin"
-msgstr "лацінская"
+msgstr "лацінскае"
 
 #. Name for lav
 msgid "Latvian"
@@ -1174,7 +1180,7 @@ msgstr "магаўцкая"
 
 #. Name for mon
 msgid "Mongolian"
-msgstr "мангольская"
+msgstr "мангольскае"
 
 #. Name for mos
 msgid "Mossi"
@@ -1234,7 +1240,7 @@ msgstr "неапалітанская"
 
 #. Name for nau
 msgid "Nauru"
-msgstr "науру"
+msgstr "Науру"
 
 #. Name for nav
 msgid "Navajo; Navaho"
@@ -1406,7 +1412,7 @@ msgstr "філіпінскія мовы"
 
 #. Name for phn
 msgid "Phoenician"
-msgstr "фінікійская"
+msgstr "фінікійскае"
 
 #. Name for pli
 msgid "Pali"
@@ -1526,7 +1532,7 @@ msgstr "сіцылійская"
 
 #. Name for sco
 msgid "Scots"
-msgstr "англійска-шатландская"
+msgstr "шатландская"
 
 #. Name for sel
 msgid "Selkup"
@@ -1670,7 +1676,7 @@ msgstr "сукума"
 
 #. Name for sun
 msgid "Sundanese"
-msgstr "сунданская"
+msgstr "сунданскае"
 
 #. Name for sus
 msgid "Susu"
@@ -1694,7 +1700,7 @@ msgstr "сірыйская класічная"
 
 #. Name for syr
 msgid "Syriac"
-msgstr "сірыйская"
+msgstr "сірыйскае"
 
 #. Name for tah
 msgid "Tahitian"
@@ -1706,7 +1712,7 @@ msgstr "тайскія мовы"
 
 #. Name for tam
 msgid "Tamil"
-msgstr "тамільская"
+msgstr "тамільскае"
 
 #. Name for tat
 msgid "Tatar"
@@ -1738,7 +1744,7 @@ msgstr "тагальская"
 
 #. Name for tha
 msgid "Thai"
-msgstr "тайская"
+msgstr "тайскае"
 
 #. Name for tig
 msgid "Tigre"
@@ -1754,7 +1760,7 @@ msgstr "тыў"
 
 #. Name for tkl
 msgid "Tokelau"
-msgstr "такелау"
+msgstr "Такелаў"
 
 #. Name for tlh
 msgid "Klingon; tlhIngan-Hol"
@@ -1814,7 +1820,7 @@ msgstr "алтайскія мовы"
 
 #. Name for tvl
 msgid "Tuvalu"
-msgstr "тувалу"
+msgstr "Тувалу"
 
 #. Name for twi
 msgid "Twi"
@@ -1830,7 +1836,7 @@ msgstr "удмурцкая"
 
 #. Name for uga
 msgid "Ugaritic"
-msgstr "угарыцкая"
+msgstr "угарыцкае"
 
 #. Name for uig
 msgid "Uighur; Uyghur"

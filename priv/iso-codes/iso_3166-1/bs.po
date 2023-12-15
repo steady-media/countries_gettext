@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2017-12-28 21:49+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Bosnian <https://hosted.weblate.org/projects/iso-codes/"
@@ -22,8 +22,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 2.19-dev\n"
 
 #. Name for ABW
@@ -737,6 +737,10 @@ msgstr "Islamska Republika Iran"
 msgid "Islamic Republic of Iran"
 msgstr "Islamska Republika Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -837,6 +841,12 @@ msgstr "Saint Kitts i Nevis"
 msgid "Korea, Republic of"
 msgstr "Koreja, Republika"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Južna Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuvajt"
@@ -848,6 +858,10 @@ msgstr "Država Kuvajt"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Narodna Demokratska Republika Lao"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1255,6 +1269,12 @@ msgstr "Koreja, Demokratska Narodna Republika"
 msgid "Democratic People's Republic of Korea"
 msgstr "Demokratska Narodna Republika Koreja"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Nova Kaledonija"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1480,6 +1500,10 @@ msgstr "Republika Sejšeli"
 msgid "Syrian Arab Republic"
 msgstr "Sirijska Arapska Republika"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Turks i Caicos Ostrva"
@@ -1557,11 +1581,13 @@ msgid "Republic of Tunisia"
 msgstr "Republika Tunis"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Turska"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Republika Turska"
 
 #. Name for TUV

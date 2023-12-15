@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Kyrgyz (iso-codes)\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-02-19 17:27+0000\n"
 "Last-Translator: Ilyas Bakirov <i.bakirov@gmail.com>\n"
 "Language-Team: Kyrgyz <https://hosted.weblate.org/projects/iso-codes/"
@@ -725,6 +725,10 @@ msgstr "Иран"
 msgid "Islamic Republic of Iran"
 msgstr "Иран Ислам Республикасы"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Ирак"
@@ -825,6 +829,12 @@ msgstr "Сент-Китс жана Невис"
 msgid "Korea, Republic of"
 msgstr "Корея Республикасы"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Түштүк-Африка Республикасы"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Кувейт"
@@ -836,6 +846,10 @@ msgstr "Кувейт Мамлекети"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Лаос Элдик Демократияляк Республикасы"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1241,6 +1255,12 @@ msgstr "Корея Элдик Демократиялык Республикас�
 msgid "Democratic People's Republic of Korea"
 msgstr "Корея Элдик Демократиялык Республикасы"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Жаңы Каледония"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Португалия"
@@ -1463,6 +1483,10 @@ msgstr "Сейшел Аралдары Республикасы"
 msgid "Syrian Arab Republic"
 msgstr "Сирия Араб Республикасы"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Туркс жана Каикос аралдары"
@@ -1540,11 +1564,13 @@ msgid "Republic of Tunisia"
 msgstr "Тунис Республикасы"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Түркия Республикасы"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Түрк Республикасы"
 
 #. Name for TUV

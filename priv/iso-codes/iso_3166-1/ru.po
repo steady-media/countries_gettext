@@ -10,23 +10,25 @@
 # Pavel Maryanov <acid_jack@ukr.net>, 2009.
 # Yuri Kozlov <yuray@komyakino.ru>, 2004, 2006-2013, 2015.
 # yurayko <yuray@komyakino.ru>, 2018.
+# Artem <KovalevArtem.ru@gmail.com>, 2020.
+# Azamat H. Hackimov <azamat.hackimov@gmail.com>, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-08-08 16:36+0500\n"
-"Last-Translator: yurayko <yuray@komyakino.ru>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2021-11-30 23:53+0000\n"
+"Last-Translator: Azamat H. Hackimov <azamat.hackimov@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Poedit 2.2.1\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.10-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -346,7 +348,7 @@ msgstr "Республика Колумбия"
 
 #. Name for COM
 msgid "Comoros"
-msgstr "Коморские острова"
+msgstr "Коморы"
 
 #. Official name for COM
 msgid "Union of the Comoros"
@@ -728,6 +730,10 @@ msgstr "Иран"
 msgid "Islamic Republic of Iran"
 msgstr "Исламская Респу́блика Иран"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Ирак"
@@ -798,7 +804,7 @@ msgstr "Республика Кения"
 
 #. Name for KGZ
 msgid "Kyrgyzstan"
-msgstr "Кыргызстан"
+msgstr "Киргизия"
 
 #. Official name for KGZ
 msgid "Kyrgyz Republic"
@@ -828,6 +834,10 @@ msgstr "Сент-Китс и Невис"
 msgid "Korea, Republic of"
 msgstr "Республика Корея"
 
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Южная Корея"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Кувейт"
@@ -839,6 +849,10 @@ msgstr "Государство Кувейт"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Лаосская Народно-Демократическая Республика"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -914,7 +928,7 @@ msgstr "Латвийская Республика"
 
 #. Name for MAC
 msgid "Macao"
-msgstr "Аомынь"
+msgstr "Макао"
 
 #. Official name for MAC
 msgid "Macao Special Administrative Region of China"
@@ -1050,7 +1064,7 @@ msgstr "Исламская Республика Мавритания"
 
 #. Name for MSR
 msgid "Montserrat"
-msgstr "Монсеррат"
+msgstr "Монтсеррат"
 
 #. Name for MTQ
 msgid "Martinique"
@@ -1239,6 +1253,10 @@ msgstr "Корейская Народно-Демократическая Рес�
 #. Official name for PRK
 msgid "Democratic People's Republic of Korea"
 msgstr "Корейская Народно-Демократическая Республика"
+
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Северная Корея"
 
 #. Name for PRT
 msgid "Portugal"
@@ -1450,7 +1468,7 @@ msgstr "Синт-Мартен (голландская часть)"
 
 #. Name for SYC
 msgid "Seychelles"
-msgstr "Сейшельские Острова"
+msgstr "Сейшелы"
 
 #. Official name for SYC
 msgid "Republic of Seychelles"
@@ -1459,6 +1477,10 @@ msgstr "Республика Сейшельские Острова"
 #. Name for SYR
 msgid "Syrian Arab Republic"
 msgstr "Сирийская Арабская Республика"
+
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
 
 #. Name for TCA
 msgid "Turks and Caicos Islands"
@@ -1537,11 +1559,13 @@ msgid "Republic of Tunisia"
 msgstr "Тунисская Республика"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Турция"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Турецкая Республика"
 
 #. Name for TUV
@@ -1582,7 +1606,7 @@ msgstr "Украина"
 
 #. Name for UMI
 msgid "United States Minor Outlying Islands"
-msgstr "Соединенные штаты Малых  Удаленных островов"
+msgstr "Соединенные штаты Малых Удаленных островов"
 
 #. Name for URY
 msgid "Uruguay"

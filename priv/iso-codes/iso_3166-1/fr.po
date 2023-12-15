@@ -10,16 +10,19 @@
 # Dr. Tobias Quathamer <toddy@debian.org>, 2008.
 # Christian Perrier <bubulle@debian.org>, 2004, 2006-2007, 2009-2013, 2015-2016.
 # Alban Vidal <alban.vidal@zordhak.fr>, 2017.
-# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019.
+# ButterflyOfFire <ButterflyOfFire@protonmail.com>, 2019, 2021.
 # Swann Martinet <swann.ranskassa@laposte.net>, 2019.
+# Julien Humbert <julroy67@gmail.com>, 2020.
+# Bernard Massot <bmassot@free.fr>, 2023.
+# un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
-"PO-Revision-Date: 2019-09-03 08:24+0000\n"
-"Last-Translator: Swann Martinet <swann.ranskassa@laposte.net>\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
+"PO-Revision-Date: 2023-07-15 07:53+0000\n"
+"Last-Translator: un_pogaz <un_pogaz@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/iso-codes/"
 "iso-3166-1/fr/>\n"
 "Language: fr\n"
@@ -27,7 +30,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 3.9-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Name for ABW
 msgid "Aruba"
@@ -259,7 +262,7 @@ msgstr "Royaume du Bouthan"
 
 #. Name for BVT
 msgid "Bouvet Island"
-msgstr "Bouvet, Île"
+msgstr "Île Bouvet"
 
 #. Name for BWA
 msgid "Botswana"
@@ -271,7 +274,7 @@ msgstr "République du Botswana"
 
 #. Name for CAF
 msgid "Central African Republic"
-msgstr "Centrafricaine, République"
+msgstr "République centrafricaine"
 
 #. Name for CAN
 msgid "Canada"
@@ -335,7 +338,7 @@ msgstr "République du Congo"
 
 #. Name for COK
 msgid "Cook Islands"
-msgstr "Cook, Îles"
+msgstr "Îles Cook"
 
 #. Name for COL
 msgid "Colombia"
@@ -387,7 +390,7 @@ msgstr "Christmas, Île"
 
 #. Name for CYM
 msgid "Cayman Islands"
-msgstr "Caïman, Îles"
+msgstr "Îles Caïmans"
 
 #. Name for CYP
 msgid "Cyprus"
@@ -403,7 +406,7 @@ msgstr "Tchéquie"
 
 #. Official name for CZE
 msgid "Czech Republic"
-msgstr "Tchèque, République"
+msgstr "République tchèque"
 
 #. Name for DEU
 msgid "Germany"
@@ -439,7 +442,7 @@ msgstr "Royaume du Danemark"
 
 #. Name for DOM
 msgid "Dominican Republic"
-msgstr "Dominicaine, République"
+msgstr "République dominicaine"
 
 #. Name for DZA
 msgid "Algeria"
@@ -471,7 +474,7 @@ msgstr "Érythrée"
 
 #. Official name for ERI
 msgid "the State of Eritrea"
-msgstr "l'État d'Érythrée"
+msgstr "L'État d'Érythrée"
 
 #. Name for ESH
 msgid "Western Sahara"
@@ -531,7 +534,7 @@ msgstr "République française"
 
 #. Name for FRO
 msgid "Faroe Islands"
-msgstr "Féroé, Îles"
+msgstr "Îles Féroé"
 
 #. Name for FSM
 msgid "Micronesia, Federated States of"
@@ -655,7 +658,7 @@ msgstr "République de Guyana"
 
 #. Name for HKG
 msgid "Hong Kong"
-msgstr "Hong-Kong"
+msgstr "Hong Kong"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
@@ -663,7 +666,7 @@ msgstr "Région spéciale administrative chinoise de Hong-Kong"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
-msgstr "Heard, Île et McDonald, Îles"
+msgstr "Îles Heard-et-MacDonald"
 
 #. Name for HND
 msgid "Honduras"
@@ -715,7 +718,7 @@ msgstr "République d'Inde"
 
 #. Name for IOT
 msgid "British Indian Ocean Territory"
-msgstr "Océan Indien, Territoire britannique de l'"
+msgstr "Territoire britannique de l'océan Indien"
 
 #. Name for IRL
 msgid "Ireland"
@@ -728,6 +731,10 @@ msgstr "Iran, République islamique d'"
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
 msgstr "République islamique d'Iran"
+
+#. Common name for IRN
+msgid "Iran"
+msgstr "Iran"
 
 #. Name for IRQ
 msgid "Iraq"
@@ -823,11 +830,15 @@ msgstr "République de Kiribati"
 
 #. Name for KNA
 msgid "Saint Kitts and Nevis"
-msgstr "Saint-Kitts-et-Nevis"
+msgstr "Saint-Christophe-et-Niévès"
 
 #. Name for KOR
 msgid "Korea, Republic of"
 msgstr "Corée, République de"
+
+#. Common name for KOR
+msgid "South Korea"
+msgstr "Corée du Sud"
 
 #. Name for KWT
 msgid "Kuwait"
@@ -840,6 +851,10 @@ msgstr "État du Koweït"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Lao, République démocratique populaire"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr "Laos"
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1103,7 +1118,7 @@ msgstr "République du Niger"
 
 #. Name for NFK
 msgid "Norfolk Island"
-msgstr "Norfolk, Île"
+msgstr "Île Norfolk"
 
 #. Name for NGA
 msgid "Nigeria"
@@ -1241,6 +1256,10 @@ msgstr "Corée, République populaire démocratique de"
 msgid "Democratic People's Republic of Korea"
 msgstr "République démocratique populaire de Corée"
 
+#. Common name for PRK
+msgid "North Korea"
+msgstr "Corée du Nord"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugal"
@@ -1263,7 +1282,7 @@ msgstr "Palestine, État de"
 
 #. Official name for PSE
 msgid "the State of Palestine"
-msgstr "l'État de Palestine"
+msgstr "L'État de Palestine"
 
 #. Name for PYF
 msgid "French Polynesia"
@@ -1461,9 +1480,13 @@ msgstr "République des Seychelles"
 msgid "Syrian Arab Republic"
 msgstr "Syrienne, République arabe"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr "Syrie"
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
-msgstr "Turks et Caïques, Îles"
+msgstr "Îles Turques-et-Caïques"
 
 #. Name for TCD
 msgid "Chad"
@@ -1538,11 +1561,11 @@ msgid "Republic of Tunisia"
 msgstr "République de Tunisie"
 
 #. Name for TUR
-msgid "Turkey"
+msgid "Türkiye"
 msgstr "Turquie"
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "République de Turquie"
 
 #. Name for TUV
@@ -1615,7 +1638,7 @@ msgstr "Saint-Siège (état de la cité du Vatican)"
 
 #. Name for VCT
 msgid "Saint Vincent and the Grenadines"
-msgstr "Saint-Vincent-et-les Grenadines"
+msgstr "Saint-Vincent-et-les-Grenadines"
 
 #. Name for VEN
 msgid "Venezuela, Bolivarian Republic of"
@@ -1639,7 +1662,7 @@ msgstr "Îles Vierges britanniques"
 
 #. Name for VIR
 msgid "Virgin Islands, U.S."
-msgstr "Îles Vierges des États-Unis"
+msgstr "Îles Vierges, États-Unis"
 
 #. Official name for VIR
 msgid "Virgin Islands of the United States"

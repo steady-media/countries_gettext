@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2008-05-03 21:08+0530\n"
 "Last-Translator: Dr.T.Vasudevan <agnihot3@gmail.com>\n"
 "Language-Team: Tamil <Ubuntu-l10n-tam@lists.ubuntu.com>\n"
@@ -659,7 +659,7 @@ msgstr "ஹாங்காங்"
 
 #. Official name for HKG
 msgid "Hong Kong Special Administrative Region of China"
-msgstr "ஹாங்காங்  - சீன சிறப்பு ஆட்சிப் பிரதேசம்"
+msgstr "ஹாங்காங் - சீன சிறப்பு ஆட்சிப் பிரதேசம்"
 
 #. Name for HMD
 msgid "Heard Island and McDonald Islands"
@@ -728,6 +728,10 @@ msgstr "ஈரான், இஸ்லாமிக் குடியரசு"
 #. Official name for IRN
 msgid "Islamic Republic of Iran"
 msgstr "ஈரான் இஸ்லாமிய குடியரசு"
+
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
 
 #. Name for IRQ
 msgid "Iraq"
@@ -829,6 +833,12 @@ msgstr "செயின்ட் கிட்ஸ் மற்றும் நி
 msgid "Korea, Republic of"
 msgstr "கொரிய குடியரசு"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "தென் ஆப்ரிக்கா"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "குவைத்"
@@ -840,6 +850,10 @@ msgstr "குவைத் நாடு"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "லவொ மக்கள் சுதந்திர குடியரசு"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1250,6 +1264,12 @@ msgstr "கொரிய ஜனநாயக மக்கள் குடியர
 msgid "Democratic People's Republic of Korea"
 msgstr "கொரிய ஜனநாயக மக்கள் குடியரசு"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "புதிய கலிடோனியா"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "போர்ச்சுகல்"
@@ -1477,6 +1497,10 @@ msgstr "சீசெல்சு குடியரசு"
 msgid "Syrian Arab Republic"
 msgstr "சிரியன் அரபு குடியரசு"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "துருக்கஸ் மற்றும் கைசோஸ் தீவுகள்"
@@ -1554,11 +1578,13 @@ msgid "Republic of Tunisia"
 msgstr "துனீசியா குடியரசு"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "துருக்கி"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "துருக்கி குடியரசு"
 
 #. Name for TUV

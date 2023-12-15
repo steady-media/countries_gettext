@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: nn\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2018-01-01 15:06+0000\n"
 "Last-Translator: Chris Leonard <cjlhomeaddress@gmail.com>\n"
 "Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/iso-"
@@ -729,6 +729,10 @@ msgstr "Iran"
 msgid "Islamic Republic of Iran"
 msgstr "Iran"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Irak"
@@ -829,6 +833,12 @@ msgstr "St. Kitts og Nevis; Saint Kitts og Nevis"
 msgid "Korea, Republic of"
 msgstr "Sør-Korea"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Sør-Afrika"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Kuwait"
@@ -840,6 +850,10 @@ msgstr "Staten Kuwait"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Laos"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1247,6 +1261,12 @@ msgstr "Nord-Korea"
 msgid "Democratic People's Republic of Korea"
 msgstr "Den demokratiske folkerepublikken Korea"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "New Caledonia"
+msgid "North Korea"
+msgstr "Ny-Caledonia"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Portugual"
@@ -1470,6 +1490,10 @@ msgstr "Republikken Seychellane"
 msgid "Syrian Arab Republic"
 msgstr "Syria"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Turks- og Caicosøyane"
@@ -1547,11 +1571,13 @@ msgid "Republic of Tunisia"
 msgstr "Republikken Tunisia"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Tyrkia"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Republikken Tyrkia"
 
 #. Name for TUV

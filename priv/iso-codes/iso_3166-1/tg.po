@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: iso_3166-1\n"
 "Report-Msgid-Bugs-To: https://salsa.debian.org/iso-codes-team/iso-codes/"
 "issues\n"
-"POT-Creation-Date: 2019-03-20 13:20+0100\n"
+"POT-Creation-Date: 2023-02-24 21:26+0100\n"
 "PO-Revision-Date: 2019-08-08 14:42+0500\n"
 "Last-Translator: Victor Ibragimov <victor.ibragimov@gmail.com>\n"
 "Language-Team: Tajik <https://hosted.weblate.org/projects/iso-codes/"
@@ -722,6 +722,10 @@ msgstr "Ҷумҳурии Исломии Эрон"
 msgid "Islamic Republic of Iran"
 msgstr "Ҷумҳурии Исломии Эрон"
 
+#. Common name for IRN
+msgid "Iran"
+msgstr ""
+
 #. Name for IRQ
 msgid "Iraq"
 msgstr "Ироқ"
@@ -822,6 +826,12 @@ msgstr "Сент-Китс ва Невис"
 msgid "Korea, Republic of"
 msgstr "Ҷумҳурии Корея"
 
+#. Common name for KOR
+#, fuzzy
+#| msgid "South Africa"
+msgid "South Korea"
+msgstr "Африкаи Ҷанубӣ"
+
 #. Name for KWT
 msgid "Kuwait"
 msgstr "Қувайт"
@@ -833,6 +843,10 @@ msgstr "Давлати Қувайт"
 #. Name for LAO
 msgid "Lao People's Democratic Republic"
 msgstr "Ҷумҳурии Халқӣ-Демократии Лаъо"
+
+#. Common name for LAO
+msgid "Laos"
+msgstr ""
 
 #. Name for LBN
 msgid "Lebanon"
@@ -1234,6 +1248,12 @@ msgstr "Ҷумҳурии Халқӣ-Демократии Корея"
 msgid "Democratic People's Republic of Korea"
 msgstr "Ҷумҳурии Халқӣ-Демократии Корея"
 
+#. Common name for PRK
+#, fuzzy
+#| msgid "North Macedonia"
+msgid "North Korea"
+msgstr "Македонияи Шимолӣ"
+
 #. Name for PRT
 msgid "Portugal"
 msgstr "Португалия"
@@ -1454,6 +1474,10 @@ msgstr "Ҷумҳурии Сейшел"
 msgid "Syrian Arab Republic"
 msgstr "Ҷумҳурии Сурияи Араб"
 
+#. Common name for SYR
+msgid "Syria"
+msgstr ""
+
 #. Name for TCA
 msgid "Turks and Caicos Islands"
 msgstr "Ҷазираҳои Теркс ва Кайкос"
@@ -1531,11 +1555,13 @@ msgid "Republic of Tunisia"
 msgstr "Ҷумҳурии Тунис"
 
 #. Name for TUR
-msgid "Turkey"
-msgstr "Туркия"
+msgid "Türkiye"
+msgstr ""
 
 #. Official name for TUR
-msgid "Republic of Turkey"
+#, fuzzy
+#| msgid "Republic of Turkey"
+msgid "Republic of Türkiye"
 msgstr "Ҷумҳурии Туркия"
 
 #. Name for TUV
