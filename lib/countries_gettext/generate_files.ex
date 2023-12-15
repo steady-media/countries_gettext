@@ -3,19 +3,20 @@ defmodule CountriesGettext.GenerateFiles do
     to_string(:code.priv_dir(:countries_gettext)) <>
       "/iso-codes/data/iso_3166-1.json"
 
-  @codes_by_name country_codes_input_json_path
-                 |> File.read!()
-                 |> Jason.decode!()
-                 |> Map.get("3166-1")
-                 |> Enum.map(fn %{"alpha_2" => code, "name" => name} = map ->
-                   name = map["common_name"] || name
-                   {name, String.downcase(code)}
-                 end)
-                 |> Enum.into(%{})
+  @names_with_codes country_codes_input_json_path
+                    |> File.read!()
+                    |> Jason.decode!()
+                    |> Map.get("3166-1")
+                    |> Enum.map(fn %{"alpha_2" => code, "name" => name} = map ->
+                      name = map["common_name"] || name
+                      {name, String.downcase(code)}
+                    end)
+
+  @codes_by_name Map.new(@names_with_codes)
 
   def generate_pot(output_dir) do
     content =
-      @codes_by_name
+      @names_with_codes
       |> Enum.map(&pot_entry_for_country/1)
       |> Enum.join("\n")
 
@@ -25,7 +26,7 @@ defmodule CountriesGettext.GenerateFiles do
 
   def generate_po(output_dir, "en") do
     content =
-      @codes_by_name
+      @names_with_codes
       |> Enum.map(&en_po_entry_for_country/1)
       |> Enum.join("\n")
 
